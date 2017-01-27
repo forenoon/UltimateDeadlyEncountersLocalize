@@ -119,6 +119,10 @@
       <Dest>カーススパイアー</Dest>
     </String>
     <String List="0">
+      <Source>Lord Harkon</Source>
+      <Dest>ハルコン卿</Dest>
+    </String>
+    <String List="0">
       <Source>Harmugstahl</Source>
       <Dest>ハームグシュタール</Dest>
     </String>
@@ -129,6 +133,10 @@
     <String List="0">
       <Source>Minette</Source>
       <Dest>ミネット</Dest>
+    </String>
+    <String List="0">
+      <Source>Dimhollow Crypt</Source>
+      <Dest>ディムホロウ墓地</Dest>
     </String>
     <String List="0">
       <Source>Novice Robes of Conjuration</Source>
@@ -213,6 +221,10 @@
     <String List="0">
       <Source>Bandit Highwayman</Source>
       <Dest>山賊の追いはぎ</Dest>
+    </String>
+    <String List="0">
+      <Source>Traveling Merchant</Source>
+      <Dest>旅の商人</Dest>
     </String>
     <String List="0">
       <Source>Brood Cavern</Source>
@@ -437,6 +449,10 @@
     <String List="0">
       <Source>Frostbite</Source>
       <Dest>氷雪</Dest>
+    </String>
+    <String List="0">
+      <Source>Traveling Bard</Source>
+      <Dest>旅の吟遊詩人</Dest>
     </String>
     <String List="0">
       <Source>Potema's Remains</Source>
@@ -799,6 +815,10 @@
       <Dest>見習い用変性術ローブ</Dest>
     </String>
     <String List="0">
+      <Source>Durnehviir</Source>
+      <Dest>ダーネヴィール</Dest>
+    </String>
+    <String List="0">
       <Source>Volunruud Elder's Cairn</Source>
       <Dest>ヴォルンルード・エルダーズ・ケルン</Dest>
     </String>
@@ -841,6 +861,10 @@
     <String List="0">
       <Source>Wizard</Source>
       <Dest>ウィザード</Dest>
+    </String>
+    <String List="0">
+      <Source>Potent Frost Thrall</Source>
+      <Dest>氷の従徒(強力)</Dest>
     </String>
     <String List="0">
       <Source>Dead Men's Respite</Source>
@@ -959,6 +983,10 @@
       <Dest>宿屋「スリーピング・ジャイアント」</Dest>
     </String>
     <String List="0">
+      <Source>Redwater Den</Source>
+      <Dest>レッドウォーターの隠れ家</Dest>
+    </String>
+    <String List="0">
       <Source>Fianna</Source>
       <Dest>フィアナ</Dest>
     </String>
@@ -1075,6 +1103,10 @@
       <Dest>黄金の柄のゴルムレイス</Dest>
     </String>
     <String List="0">
+      <Source>Traveler</Source>
+      <Dest>旅人</Dest>
+    </String>
+    <String List="0">
       <Source>Phantom</Source>
       <Dest>幽霊</Dest>
     </String>
@@ -1085,6 +1117,10 @@
     <String List="0">
       <Source>Fellglow Keep Ritual Chamber</Source>
       <Dest>フェルグロウ砦の儀式の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Harkon</Source>
+      <Dest>ハルコン</Dest>
     </String>
     <String List="0">
       <Source>Alpha Wolf</Source>
@@ -1271,6 +1307,10 @@
       <Dest>フード付きの死霊術師のローブ</Dest>
     </String>
     <String List="0">
+      <Source>Reaper's Lair</Source>
+      <Dest>リーパーの巣</Dest>
+    </String>
+    <String List="0">
       <Source>Cast on a nearby surface, it explodes for &lt;mag&gt; points of fire damage when enemies come near.</Source>
       <Dest>呪文をかけた近くの地面に敵が接近すると、爆発して &lt;mag&gt; ポイントの炎ダメージを与える。</Dest>
     </String>
@@ -1281,6 +1321,10 @@
     <String List="0">
       <Source>Fireball</Source>
       <Dest>エクスプロージョン</Dest>
+    </String>
+    <String List="0">
+      <Source>Reaver Lord</Source>
+      <Dest>強奪団の長</Dest>
     </String>
     <String List="0">
       <Source>Teleportation</Source>
@@ -1383,6 +1427,10 @@
       <Dest>ビビアン</Dest>
     </String>
     <String List="0">
+      <Source>Robber's Cove</Source>
+      <Dest>追い剥ぎ洞窟</Dest>
+    </String>
+    <String List="0">
       <Source>Inner Sanctum</Source>
       <Dest>最奥聖域</Dest>
     </String>
@@ -1453,6 +1501,10 @@
     <String List="0">
       <Source>Shrouded Robes</Source>
       <Dest>暗殺者のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Gjalund</Source>
+      <Dest>グジャランド</Dest>
     </String>
     <String List="0">
       <Source>Hermir Strong-Heart</Source>
@@ -1533,6 +1585,10 @@
     <String List="0">
       <Source>Trilf</Source>
       <Dest>トリルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Moldering Ruins</Source>
+      <Dest>モルダリング遺跡</Dest>
     </String>
     <String List="0">
       <Source>Oengul</Source>
@@ -1757,6 +1813,10 @@
       <Dest>トルステン・クルーエル・シー</Dest>
     </String>
     <String List="0">
+      <Source>Dimhollow Cavern</Source>
+      <Dest>ディムホロウ洞窟</Dest>
+    </String>
+    <String List="0">
       <Source>Whiterun</Source>
       <Dest>ホワイトラン</Dest>
     </String>
@@ -1857,6 +1917,10 @@
       <Dest>蘇生</Dest>
     </String>
     <String List="0">
+      <Source>Raven Rock Mine</Source>
+      <Dest>レイヴン・ロック鉱山</Dest>
+    </String>
+    <String List="0">
       <Source>Andurs</Source>
       <Dest>アンドルス</Dest>
     </String>
@@ -1931,6 +1995,10 @@
     <String List="0">
       <Source>Studded Armor</Source>
       <Dest>鋲付きの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Gjalund Salt-Sage</Source>
+      <Dest>グジャランド・ソルトセイジ</Dest>
     </String>
     <String List="0">
       <Source>Gian the Fist</Source>
@@ -2041,6 +2109,10 @@
       <Dest>過ぎ去りし名誉のアングレノア</Dest>
     </String>
     <String List="0">
+      <Source>Redwater Spring</Source>
+      <Dest>レッドウォーター・スプリング</Dest>
+    </String>
+    <String List="0">
       <Source>The Midden</Source>
       <Dest>ミッデン</Dest>
     </String>
@@ -2113,6 +2185,10 @@
       <Dest>救世主の皮鎧</Dest>
     </String>
     <String List="0">
+      <Source>Potent Flame Thrall</Source>
+      <Dest>炎の従徒(強力)</Dest>
+    </String>
+    <String List="0">
       <Source>Adelaisa</Source>
       <Dest>アデライサ</Dest>
     </String>
@@ -2143,6 +2219,10 @@
     <String List="0">
       <Source>Sigurd</Source>
       <Dest>シグルド</Dest>
+    </String>
+    <String List="0">
+      <Source>Summon Gargoyle</Source>
+      <Dest>ガーゴイル召喚</Dest>
     </String>
     <String List="0">
       <Source>Northwatch Guard</Source>
@@ -2179,6 +2259,10 @@
     <String List="0">
       <Source>Noster</Source>
       <Dest>ノスター</Dest>
+    </String>
+    <String List="0">
+      <Source>Exploding Steel Bolt of Fire</Source>
+      <Dest>鋼鉄の爆裂火炎ボルト</Dest>
     </String>
     <String List="0">
       <Source>Werewolf</Source>
@@ -2413,6 +2497,10 @@
       <Dest>バルグルーフ</Dest>
     </String>
     <String List="0">
+      <Source>Potent Storm Thrall</Source>
+      <Dest>雷の従徒(強力)</Dest>
+    </String>
+    <String List="0">
       <Source>Brittleshin Pass</Source>
       <Dest>ブリトルシン峠</Dest>
     </String>
@@ -2439,6 +2527,10 @@
     <String List="0">
       <Source>Orcish Invader</Source>
       <Dest>オークの侵略者</Dest>
+    </String>
+    <String List="0">
+      <Source>Soul Cairn</Source>
+      <Dest>ソウル・ケルン</Dest>
     </String>
     <String List="0">
       <Source>Hooded Red Robes</Source>
@@ -2865,6 +2957,10 @@
       <Dest>アノリアス</Dest>
     </String>
     <String List="0">
+      <Source>Traveling Pilgrim</Source>
+      <Dest>旅の巡礼者</Dest>
+    </String>
+    <String List="0">
       <Source>Alessandra</Source>
       <Dest>アレッサンドラ</Dest>
     </String>
@@ -2887,6 +2983,10 @@
     <String List="0">
       <Source>Frost Thrall</Source>
       <Dest>氷の従徒</Dest>
+    </String>
+    <String List="0">
+      <Source>Conjure Gargoyle</Source>
+      <Dest>ガーゴイル召喚</Dest>
     </String>
     <String List="0">
       <Source>Orcish Armor</Source>
@@ -3017,6 +3117,10 @@
       <Dest>ドリアン</Dest>
     </String>
     <String List="0">
+      <Source>Fort Frostmoth</Source>
+      <Dest>フロストモス砦</Dest>
+    </String>
+    <String List="0">
       <Source>Cure Poison</Source>
       <Dest>解毒</Dest>
     </String>
@@ -3069,6 +3173,10 @@
       <Dest>ボエシア信者</Dest>
     </String>
     <String List="0">
+      <Source>Raise Dead</Source>
+      <Dest>死者蘇生</Dest>
+    </String>
+    <String List="0">
       <Source>Madesi</Source>
       <Dest>マデシ</Dest>
     </String>
@@ -3115,6 +3223,10 @@
     <String List="0">
       <Source>Green Robes</Source>
       <Dest>ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Kolbjorn Barrow</Source>
+      <Dest>コルビョルン墓地</Dest>
     </String>
     <String List="0">
       <Source>Summerset Shadows Armor</Source>
@@ -3185,6 +3297,10 @@
       <Dest>フード付きのローブ</Dest>
     </String>
     <String List="0">
+      <Source>Solstheim</Source>
+      <Dest>ソルスセイム</Dest>
+    </String>
+    <String List="0">
       <Source>Sabjorn</Source>
       <Dest>サビョルン</Dest>
     </String>
@@ -3195,6 +3311,10 @@
     <String List="1">
       <Source>The Companions leaders say they don't have any more work for me, but that I should speak to Skjor about "the next steps."</Source>
       <Dest>同胞団の指導者に、今のところ仕事はないが、 " 次の段階 " についてスコールと話すように言われた。</Dest>
+    </String>
+    <String List="1">
+      <Source>I have entered Kilkreath Ruins, destroyed Malkoran, and retrieved the artifact Dawnbreaker, which Meridia has bestowed upon me for my service.</Source>
+      <Dest>キルクリースの遺跡に入り、マルコランを倒し、秘宝ドーンブレイカーを回収した。メリディアは報酬として、ドーンブレイカーを与えてくれた。</Dest>
     </String>
     <String List="1">
       <Source>Especially effective against undead.</Source>
