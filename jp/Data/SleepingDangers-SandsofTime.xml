@@ -1,0 +1,3280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>SleepingDangers-SandsofTime.esp</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Creates a hovering light that lasts for &lt;dur&gt; seconds.</Source>
+      <Dest>空中を漂う光を &lt;dur&gt; 秒間出現させる。</Dest>
+    </String>
+    <String List="0">
+      <Source>(Optional) Search the barrel for potions</Source>
+      <Dest>(オプション)樽からポーションを入手する</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften Guard's Armor</Source>
+      <Dest>リフテン衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Witch</Source>
+      <Dest>魔女</Dest>
+    </String>
+    <String List="0">
+      <Source>Blood Horker</Source>
+      <Dest>ブラッド・ホーカー</Dest>
+    </String>
+    <String List="0">
+      <Source>Delvin Mallory</Source>
+      <Dest>デルビン・マロリー</Dest>
+    </String>
+    <String List="0">
+      <Source>Redguard Clothes</Source>
+      <Dest>レッドガードの服</Dest>
+    </String>
+    <String List="0">
+      <Source>Tamriel</Source>
+      <Dest>タムリエル</Dest>
+    </String>
+    <String List="0">
+      <Source>Orc</Source>
+      <Dest>オーク</Dest>
+    </String>
+    <String List="0">
+      <Source>Blackblood Marauder</Source>
+      <Dest>ブラック・ブラッド略奪団</Dest>
+    </String>
+    <String List="0">
+      <Source>Elda</Source>
+      <Dest>エルダ</Dest>
+    </String>
+    <String List="0">
+      <Source>Potema's Refuge</Source>
+      <Dest>ポテマの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <Source>Bolgeir Bearclaw</Source>
+      <Dest>ボルゲール・ベアクロー</Dest>
+    </String>
+    <String List="0">
+      <Source>Afflicted Refugee</Source>
+      <Dest>感染した避難民</Dest>
+    </String>
+    <String List="0">
+      <Source>Executioner's Hood</Source>
+      <Dest>死刑執行人のフード</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Conjuration</Source>
+      <Dest>召喚術のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulfric</Source>
+      <Dest>ウルフリック</Dest>
+    </String>
+    <String List="0">
+      <Source>Dustman's Cairn</Source>
+      <Dest>ダストマンの石塚</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Brown Robes</Source>
+      <Dest>フード付きのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Keerava</Source>
+      <Dest>キーラバ</Dest>
+    </String>
+    <String List="0">
+      <Source>Wispmother</Source>
+      <Dest>ウィスプマザー</Dest>
+    </String>
+    <String List="0">
+      <Source>Cicero's Clothes</Source>
+      <Dest>シセロの服</Dest>
+    </String>
+    <String List="0">
+      <Source>Farm Overseer's House</Source>
+      <Dest>農場監督者の家</Dest>
+    </String>
+    <String List="0">
+      <Source>Chillwind Depths</Source>
+      <Dest>冷風ヶ淵</Dest>
+    </String>
+    <String List="0">
+      <Source>Faryl Atheron</Source>
+      <Dest>ファーイル・アセロン</Dest>
+    </String>
+    <String List="0">
+      <Source>High Gate Ruins Catacombs</Source>
+      <Dest>ハイゲートの遺跡の地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Voldsea Giryon</Source>
+      <Dest>ヴォルドシー・ジリョン</Dest>
+    </String>
+    <String List="0">
+      <Source>Karthspire</Source>
+      <Dest>カーススパイアー</Dest>
+    </String>
+    <String List="0">
+      <Source>Harmugstahl</Source>
+      <Dest>ハームグシュタール</Dest>
+    </String>
+    <String List="0">
+      <Source>Mantled College Robes</Source>
+      <Dest>マント風の大学ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Minette</Source>
+      <Dest>ミネット</Dest>
+    </String>
+    <String List="0">
+      <Source>Novice Robes of Conjuration</Source>
+      <Dest>素人の召喚術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>AudioTemplateDraugr</Source>
+      <Dest>AudioTemplateDraugr</Dest>
+    </String>
+    <String List="0">
+      <Source>Stormcloak Officer Armor</Source>
+      <Dest>ストームクローク将校の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Bern</Source>
+      <Dest>ベルン</Dest>
+    </String>
+    <String List="0">
+      <Source>Magic Draugr FX</Source>
+      <Dest>魔法ドラウグルFX</Dest>
+    </String>
+    <String List="0">
+      <Source>Khajiit</Source>
+      <Dest>カジート</Dest>
+    </String>
+    <String List="0">
+      <Source>Poacher</Source>
+      <Dest>密猟者</Dest>
+    </String>
+    <String List="0">
+      <Source>Pit Wolf</Source>
+      <Dest>ピットウルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ebony War Axe of Winter</Source>
+      <Dest>黒檀の片手斧(厳冬)</Dest>
+    </String>
+    <String List="0">
+      <Source>Forsworn Armor</Source>
+      <Dest>フォースウォーンの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Elven Bow of Lightning</Source>
+      <Dest>エルフの弓(雷神)</Dest>
+    </String>
+    <String List="0">
+      <Source>Grey Robes</Source>
+      <Dest>ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostbite Spider</Source>
+      <Dest>フロストバイト・スパイダー</Dest>
+    </String>
+    <String List="0">
+      <Source>Lowlife</Source>
+      <Dest>ごろつき</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Extreme Restoration</Source>
+      <Dest>回復術のローブ(極限)</Dest>
+    </String>
+    <String List="0">
+      <Source>Movarth's Lair</Source>
+      <Dest>モヴァルスの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <Source>Scaled Horn Armor</Source>
+      <Dest>スケールの角鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Golden Urn</Source>
+      <Dest>黄金の壷</Dest>
+    </String>
+    <String List="0">
+      <Source>Yngvild Throne Room</Source>
+      <Dest>ユングビルドの玉座の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Sungard Shrine</Source>
+      <Dest>サンガード砦の祠</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Highwayman</Source>
+      <Dest>山賊の追いはぎ</Dest>
+    </String>
+    <String List="0">
+      <Source>Brood Cavern</Source>
+      <Dest>幼魔の洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Rabbit</Source>
+      <Dest>兎</Dest>
+    </String>
+    <String List="0">
+      <Source>Evette San</Source>
+      <Dest>エヴェット・サン</Dest>
+    </String>
+    <String List="0">
+      <Source>Sabre Cat</Source>
+      <Dest>サーベルキャット</Dest>
+    </String>
+    <String List="0">
+      <Source>Katla</Source>
+      <Dest>カトラ</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude</Source>
+      <Dest>ソリチュード</Dest>
+    </String>
+    <String List="0">
+      <Source>Shroud Hearth Barrow</Source>
+      <Dest>隠匿の炉床墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Archmage's Robes</Source>
+      <Dest>アークメイジのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Conjurer Adept</Source>
+      <Dest>精鋭コンジュラー</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara's Eye Pond</Source>
+      <Dest>マーラの目の池</Dest>
+    </String>
+    <String List="0">
+      <Source>Reveler</Source>
+      <Dest>陽気な人</Dest>
+    </String>
+    <String List="0">
+      <Source>Open the other gate</Source>
+      <Dest>他の門を開ける</Dest>
+    </String>
+    <String List="0">
+      <Source>Mourner's Clothes</Source>
+      <Dest>哀悼者の服</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchuand-Zel Armory</Source>
+      <Dest>ヌチュアンド・ゼル武器庫</Dest>
+    </String>
+    <String List="0">
+      <Source>Talk to Medresi in Angarvunde</Source>
+      <Dest>アンガルブンデでメドレシと話す</Dest>
+    </String>
+    <String List="0">
+      <Source>Skytemple Ruins</Source>
+      <Dest>スカイテンプルの遺跡</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of the Elements</Source>
+      <Dest>元素の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Cellar</Source>
+      <Dest>地下</Dest>
+    </String>
+    <String List="0">
+      <Source>Castle Dour</Source>
+      <Dest>ドール城</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzinchaleft Gatehouse</Source>
+      <Dest>ムジンチャレフトの門番小屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Bound Sword</Source>
+      <Dest>魔力の剣</Dest>
+    </String>
+    <String List="0">
+      <Source>East Empire Warehouse</Source>
+      <Dest>東帝都社の倉庫</Dest>
+    </String>
+    <String List="0">
+      <Source>Make dungeon creatures not attack me</Source>
+      <Dest>ダンジョンの生物が攻撃してこないようにする</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Tree Cave</Source>
+      <Dest>眠りの木の洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Gerda</Source>
+      <Dest>ゲルダ</Dest>
+    </String>
+    <String List="0">
+      <Source>Saarthal Excavation</Source>
+      <Dest>サールザルの穴</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzulft Boilery</Source>
+      <Dest>ムズルフトのボイラー</Dest>
+    </String>
+    <String List="0">
+      <Source>Greybeard's Robes</Source>
+      <Dest>グレイビアードのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>College Robes</Source>
+      <Dest>大学ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Rannveig's Fast</Source>
+      <Dest>ランヴェイグのファースト</Dest>
+    </String>
+    <String List="0">
+      <Source>Giraud</Source>
+      <Dest>ジラウド</Dest>
+    </String>
+    <String List="0">
+      <Source>Chaurus Reaper</Source>
+      <Dest>シャウラス・リーパー</Dest>
+    </String>
+    <String List="0">
+      <Source>Melaran</Source>
+      <Dest>メララン</Dest>
+    </String>
+    <String List="0">
+      <Source>Idolaf Battle-Born</Source>
+      <Dest>イドラフ・バトル・ボーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Imperial Armor</Source>
+      <Dest>帝国軍の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Madwoman</Source>
+      <Dest>マッドウーマン</Dest>
+    </String>
+    <String List="0">
+      <Source>Fjori</Source>
+      <Dest>フョリ</Dest>
+    </String>
+    <String List="0">
+      <Source>Fralia Gray-Mane</Source>
+      <Dest>フラリア・グレイ・メーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Lars Battle-Born</Source>
+      <Dest>ラーズ・バトル・ボーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Ghost</Source>
+      <Dest>亡霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Jorrvaskr</Source>
+      <Dest>ジョルバスクル</Dest>
+    </String>
+    <String List="0">
+      <Source>Sigdis Gauldurson</Source>
+      <Dest>シグディス・ゴールドールソン</Dest>
+    </String>
+    <String List="0">
+      <Source>Aela</Source>
+      <Dest>アエラ</Dest>
+    </String>
+    <String List="0">
+      <Source>Roughspun Tunic</Source>
+      <Dest>粗悪なチュニック</Dest>
+    </String>
+    <String List="0">
+      <Source>Ebony Armor</Source>
+      <Dest>黒檀の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Ring of Minor Sneaking</Source>
+      <Dest>忍びの指輪(小)</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Major Alteration</Source>
+      <Dest>変性術のローブ(大)</Dest>
+    </String>
+    <String List="0">
+      <Source>Snow Bear</Source>
+      <Dest>ユキグマ</Dest>
+    </String>
+    <String List="0">
+      <Source>Olfina</Source>
+      <Dest>オルフィナ</Dest>
+    </String>
+    <String List="0">
+      <Source>Rolff</Source>
+      <Dest>ロルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Frost Breath</Source>
+      <Dest>フロストブレス</Dest>
+    </String>
+    <String List="0">
+      <Source>Thief</Source>
+      <Dest>盗賊</Dest>
+    </String>
+    <String List="0">
+      <Source>The Midden Dark</Source>
+      <Dest>ミッデン・ダーク</Dest>
+    </String>
+    <String List="0">
+      <Source>Elven Armor</Source>
+      <Dest>エルフの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Restless Draugr</Source>
+      <Dest>ドラウグル・ウォーカー</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostbite</Source>
+      <Dest>氷雪</Dest>
+    </String>
+    <String List="0">
+      <Source>Potema's Remains</Source>
+      <Dest>ポテマの遺体</Dest>
+    </String>
+    <String List="0">
+      <Source>MaleEyesKhajiit</Source>
+      <Dest>MaleEyesKhajiit</Dest>
+    </String>
+    <String List="0">
+      <Source>TestTony</Source>
+      <Dest>TestTony</Dest>
+    </String>
+    <String List="0">
+      <Source>Sybille</Source>
+      <Dest>シビル</Dest>
+    </String>
+    <String List="0">
+      <Source>Darklight Chambers</Source>
+      <Dest>ダークライトの部屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Little Pelagius</Source>
+      <Dest>小さなペラギウス</Dest>
+    </String>
+    <String List="0">
+      <Source>Eorlund</Source>
+      <Dest>エオルンド</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Thug</Source>
+      <Dest>山賊の悪漢</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon Priest</Source>
+      <Dest>ドラゴン・プリースト</Dest>
+    </String>
+    <String List="0">
+      <Source>Hermir</Source>
+      <Dest>ヘルミール</Dest>
+    </String>
+    <String List="0">
+      <Source>The Drunken Huntsman</Source>
+      <Dest>酔いどれハンツマン</Dest>
+    </String>
+    <String List="0">
+      <Source>Hjaalmarch Guard's Armor</Source>
+      <Dest>ハイヤルマーチ衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Adept Robes of Conjuration</Source>
+      <Dest>精鋭の召喚術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Falmer</Source>
+      <Dest>ファルメル</Dest>
+    </String>
+    <String List="0">
+      <Source>A freezing whirlwind that does &lt;mag&gt; points of frost damage per second to Health and Stamina.</Source>
+      <Dest>凍てつく旋風で、体力とスタミナに &lt;mag&gt; ポイントの冷気ダメージを1秒ごとに与える。</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Tower Redoubt</Source>
+      <Dest>ブロークン・タワー要塞</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostbite Venom</Source>
+      <Dest>フロストバイトの毒</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulfric Stormcloak</Source>
+      <Dest>ウルフリック・ストームクローク</Dest>
+    </String>
+    <String List="0">
+      <Source>Big Laborer</Source>
+      <Dest>巨人労働者</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara's Eye Den</Source>
+      <Dest>マーラの目の隠れ家</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Extreme Alteration</Source>
+      <Dest>変性術のローブ(極限)</Dest>
+    </String>
+    <String List="0">
+      <Source>Calixto</Source>
+      <Dest>カリクスト</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolfskull Cave</Source>
+      <Dest>ウルフスカル洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Eimar</Source>
+      <Dest>エイマール</Dest>
+    </String>
+    <String List="0">
+      <Source>Caster ignores &lt;80&gt;% of all physical damage for &lt;dur&gt; seconds.</Source>
+      <Dest>術者はあらゆる物理ダメージの &lt;80&gt;%を &lt;dur&gt; 秒間無効化する。</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Major Restoration</Source>
+      <Dest>回復術のローブ(大)</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth Guard's Armor</Source>
+      <Dest>マルカルス衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Potion of Plunder</Source>
+      <Dest>略奪の薬</Dest>
+    </String>
+    <String List="0">
+      <Source>Retrieve the fragment</Source>
+      <Dest>一部を回収する</Dest>
+    </String>
+    <String List="0">
+      <Source>Louis Letrush</Source>
+      <Dest>ルイス・レットラッシュ</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine Clothes</Source>
+      <Dest>上等な服</Dest>
+    </String>
+    <String List="0">
+      <Source>Damage</Source>
+      <Dest>ダメージ</Dest>
+    </String>
+    <String List="0">
+      <Source>Calixto Corrium</Source>
+      <Dest>カリクスト・コリウム</Dest>
+    </String>
+    <String List="0">
+      <Source>Susanna the Wicked</Source>
+      <Dest>悪しきスザンナ</Dest>
+    </String>
+    <String List="0">
+      <Source>Threki the Innocent</Source>
+      <Dest>無実のスレキ</Dest>
+    </String>
+    <String List="0">
+      <Source>Northwatch Archer</Source>
+      <Dest>ノースウォッチ射手</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Eminent Conjuration</Source>
+      <Dest>召喚術のローブ(優)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mzulft</Source>
+      <Dest>ムズルフト</Dest>
+    </String>
+    <String List="0">
+      <Source>Bearclaw</Source>
+      <Dest>ベアクロー</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolf Armor</Source>
+      <Dest>オオカミの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Blade</Source>
+      <Dest>刀剣</Dest>
+    </String>
+    <String List="0">
+      <Source>4</Source>
+      <Dest>4</Dest>
+    </String>
+    <String List="0">
+      <Source>Shriekwind Bastion</Source>
+      <Dest>シュリークウィンド砦</Dest>
+    </String>
+    <String List="0">
+      <Source>Farengar Secret-Fire</Source>
+      <Dest>ファレンガー</Dest>
+    </String>
+    <String List="0">
+      <Source>All Books</Source>
+      <Dest>全ての書物</Dest>
+    </String>
+    <String List="0">
+      <Source>Necromancer Robes</Source>
+      <Dest>死霊術師のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellow Prisoner</Source>
+      <Dest>囚人仲間</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon Race</Source>
+      <Dest>ドラゴン種族</Dest>
+    </String>
+    <String List="0">
+      <Source>Maul</Source>
+      <Dest>モール</Dest>
+    </String>
+    <String List="0">
+      <Source>Return to Jorrvaskr</Source>
+      <Dest>ジョルバスクルに戻る</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Thrall</Source>
+      <Dest>ドラウグルの従徒</Dest>
+    </String>
+    <String List="0">
+      <Source>The Ragged Flagon</Source>
+      <Dest>ラグド・フラゴン</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Peerless Illusion</Source>
+      <Dest>幻惑術のローブ(無双)</Dest>
+    </String>
+    <String List="0">
+      <Source>Exit</Source>
+      <Dest>終了</Dest>
+    </String>
+    <String List="0">
+      <Source>Fortify Sneak</Source>
+      <Dest>隠密上昇</Dest>
+    </String>
+    <String List="0">
+      <Source>Susanna</Source>
+      <Dest>スザンナ</Dest>
+    </String>
+    <String List="0">
+      <Source>Make your way to the Keep</Source>
+      <Dest>砦に逃げ込む</Dest>
+    </String>
+    <String List="0">
+      <Source>Riverwood</Source>
+      <Dest>リバーウッド</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Monk Robes</Source>
+      <Dest>フード付きの僧兵のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Psiijic Robes</Source>
+      <Dest>シージックのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Irnskar Ironhand</Source>
+      <Dest>鉄拳のイルンスカー</Dest>
+    </String>
+    <String List="0">
+      <Source>Freir</Source>
+      <Dest>フレール</Dest>
+    </String>
+    <String List="0">
+      <Source>Bounty Hunter</Source>
+      <Dest>賞金稼ぎ</Dest>
+    </String>
+    <String List="0">
+      <Source>The Break of Dawn</Source>
+      <Dest>夜明け</Dest>
+    </String>
+    <String List="0">
+      <Source>Sifnar Ironkettle</Source>
+      <Dest>シフナール・アイアンケトル</Dest>
+    </String>
+    <String List="0">
+      <Source>Aia Arria</Source>
+      <Dest>アイア・アリーア</Dest>
+    </String>
+    <String List="0">
+      <Source>Thieves Guild Variant Armor</Source>
+      <Dest>盗賊ギルドの改良鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Nchuand-Zel Excavation Site</Source>
+      <Dest>ヌチュアンド・ゼル掘削地</Dest>
+    </String>
+    <String List="0">
+      <Source>Hrongar</Source>
+      <Dest>フロンガル</Dest>
+    </String>
+    <String List="0">
+      <Source>Bolli</Source>
+      <Dest>ボリー</Dest>
+    </String>
+    <String List="0">
+      <Source>Ilinalta's Deluge</Source>
+      <Dest>水没したイリナルタ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ilinalta's Deep</Source>
+      <Dest>イリナルタの深淵</Dest>
+    </String>
+    <String List="0">
+      <Source>Skull</Source>
+      <Dest>頭蓋骨</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Kastav Prison</Source>
+      <Dest>カスタブ砦の牢獄</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Chief</Source>
+      <Dest>山賊長</Dest>
+    </String>
+    <String List="0">
+      <Source>Forelhost Refectory</Source>
+      <Dest>フォーレルホストの食堂</Dest>
+    </String>
+    <String List="0">
+      <Source>MaleEyesArgonian</Source>
+      <Dest>MaleEyesArgonian</Dest>
+    </String>
+    <String List="0">
+      <Source>Black Robes</Source>
+      <Dest>ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Jenssen</Source>
+      <Dest>イェンセン</Dest>
+    </String>
+    <String List="0">
+      <Source>Wilderness</Source>
+      <Dest>荒野</Dest>
+    </String>
+    <String List="0">
+      <Source>The Karthspire</Source>
+      <Dest>カーススパイアー</Dest>
+    </String>
+    <String List="0">
+      <Source>Spider Spit</Source>
+      <Dest>クモの唾</Dest>
+    </String>
+    <String List="0">
+      <Source>Idesa Sadri</Source>
+      <Dest>イデサ・サドリ</Dest>
+    </String>
+    <String List="0">
+      <Source>Alftand Glacial Ruins</Source>
+      <Dest>アルフタンド氷河の遺跡</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Catacombs</Source>
+      <Dest>ソリチュードの地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Corsair</Source>
+      <Dest>海賊船</Dest>
+    </String>
+    <String List="0">
+      <Source>Felldir the Old</Source>
+      <Dest>古きフェルディル</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver-Blood Inn</Source>
+      <Dest>宿屋「シルバーブラッド」</Dest>
+    </String>
+    <String List="0">
+      <Source>Chest</Source>
+      <Dest>宝箱</Dest>
+    </String>
+    <String List="0">
+      <Source>Apprentice Robes of Alteration</Source>
+      <Dest>見習い用変性術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Volunruud Elder's Cairn</Source>
+      <Dest>ヴォルンルード・エルダーズ・ケルン</Dest>
+    </String>
+    <String List="0">
+      <Source>Bolfrida Brandy-Mug</Source>
+      <Dest>ボルフリーダ・ブランデーマグ</Dest>
+    </String>
+    <String List="0">
+      <Source>DwarvenSteamCenturion</Source>
+      <Dest>DwarvenSteamCenturion</Dest>
+    </String>
+    <String List="0">
+      <Source>Carlotta</Source>
+      <Dest>カルロッタ</Dest>
+    </String>
+    <String List="0">
+      <Source>King</Source>
+      <Dest>王者</Dest>
+    </String>
+    <String List="0">
+      <Source>Horse</Source>
+      <Dest>馬</Dest>
+    </String>
+    <String List="0">
+      <Source>Kilkreath Ruins</Source>
+      <Dest>キルクリースの遺跡</Dest>
+    </String>
+    <String List="0">
+      <Source>Fortify Shouts</Source>
+      <Dest>シャウト上昇</Dest>
+    </String>
+    <String List="0">
+      <Source>Vokun's Throne Room</Source>
+      <Dest>ヴォクンの玉座の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Sayma</Source>
+      <Dest>セイマ</Dest>
+    </String>
+    <String List="0">
+      <Source>Wizard</Source>
+      <Dest>ウィザード</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead Men's Respite</Source>
+      <Dest>死者の安息所</Dest>
+    </String>
+    <String List="0">
+      <Source>Vivienne Onis</Source>
+      <Dest>ビビアン・オニス</Dest>
+    </String>
+    <String List="0">
+      <Source>Hag</Source>
+      <Dest>ハグ</Dest>
+    </String>
+    <String List="0">
+      <Source>Inge Six Fingers</Source>
+      <Dest>インゲの6本の指</Dest>
+    </String>
+    <String List="0">
+      <Source>Swindler's Den</Source>
+      <Dest>詐欺師の隠れ家</Dest>
+    </String>
+    <String List="0">
+      <Source>Embellished Robes</Source>
+      <Dest>装飾が施された服</Dest>
+    </String>
+    <String List="0">
+      <Source>Forsaken Crypt</Source>
+      <Dest>見捨てられた墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Niranye</Source>
+      <Dest>ニラナイ</Dest>
+    </String>
+    <String List="0">
+      <Source>Constant Damage Health</Source>
+      <Dest>継続する体力減退</Dest>
+    </String>
+    <String List="0">
+      <Source>Improves the caster's armor rating by &lt;mag&gt; points for &lt;dur&gt; seconds.</Source>
+      <Dest>術者の鎧の防御値が &lt;mag&gt; ポイント、 &lt;dur&gt; 秒間増加する。</Dest>
+    </String>
+    <String List="0">
+      <Source>Apprentice Robes of Illusion</Source>
+      <Dest>見習い用幻惑術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Reanimate (Self)</Source>
+      <Dest>蘇生(自分)</Dest>
+    </String>
+    <String List="0">
+      <Source>Mage</Source>
+      <Dest>魔術師</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragonplate Armor</Source>
+      <Dest>ドラゴンプレートの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Pack Member</Source>
+      <Dest>パックメンバー</Dest>
+    </String>
+    <String List="0">
+      <Source>Knifepoint Ridge</Source>
+      <Dest>ナイフポイント・リッジ</Dest>
+    </String>
+    <String List="0">
+      <Source>Jyrik Gauldurson</Source>
+      <Dest>ジリク・ゴールドールソン</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Alteration</Source>
+      <Dest>変性術のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Robes of Illusion</Source>
+      <Dest>達人の幻惑術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Viarmo</Source>
+      <Dest>ヴィアルモ</Dest>
+    </String>
+    <String List="0">
+      <Source>Valthume Catacombs</Source>
+      <Dest>ヴァルスムの地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning</Source>
+      <Dest>炎上</Dest>
+    </String>
+    <String List="0">
+      <Source>Traveling Dignitary</Source>
+      <Dest>要人</Dest>
+    </String>
+    <String List="0">
+      <Source>Clothes</Source>
+      <Dest>服</Dest>
+    </String>
+    <String List="0">
+      <Source>Apprentice Robes of Restoration</Source>
+      <Dest>見習い用回復術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Dog</Source>
+      <Dest>イヌ</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Outlaw</Source>
+      <Dest>山賊の無法者</Dest>
+    </String>
+    <String List="0">
+      <Source>Poison Gas</Source>
+      <Dest>毒ガス</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Giant Inn</Source>
+      <Dest>宿屋「スリーピング・ジャイアント」</Dest>
+    </String>
+    <String List="0">
+      <Source>Fianna</Source>
+      <Dest>フィアナ</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Skin</Source>
+      <Dest>ドラウグルの皮</Dest>
+    </String>
+    <String List="0">
+      <Source>Stamina Damage</Source>
+      <Dest>スタミナダメージ</Dest>
+    </String>
+    <String List="0">
+      <Source>Thug</Source>
+      <Dest>悪漢</Dest>
+    </String>
+    <String List="0">
+      <Source>Stormcloak Soldier</Source>
+      <Dest>ストームクローク兵士</Dest>
+    </String>
+    <String List="0">
+      <Source>Miner's Clothes</Source>
+      <Dest>鉱山労働者の服</Dest>
+    </String>
+    <String List="0">
+      <Source>Noster Eagle-Eye</Source>
+      <Dest>鷲の目のノスター</Dest>
+    </String>
+    <String List="0">
+      <Source>Unbound Dremora</Source>
+      <Dest>呪縛されていないドレモラ</Dest>
+    </String>
+    <String List="0">
+      <Source>Rogue</Source>
+      <Dest>ならず者</Dest>
+    </String>
+    <String List="0">
+      <Source>Alfhild Battle-Born</Source>
+      <Dest>アルフヒルド・バトル・ボーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Styrr</Source>
+      <Dest>スティル</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Black Mage Robes</Source>
+      <Dest>フード付きの魔術師のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Fortify Destruction</Source>
+      <Dest>破壊上昇</Dest>
+    </String>
+    <String List="0">
+      <Source>Druadach Redoubt</Source>
+      <Dest>ドルアダッチ要塞</Dest>
+    </String>
+    <String List="0">
+      <Source>Frost Atronach</Source>
+      <Dest>氷の精霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellglow Keep Dungeons</Source>
+      <Dest>フェルグロウ砦のダンジョン</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of the Dead</Source>
+      <Dest>死者の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Storm Atronach</Source>
+      <Dest>雷の精霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Heimskr</Source>
+      <Dest>ヘイムスカー</Dest>
+    </String>
+    <String List="0">
+      <Source>Mjoll the Lioness</Source>
+      <Dest>雌ライオンのムジョル</Dest>
+    </String>
+    <String List="0">
+      <Source>Potema's Sanctum</Source>
+      <Dest>ポテマの聖域</Dest>
+    </String>
+    <String List="0">
+      <Source>Expert Robes</Source>
+      <Dest>熟練者のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ice Wraith FX Ability</Source>
+      <Dest>氷の生霊FXの能力</Dest>
+    </String>
+    <String List="0">
+      <Source>Forsaken Cave</Source>
+      <Dest>見捨てられた洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Linwe's Armor</Source>
+      <Dest>リンウェの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Shade</Source>
+      <Dest>影</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Quickening</Source>
+      <Dest>神速のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Maramal</Source>
+      <Dest>マラマル</Dest>
+    </String>
+    <String List="0">
+      <Source>Gormlaith Golden-Hilt</Source>
+      <Dest>黄金の柄のゴルムレイス</Dest>
+    </String>
+    <String List="0">
+      <Source>Phantom</Source>
+      <Dest>幽霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Banded Iron Armor</Source>
+      <Dest>帯鉄の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellglow Keep Ritual Chamber</Source>
+      <Dest>フェルグロウ砦の儀式の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Alpha Wolf</Source>
+      <Dest>アルファウルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Bjorlam</Source>
+      <Dest>ジョーラム</Dest>
+    </String>
+    <String List="0">
+      <Source>Louis</Source>
+      <Dest>ルイス</Dest>
+    </String>
+    <String List="0">
+      <Source>Shrouded Armor</Source>
+      <Dest>暗殺者の軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Recharging</Source>
+      <Dest>補填のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistwatch Bandit</Source>
+      <Dest>ミストウォッチ山賊</Dest>
+    </String>
+    <String List="0">
+      <Source>Bergritte Battle-Born</Source>
+      <Dest>ベルグリッテ・バトル・ボーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Laila Law-Giver</Source>
+      <Dest>ライラ・ロー・ギバー</Dest>
+    </String>
+    <String List="0">
+      <Source>Forelhost Stronghold</Source>
+      <Dest>フォーレルホスト要塞</Dest>
+    </String>
+    <String List="0">
+      <Source>Normal</Source>
+      <Dest>Normal</Dest>
+    </String>
+    <String List="0">
+      <Source>Grimvar</Source>
+      <Dest>グリムヴァー</Dest>
+    </String>
+    <String List="0">
+      <Source>Idolaf</Source>
+      <Dest>イドラフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Adept Robes</Source>
+      <Dest>精鋭のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ambarys Rendar</Source>
+      <Dest>アムバリス・レンダー</Dest>
+    </String>
+    <String List="0">
+      <Source>Penitus Oculatus Armor</Source>
+      <Dest>ペニトゥス・オクラトゥスの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Oar Grotto</Source>
+      <Dest>ブロークン・オール洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Ancient Nord Armor</Source>
+      <Dest>古代ノルドの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Alva's House</Source>
+      <Dest>アルバの家</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Extreme Illusion</Source>
+      <Dest>幻惑術のローブ(極限)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ironbind Barrow</Source>
+      <Dest>アイアンバインド墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Dead Man's Drink</Source>
+      <Dest>宿屋「デッドマンズ・ドリンク」</Dest>
+    </String>
+    <String List="0">
+      <Source>Troll</Source>
+      <Dest>トロール</Dest>
+    </String>
+    <String List="0">
+      <Source>Bounty Collector</Source>
+      <Dest>賞金稼ぎ</Dest>
+    </String>
+    <String List="0">
+      <Source>Mallus Maccius</Source>
+      <Dest>マラス・マッキウス</Dest>
+    </String>
+    <String List="0">
+      <Source>Hide Armor</Source>
+      <Dest>皮の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Wooden Bar Stool</Source>
+      <Dest>木の椅子</Dest>
+    </String>
+    <String List="0">
+      <Source>Falk Firebeard</Source>
+      <Dest>ファルク・ファイアビアード</Dest>
+    </String>
+    <String List="0">
+      <Source>Blacksmith's Apron</Source>
+      <Dest>鍛冶屋のエプロン</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Eminent Destruction</Source>
+      <Dest>破壊術のローブ(優)</Dest>
+    </String>
+    <String List="0">
+      <Source>Cast on a nearby surface, it explodes for &lt;mag&gt; points of frost damage when enemies come near.</Source>
+      <Dest>呪文をかけた近くの地面に敵が接近すると、爆発して &lt;mag&gt; ポイントの冷気ダメージを与える。</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Robes of Conjuration</Source>
+      <Dest>達人の召喚術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Tullius</Source>
+      <Dest>テュリウス</Dest>
+    </String>
+    <String List="0">
+      <Source>Potent Storm Atronach</Source>
+      <Dest>雷の精霊(強力)</Dest>
+    </String>
+    <String List="0">
+      <Source>Ice Wraith</Source>
+      <Dest>氷の生霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Flame Cloak</Source>
+      <Dest>炎のマント</Dest>
+    </String>
+    <String List="0">
+      <Source>Flaming Thrall</Source>
+      <Dest>火炎従徒</Dest>
+    </String>
+    <String List="0">
+      <Source>Orthus Endario</Source>
+      <Dest>オルサス・エンダリオ</Dest>
+    </String>
+    <String List="0">
+      <Source>Wilmuth</Source>
+      <Dest>ウィルムス</Dest>
+    </String>
+    <String List="0">
+      <Source>Loot Gunjar's body</Source>
+      <Dest>ガンジャールの遺体から装備を取る</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Robes of Restoration</Source>
+      <Dest>達人の回復術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Dormitory</Source>
+      <Dest>寮</Dest>
+    </String>
+    <String List="0">
+      <Source>Suvaris Atheron</Source>
+      <Dest>スヴァリス・アセロン</Dest>
+    </String>
+    <String List="0">
+      <Source>A fiery explosion for &lt;mag&gt; points of damage in a 15 foot radius. Targets on fire take extra damage.</Source>
+      <Dest>激しい爆発で半径約5メートル内の対象に &lt;mag&gt; ポイントのダメージを与える。炎上した対象には追加ダメージ。</Dest>
+    </String>
+    <String List="0">
+      <Source>Hofgrir Horse-Crusher</Source>
+      <Dest>ホフグリル・ホース・クラッシャー</Dest>
+    </String>
+    <String List="0">
+      <Source>Guide Meridia's Light through the temple</Source>
+      <Dest>メリディアの光を聖堂に通す</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Necromancer Robes</Source>
+      <Dest>フード付きの死霊術師のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Cast on a nearby surface, it explodes for &lt;mag&gt; points of fire damage when enemies come near.</Source>
+      <Dest>呪文をかけた近くの地面に敵が接近すると、爆発して &lt;mag&gt; ポイントの炎ダメージを与える。</Dest>
+    </String>
+    <String List="0">
+      <Source>Yngvild Ghost</Source>
+      <Dest>ユングビルドの亡霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Fireball</Source>
+      <Dest>エクスプロージョン</Dest>
+    </String>
+    <String List="0">
+      <Source>Teleportation</Source>
+      <Dest>転移</Dest>
+    </String>
+    <String List="0">
+      <Source>Firebolt</Source>
+      <Dest>ファイアボルト</Dest>
+    </String>
+    <String List="0">
+      <Source>Brunwulf Free-Winter</Source>
+      <Dest>ブランウルフ・フリー・ウィンター</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hand</Source>
+      <Dest>シルバーハンド</Dest>
+    </String>
+    <String List="0">
+      <Source>General Tullius' Armor</Source>
+      <Dest>テュリウス将軍の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Elven Shield</Source>
+      <Dest>エルフの盾</Dest>
+    </String>
+    <String List="0">
+      <Source>Expert Robes of Alteration</Source>
+      <Dest>熟練者の変性術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Marise Aravel</Source>
+      <Dest>マライズ・アラヴェル</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Minor Restoration</Source>
+      <Dest>回復術のローブ(小)</Dest>
+    </String>
+    <String List="0">
+      <Source>Return to Medresi</Source>
+      <Dest>メドレシのところに戻る</Dest>
+    </String>
+    <String List="0">
+      <Source>Cracked Tusk Vaults</Source>
+      <Dest>クラックスタスクの金庫</Dest>
+    </String>
+    <String List="0">
+      <Source>Candlehearth Hall</Source>
+      <Dest>キャンドルハース・ホール</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Peerless Restoration</Source>
+      <Dest>回復術のローブ(無双)</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Scourge</Source>
+      <Dest>ドラウグル・スカージ</Dest>
+    </String>
+    <String List="0">
+      <Source>Imperial Light Armor</Source>
+      <Dest>帝国軍の軽鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Abilities</Source>
+      <Dest>ドラウグルの能力</Dest>
+    </String>
+    <String List="0">
+      <Source>Gold Diamond Ring</Source>
+      <Dest>ダイヤモンドの金の指輪</Dest>
+    </String>
+    <String List="0">
+      <Source>Emperor's Robes</Source>
+      <Dest>皇帝のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ulfric's Clothes</Source>
+      <Dest>ウルフリックの服</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragonscale Armor</Source>
+      <Dest>ドラゴンスケールの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Alftand</Source>
+      <Dest>アルフタンド</Dest>
+    </String>
+    <String List="0">
+      <Source>So you're supposed to train me?</Source>
+      <Dest>では、鍛えてくれるのか？</Dest>
+    </String>
+    <String List="0">
+      <Source>Nocturnal's Clothes</Source>
+      <Dest>ノクターナルの服</Dest>
+    </String>
+    <String List="0">
+      <Source>Alftand Animonculory</Source>
+      <Dest>アルフタンド・アニモンキュロリー</Dest>
+    </String>
+    <String List="0">
+      <Source>Vivienne</Source>
+      <Dest>ビビアン</Dest>
+    </String>
+    <String List="0">
+      <Source>Inner Sanctum</Source>
+      <Dest>最奥聖域</Dest>
+    </String>
+    <String List="0">
+      <Source>Elda Early-Dawn</Source>
+      <Dest>夜明けのエルダ</Dest>
+    </String>
+    <String List="0">
+      <Source>Adelaisa Vendicci</Source>
+      <Dest>アデライサ・ベンディッチ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ysgramor's Tomb</Source>
+      <Dest>イスグラモルの墓</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragged Trousers</Source>
+      <Dest>ぼろぼろのズボン</Dest>
+    </String>
+    <String List="0">
+      <Source>Dalan Merchad</Source>
+      <Dest>ダラン・マーチャド</Dest>
+    </String>
+    <String List="0">
+      <Source>Steel Armor</Source>
+      <Dest>鋼鉄の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleak Falls Sanctum</Source>
+      <Dest>ブリーク・フォール聖域</Dest>
+    </String>
+    <String List="0">
+      <Source>Daedric Dagger of Devouring</Source>
+      <Dest>デイドラのダガー(猛火)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Thalmor Robes</Source>
+      <Dest>フード付きのサルモールのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Nelkir</Source>
+      <Dest>ネルキル</Dest>
+    </String>
+    <String List="0">
+      <Source>Carlotta Valentia</Source>
+      <Dest>カルロッタ・ヴァレンシア</Dest>
+    </String>
+    <String List="0">
+      <Source>Black Mage Robes</Source>
+      <Dest>魔術師のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Trapper</Source>
+      <Dest>猟師</Dest>
+    </String>
+    <String List="0">
+      <Source>Fralia</Source>
+      <Dest>フラリア</Dest>
+    </String>
+    <String List="0">
+      <Source>Fire Storm</Source>
+      <Dest>ファイアストーム</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Extreme Destruction</Source>
+      <Dest>破壊術のローブ(極限)</Dest>
+    </String>
+    <String List="0">
+      <Source>Shrouded Robes</Source>
+      <Dest>暗殺者のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Hermir Strong-Heart</Source>
+      <Dest>強き心のヘルミール</Dest>
+    </String>
+    <String List="0">
+      <Source>Inferno</Source>
+      <Dest>業火</Dest>
+    </String>
+    <String List="0">
+      <Source>Cure Disease</Source>
+      <Dest>疾病退散</Dest>
+    </String>
+    <String List="0">
+      <Source>The White Hall</Source>
+      <Dest>ホワイトホール</Dest>
+    </String>
+    <String List="0">
+      <Source>Skybound Watch Pass</Source>
+      <Dest>スカイバウンド・ウォッチ峠</Dest>
+    </String>
+    <String List="0">
+      <Source>Absorb &lt;mag&gt; points of health per second from the target. Only equipped in the left hand.</Source>
+      <Dest>対象から &lt;mag&gt; ポイントの体力を1秒ごとに吸収する。左手にしか装備できない。</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Shack</Source>
+      <Dest>廃屋と化した小屋</Dest>
+    </String>
+    <String List="0">
+      <Source>Afflicted Remnants</Source>
+      <Dest>感染した残党</Dest>
+    </String>
+    <String List="0">
+      <Source>Captain Lonely-Gale</Source>
+      <Dest>ロンリー・ゲイル船長</Dest>
+    </String>
+    <String List="0">
+      <Source>Conjurer</Source>
+      <Dest>コンジュラー</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Robes</Source>
+      <Dest>サルモールのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Destroy the Draugr in Angarvunde (&lt;Global=dunAngarvundeDraugrKilledCount&gt;/3)</Source>
+      <Dest>アンガルブンデのドラウグルを倒す(&lt;Global=dunAngarvundeDraugrKilledCount&gt; /3)</Dest>
+    </String>
+    <String List="0">
+      <Source>Attack Vilkas</Source>
+      <Dest>ヴィルカスを攻撃する</Dest>
+    </String>
+    <String List="0">
+      <Source>Pale Guard's Armor</Source>
+      <Dest>ペイル衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Red Robes</Source>
+      <Dest>ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Saadia</Source>
+      <Dest>サーディア</Dest>
+    </String>
+    <String List="0">
+      <Source>Irileth</Source>
+      <Dest>イリレス</Dest>
+    </String>
+    <String List="0">
+      <Source>Angarvunde Ruins</Source>
+      <Dest>アンガルブンデの廃墟</Dest>
+    </String>
+    <String List="0">
+      <Source>Broken Fang Cave</Source>
+      <Dest>崩れ落ちたファング洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Trilf</Source>
+      <Dest>トリルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Oengul</Source>
+      <Dest>オエンガル</Dest>
+    </String>
+    <String List="0">
+      <Source>Apprentice Robes</Source>
+      <Dest>見習い用ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Vantus Loreius</Source>
+      <Dest>ヴァンタス・ロレイウス</Dest>
+    </String>
+    <String List="0">
+      <Source>
+</Source>
+      <Dest>
+</Dest>
+    </String>
+    <String List="0">
+      <Source>Tavern Clothes</Source>
+      <Dest>酒場の服</Dest>
+    </String>
+    <String List="0">
+      <Source>Aval</Source>
+      <Dest>アヴァル</Dest>
+    </String>
+    <String List="0">
+      <Source>Wedding Dress</Source>
+      <Dest>ウエディングドレス</Dest>
+    </String>
+    <String List="0">
+      <Source>Skeleton</Source>
+      <Dest>スケルトン</Dest>
+    </String>
+    <String List="0">
+      <Source>Spell Tome: Magelight</Source>
+      <Dest>呪文の書: 灯明</Dest>
+    </String>
+    <String List="0">
+      <Source>J'datharr</Source>
+      <Dest>ジダサール</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Eminent Restoration</Source>
+      <Dest>回復術のローブ(優)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lund</Source>
+      <Dest>ルンド</Dest>
+    </String>
+    <String List="0">
+      <Source>Hall of the Vigilant</Source>
+      <Dest>番人の間</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnvald Canal</Source>
+      <Dest>ラグンヴァルド運河</Dest>
+    </String>
+    <String List="0">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="0">
+      <Source>Adonato Leotelli</Source>
+      <Dest>アドナト・レオテッリ</Dest>
+    </String>
+    <String List="0">
+      <Source>Jon Battle-Born</Source>
+      <Dest>ジョン・バトル・ボーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Falk</Source>
+      <Dest>ファルク</Dest>
+    </String>
+    <String List="0">
+      <Source>Studded Imperial Armor</Source>
+      <Dest>鋲付きの帝国軍鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Gwendolyn</Source>
+      <Dest>グウェンドリン</Dest>
+    </String>
+    <String List="0">
+      <Source>Wisp</Source>
+      <Dest>ウィスプ</Dest>
+    </String>
+    <String List="0">
+      <Source>Embroidered Garment</Source>
+      <Dest>刺しゅうが施された服</Dest>
+    </String>
+    <String List="0">
+      <Source>Pinewatch Bandit's Sanctuary</Source>
+      <Dest>パインウォッチ山賊の聖域</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Extreme Conjuration</Source>
+      <Dest>召喚術のローブ(極限)</Dest>
+    </String>
+    <String List="0">
+      <Source>Legate Rikke</Source>
+      <Dest>リッケ特使</Dest>
+    </String>
+    <String List="0">
+      <Source>Helgird</Source>
+      <Dest>ヘルグリッド</Dest>
+    </String>
+    <String List="0">
+      <Source>Scouts-Many-Marshes</Source>
+      <Dest>湿地帯の斥候</Dest>
+    </String>
+    <String List="0">
+      <Source>Sickly Farmer</Source>
+      <Dest>病弱な農民</Dest>
+    </String>
+    <String List="0">
+      <Source>Bloodlet Throne</Source>
+      <Dest>ブラッドレットの玉座</Dest>
+    </String>
+    <String List="0">
+      <Source>Windhelm</Source>
+      <Dest>ウィンドヘルム</Dest>
+    </String>
+    <String List="0">
+      <Source>Proventus Avenicci</Source>
+      <Dest>プロベンタス・アヴェニッチ</Dest>
+    </String>
+    <String List="0">
+      <Source>(Optional) Attempt to pick the lock to the cage</Source>
+      <Dest>(オプション)檻の鍵を開ける</Dest>
+    </String>
+    <String List="0">
+      <Source>Moorside Inn</Source>
+      <Dest>宿屋「ムーアサイド」</Dest>
+    </String>
+    <String List="0">
+      <Source>Find Meridia's beacon</Source>
+      <Dest>メリディアの灯を見つける</Dest>
+    </String>
+    <String List="0">
+      <Source>Skeever</Source>
+      <Dest>スキーヴァー</Dest>
+    </String>
+    <String List="0">
+      <Source>Evette</Source>
+      <Dest>エヴェット</Dest>
+    </String>
+    <String List="0">
+      <Source>Winterhold College</Source>
+      <Dest>ウィンターホールド大学</Dest>
+    </String>
+    <String List="0">
+      <Source>Invisible Race</Source>
+      <Dest>霊界種族</Dest>
+    </String>
+    <String List="0">
+      <Source>Skuldafn Temple</Source>
+      <Dest>スクルダフン聖堂</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistwatch East Tower</Source>
+      <Dest>ミストウォッチ - 東の塔</Dest>
+    </String>
+    <String List="0">
+      <Source>Marauder</Source>
+      <Dest>略奪団</Dest>
+    </String>
+    <String List="0">
+      <Source>Fortify Health</Source>
+      <Dest>体力上昇</Dest>
+    </String>
+    <String List="0">
+      <Source>Fellglow Keep</Source>
+      <Dest>フェルグロウ砦</Dest>
+    </String>
+    <String List="0">
+      <Source>Indaryn</Source>
+      <Dest>インダルイン</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Illusion</Source>
+      <Dest>幻惑術のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ebony Mail</Source>
+      <Dest>黒檀の鎖帷子</Dest>
+    </String>
+    <String List="0">
+      <Source>Vaermina Devotee</Source>
+      <Dest>ヴァーミルナの献身者</Dest>
+    </String>
+    <String List="0">
+      <Source>Eorlund Gray-Mane</Source>
+      <Dest>エオルンド・グレイ・メーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Synda</Source>
+      <Dest>シンダ</Dest>
+    </String>
+    <String List="0">
+      <Source>Orcish Shield</Source>
+      <Dest>オークの盾</Dest>
+    </String>
+    <String List="0">
+      <Source>Familiar</Source>
+      <Dest>使い魔</Dest>
+    </String>
+    <String List="0">
+      <Source>Flame Thrall</Source>
+      <Dest>炎の従徒</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll of Turn Undead</Source>
+      <Dest>アンデッド退散の巻物</Dest>
+    </String>
+    <String List="0">
+      <Source>Soljund's Sinkhole</Source>
+      <Dest>ゾルグンデの巣窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Torsten Cruel-Sea</Source>
+      <Dest>トルステン・クルーエル・シー</Dest>
+    </String>
+    <String List="0">
+      <Source>Whiterun</Source>
+      <Dest>ホワイトラン</Dest>
+    </String>
+    <String List="0">
+      <Source>Steel Plate Armor</Source>
+      <Dest>スチールプレートの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Grimvar Cruel-Sea</Source>
+      <Dest>グリムヴァー・クルーエル・シー</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Peerless Destruction</Source>
+      <Dest>破壊術のローブ(無双)</Dest>
+    </String>
+    <String List="0">
+      <Source>Snilf</Source>
+      <Dest>スニルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Mikael</Source>
+      <Dest>ミカエル</Dest>
+    </String>
+    <String List="0">
+      <Source>Drain Health</Source>
+      <Dest>体力低下</Dest>
+    </String>
+    <String List="0">
+      <Source>Belted Tunic</Source>
+      <Dest>ベルトの付いたチュニック</Dest>
+    </String>
+    <String List="0">
+      <Source>Vittoria</Source>
+      <Dest>ヴィットリア</Dest>
+    </String>
+    <String List="0">
+      <Source>Novice Robes of Restoration</Source>
+      <Dest>素人の回復術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Angarvunde Catacombs</Source>
+      <Dest>アンガルブンデ地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Major Destruction</Source>
+      <Dest>破壊術のローブ(大)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hunting Bow</Source>
+      <Dest>狩猟弓</Dest>
+    </String>
+    <String List="0">
+      <Source>Arch Mage's Quarters</Source>
+      <Dest>アークメイジ居住区</Dest>
+    </String>
+    <String List="0">
+      <Source>Slows time for &lt;dur&gt; seconds.</Source>
+      <Dest>&lt;dur&gt; 秒間、時間の経過が遅くなる。</Dest>
+    </String>
+    <String List="0">
+      <Source>Acolyte Jenssen</Source>
+      <Dest>侍者イェンセン</Dest>
+    </String>
+    <String List="0">
+      <Source>Fihada</Source>
+      <Dest>フィハダ</Dest>
+    </String>
+    <String List="0">
+      <Source>Northwind Mine</Source>
+      <Dest>ノースウインド鉱山</Dest>
+    </String>
+    <String List="0">
+      <Source>Ahlam</Source>
+      <Dest>アハラム</Dest>
+    </String>
+    <String List="0">
+      <Source>Nimriel</Source>
+      <Dest>ニムリエル</Dest>
+    </String>
+    <String List="0">
+      <Source>Peddler</Source>
+      <Dest>行商人</Dest>
+    </String>
+    <String List="0">
+      <Source>Mudcrab</Source>
+      <Dest>マッドクラブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Monk Robes</Source>
+      <Dest>僧兵のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Corrupted Shade</Source>
+      <Dest>穢れた影</Dest>
+    </String>
+    <String List="0">
+      <Source>Reanimate</Source>
+      <Dest>蘇生</Dest>
+    </String>
+    <String List="0">
+      <Source>Andurs</Source>
+      <Dest>アンドルス</Dest>
+    </String>
+    <String List="0">
+      <Source>Adept Robes of Alteration</Source>
+      <Dest>精鋭の変性術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Speak to Skjor</Source>
+      <Dest>スコールと話す</Dest>
+    </String>
+    <String List="0">
+      <Source>Nils</Source>
+      <Dest>ナイルズ</Dest>
+    </String>
+    <String List="0">
+      <Source>Fur-Trimmed Cloak</Source>
+      <Dest>毛皮のマント</Dest>
+    </String>
+    <String List="0">
+      <Source>Potent Frost Atronach</Source>
+      <Dest>氷の精霊(強力)</Dest>
+    </String>
+    <String List="0">
+      <Source>Hulda</Source>
+      <Dest>フルダ</Dest>
+    </String>
+    <String List="0">
+      <Source>Damage Health</Source>
+      <Dest>体力減退</Dest>
+    </String>
+    <String List="0">
+      <Source>Cures all diseases.</Source>
+      <Dest>すべての疾病を治癒する。</Dest>
+    </String>
+    <String List="0">
+      <Source>Folgunthur</Source>
+      <Dest>フォルガンスール</Dest>
+    </String>
+    <String List="0">
+      <Source>Nilsine Shatter-Shield</Source>
+      <Dest>ニルシン・シャッター・シールド</Dest>
+    </String>
+    <String List="0">
+      <Source>Torbjorn Shatter-Shield</Source>
+      <Dest>トールビョルン・シャッター・シールド</Dest>
+    </String>
+    <String List="0">
+      <Source>Heals the caster &lt;mag&gt; points.</Source>
+      <Dest>術者を &lt;mag&gt; ポイント回復させる。</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll of Conjure Storm Atronach</Source>
+      <Dest>雷の精霊召喚の巻物</Dest>
+    </String>
+    <String List="0">
+      <Source>Raldbthar</Source>
+      <Dest>ラルドサール</Dest>
+    </String>
+    <String List="0">
+      <Source>Refugee</Source>
+      <Dest>避難民</Dest>
+    </String>
+    <String List="0">
+      <Source>Elven Gilded Armor</Source>
+      <Dest>エルフの黄金鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Bread</Source>
+      <Dest>パン</Dest>
+    </String>
+    <String List="0">
+      <Source>Studded Armor</Source>
+      <Dest>鋲付きの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Gian the Fist</Source>
+      <Dest>拳のジアン</Dest>
+    </String>
+    <String List="0">
+      <Source>Chef's Tunic</Source>
+      <Dest>料理人のチュニック</Dest>
+    </String>
+    <String List="0">
+      <Source>Spider Bite</Source>
+      <Dest>クモの咬み付き</Dest>
+    </String>
+    <String List="0">
+      <Source>Replace the beacon</Source>
+      <Dest>灯を交換する</Dest>
+    </String>
+    <String List="0">
+      <Source>Japhet</Source>
+      <Dest>ジャフェット</Dest>
+    </String>
+    <String List="0">
+      <Source>Darklight Tower</Source>
+      <Dest>ダークライト・タワー</Dest>
+    </String>
+    <String List="0">
+      <Source>High Gate Ruins</Source>
+      <Dest>ハイゲートの遺跡</Dest>
+    </String>
+    <String List="0">
+      <Source>Haemar's Shame</Source>
+      <Dest>ハエマールの不名誉</Dest>
+    </String>
+    <String List="0">
+      <Source>Malthyr Elenil</Source>
+      <Dest>マルシル・エレニル</Dest>
+    </String>
+    <String List="0">
+      <Source>Vigilant</Source>
+      <Dest>番人</Dest>
+    </String>
+    <String List="0">
+      <Source>Balgruuf the Greater</Source>
+      <Dest>偉大なるバルグルーフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Burial Urn</Source>
+      <Dest>埋葬壷</Dest>
+    </String>
+    <String List="0">
+      <Source>Brenuin</Source>
+      <Dest>ブレナイン</Dest>
+    </String>
+    <String List="0">
+      <Source>Ambarys</Source>
+      <Dest>アムバリス</Dest>
+    </String>
+    <String List="0">
+      <Source>Ward - Greater</Source>
+      <Dest>シールド - 上級</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften</Source>
+      <Dest>リフテン</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightingale Armor</Source>
+      <Dest>ナイチンゲールの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Brinehammer</Source>
+      <Dest>ブラインハンマー</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Grey Robes</Source>
+      <Dest>フード付きのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ancient Shrouded Armor</Source>
+      <Dest>太古の暗殺者の軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Alfhild</Source>
+      <Dest>アルフヒルド</Dest>
+    </String>
+    <String List="0">
+      <Source>Gold Emerald Ring</Source>
+      <Dest>エメラルドの金の指輪</Dest>
+    </String>
+    <String List="0">
+      <Source>Afflicted</Source>
+      <Dest>感染者</Dest>
+    </String>
+    <String List="0">
+      <Source>Aia</Source>
+      <Dest>アイア</Dest>
+    </String>
+    <String List="0">
+      <Source>Gloomreach Cavern</Source>
+      <Dest>グルームリーチ洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Olfrid Battle-Born</Source>
+      <Dest>オルフリッド・バトル・ボーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Angrenor Once-Honored</Source>
+      <Dest>過ぎ去りし名誉のアングレノア</Dest>
+    </String>
+    <String List="0">
+      <Source>The Midden</Source>
+      <Dest>ミッデン</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Guard's Armor</Source>
+      <Dest>ソリチュード衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Synda Llanith</Source>
+      <Dest>シンダ・リラニス</Dest>
+    </String>
+    <String List="0">
+      <Source>Avoid Death</Source>
+      <Dest>死の回避</Dest>
+    </String>
+    <String List="0">
+      <Source>Executioner's Robes</Source>
+      <Dest>死刑執行人のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Red Eagle Redoubt</Source>
+      <Dest>赤鷲要塞</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit</Source>
+      <Dest>山賊</Dest>
+    </String>
+    <String List="0">
+      <Source>Sinmir</Source>
+      <Dest>シンミール</Dest>
+    </String>
+    <String List="0">
+      <Source>Angarvunde</Source>
+      <Dest>アンガルブンデ</Dest>
+    </String>
+    <String List="0">
+      <Source>Whiterun Catacombs</Source>
+      <Dest>ホワイトランの地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>A blast of cold that does &lt;mag&gt; points of damage per second to Health and Stamina.</Source>
+      <Dest>冷気の爆発で、体力とスタミナに &lt;mag&gt; ポイントのダメージを1秒ごとに与える。</Dest>
+    </String>
+    <String List="0">
+      <Source>Korvanjund Halls</Source>
+      <Dest>コルバンヤンド広間</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Green Robes</Source>
+      <Dest>フード付きのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Holgeir</Source>
+      <Dest>ホルゲール</Dest>
+    </String>
+    <String List="0">
+      <Source>Companion Ghost</Source>
+      <Dest>同胞団の亡霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Dalan</Source>
+      <Dest>ダラン</Dest>
+    </String>
+    <String List="0">
+      <Source>Iron Armor</Source>
+      <Dest>鉄の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Savior's Hide</Source>
+      <Dest>救世主の皮鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Adelaisa</Source>
+      <Dest>アデライサ</Dest>
+    </String>
+    <String List="0">
+      <Source>Warehouse Traps Reset Test Guy</Source>
+      <Dest>倉庫の罠リセットテスト用の男</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Restoration</Source>
+      <Dest>回復術のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Lost Valkygg</Source>
+      <Dest>ロスト・ヴァルキグ</Dest>
+    </String>
+    <String List="0">
+      <Source>Ansilvund Burial Chambers</Source>
+      <Dest>アンシルヴァンドの埋葬室</Dest>
+    </String>
+    <String List="0">
+      <Source>Gloth</Source>
+      <Dest>グロス</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Sphere</Source>
+      <Dest>ドワーフ・スフィア</Dest>
+    </String>
+    <String List="0">
+      <Source>Sigurd</Source>
+      <Dest>シグルド</Dest>
+    </String>
+    <String List="0">
+      <Source>Northwatch Guard</Source>
+      <Dest>ノースウォッチ衛兵</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Eminent Illusion</Source>
+      <Dest>幻惑術のローブ(優)</Dest>
+    </String>
+    <String List="0">
+      <Source>Enter the Keep with Hadvar or Ralof</Source>
+      <Dest>ハドバルかレイロフと砦に入る</Dest>
+    </String>
+    <String List="0">
+      <Source>Angrenor</Source>
+      <Dest>アングレノア</Dest>
+    </String>
+    <String List="0">
+      <Source>Adept Robes of Illusion</Source>
+      <Dest>精鋭の幻惑術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Greta</Source>
+      <Dest>グレタ</Dest>
+    </String>
+    <String List="0">
+      <Source>Geirmund's Hall</Source>
+      <Dest>ゲイルムンドの間</Dest>
+    </String>
+    <String List="0">
+      <Source>Dremora Lord</Source>
+      <Dest>ドレモラ・ロード</Dest>
+    </String>
+    <String List="0">
+      <Source>Noster</Source>
+      <Dest>ノスター</Dest>
+    </String>
+    <String List="0">
+      <Source>Werewolf</Source>
+      <Dest>ウェアウルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Major Illusion</Source>
+      <Dest>幻惑術のローブ(大)</Dest>
+    </String>
+    <String List="0">
+      <Source>Falkreath Guard's Armor</Source>
+      <Dest>ファルクリース衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragged Robes</Source>
+      <Dest>ぼろぼろのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Hillgrund's Tomb</Source>
+      <Dest>ヒルグランドの墓</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Eminent Alteration</Source>
+      <Dest>変性術のローブ(優)</Dest>
+    </String>
+    <String List="0">
+      <Source>Brown Robes</Source>
+      <Dest>ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Hillevi Cruel-Sea</Source>
+      <Dest>ヒレヴィ・クルーエル・シー</Dest>
+    </String>
+    <String List="0">
+      <Source>Proving Honor</Source>
+      <Dest>栄誉の証明</Dest>
+    </String>
+    <String List="0">
+      <Source>Novice Robes of Alteration</Source>
+      <Dest>素人の変性術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Tiber</Source>
+      <Dest>タイバー</Dest>
+    </String>
+    <String List="0">
+      <Source>Pinemoon Cave</Source>
+      <Dest>パインムーン洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Farengar</Source>
+      <Dest>ファレンガー</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Destruction</Source>
+      <Dest>破壊術のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Silverdrift Lair</Source>
+      <Dest>シルバードリフトの隠れ家</Dest>
+    </String>
+    <String List="0">
+      <Source>Ustengrav</Source>
+      <Dest>ウステングラブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Major Conjuration</Source>
+      <Dest>召喚術のローブ(大)</Dest>
+    </String>
+    <String List="0">
+      <Source>Inge</Source>
+      <Dest>インゲ</Dest>
+    </String>
+    <String List="0">
+      <Source>Brunwulf</Source>
+      <Dest>ブランウルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Valthume Vestibule</Source>
+      <Dest>ヴァルスムの玄関</Dest>
+    </String>
+    <String List="0">
+      <Source>Adisla</Source>
+      <Dest>アディスラ</Dest>
+    </String>
+    <String List="0">
+      <Source>Adept Robes of Restoration</Source>
+      <Dest>精鋭の回復術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Farkas</Source>
+      <Dest>ファルカス</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Robes of Alteration</Source>
+      <Dest>達人の変性術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Winterhold Guard's Armor</Source>
+      <Dest>ウィンターホールド衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Poison</Source>
+      <Dest>毒</Dest>
+    </String>
+    <String List="0">
+      <Source>Whiterun Guard</Source>
+      <Dest>ホワイトラン衛兵</Dest>
+    </String>
+    <String List="0">
+      <Source>Halldir's Cairn</Source>
+      <Dest>ハルディールの石塚</Dest>
+    </String>
+    <String List="0">
+      <Source>Orini Dral</Source>
+      <Dest>オリニ・ドラル</Dest>
+    </String>
+    <String List="0">
+      <Source>Snowy Sabre Cat</Source>
+      <Dest>スノー・サーベルキャット</Dest>
+    </String>
+    <String List="0">
+      <Source>Worn Shrouded Armor</Source>
+      <Dest>擦り切れた暗殺者の軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Storm Thrall</Source>
+      <Dest>雷の従徒</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleak Falls Temple</Source>
+      <Dest>ブリーク・フォール聖堂</Dest>
+    </String>
+    <String List="0">
+      <Source>Giant Frostbite Spider</Source>
+      <Dest>ジャイアント・フロストバイト・スパイダー</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Robes of Destruction</Source>
+      <Dest>達人の破壊術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Tulvur</Source>
+      <Dest>トルバル</Dest>
+    </String>
+    <String List="0">
+      <Source>A blast of fire that does &lt;mag&gt; points of damage. Targets on fire take extra damage.</Source>
+      <Dest>炎の爆発で &lt;mag&gt; ポイントのダメージを与える。炎上した対象には追加ダメージ。</Dest>
+    </String>
+    <String List="0">
+      <Source>Apprentice Robes of Conjuration</Source>
+      <Dest>見習い用召喚術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Wight</Source>
+      <Dest>ドラウグル・ワイト</Dest>
+    </String>
+    <String List="0">
+      <Source>Halted Stream Camp</Source>
+      <Dest>ホルテッド・ストリームの野営地</Dest>
+    </String>
+    <String List="0">
+      <Source>Skuldafn North Tower</Source>
+      <Dest>スクルダフン - 北の塔</Dest>
+    </String>
+    <String List="0">
+      <Source>Hefid the Deaf</Source>
+      <Dest>耳の悪いヘフィッド</Dest>
+    </String>
+    <String List="0">
+      <Source>Expert Robes of Illusion</Source>
+      <Dest>熟練者の幻惑術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Back</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <Source>Sunderstone Gorge</Source>
+      <Dest>サンダーストーン渓谷</Dest>
+    </String>
+    <String List="0">
+      <Source>Vittoria Vici</Source>
+      <Dest>ヴィットリア・ヴィキ</Dest>
+    </String>
+    <String List="0">
+      <Source>Expert Robes of Destruction</Source>
+      <Dest>熟練者の破壊術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Faldar's Tooth</Source>
+      <Dest>ファルダーズトゥース</Dest>
+    </String>
+    <String List="0">
+      <Source>Escape Helgen</Source>
+      <Dest>ヘルゲンから脱出する</Dest>
+    </String>
+    <String List="0">
+      <Source>Follow Vilkas</Source>
+      <Dest>ヴィルカスについていく</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Glow Eyes</Source>
+      <Dest>ドラウグルの光る目</Dest>
+    </String>
+    <String List="0">
+      <Source>Vilemyr Inn</Source>
+      <Dest>宿屋「ヴァイルマイヤー」</Dest>
+    </String>
+    <String List="0">
+      <Source>Vagrant</Source>
+      <Dest>放浪者</Dest>
+    </String>
+    <String List="0">
+      <Source>Yngvild</Source>
+      <Dest>ユングビルド</Dest>
+    </String>
+    <String List="0">
+      <Source>Waterwalking</Source>
+      <Dest>水歩行</Dest>
+    </String>
+    <String List="0">
+      <Source>Irnskar</Source>
+      <Dest>イルンスカー</Dest>
+    </String>
+    <String List="0">
+      <Source>Armor of the Old Gods</Source>
+      <Dest>古き神々の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Balgruuf</Source>
+      <Dest>バルグルーフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Brittleshin Pass</Source>
+      <Dest>ブリトルシン峠</Dest>
+    </String>
+    <String List="0">
+      <Source>Sybille Stentor</Source>
+      <Dest>シビル・ステントール</Dest>
+    </String>
+    <String List="0">
+      <Source>Bromjunaar Sanctuary</Source>
+      <Dest>ブロムジュナール聖域</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Armor</Source>
+      <Dest>ドワーフの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Vilkas</Source>
+      <Dest>ヴィルカス</Dest>
+    </String>
+    <String List="0">
+      <Source>Flame Atronach</Source>
+      <Dest>炎の精霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Orcish Invader</Source>
+      <Dest>オークの侵略者</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Red Robes</Source>
+      <Dest>フード付きのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Peerless Conjuration</Source>
+      <Dest>召喚術のローブ(無双)</Dest>
+    </String>
+    <String List="0">
+      <Source>Silent City Catacombs</Source>
+      <Dest>静かなる街の地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Find some equipment</Source>
+      <Dest>装備品を探す</Dest>
+    </String>
+    <String List="0">
+      <Source>Malthyr</Source>
+      <Dest>マルシル</Dest>
+    </String>
+    <String List="0">
+      <Source>Mythic Dawn Robes</Source>
+      <Dest>深遠の暁のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Uttering Hills Camp</Source>
+      <Dest>アターリング・ヒルズ野営地</Dest>
+    </String>
+    <String List="0">
+      <Source>Miner</Source>
+      <Dest>鉱山労働者</Dest>
+    </String>
+    <String List="0">
+      <Source>Edda</Source>
+      <Dest>エッダ</Dest>
+    </String>
+    <String List="0">
+      <Source>Rolff Stone-Fist</Source>
+      <Dest>石拳のロルフ</Dest>
+    </String>
+    <String List="0">
+      <Source>Tova Shatter-Shield</Source>
+      <Dest>トヴァ・シャッター・シールド</Dest>
+    </String>
+    <String List="0">
+      <Source>Arcadia</Source>
+      <Dest>アルカディア</Dest>
+    </String>
+    <String List="0">
+      <Source>Shalidor's Maze</Source>
+      <Dest>シャリドールの迷宮</Dest>
+    </String>
+    <String List="0">
+      <Source>Restore Health</Source>
+      <Dest>体力治癒</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnvald Crypts</Source>
+      <Dest>ラグンヴァルド墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Return</Source>
+      <Dest>戻る</Dest>
+    </String>
+    <String List="0">
+      <Source>Silent Moons Camp</Source>
+      <Dest>静かなる月の野営地</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon</Source>
+      <Dest>ドラゴン</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Deathlord</Source>
+      <Dest>ドラウグル・デス・ロード</Dest>
+    </String>
+    <String List="0">
+      <Source>DualFlurry</Source>
+      <Dest>DualFlurry</Dest>
+    </String>
+    <String List="0">
+      <Source>Fine Raiment</Source>
+      <Dest>上等な衣服</Dest>
+    </String>
+    <String List="0">
+      <Source>Oengul War-Anvil</Source>
+      <Dest>オエンガル・ウォー・アンヴィル</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Minor Conjuration</Source>
+      <Dest>召喚術のローブ(小)</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Resurgence</Source>
+      <Dest>蘇生のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Expert Robes of Conjuration</Source>
+      <Dest>熟練者の召喚術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Grelka</Source>
+      <Dest>グレルカ</Dest>
+    </String>
+    <String List="0">
+      <Source>Quick Test Cell</Source>
+      <Dest>クイックテスト用区画</Dest>
+    </String>
+    <String List="0">
+      <Source>Horker</Source>
+      <Dest>ホーカー</Dest>
+    </String>
+    <String List="0">
+      <Source>Deepwood Redoubt</Source>
+      <Dest>ディープウッド要塞</Dest>
+    </String>
+    <String List="0">
+      <Source>Skyrim</Source>
+      <Dest>スカイリム</Dest>
+    </String>
+    <String List="0">
+      <Source>MaleEyesWoodElfBlind</Source>
+      <Dest>MaleEyesWoodElfBlind</Dest>
+    </String>
+    <String List="0">
+      <Source>Bound Sword FX</Source>
+      <Dest>魔力の剣FX</Dest>
+    </String>
+    <String List="0">
+      <Source>Vaermina Robes</Source>
+      <Dest>ヴァーミルナのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Frostflow Lighthouse</Source>
+      <Dest>フロストフロウ灯台</Dest>
+    </String>
+    <String List="0">
+      <Source>Tova</Source>
+      <Dest>トヴァ</Dest>
+    </String>
+    <String List="0">
+      <Source>Jenassa</Source>
+      <Dest>ジェナッサ</Dest>
+    </String>
+    <String List="0">
+      <Source>Labyrinthian Thoroughfare</Source>
+      <Dest>ラビリンシアン大通り</Dest>
+    </String>
+    <String List="0">
+      <Source>Belyn Hlaalu</Source>
+      <Dest>ベリン・フラール</Dest>
+    </String>
+    <String List="0">
+      <Source>Guard</Source>
+      <Dest>衛兵</Dest>
+    </String>
+    <String List="0">
+      <Source>Novice Robes of Illusion</Source>
+      <Dest>素人の幻惑術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Boots</Source>
+      <Dest>ブーツ</Dest>
+    </String>
+    <String List="0">
+      <Source>Destroy Malkoran</Source>
+      <Dest>マルコランを倒す</Dest>
+    </String>
+    <String List="0">
+      <Source>Nightcaller Temple</Source>
+      <Dest>ナイトコーラー聖堂</Dest>
+    </String>
+    <String List="0">
+      <Source>Shroud Hearth Depths</Source>
+      <Dest>隠匿の炉床の深部</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire's Thrall</Source>
+      <Dest>吸血鬼の従徒</Dest>
+    </String>
+    <String List="0">
+      <Source>Potent Flame Atronach</Source>
+      <Dest>炎の精霊(強力)</Dest>
+    </String>
+    <String List="0">
+      <Source>Fortify Stamina</Source>
+      <Dest>スタミナ上昇</Dest>
+    </String>
+    <String List="0">
+      <Source>A blood-freezing poison that does &lt;mag&gt; points of damage to Health and Stamina per second.</Source>
+      <Dest>血を凍らせる毒で、1秒ごとに、体力とスタミナに &lt;mag&gt; ポイントのダメージを与える。</Dest>
+    </String>
+    <String List="0">
+      <Source>Jester's Clothes</Source>
+      <Dest>道化師の服</Dest>
+    </String>
+    <String List="0">
+      <Source>The Arcanaeum</Source>
+      <Dest>アルケイナエウム</Dest>
+    </String>
+    <String List="0">
+      <Source>Scaled Armor</Source>
+      <Dest>スケールの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Delvin</Source>
+      <Dest>デルビン</Dest>
+    </String>
+    <String List="0">
+      <Source>Luaffyn</Source>
+      <Dest>ルアフィン</Dest>
+    </String>
+    <String List="0">
+      <Source>Expert Robes of Restoration</Source>
+      <Dest>熟練者の回復術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>The Winking Skeever</Source>
+      <Dest>ウィンキング・スキーヴァー</Dest>
+    </String>
+    <String List="0">
+      <Source>Temple of the Divines</Source>
+      <Dest>神々の聖堂</Dest>
+    </String>
+    <String List="0">
+      <Source>Nilsine</Source>
+      <Dest>ニルシン</Dest>
+    </String>
+    <String List="0">
+      <Source>Reanimate a dead body to fight for you for &lt;dur&gt; seconds.</Source>
+      <Dest>死者を蘇らせて、自分のために &lt;dur&gt; 秒間戦わせる。</Dest>
+    </String>
+    <String List="0">
+      <Source>Potema's Catacombs</Source>
+      <Dest>ポテマの地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Reachcliff Cave</Source>
+      <Dest>リーチクリフ洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Farmer</Source>
+      <Dest>農民</Dest>
+    </String>
+    <String List="0">
+      <Source>Spriggan</Source>
+      <Dest>スプリガン</Dest>
+    </String>
+    <String List="0">
+      <Source>Hob's Fall Cave</Source>
+      <Dest>ホブのフォール洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Guild Master's Armor</Source>
+      <Dest>ギルドマスターの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Centurion</Source>
+      <Dest>ドワーフ・センチュリオン</Dest>
+    </String>
+    <String List="0">
+      <Source>Valthume</Source>
+      <Dest>ヴァルスム</Dest>
+    </String>
+    <String List="0">
+      <Source>Bruca's Leap Redoubt</Source>
+      <Dest>ブルカズリープ要塞</Dest>
+    </String>
+    <String List="0">
+      <Source>Targets that fail to resist are paralyzed for &lt;dur&gt; seconds.</Source>
+      <Dest>耐性がない対象は、 &lt;dur&gt; 秒間麻痺する。</Dest>
+    </String>
+    <String List="0">
+      <Source>Mage Robes</Source>
+      <Dest>魔術師のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Uttering Hills Cave</Source>
+      <Dest>アターリング・ヒルズ洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Hakon One-Eye</Source>
+      <Dest>隻眼のハコン</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Spider</Source>
+      <Dest>ドワーフ・スパイダー</Dest>
+    </String>
+    <String List="0">
+      <Source>Neetrenaza</Source>
+      <Dest>ネートレナザ</Dest>
+    </String>
+    <String List="0">
+      <Source>Hammerfell Garb</Source>
+      <Dest>ハンマーフェルの服</Dest>
+    </String>
+    <String List="0">
+      <Source>Volunruud</Source>
+      <Dest>ヴォルンルード</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Dagger of Freezing</Source>
+      <Dest>ドワーフのダガー(凍結)</Dest>
+    </String>
+    <String List="0">
+      <Source>Stormcloak Cuirass</Source>
+      <Dest>ストームクロークのキュイラス</Dest>
+    </String>
+    <String List="0">
+      <Source>Novice Robes</Source>
+      <Dest>素人のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Arniel's Shade</Source>
+      <Dest>アーニエルの影</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth Ruins</Source>
+      <Dest>マルカルス遺跡</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Minor Alteration</Source>
+      <Dest>変性術のローブ(小)</Dest>
+    </String>
+    <String List="0">
+      <Source>Abandoned Prison</Source>
+      <Dest>廃墟と化した牢獄</Dest>
+    </String>
+    <String List="0">
+      <Source>Gloves</Source>
+      <Dest>手袋</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Minor Destruction</Source>
+      <Dest>破壊術のローブ(小)</Dest>
+    </String>
+    <String List="0">
+      <Source>Haemar's Cavern</Source>
+      <Dest>ハエマールの不名誉</Dest>
+    </String>
+    <String List="0">
+      <Source>FemaleEyesArgonian</Source>
+      <Dest>FemaleEyesArgonian</Dest>
+    </String>
+    <String List="0">
+      <Source>Dark Brotherhood Assassin</Source>
+      <Dest>闇の一党の暗殺者</Dest>
+    </String>
+    <String List="0">
+      <Source>General Tullius</Source>
+      <Dest>テュリウス将軍</Dest>
+    </String>
+    <String List="0">
+      <Source>Ansilvund Excavation</Source>
+      <Dest>アンシルヴァンドの穴</Dest>
+    </String>
+    <String List="0">
+      <Source>Karliah's Armor</Source>
+      <Dest>カーリアの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Minette Vinius</Source>
+      <Dest>ミネット・ビニウス</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Robes</Source>
+      <Dest>達人のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Snorreid</Source>
+      <Dest>スノレイド</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Minor Illusion</Source>
+      <Dest>幻惑術のローブ(小)</Dest>
+    </String>
+    <String List="0">
+      <Source>Elrindir</Source>
+      <Dest>エルリンドル</Dest>
+    </String>
+    <String List="0">
+      <Source>Noble Clothes</Source>
+      <Dest>貴族の服</Dest>
+    </String>
+    <String List="0">
+      <Source>Leather Armor</Source>
+      <Dest>革の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Bleak Falls Barrow</Source>
+      <Dest>ブリーク・フォール墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Elgrim</Source>
+      <Dest>エルグリム</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases armor rating by &lt;mag&gt; points and negates up to &lt;mag&gt; points of spell damage or effects.</Source>
+      <Dest>鎧の防御値を &lt;mag&gt; ポイント増加させ、呪文によるダメージや効果を最大 &lt;mag&gt; ポイント軽減する。</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Replenishing</Source>
+      <Dest>補給のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Aela the Huntress</Source>
+      <Dest>狩猟の女神アエラ</Dest>
+    </String>
+    <String List="0">
+      <Source>Fur Armor</Source>
+      <Dest>毛皮の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Marauder</Source>
+      <Dest>山賊略奪団</Dest>
+    </String>
+    <String List="0">
+      <Source>Saarthal</Source>
+      <Dest>サールザル</Dest>
+    </String>
+    <String List="0">
+      <Source>Anoriath</Source>
+      <Dest>アノリアス</Dest>
+    </String>
+    <String List="0">
+      <Source>Alessandra</Source>
+      <Dest>アレッサンドラ</Dest>
+    </String>
+    <String List="0">
+      <Source>Discover the treasure of Angarvunde</Source>
+      <Dest>アンガルブンデの宝を発見する</Dest>
+    </String>
+    <String List="0">
+      <Source>Kjar</Source>
+      <Dest>キジャール</Dest>
+    </String>
+    <String List="0">
+      <Source>Snow Veil Catacombs</Source>
+      <Dest>雪帷の聖域の地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Elven Light Armor</Source>
+      <Dest>エルフの軽装鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Frost Thrall</Source>
+      <Dest>氷の従徒</Dest>
+    </String>
+    <String List="0">
+      <Source>Orcish Armor</Source>
+      <Dest>オークの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Avulstein Gray-Mane</Source>
+      <Dest>アヴルスタイン・グレイ・メーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Fort Snowhawk</Source>
+      <Dest>スノーホーク砦</Dest>
+    </String>
+    <String List="0">
+      <Source>Subjugated Ghost</Source>
+      <Dest>虐げられた亡霊</Dest>
+    </String>
+    <String List="0">
+      <Source>Vex</Source>
+      <Dest>ヴェックス</Dest>
+    </String>
+    <String List="0">
+      <Source>Previous</Source>
+      <Dest>前</Dest>
+    </String>
+    <String List="0">
+      <Source>Aval Atheron</Source>
+      <Dest>アヴァル・アセロン</Dest>
+    </String>
+    <String List="0">
+      <Source>Iron Arrow</Source>
+      <Dest>鉄の矢</Dest>
+    </String>
+    <String List="0">
+      <Source>Flame Atronach abilities</Source>
+      <Dest>炎の精霊の能力</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr</Source>
+      <Dest>ドラウグル</Dest>
+    </String>
+    <String List="0">
+      <Source>Weakness to Poison</Source>
+      <Dest>毒耐性ダウン</Dest>
+    </String>
+    <String List="0">
+      <Source>Party Clothes</Source>
+      <Dest>パーティの服</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Overlord</Source>
+      <Dest>ドラウグル・オーバーロード</Dest>
+    </String>
+    <String List="0">
+      <Source>Glass Armor</Source>
+      <Dest>碧水晶の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Skjor</Source>
+      <Dest>スコール</Dest>
+    </String>
+    <String List="0">
+      <Source>Slow</Source>
+      <Dest>減速</Dest>
+    </String>
+    <String List="0">
+      <Source>Paralyze</Source>
+      <Dest>麻痺</Dest>
+    </String>
+    <String List="0">
+      <Source>Gauldur</Source>
+      <Dest>ゴールドール</Dest>
+    </String>
+    <String List="0">
+      <Source>Daedric Armor</Source>
+      <Dest>デイドラの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Skuldafn South Tower</Source>
+      <Dest>スクルダフン - 南の塔</Dest>
+    </String>
+    <String List="0">
+      <Source>Speak to &lt;Alias=Observer&gt;</Source>
+      <Dest>&lt;Alias=Observer&gt; と話す</Dest>
+    </String>
+    <String List="0">
+      <Source>Yngol Barrow</Source>
+      <Dest>ユンゴル墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Retrieve Dawnbreaker</Source>
+      <Dest>ドーンブレイカーを回収する</Dest>
+    </String>
+    <String List="0">
+      <Source>Sanctuary Guardian</Source>
+      <Dest>聖域のガーディアン</Dest>
+    </String>
+    <String List="0">
+      <Source>Apprentice Robes of Destruction</Source>
+      <Dest>見習い用破壊術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Northwatch Mage</Source>
+      <Dest>ノースウォッチの魔術師</Dest>
+    </String>
+    <String List="0">
+      <Source>Reverent Steel Dagger</Source>
+      <Dest>崇敬なる鋼鉄のダガー</Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnvald Temple</Source>
+      <Dest>ラグンヴァルド聖堂</Dest>
+    </String>
+    <String List="0">
+      <Source>Bring Meridia's beacon to Mount Kilkreath</Source>
+      <Dest>メリディアの灯をキルクリース山に持っていく</Dest>
+    </String>
+    <String List="0">
+      <Source>Whiterun Guard's Armor</Source>
+      <Dest>ホワイトラン衛兵の鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarven Greatsword of Fear</Source>
+      <Dest>ドワーフのグレートソード(恐怖)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dorian</Source>
+      <Dest>ドリアン</Dest>
+    </String>
+    <String List="0">
+      <Source>Cure Poison</Source>
+      <Dest>解毒</Dest>
+    </String>
+    <String List="0">
+      <Source>Ustengrav Depths</Source>
+      <Dest>ウステングラブの深部</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Plunderer</Source>
+      <Dest>山賊の略奪者</Dest>
+    </String>
+    <String List="0">
+      <Source>Radiant Raiment Fine Clothes</Source>
+      <Dest>レディアント装具店の高級服</Dest>
+    </String>
+    <String List="0">
+      <Source>Torbjorn</Source>
+      <Dest>トールビョルン</Dest>
+    </String>
+    <String List="0">
+      <Source>Stops poison's continuing effects.</Source>
+      <Dest>毒の持続効果を無効にする。</Dest>
+    </String>
+    <String List="0">
+      <Source>Refined Tunic</Source>
+      <Dest>上品なチュニック</Dest>
+    </String>
+    <String List="0">
+      <Source>Fortified Combat Healing</Source>
+      <Dest>上昇した戦闘治癒</Dest>
+    </String>
+    <String List="0">
+      <Source>Blades Armor</Source>
+      <Dest>ブレイズの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Kilkreath Catacombs</Source>
+      <Dest>キルクリースの地下墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Druadach Redoubt Cave</Source>
+      <Dest>ドルアダッチ要塞の洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Riverwood Trader</Source>
+      <Dest>リバーウッド・トレーダー</Dest>
+    </String>
+    <String List="0">
+      <Source>Boethiah Cultist</Source>
+      <Dest>ボエシア信者</Dest>
+    </String>
+    <String List="0">
+      <Source>Madesi</Source>
+      <Dest>マデシ</Dest>
+    </String>
+    <String List="0">
+      <Source>Thieves Guild Armor</Source>
+      <Dest>盗賊ギルドの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>(Invisible Continues Linked to Self)</Source>
+      <Dest>(見えないまま、自身にリンクする)</Dest>
+    </String>
+    <String List="0">
+      <Source>Giraud Gemane</Source>
+      <Dest>ジラウド・ゲマネ</Dest>
+    </String>
+    <String List="0">
+      <Source>Robes of Peerless Alteration</Source>
+      <Dest>変性術のローブ(無双)</Dest>
+    </String>
+    <String List="0">
+      <Source>Olfina Gray-Mane</Source>
+      <Dest>オルフィナ・グレイ・メーン</Dest>
+    </String>
+    <String List="0">
+      <Source>Find a way to open the gates</Source>
+      <Dest>門を開ける方法を見つける</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolf</Source>
+      <Dest>オオカミ</Dest>
+    </String>
+    <String List="0">
+      <Source>Novice Robes of Destruction</Source>
+      <Dest>素人の破壊術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Saffir</Source>
+      <Dest>サフィール</Dest>
+    </String>
+    <String List="0">
+      <Source>Curwe</Source>
+      <Dest>カーウェ</Dest>
+    </String>
+    <String List="0">
+      <Source>Green Robes</Source>
+      <Dest>ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Summerset Shadows Armor</Source>
+      <Dest>サマーセット・シャドウズの鎧</Dest>
+    </String>
+    <String List="0">
+      <Source>Cragslane Cavern</Source>
+      <Dest>クラッグスレイン洞窟</Dest>
+    </String>
+    <String List="0">
+      <Source>Frost Troll</Source>
+      <Dest>フロスト・トロール</Dest>
+    </String>
+    <String List="0">
+      <Source>Medresi Dran</Source>
+      <Dest>メドレシ・ドラン</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Mage Robes</Source>
+      <Dest>フード付きの魔術師のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Adept Robes of Destruction</Source>
+      <Dest>精鋭の破壊術ローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Unbound</Source>
+      <Dest>解放</Dest>
+    </String>
+    <String List="0">
+      <Source>Folgunthur Crypt</Source>
+      <Dest>フォルガンスール墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Forelhost Crypt</Source>
+      <Dest>フォーレルホスト墓地</Dest>
+    </String>
+    <String List="0">
+      <Source>Shavari</Source>
+      <Dest>シャヴァーリ</Dest>
+    </String>
+    <String List="0">
+      <Source>Staff of Calm</Source>
+      <Dest>鎮静の杖</Dest>
+    </String>
+    <String List="0">
+      <Source>Blue Mage Robes</Source>
+      <Dest>魔術師のローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Kilkreath Temple</Source>
+      <Dest>キルクリース聖堂</Dest>
+    </String>
+    <String List="0">
+      <Source>Embershard Mine</Source>
+      <Dest>エンバーシャード鉱山</Dest>
+    </String>
+    <String List="0">
+      <Source>A blood-freezing poison that does &lt;mag&gt; points damage to Health and Stamina for &lt;dur&gt; seconds.</Source>
+      <Dest>血を凍らせる毒で、体力とスタミナに &lt;mag&gt; ポイントのダメージを &lt;dur&gt; 秒間与える。</Dest>
+    </String>
+    <String List="0">
+      <Source>MaleEyesOrcBlind</Source>
+      <Dest>MaleEyesOrcBlind</Dest>
+    </String>
+    <String List="0">
+      <Source>Hooded Black Robes</Source>
+      <Dest>フード付きのローブ</Dest>
+    </String>
+    <String List="0">
+      <Source>Sabjorn</Source>
+      <Dest>サビョルン</Dest>
+    </String>
+    <String List="1">
+      <Source>I have escaped both my execution and a dragon attack at Helgen. I now have my freedom to do as I see fit in Skyrim.</Source>
+      <Dest>処刑される運命からも、ヘルゲンに対するドラゴンの襲撃からも逃れられた。これでスカイリム内を自由に行動できる。</Dest>
+    </String>
+    <String List="1">
+      <Source>The Companions leaders say they don't have any more work for me, but that I should speak to Skjor about "the next steps."</Source>
+      <Dest>同胞団の指導者に、今のところ仕事はないが、 " 次の段階 " についてスコールと話すように言われた。</Dest>
+    </String>
+    <String List="1">
+      <Source>Especially effective against undead.</Source>
+      <Dest>アンデッドに対しては特に効果がある。</Dest>
+    </String>
+    <String List="1">
+      <Source>All spells cost &lt;15&gt;% less to cast, and magicka regenerates &lt;100&gt;% faster.</Source>
+      <Dest>あらゆる呪文のマジカ消費が &lt;15&gt;%減少する。マジカの回復が &lt;100&gt;%早くなる。</Dest>
+    </String>
+    <String List="1">
+      <Source>Prices are &lt;12&gt;% better, and damage with One-Handed weapons is &lt;12&gt;% better.</Source>
+      <Dest>売買の価格が &lt;12&gt;%良くなり、片手武器によるダメージも &lt;12&gt;%高まる。</Dest>
+    </String>
+    <String List="1">
+      <Source>Dual wielding power attacks do 50% bonus damage.</Source>
+      <Dest>二刀流で強力な攻撃を行うと、50%のボーナスダメージを与えられる。</Dest>
+    </String>
+    <String List="1">
+      <Source>;</Source>
+      <Dest>;</Dest>
+    </String>
+    <String List="1">
+      <Source>An otherworldly voice coming from Mount Kilkreath is commanding me to find a beacon and return it.</Source>
+      <Dest>キルクリース山からのこの世のものとは思えない声が、灯を見つけて戻すよう命令している。</Dest>
+    </String>
+    <String List="1">
+      <Source>I've found a strange gem. An otherworldly voice is commanding me to bring it to Mount Kilkreath.</Source>
+      <Dest>不思議な石を見つけた。別世界から聞こえるような声が、その石をキルクリース山に持っていくよう命じている。</Dest>
+    </String>
+    <String List="1">
+      <Source>I successfully retrieved a fragment of Wuuthrad, the Blade of Ysgramor, to earn my place in the Companions.</Source>
+      <Dest>イスグラモルの武器の一部であるウースラドの破片の回収に成功し、“同胞団”に入団することができた。</Dest>
+    </String>
+    <String List="1">
+      <Source>The Companions have given me one final challenge before inducting me. I'm to retrieve a fragment of Wuuthrad, the Blade of Ysgramor, from &lt;Alias=Dungeon&gt; while &lt;Alias=Observer&gt; judges my valor.</Source>
+      <Dest>同胞団に正式に入団するため、最後の試練を与えられた。イスグラモルの武器であったウースラドの破片を &lt;Alias=Dungeon&gt; から取り戻させ、 &lt;Alias=Observer&gt; に勇気を見定めさせるつもりだ。</Dest>
+    </String>
+    <String List="1">
+      <Source>Meridia has commanded me to enter Kilkreath Ruins, destroy Malkoran, and retrieve the artifact Dawnbreaker. I will need to guide a beam of light through the ruins which will open the way for me.</Source>
+      <Dest>メリディアにキルクリースの遺跡に入ってマルコランを倒し、秘宝ドーンブレイカーを取り戻すように命じられた。道を切り開いてくれる、遺跡を貫く一筋の光を導かねばならない。</Dest>
+    </String>
+    <String List="1">
+      <Source></Source>
+      <Dest></Dest>
+    </String>
+    <String List="1">
+      <Source>Two-Handed weapons do 20% more damage.</Source>
+      <Dest>両手武器のダメージが20%増加する。</Dest>
+    </String>
+    <String List="1">
+      <Source>Once a day, heals 250 points automatically if you fall below 10% health.</Source>
+      <Dest>1日1回、体力が10%以下になった時、自動的に250ポイント回復する。</Dest>
+    </String>
+    <String List="1">
+      <Source>I have been captured by the Empire and sentenced to death alongside the Stormcloak rebels. We were taken to Helgen, but before I could be executed a dragon appeared and attacked the town. I need to find some way to escape.</Source>
+      <Dest>帝国に捕まり、反逆者ストームクロークたちと一緒に死刑を宣告された。ヘルゲンへ連れていかれたが、処刑の前にドラゴンが現れて町を襲った。脱出する方法を探さなければならない。</Dest>
+    </String>
+    <String List="1">
+      <Source>50 extra points of magicka, 50% absorb spells, Magicka regens at 50%.</Source>
+      <Dest>マジカが50ポイント上昇し、呪文を50%吸収する。マジカの回復は50%になる。</Dest>
+    </String>
+    <String List="2">
+      <Source>No problem.</Source>
+      <Dest>分かった</Dest>
+    </String>
+    <String List="2">
+      <Source>Just have a few swings at me so I can see your form. Don't worry, I can take it.</Source>
+      <Dest>俺に向かってちょっと攻撃してみろ。腕を見てやる。心配するな、ちゃんと受け止めるから</Dest>
+    </String>
+    <String List="2">
+      <Source>I have a letter here for you.</Source>
+      <Dest>手紙だ</Dest>
+    </String>
+    <String List="2">
+      <Source>A letter... not sure who from. He wouldn't say. Just that he was a friend of yours.</Source>
+      <Dest>手紙…　差出人は知らない。言わなかったんだ。ただ、友達だって</Dest>
+    </String>
+    <String List="2">
+      <Source>The old man said to have a look at you, so let's do this.</Source>
+      <Dest>あの老人からお前の力を見るよう言われている。さあ、やろうじゃないか</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
