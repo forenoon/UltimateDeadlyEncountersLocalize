@@ -636,7 +636,7 @@
     </String>
     <String List="0">
       <Source>Arcane Devourer</Source>
-      <Dest>秘匿されし破壊者</Dest>
+      <Dest>アルケインの破壊者</Dest>
     </String>
     <String List="0">
       <Source>Turn Walking Dangers On</Source>
@@ -3308,7 +3308,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>X Lich King's Mask (Shadow) X</Source>
-      <Dest>†リッチキングの仮面†</Dest>
+      <Dest>X リッチキングの仮面 X</Dest>
     </String>
     <String List="0">
       <Source>Hall of the Dead</Source>
@@ -4536,7 +4536,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>'Eo Geom' (Mean Control and Rule the Sword)</Source>
-      <Dest>Eo Geom</Dest>
+      <Dest>"Eo Geom Summon Swords - Lightning Order"</Dest>
     </String>
     <String List="0">
       <Source>Mephala Axe</Source>
@@ -5266,7 +5266,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Glass Arrow Chameleon</Source>
-      <Dest>ガラス矢の迷彩者</Dest>
+      <Dest>カメレオンのガラスの矢</Dest>
     </String>
     <String List="0">
       <Source>Increase by 10</Source>
@@ -5362,7 +5362,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>X Lich King's Helmet X</Source>
-      <Dest>†リッチキングの兜†</Dest>
+      <Dest>X リッチキングの兜 X</Dest>
     </String>
     <String List="0">
       <Source>Stormbringer leeches &lt;mag&gt; points of stamina per hit.</Source>
@@ -5530,7 +5530,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>X Lich King's Plate of the Damned  X</Source>
-      <Dest>†リッチキングの呪鎧†</Dest>
+      <Dest>X リッチキングの呪鎧 X</Dest>
     </String>
     <String List="0">
       <Source>Fear Oil Exquisite</Source>
@@ -6050,7 +6050,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>X Lich King's Gauntlets X</Source>
-      <Dest>†リッチキングの篭手†</Dest>
+      <Dest>X リッチキングの篭手 X</Dest>
     </String>
     <String List="0">
       <Source>Dreadweave arrow</Source>
@@ -6338,7 +6338,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Eo Geom Continuation</Source>
-      <Dest>Eo Geom 召喚</Dest>
+      <Dest>Eo Geom 再装填</Dest>
     </String>
     <String List="0">
       <Source>Remorseless Winter</Source>
@@ -6798,7 +6798,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>X Lich King's Mail Hood X</Source>
-      <Dest>†リッチキングのフード†</Dest>
+      <Dest>X リッチキングのフード X</Dest>
     </String>
     <String List="0">
       <Source>Blue Mage Journeyman Hood</Source>
@@ -7638,7 +7638,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>X Lich King's Plate of the Damned (Capeless) X</Source>
-      <Dest>†リッチキングの呪鎧†</Dest>
+      <Dest>X リッチキングの呪鎧 X</Dest>
     </String>
     <String List="0">
       <Source>Dark Novice Robes of Resistance</Source>
@@ -8684,7 +8684,7 @@ Sometimes, there are cases where it scares the enemy.</Source>
     </String>
     <String List="0">
       <Source>X Lich King's Boots X</Source>
-      <Dest>†リッチキングのブーツ†</Dest>
+      <Dest>X リッチキングのブーツ X</Dest>
     </String>
     <String List="0">
       <Source>Dice Roll 1 Plus 1</Source>
@@ -9236,7 +9236,7 @@ Sometimes, there are cases where it scares the enemy.</Source>
     </String>
     <String List="0">
       <Source>X Lich Kings Claw Shield of Dreadful Force X</Source>
-      <Dest>†リッチキングの極死爪†</Dest>
+      <Dest>X リッチキングの極死爪 X</Dest>
     </String>
     <String List="0">
       <Source>Dice Roll 2 Minus 1</Source>
