@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_nomagic.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Magic Fizzles Out!</Source>
+      <Dest>Magic Fizzles Out!</Dest>
+    </String>
+    <String List="0">
+      <Source>Magic Is Not Working!</Source>
+      <Dest>Magic Is Not Working!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

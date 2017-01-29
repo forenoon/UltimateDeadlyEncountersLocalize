@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>walkingdangerson.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Already Turned On!</Source>
+      <Dest>Already Turned On!</Dest>
+    </String>
+    <String List="0">
+      <Source>Toggled On!</Source>
+      <Dest>Toggled On!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

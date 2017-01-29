@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>rll_menuscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Brain Benefits</Source>
+      <Dest>Brain Benefits</Dest>
+    </String>
+    <String List="0">
+      <Source>Health Boost</Source>
+      <Dest>Health Boost</Dest>
+    </String>
+    <String List="0">
+      <Source>Stamina Boost</Source>
+      <Dest>Stamina Boost</Dest>
+    </String>
+    <String List="0">
+      <Source>Heart Benefits</Source>
+      <Dest>Heart Benefits</Dest>
+    </String>
+    <String List="0">
+      <Source>Viscera Benefits</Source>
+      <Dest>Viscera Benefits</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Finding Items (Scroll Down)</Source>
+      <Dest>Odds of Finding Items (Scroll Down)</Dest>
+    </String>
+    <String List="0">
+      <Source>Gold</Source>
+      <Dest>Gold</Dest>
+    </String>
+    <String List="0">
+      <Source>Rings</Source>
+      <Dest>Rings</Dest>
+    </String>
+    <String List="0">
+      <Source>Necklaces</Source>
+      <Dest>Necklaces</Dest>
+    </String>
+    <String List="0">
+      <Source>Armor</Source>
+      <Dest>Armor</Dest>
+    </String>
+    <String List="0">
+      <Source>Enchanted Armor</Source>
+      <Dest>Enchanted Armor</Dest>
+    </String>
+    <String List="0">
+      <Source>Weapon</Source>
+      <Dest>Weapon</Dest>
+    </String>
+    <String List="0">
+      <Source>Enchanted Weapon</Source>
+      <Dest>Enchanted Weapon</Dest>
+    </String>
+    <String List="0">
+      <Source>Gems</Source>
+      <Dest>Gems</Dest>
+    </String>
+    <String List="0">
+      <Source>Soul Gems</Source>
+      <Dest>Soul Gems</Dest>
+    </String>
+    <String List="0">
+      <Source>Potions</Source>
+      <Dest>Potions</Dest>
+    </String>
+    <String List="0">
+      <Source>Food</Source>
+      <Dest>Food</Dest>
+    </String>
+    <String List="0">
+      <Source>Food Uncommon - Brains, Blood, Etc</Source>
+      <Dest>Food Uncommon - Brains, Blood, Etc</Dest>
+    </String>
+    <String List="0">
+      <Source>Tomes</Source>
+      <Dest>Tomes</Dest>
+    </String>
+    <String List="0">
+      <Source>Scrolls</Source>
+      <Dest>Scrolls</Dest>
+    </String>
+    <String List="0">
+      <Source>Lockpicks</Source>
+      <Dest>Lockpicks</Dest>
+    </String>
+    <String List="0">
+      <Source>Drinks</Source>
+      <Dest>Drinks</Dest>
+    </String>
+    <String List="0">
+      <Source>Ore</Source>
+      <Dest>Ore</Dest>
+    </String>
+    <String List="0">
+      <Source>Jewelry</Source>
+      <Dest>Jewelry</Dest>
+    </String>
+    <String List="0">
+      <Source>Jewelry Enchanted</Source>
+      <Dest>Jewelry Enchanted</Dest>
+    </String>
+    <String List="0">
+      <Source>Ingredients</Source>
+      <Dest>Ingredients</Dest>
+    </String>
+    <String List="0">
+      <Source>Ingredients Rare</Source>
+      <Dest>Ingredients Rare</Dest>
+    </String>
+    <String List="0">
+      <Source>Misc Loot</Source>
+      <Dest>Misc Loot</Dest>
+    </String>
+    <String List="0">
+      <Source>Ingots</Source>
+      <Dest>Ingots</Dest>
+    </String>
+    <String List="0">
+      <Source>Hides</Source>
+      <Dest>Hides</Dest>
+    </String>
+    <String List="0">
+      <Source>Overall Odds of Finding Treasure</Source>
+      <Dest>Overall Odds of Finding Treasure</Dest>
+    </String>
+    <String List="0">
+      <Source>From Undead NPCs</Source>
+      <Dest>From Undead NPCs</Dest>
+    </String>
+    <String List="0">
+      <Source>From All Other NPCS</Source>
+      <Dest>From All Other NPCS</Dest>
+    </String>
+    <String List="0">
+      <Source>Quick Presets</Source>
+      <Dest>Quick Presets</Dest>
+    </String>
+    <String List="0">
+      <Source>Light Loot Drops</Source>
+      <Dest>Light Loot Drops</Dest>
+    </String>
+    <String List="0">
+      <Source>Normal Loot Drops</Source>
+      <Dest>Normal Loot Drops</Dest>
+    </String>
+    <String List="0">
+      <Source>Heavy Loot Drops</Source>
+      <Dest>Heavy Loot Drops</Dest>
+    </String>
+    <String List="0">
+      <Source>Not Set</Source>
+      <Dest>Not Set</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines how much health boost from eating a brain</Source>
+      <Dest>Determines how much health boost from eating a brain</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines how much stamina boost from eating a brain</Source>
+      <Dest>Determines how much stamina boost from eating a brain</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines how much health boost from eating a heart</Source>
+      <Dest>Determines how much health boost from eating a heart</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines how much stamina boost from eating a heart</Source>
+      <Dest>Determines how much stamina boost from eating a heart</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines how much health boost from eating viscera (guts)</Source>
+      <Dest>Determines how much health boost from eating viscera (guts)</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines how much stamina boost from eating viscear (guts)</Source>
+      <Dest>Determines how much stamina boost from eating viscear (guts)</Dest>
+    </String>
+    <String List="0">
+      <Source>Careful. Determines the odds of the item NOT being dropped.  SO setting Armor at 100 means 100 percent chance of NO drop.</Source>
+      <Dest>Careful. Determines the odds of the item NOT being dropped.  SO setting Armor at 100 means 100 percent chance of NO drop.</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines wether a NPC who is alive will drop anything at all. 100 means no drop. 1 means a 99% chance of dropping something on death. This check over rides all others.</Source>
+      <Dest>Determines wether a NPC who is alive will drop anything at all. 100 means no drop. 1 means a 99% chance of dropping something on death. This check over rides all others.</Dest>
+    </String>
+    <String List="0">
+      <Source>Determines wether a NPC who is Undead will drop anything at all. 100 means no drop. 1 means a 99% chance of dropping something on being killed. This check over rides all others.</Source>
+      <Dest>Determines wether a NPC who is Undead will drop anything at all. 100 means no drop. 1 means a 99% chance of dropping something on being killed. This check over rides all others.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

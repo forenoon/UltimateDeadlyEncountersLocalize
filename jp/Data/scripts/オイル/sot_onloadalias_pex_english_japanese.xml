@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_onloadalias.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Oil Perk Added!</Source>
+      <Dest>オイルパークが追加された！</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

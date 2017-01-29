@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>savescript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I have enough of this type...</Source>
+      <Dest>I have enough of this type...</Dest>
+    </String>
+    <String List="0">
+      <Source>My Armor is Degrading...</Source>
+      <Dest>My Armor is Degrading...</Dest>
+    </String>
+    <String List="0">
+      <Source>Initialize Degradation of Items...</Source>
+      <Dest>Initialize Degradation of Items...</Dest>
+    </String>
+    <String List="0">
+      <Source>Detection is running </Source>
+      <Dest>Detection is running </Dest>
+    </String>
+    <String List="0">
+      <Source>..End of Items initialization..</Source>
+      <Dest>..End of Items initialization..</Dest>
+    </String>
+    <String List="0">
+      <Source>Bug ! Reinitialize the mod degradation with the ring in inventory ! (choose &lt;no degradation&gt;). Then load your save and select new degrade mode.</Source>
+      <Dest>Bug ! Reinitialize the mod degradation with the ring in inventory ! (choose &lt;no degradation&gt;). Then load your save and select new degrade mode.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your Weapon Degrades !</Source>
+      <Dest>Your Weapon Degrades !</Dest>
+    </String>
+    <String List="0">
+      <Source>Your Weapon is Destroyed !</Source>
+      <Dest>Your Weapon is Destroyed !</Dest>
+    </String>
+    <String List="0">
+      <Source>Your Weapon is Broken !</Source>
+      <Dest>Your Weapon is Broken !</Dest>
+    </String>
+    <String List="0">
+      <Source>One Piece of Your Armor is Destroyed !</Source>
+      <Dest>One Piece of Your Armor is Destroyed !</Dest>
+    </String>
+    <String List="0">
+      <Source>One Piece of Your Armor Has Broken !</Source>
+      <Dest>One Piece of Your Armor Has Broken !</Dest>
+    </String>
+    <String List="0">
+      <Source>Your Armor Degrades !</Source>
+      <Dest>Your Armor Degrades !</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

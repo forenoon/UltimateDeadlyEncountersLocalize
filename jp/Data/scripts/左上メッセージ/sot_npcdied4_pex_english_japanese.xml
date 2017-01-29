@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_npcdied4.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>ScriptsbeingProcessed: </Source>
+      <Dest>ScriptsbeingProcessed: </Dest>
+    </String>
+    <String List="0">
+      <Source>I Have Killed An Innocent!</Source>
+      <Dest>I Have Killed An Innocent!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

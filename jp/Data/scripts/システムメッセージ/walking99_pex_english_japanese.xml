@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>walking99.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Encounters Set to Bleeding Ultra Rare!</Source>
+      <Dest>Encounters Set to Bleeding Ultra Rare!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_shieldwall.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Chaos Shield Spell Is Forgotten...</Source>
+      <Dest>Chaos Shield Spell Is Forgotten...</Dest>
+    </String>
+    <String List="0">
+      <Source>Chaos Shield Spell Is Starting to Fade From My Memory...</Source>
+      <Dest>Chaos Shield Spell Is Starting to Fade From My Memory...</Dest>
+    </String>
+    <String List="0">
+      <Source>Shield Activated</Source>
+      <Dest>Shield Activated</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

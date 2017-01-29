@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>frosty05.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Changing Faction Associations...</Source>
+      <Dest>Changing Faction Associations...</Dest>
+    </String>
+    <String List="0">
+      <Source>Finished...</Source>
+      <Dest>Finished...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

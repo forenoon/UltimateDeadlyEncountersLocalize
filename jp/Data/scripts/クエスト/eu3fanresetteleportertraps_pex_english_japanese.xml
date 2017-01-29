@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>eu3fanresetteleportertraps.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Purging all teleportation traps</Source>
+      <Dest>Purging all teleportation traps</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

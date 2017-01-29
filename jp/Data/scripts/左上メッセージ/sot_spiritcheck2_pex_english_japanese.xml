@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_spiritcheck2.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Spirit Bleeding Out!</Source>
+      <Dest>Spirit Bleeding Out!</Dest>
+    </String>
+    <String List="0">
+      <Source>Spirit Killed!</Source>
+      <Dest>Spirit Killed!</Dest>
+    </String>
+    <String List="0">
+      <Source>Spirit Will Cast Mage Light for Testing!</Source>
+      <Dest>Spirit Will Cast Mage Light for Testing!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

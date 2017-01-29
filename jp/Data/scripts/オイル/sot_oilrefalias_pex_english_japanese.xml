@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_oilrefalias.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Player just reached level </Source>
+      <Dest>次のプレイヤーレベルに到達した: </Dest>
+    </String>
+    <String List="0">
+      <Source>Legendary Oil Perk Added! </Source>
+      <Dest>オイル(伝説的)パークが追加された！ </Dest>
+    </String>
+    <String List="0">
+      <Source>Epic Oil Perk Added! </Source>
+      <Dest>オイル(エピック)パークが追加された！</Dest>
+    </String>
+    <String List="0">
+      <Source>Flawless Oil Perk Added! </Source>
+      <Dest>オイル(上質)パークが追加された！ </Dest>
+    </String>
+    <String List="0">
+      <Source>Exquisite Oil Perk Added! </Source>
+      <Dest>オイル(精巧さ)パークが追加された！</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sotsleepmcm.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>How Many Seconds After Waking Up Before Enemy Can Attack</Source>
+      <Dest>How Many Seconds After Waking Up Before Enemy Can Attack</Dest>
+    </String>
+    <String List="0">
+      <Source>Wether to allow Forced First Person View When Waking Up.</Source>
+      <Dest>Wether to allow Forced First Person View When Waking Up.</Dest>
+    </String>
+    <String List="0">
+      <Source>Wether to allow notification of attack.  A pop up window will announce the Ambush.</Source>
+      <Dest>Wether to allow notification of attack.  A pop up window will announce the Ambush.</Dest>
+    </String>
+    <String List="0">
+      <Source>Will mark a small room or sleeping area as encounter free when sleeping.  Useful for a custom player home. 6 Safe Locations are provided. Please select any of the 6 to set this location as safe.</Source>
+      <Dest>Will mark a small room or sleeping area as encounter free when sleeping.  Useful for a custom player home. 6 Safe Locations are provided. Please select any of the 6 to set this location as safe.</Dest>
+    </String>
+    <String List="0">
+      <Source>When the player wakes up, and if laying on bed animations are not enabled, the player will be drowsy and sluggish to respond for a second.</Source>
+      <Dest>When the player wakes up, and if laying on bed animations are not enabled, the player will be drowsy and sluggish to respond for a second.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In All Other Places.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In All Other Places.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Draugr Keep.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Draugr Keep.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Inn.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Inn.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In Jorrvaskr HQ.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In Jorrvaskr HQ.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In the Mages College.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In the Mages College.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Dungeon.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Dungeon.</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Encounters (Scroll Down)</Source>
+      <Dest>Sleeping Encounters (Scroll Down)</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Ambush Odds</Source>
+      <Dest>Dungeon Ambush Odds</Dest>
+    </String>
+    <String List="0">
+      <Source>College Ambush Odds</Source>
+      <Dest>College Ambush Odds</Dest>
+    </String>
+    <String List="0">
+      <Source>Jorrvaskr Hall HQ</Source>
+      <Dest>Jorrvaskr Hall HQ</Dest>
+    </String>
+    <String List="0">
+      <Source>Inn Ambush Odds</Source>
+      <Dest>Inn Ambush Odds</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Keep Ambush Odds</Source>
+      <Dest>Draugr Keep Ambush Odds</Dest>
+    </String>
+    <String List="0">
+      <Source>All Other Places</Source>
+      <Dest>All Other Places</Dest>
+    </String>
+    <String List="0">
+      <Source>Other Settings</Source>
+      <Dest>Other Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Drowsy Effect</Source>
+      <Dest>Allow Drowsy Effect</Dest>
+    </String>
+    <String List="0">
+      <Source>Mark up to 6 Spots Safe for Sleep</Source>
+      <Dest>Mark up to 6 Spots Safe for Sleep</Dest>
+    </String>
+    <String List="0">
+      <Source>Mark Safe</Source>
+      <Dest>Mark Safe</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Encounter Notification</Source>
+      <Dest>Allow Encounter Notification</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Forced 1st Person View</Source>
+      <Dest>Allow Forced 1st Person View</Dest>
+    </String>
+    <String List="0">
+      <Source>Combat Delay While Waking Up</Source>
+      <Dest>Combat Delay While Waking Up</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

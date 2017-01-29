@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_banditvanilla.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>...I Have a Bad Feeling...</Source>
+      <Dest>...I Have a Bad Feeling...</Dest>
+    </String>
+    <String List="0">
+      <Source>...It&apos;s A Trap!</Source>
+      <Dest>...It&apos;s A Trap!</Dest>
+    </String>
+    <String List="0">
+      <Source>...This Feels Wrong...</Source>
+      <Dest>...This Feels Wrong...</Dest>
+    </String>
+    <String List="0">
+      <Source>...Deadly Encounter!</Source>
+      <Dest>...Deadly Encounter!</Dest>
+    </String>
+    <String List="0">
+      <Source>...Bandit Mob Ahead!</Source>
+      <Dest>...Bandit Mob Ahead!</Dest>
+    </String>
+    <String List="0">
+      <Source>...They Are Everywhere!</Source>
+      <Dest>...They Are Everywhere!</Dest>
+    </String>
+    <String List="0">
+      <Source>...Ambush!</Source>
+      <Dest>...Ambush!</Dest>
+    </String>
+    <String List="0">
+      <Source>...More Bandits Approach!</Source>
+      <Dest>...More Bandits Approach!</Dest>
+    </String>
+    <String List="0">
+      <Source>...I Am Cornered!</Source>
+      <Dest>...I Am Cornered!</Dest>
+    </String>
+    <String List="0">
+      <Source>...There Are More of Them!</Source>
+      <Dest>...There Are More of Them!</Dest>
+    </String>
+    <String List="0">
+      <Source>...Where Do They Come From!</Source>
+      <Dest>...Where Do They Come From!</Dest>
+    </String>
+    <String List="0">
+      <Source>...Going from Bad to Worse!</Source>
+      <Dest>...Going from Bad to Worse!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

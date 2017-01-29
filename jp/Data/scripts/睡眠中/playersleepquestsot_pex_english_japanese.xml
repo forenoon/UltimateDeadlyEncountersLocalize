@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>playersleepquestsot.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Ambush!</Source>
+      <Dest>Ambush!</Dest>
+    </String>
+    <String List="0">
+      <Source>You Hear Something!</Source>
+      <Dest>You Hear Something!</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hand Werewolf Hunters!</Source>
+      <Dest>Silver Hand Werewolf Hunters!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire Hunters!</Source>
+      <Dest>Vampire Hunters!</Dest>
+    </String>
+    <String List="0">
+      <Source>Highway Men!</Source>
+      <Dest>Highway Men!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dawnguard Attack!</Source>
+      <Dest>The Dawnguard Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Assassins!</Source>
+      <Dest>Thalmor Assassins!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

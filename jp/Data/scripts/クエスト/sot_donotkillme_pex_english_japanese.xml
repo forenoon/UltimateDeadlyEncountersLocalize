@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_donotkillme.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>The Goddess Mara Punishes You!</Source>
+      <Dest>The Goddess Mara Punishes You!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Goddess Mara Is Displeased!</Source>
+      <Dest>The Goddess Mara Is Displeased!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Can Choose To Be Merciful Today...</Source>
+      <Dest>I Can Choose To Be Merciful Today...</Dest>
+    </String>
+    <String List="0">
+      <Source>Do I Spill This Blood...</Source>
+      <Dest>Do I Spill This Blood...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Can Let the Wretch Go...</Source>
+      <Dest>I Can Let the Wretch Go...</Dest>
+    </String>
+    <String List="0">
+      <Source>Do I Spare This Life?</Source>
+      <Dest>Do I Spare This Life?</Dest>
+    </String>
+    <String List="0">
+      <Source>I Can Reign in My Wrath...</Source>
+      <Dest>I Can Reign in My Wrath...</Dest>
+    </String>
+    <String List="0">
+      <Source>The Goddess Mara Approves of You!</Source>
+      <Dest>The Goddess Mara Approves of You!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

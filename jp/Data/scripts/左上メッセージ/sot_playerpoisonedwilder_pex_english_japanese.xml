@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_playerpoisonedwilder.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I Have Been Mortally Poisoned!</Source>
+      <Dest>I Have Been Mortally Poisoned!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Have Been Poisoned!</Source>
+      <Dest>I Have Been Poisoned!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Not Experienced Enough To Equip This Ammo!</Source>
+      <Dest>I Am Not Experienced Enough To Equip This Ammo!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Enchantment Dispells!</Source>
+      <Dest>Mephala Enchantment Dispells!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_pebblemultimenu.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You Need More Pebbles!</Source>
+      <Dest>もっと玉石が必要だ！</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

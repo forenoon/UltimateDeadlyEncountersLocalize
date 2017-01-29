@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>pf_sot_eat_050db174.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Reward Will Be Delivered To You!</Source>
+      <Dest>Reward Will Be Delivered To You!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

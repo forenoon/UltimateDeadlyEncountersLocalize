@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_mephaladagger.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I Am Not Experienced Enough For This Dagger!</Source>
+      <Dest>I Am Not Experienced Enough For This Dagger!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Enchantment Dispells!</Source>
+      <Dest>Mephala Enchantment Dispells!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Weapon Implodes!</Source>
+      <Dest>Mephala Weapon Implodes!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Weapon Self Destructs!</Source>
+      <Dest>Mephala Weapon Self Destructs!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

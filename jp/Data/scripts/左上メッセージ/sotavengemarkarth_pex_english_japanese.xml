@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sotavengemarkarth.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Dibella is Angered!</Source>
+      <Dest>Dibella is Angered!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dibella is Offended!</Source>
+      <Dest>Dibella is Offended!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Desecration Is Noticed!</Source>
+      <Dest>The Desecration Is Noticed!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dibella Punishes Me!</Source>
+      <Dest>Dibella Punishes Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dibella Sends Death!</Source>
+      <Dest>Dibella Sends Death!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

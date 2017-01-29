@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_startmod.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Shirak!</Source>
+      <Dest>Shirak!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod Armed! Now, please save your game, exit to the desktop, and start the game again.  Please Endorse if you like the mod.</Source>
+      <Dest>Mod Armed! Now, please save your game, exit to the desktop, and start the game again.  Please Endorse if you like the mod.</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Encounters Initialized!</Source>
+      <Dest>Walking Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Waiting Encounters Initialized!</Source>
+      <Dest>Waiting Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Fast Traveling Encounters Initialized!</Source>
+      <Dest>Fast Traveling Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dulak!</Source>
+      <Dest>Dulak!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

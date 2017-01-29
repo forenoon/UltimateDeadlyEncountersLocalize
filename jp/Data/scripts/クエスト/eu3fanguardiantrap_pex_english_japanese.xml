@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>eu3fanguardiantrap.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Guardian Node is already in this mode.</Source>
+      <Dest>Guardian Node is already in this mode.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node needs to be turned off first.</Source>
+      <Dest>Guardian Node needs to be turned off first.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node is switching to Berserk mode.</Source>
+      <Dest>Guardian Node is switching to Berserk mode.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node is switching to Sentry mode.</Source>
+      <Dest>Guardian Node is switching to Sentry mode.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node is switching to Passive mode.</Source>
+      <Dest>Guardian Node is switching to Passive mode.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node now persists after you leave the room.</Source>
+      <Dest>Guardian Node now persists after you leave the room.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node now retires after you leave the room.</Source>
+      <Dest>Guardian Node now retires after you leave the room.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node now activates if a character triggers it and it is not busy.</Source>
+      <Dest>Guardian Node now activates if a character triggers it and it is not busy.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node now does not activate upon trigger.</Source>
+      <Dest>Guardian Node now does not activate upon trigger.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node is now turned on.</Source>
+      <Dest>Guardian Node is now turned on.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node is busy or already turned on.</Source>
+      <Dest>Guardian Node is busy or already turned on.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node is now turned off.</Source>
+      <Dest>Guardian Node is now turned off.</Dest>
+    </String>
+    <String List="0">
+      <Source>Guardian Node is busy or already turned off.</Source>
+      <Dest>Guardian Node is busy or already turned off.</Dest>
+    </String>
+    <String List="0">
+      <Source>Recruiting new Sentinel.</Source>
+      <Dest>Recruiting new Sentinel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Only marryable, recruitable, or unique individuals can be recruited.</Source>
+      <Dest>Only marryable, recruitable, or unique individuals can be recruited.</Dest>
+    </String>
+    <String List="0">
+      <Source>There is no deceased in range for recruitment.</Source>
+      <Dest>There is no deceased in range for recruitment.</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot recruit more than </Source>
+      <Dest>Cannot recruit more than </Dest>
+    </String>
+    <String List="0">
+      <Source> Sentinel.</Source>
+      <Dest> Sentinel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Device has not seen any dead bodies yet.</Source>
+      <Dest>Device has not seen any dead bodies yet.</Dest>
+    </String>
+    <String List="0">
+      <Source>Node must be turned off for recruitment to begin.</Source>
+      <Dest>Node must be turned off for recruitment to begin.</Dest>
+    </String>
+    <String List="0">
+      <Source>Node is busy. Wait for it to finish and try again. </Source>
+      <Dest>Node is busy. Wait for it to finish and try again. </Dest>
+    </String>
+    <String List="0">
+      <Source>Retiring Guardian Node.</Source>
+      <Dest>Retiring Guardian Node.</Dest>
+    </String>
+    <String List="0">
+      <Source>No Sentinel is found in this slot</Source>
+      <Dest>No Sentinel is found in this slot</Dest>
+    </String>
+    <String List="0">
+      <Source>This Sentinel is already enlisted.</Source>
+      <Dest>This Sentinel is already enlisted.</Dest>
+    </String>
+    <String List="0">
+      <Source>Enlisting Sentinel.</Source>
+      <Dest>Enlisting Sentinel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Freeing Sentinel.</Source>
+      <Dest>Freeing Sentinel.</Dest>
+    </String>
+    <String List="0">
+      <Source>This Guardian Node is currently busy recruiting a new Sentinel.</Source>
+      <Dest>This Guardian Node is currently busy recruiting a new Sentinel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Please wait for Guardian Node to finish turning on.</Source>
+      <Dest>Please wait for Guardian Node to finish turning on.</Dest>
+    </String>
+    <String List="0">
+      <Source>Please wait for Guardian Node to finish turning off.</Source>
+      <Dest>Please wait for Guardian Node to finish turning off.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

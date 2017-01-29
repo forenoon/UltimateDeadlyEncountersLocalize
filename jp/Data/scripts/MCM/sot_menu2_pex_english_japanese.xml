@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_menu2.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Location 1 is Set</Source>
+      <Dest>Location 1 is Set</Dest>
+    </String>
+    <String List="0">
+      <Source>Location 2 is Set</Source>
+      <Dest>Location 2 is Set</Dest>
+    </String>
+    <String List="0">
+      <Source>Location 3 is Set</Source>
+      <Dest>Location 3 is Set</Dest>
+    </String>
+    <String List="0">
+      <Source>Location 4 is Set</Source>
+      <Dest>Location 4 is Set</Dest>
+    </String>
+    <String List="0">
+      <Source>Location 5 is Set</Source>
+      <Dest>Location 5 is Set</Dest>
+    </String>
+    <String List="0">
+      <Source>Location 6 is Set</Source>
+      <Dest>Location 6 is Set</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot increase beyond 100%</Source>
+      <Dest>Cannot increase beyond 100%</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot Decrease beyond 0%</Source>
+      <Dest>Cannot Decrease beyond 0%</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod being disabled....</Source>
+      <Dest>Mod being disabled....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Traveling Encounters....</Source>
+      <Dest>Disable Traveling Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Walking Encounters....</Source>
+      <Dest>Disable Walking Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Waiting Encounters....</Source>
+      <Dest>Disable Waiting Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Ambush Encounters....</Source>
+      <Dest>Disable Ambush Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Inferno Encounters....</Source>
+      <Dest>Disable Inferno Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Fast Travel Encounters....</Source>
+      <Dest>Disable Fast Travel Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Bed Animations....</Source>
+      <Dest>Disable Bed Animations....</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod disabled.  Do not remove scripts files from script folder. To Re-enable mod Activate mod again AND change locations by entering indoors or exiting outdoors. Then Wait 20 seconds.</Source>
+      <Dest>Mod disabled.  Do not remove scripts files from script folder. To Re-enable mod Activate mod again AND change locations by entering indoors or exiting outdoors. Then Wait 20 seconds.</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot increase beyond 75</Source>
+      <Dest>Cannot increase beyond 75</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot Decrease beyond 0</Source>
+      <Dest>Cannot Decrease beyond 0</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot increase beyond 90</Source>
+      <Dest>Cannot increase beyond 90</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot Decrease beyond 13</Source>
+      <Dest>Cannot Decrease beyond 13</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot increase beyond 100</Source>
+      <Dest>Cannot increase beyond 100</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

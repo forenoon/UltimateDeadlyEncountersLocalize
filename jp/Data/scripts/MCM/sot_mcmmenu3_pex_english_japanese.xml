@@ -1,0 +1,2585 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_mcmmenu3.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>All Vanilla NPCs set to 1 and odds set to 50%</Source>
+      <Dest>All Vanilla NPCs set to 1 and odds set to 50%</Dest>
+    </String>
+    <String List="0">
+      <Source>Welcome User!
+The entire Sands of Time team are glad to have you aboard, we are looking forward to drowning you now. The slower the death the more show for us!
+No, seriously we are glad you are trying out the mod. The mod is an overhaul for encounters and has very much to offer you. To help you out, if you are new to SoT, we recommend you read all the scrolls on the Help page to get a feel for all of the mod&apos;s features. Further, if you are new, we HIGHLY recommend you select a Preset to get you started.
+Each Guidance Scroll will give a brief summary over each different tab. The Special Topic scrolls will give details of very specific features.
+Once again, we are glad you are here for us to abuse. We hope you enjoy!
+Sincerely,
+The SoT Team</Source>
+      <Dest>Welcome User!
+The entire Sands of Time team are glad to have you aboard, we are looking forward to drowning you now. The slower the death the more show for us!
+No, seriously we are glad you are trying out the mod. The mod is an overhaul for encounters and has very much to offer you. To help you out, if you are new to SoT, we recommend you read all the scrolls on the Help page to get a feel for all of the mod&apos;s features. Further, if you are new, we HIGHLY recommend you select a Preset to get you started.
+Each Guidance Scroll will give a brief summary over each different tab. The Special Topic scrolls will give details of very specific features.
+Once again, we are glad you are here for us to abuse. We hope you enjoy!
+Sincerely,
+The SoT Team</Dest>
+    </String>
+    <String List="0">
+      <Source>-The All Knowing-
+This screen gives a bird&apos;s eye view over everything that is happening currently with the mod.
+It also gives the option to quickly suspend (disable) a certain encounter type or system. There are many states in which an encounter can be in; they are as follow:
+
+Active/Running - The encounter is currently processing - heads up!
+
+Sleeping - The encounter type is active, but it is on cooldown (to save you from massive hordes)
+
+Suspended - The feature is currently disabled
+
+Every aspect of SoT can be tweaked or disabled according to your playstyle - you&apos;re welcome.</Source>
+      <Dest>-The All Knowing-
+This screen gives a bird&apos;s eye view over everything that is happening currently with the mod.
+It also gives the option to quickly suspend (disable) a certain encounter type or system. There are many states in which an encounter can be in; they are as follow:
+
+Active/Running - The encounter is currently processing - heads up!
+
+Sleeping - The encounter type is active, but it is on cooldown (to save you from massive hordes)
+
+Suspended - The feature is currently disabled
+
+Every aspect of SoT can be tweaked or disabled according to your playstyle - you&apos;re welcome.</Dest>
+    </String>
+    <String List="0">
+      <Source>-Selecting The Right Wuss Level-
+
+We recommend for any new users of the mod to select a preset (probably Milk Drinker).  The presets are not set-in-stone predefined rules, but rather building blocks to expand upon once you learn more about the mod&apos;s settings.  Of course, a preset setting is not required, but they are there to make your life easier.</Source>
+      <Dest>-Selecting The Right Wuss Level-
+
+We recommend for any new users of the mod to select a preset (probably Milk Drinker).  The presets are not set-in-stone predefined rules, but rather building blocks to expand upon once you learn more about the mod&apos;s settings.  Of course, a preset setting is not required, but they are there to make your life easier.</Dest>
+    </String>
+    <String List="0">
+      <Source>-Surface, It&apos;s What&apos;s Happening-
+
+The Surface Encounters take place while &apos;above&apos; ground when you are exploring the sites of Skyrim.
+
+Surface Encounters will spawn vanilla creatures as well as unique creatures and scenarios, such as a group of skeletons or poverty stricken teenagers.
+The feature comes coupled with &apos;reinforcement&apos; encounters that can spawn more enemies if a fight exceeds a certain amount of time. (Enemies may yell for help, or the sound of battle will get the attention from some hungry animals nearby).</Source>
+      <Dest>-Surface, It&apos;s What&apos;s Happening-
+
+The Surface Encounters take place while &apos;above&apos; ground when you are exploring the sites of Skyrim.
+
+Surface Encounters will spawn vanilla creatures as well as unique creatures and scenarios, such as a group of skeletons or poverty stricken teenagers.
+The feature comes coupled with &apos;reinforcement&apos; encounters that can spawn more enemies if a fight exceeds a certain amount of time. (Enemies may yell for help, or the sound of battle will get the attention from some hungry animals nearby).</Dest>
+    </String>
+    <String List="0">
+      <Source>-Divining The Scales-
+
+SoT has a unique built in &apos;Enhancer&apos; mechanic to ensure the player experiences epic battles of many enemies as opposed to just a few here and there.
+
+This Enhancer rolls encounter types in ADDITION to what the vanilla game will spawn and what the SoT surface encounters will spawn. So the spawning systems will stack. This system uses the input ratio given and yields results accordingly.  By Default, the ratio is 50/50. So, when SoT is going to generate an enhancer encounter, it will first check to see if it is allowed to offer unique NPCs (such as Death Knights), or if it is only allowed to offer Vanilla spawns (such as bandits and skeletons). If you want strictly hardcore SoT spawns, then suspend this system.</Source>
+      <Dest>-Divining The Scales-
+
+SoT has a unique built in &apos;Enhancer&apos; mechanic to ensure the player experiences epic battles of many enemies as opposed to just a few here and there.
+
+This Enhancer rolls encounter types in ADDITION to what the vanilla game will spawn and what the SoT surface encounters will spawn. So the spawning systems will stack. This system uses the input ratio given and yields results accordingly.  By Default, the ratio is 50/50. So, when SoT is going to generate an enhancer encounter, it will first check to see if it is allowed to offer unique NPCs (such as Death Knights), or if it is only allowed to offer Vanilla spawns (such as bandits and skeletons). If you want strictly hardcore SoT spawns, then suspend this system.</Dest>
+    </String>
+    <String List="0">
+      <Source>-As Above, So Below-
+
+This particular element will generate more bad guys in all the deep dark places one would expect them - caves, dungeons, ruins, etc.
+
+The Spirit Spawn system uses invisible spawn points that maneuver, at varying distances, with you as you explore. From these points will spawn enemies, sometimes behind you!
+
+To further enhance the difficulty, &apos;reinforcements&apos; can also be called on from the enemy if a battle exceeds a certain amount of time.</Source>
+      <Dest>-As Above, So Below-
+
+This particular element will generate more bad guys in all the deep dark places one would expect them - caves, dungeons, ruins, etc.
+
+The Spirit Spawn system uses invisible spawn points that maneuver, at varying distances, with you as you explore. From these points will spawn enemies, sometimes behind you!
+
+To further enhance the difficulty, &apos;reinforcements&apos; can also be called on from the enemy if a battle exceeds a certain amount of time.</Dest>
+    </String>
+    <String List="0">
+      <Source>-A Curse is the Worst-
+
+The apocalypse when enabled will permit the cursed Rumiirua to walk the land. They appear in all major holds and will continue to devour the flesh of it&apos;s inhabitants until a warrior brave enough comes to their aid.
+
+A lore friendly book that describes the Rumiirua will be found in game.</Source>
+      <Dest>-A Curse is the Worst-
+
+The apocalypse when enabled will permit the cursed Rumiirua to walk the land. They appear in all major holds and will continue to devour the flesh of it&apos;s inhabitants until a warrior brave enough comes to their aid.
+
+A lore friendly book that describes the Rumiirua will be found in game.</Dest>
+    </String>
+    <String List="0">
+      <Source>-Playing Nice With Assassins-
+
+These special Agents of Mephala require one to keep a vigilant look out. They can disguise themselves as ANY NPC in the game - no matter how important, a lowly hunter, a town merchant even the hold&apos;s Jarl.
+
+They will walk about without causing any suspicion since they have an uncanny resemblance to a nearby resident.  However, once they feel the time is right, they will strike at the player without mercy and use the most deadly of poisons.
+
+You have been warned!</Source>
+      <Dest>-Playing Nice With Assassins-
+
+These special Agents of Mephala require one to keep a vigilant look out. They can disguise themselves as ANY NPC in the game - no matter how important, a lowly hunter, a town merchant even the hold&apos;s Jarl.
+
+They will walk about without causing any suspicion since they have an uncanny resemblance to a nearby resident.  However, once they feel the time is right, they will strike at the player without mercy and use the most deadly of poisons.
+
+You have been warned!</Dest>
+    </String>
+    <String List="0">
+      <Source>-Everyday Nightmares-
+
+This page has settings for features such as
+
+Fast Travel Ambushes
+
+Tomb or Shrine Desecration consequences
+
+Ambushes while Sleeping
+
+Merchants and Treasure Hunter
+
+These &apos;lesser&apos; encounters will still change your game, and in a big way.</Source>
+      <Dest>-Everyday Nightmares-
+
+This page has settings for features such as
+
+Fast Travel Ambushes
+
+Tomb or Shrine Desecration consequences
+
+Ambushes while Sleeping
+
+Merchants and Treasure Hunter
+
+These &apos;lesser&apos; encounters will still change your game, and in a big way.</Dest>
+    </String>
+    <String List="0">
+      <Source>-Pompus Populus Pricks-
+
+The Populated Spawns feature lets you enable/disable pre-placed NPCs to enhance overall difficulty. The spawns will instantly populate an area or vanish from it according to your settings. Further, these spawns are unique in that a few of them are &apos;trigger&apos; spawns and upon death will trigger new spawns that were hiding to appear and help fight against the heroes that are trying to slay them.
+
+These are SoT&apos;s own unique version of the many populated spawn mods available.
+
+The Genesis Effect is an automated spawning system making nearly every encounter area populated with enemies.</Source>
+      <Dest>-Pompus Populus Pricks-
+
+The Populated Spawns feature lets you enable/disable pre-placed NPCs to enhance overall difficulty. The spawns will instantly populate an area or vanish from it according to your settings. Further, these spawns are unique in that a few of them are &apos;trigger&apos; spawns and upon death will trigger new spawns that were hiding to appear and help fight against the heroes that are trying to slay them.
+
+These are SoT&apos;s own unique version of the many populated spawn mods available.
+
+The Genesis Effect is an automated spawning system making nearly every encounter area populated with enemies.</Dest>
+    </String>
+    <String List="0">
+      <Source>-The More, the Merrier (sort of)-
+
+This feature bolsters Vanilla spawns in the game--duh. So, for example if you are approaching a fort and the game is going to generate 4 bandits (how lame), SoT will bolster that &apos;army&apos; by adding another 8 bandits, which is much better! The thing to remember is that the settings don&apos;t add a set number of bandits according to your input, but rather it clones each bandit by the number you tell it to. So, if you set &apos;Bandits&apos; to 2, each bandit will be cloned twice. Cloning 4 bandits (in this example) twice will yield 8 more bandits added to the original 4 (a total of 12 for those that can&apos;t do math)</Source>
+      <Dest>-The More, the Merrier (sort of)-
+
+This feature bolsters Vanilla spawns in the game--duh. So, for example if you are approaching a fort and the game is going to generate 4 bandits (how lame), SoT will bolster that &apos;army&apos; by adding another 8 bandits, which is much better! The thing to remember is that the settings don&apos;t add a set number of bandits according to your input, but rather it clones each bandit by the number you tell it to. So, if you set &apos;Bandits&apos; to 2, each bandit will be cloned twice. Cloning 4 bandits (in this example) twice will yield 8 more bandits added to the original 4 (a total of 12 for those that can&apos;t do math)</Dest>
+    </String>
+    <String List="0">
+      <Source>-Chilling Out Like A Boss-
+
+Certain bosses are packed in and waiting to challenge the player. These bosses are not your typical higher level NPC. If you meet them, be prepared for a challenging and unique battle. Each boss can be enabled or disabled as well as have their chance of appearing limited. Using this screen will allow you to adjust all settings having to do with the various bosses that will humble you.</Source>
+      <Dest>-Chilling Out Like A Boss-
+
+Certain bosses are packed in and waiting to challenge the player. These bosses are not your typical higher level NPC. If you meet them, be prepared for a challenging and unique battle. Each boss can be enabled or disabled as well as have their chance of appearing limited. Using this screen will allow you to adjust all settings having to do with the various bosses that will humble you.</Dest>
+    </String>
+    <String List="0">
+      <Source>-Maniacal Mechanics-
+
+The System Settings tab will grant access to various universal and specific mod toggles as well as allow enabling the in depth debugging utilities.</Source>
+      <Dest>-Maniacal Mechanics-
+
+The System Settings tab will grant access to various universal and specific mod toggles as well as allow enabling the in depth debugging utilities.</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects Reinforcements in dungeons. There are two modes: 1-constant- based on die rolls the enemy will be periodically reinforced all the time 2-tactical- for thieves, stealthy type. The reinforcements will only be sent for if you are hit X number of times. This is the stealth level in the mcm menu. You can set it to one, two, or three. That will be the number of times you can be hit before reinforcements are called for. If you kill the enemy before they arrive then reinforcements are cancelled. The 1 to 3 counter is considered to be &apos;cover&apos;. When you lose cover you gain a point. When you recover cover you lose a point. Losing a point is good. You can recover a point by leaving the immediate cell to another cell. The whole point is to reward players for playing stealthy and to simulate penalties for being discovered. Then to simulate running into the shadows and retreating if discovered and regaining/retrying the stealthy approach. Works really well.</Source>
+      <Dest>Affects Reinforcements in dungeons. There are two modes: 1-constant- based on die rolls the enemy will be periodically reinforced all the time 2-tactical- for thieves, stealthy type. The reinforcements will only be sent for if you are hit X number of times. This is the stealth level in the mcm menu. You can set it to one, two, or three. That will be the number of times you can be hit before reinforcements are called for. If you kill the enemy before they arrive then reinforcements are cancelled. The 1 to 3 counter is considered to be &apos;cover&apos;. When you lose cover you gain a point. When you recover cover you lose a point. Losing a point is good. You can recover a point by leaving the immediate cell to another cell. The whole point is to reward players for playing stealthy and to simulate penalties for being discovered. Then to simulate running into the shadows and retreating if discovered and regaining/retrying the stealthy approach. Works really well.</Dest>
+    </String>
+    <String List="0">
+      <Source>Some players find that the standard fast travel script does not work for them.  This alternate script written by xilef11 has helped such users.  Please keep in mind the following notes from xilef11 - The first fast travel after loading the game is less reliably detected for some reason, and this method has the drawback of having to wait at least 5 seconds after checking the map to enter a loading door, otherwise the script will think the player has fast traveled. </Source>
+      <Dest>Some players find that the standard fast travel script does not work for them.  This alternate script written by xilef11 has helped such users.  Please keep in mind the following notes from xilef11 - The first fast travel after loading the game is less reliably detected for some reason, and this method has the drawback of having to wait at least 5 seconds after checking the map to enter a loading door, otherwise the script will think the player has fast traveled. </Dest>
+    </String>
+    <String List="0">
+      <Source>There are two separate cooldown options for Walking Encounters.  Thye are side by side, Base Cooldown and Cooldown.  Max value for base cooldown is 40.  For cooldown is 120.  The cooldown value is a cool down period of no attack measured in minutes. A vaue of 5 means no attacks for 5 minutes minimum.  Max 120 minutes. in contrast, base cool down is calculated at its value times the walking timer (normally 20).  So a value of 5 equals 100 seconds, less than two minutes. The base cooldown is more useful if player changes the walking script (heartbeat) timer. Try to use just one and set the other to zero. Really I should delete one but it allows more fine tuning.</Source>
+      <Dest>There are two separate cooldown options for Walking Encounters.  Thye are side by side, Base Cooldown and Cooldown.  Max value for base cooldown is 40.  For cooldown is 120.  The cooldown value is a cool down period of no attack measured in minutes. A vaue of 5 means no attacks for 5 minutes minimum.  Max 120 minutes. in contrast, base cool down is calculated at its value times the walking timer (normally 20).  So a value of 5 equals 100 seconds, less than two minutes. The base cooldown is more useful if player changes the walking script (heartbeat) timer. Try to use just one and set the other to zero. Really I should delete one but it allows more fine tuning.</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot Activate Mod Until You Exit Helgen.</Source>
+      <Dest>Cannot Activate Mod Until You Exit Helgen.</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you sure? Loading this SoTSave will overwrite the current settings.</Source>
+      <Dest>Are you sure? Loading this SoTSave will overwrite the current settings.</Dest>
+    </String>
+    <String List="0">
+      <Source>Please do not leave the McMenu until a new message box shows the load is complete.</Source>
+      <Dest>Please do not leave the McMenu until a new message box shows the load is complete.</Dest>
+    </String>
+    <String List="0">
+      <Source>FISS not installed. Loading disabled.</Source>
+      <Dest>FISS not installed. Loading disabled.</Dest>
+    </String>
+    <String List="0">
+      <Source>Error Loading from SoTSave File.</Source>
+      <Dest>Error Loading from SoTSave File.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your settings have loaded successfully!</Source>
+      <Dest>Your settings have loaded successfully!</Dest>
+    </String>
+    <String List="0">
+      <Source>current version = : </Source>
+      <Dest>current version = : </Dest>
+    </String>
+    <String List="0">
+      <Source>Updating SoT McMenu to version: 15</Source>
+      <Dest>Updating SoT McMenu to version: 15</Dest>
+    </String>
+    <String List="0">
+      <Source>Updating SoT McMenu to version: 17</Source>
+      <Dest>Updating SoT McMenu to version: 17</Dest>
+    </String>
+    <String List="0">
+      <Source>Updating SoT McMenu to version: 18</Source>
+      <Dest>Updating SoT McMenu to version: 18</Dest>
+    </String>
+    <String List="0">
+      <Source>Updating SoT McMenu to version: 19</Source>
+      <Dest>Updating SoT McMenu to version: 19</Dest>
+    </String>
+    <String List="0">
+      <Source>Are you sure? This will overwrite the existing SoTSave with your current settings.</Source>
+      <Dest>Are you sure? This will overwrite the existing SoTSave with your current settings.</Dest>
+    </String>
+    <String List="0">
+      <Source>Please do not leave the McMenu until a new message box shows the save is complete.</Source>
+      <Dest>Please do not leave the McMenu until a new message box shows the save is complete.</Dest>
+    </String>
+    <String List="0">
+      <Source>FISS not installed. Saving disabled.</Source>
+      <Dest>FISS not installed. Saving disabled.</Dest>
+    </String>
+    <String List="0">
+      <Source>Error saving to SoTSave file.</Source>
+      <Dest>Error saving to SoTSave file.</Dest>
+    </String>
+    <String List="0">
+      <Source>Your settings have been successfully saved!</Source>
+      <Dest>Your settings have been successfully saved!</Dest>
+    </String>
+    <String List="0">
+      <Source>Current Version:</Source>
+      <Dest>Current Version:</Dest>
+    </String>
+    <String List="0">
+      <Source>Welcome Scroll!</Source>
+      <Dest>Welcome Scroll!</Dest>
+    </String>
+    <String List="0">
+      <Source>Sands of Time is Currently:</Source>
+      <Dest>Sands of Time is Currently:</Dest>
+    </String>
+    <String List="0">
+      <Source>Individual Module States</Source>
+      <Dest>Individual Module States</Dest>
+    </String>
+    <String List="0">
+      <Source>Check Status After 4 Min.-Too Early Right Now</Source>
+      <Dest>Check Status After 4 Min.-Too Early Right Now</Dest>
+    </String>
+    <String List="0">
+      <Source>Surface Encounters Active: </Source>
+      <Dest>Surface Encounters Active: </Dest>
+    </String>
+    <String List="0">
+      <Source> Seconds</Source>
+      <Dest> Seconds</Dest>
+    </String>
+    <String List="0">
+      <Source>...Script Running Every: </Source>
+      <Dest>...Script Running Every: </Dest>
+    </String>
+    <String List="0">
+      <Source>**Surface Script is in Sleep Mode**</Source>
+      <Dest>**Surface Script is in Sleep Mode**</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Reinforcements: </Source>
+      <Dest>Allow Reinforcements: </Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Encounters Active: </Source>
+      <Dest>Dungeon Encounters Active: </Dest>
+    </String>
+    <String List="0">
+      <Source>**Dungeon Script is in Sleep Mode**</Source>
+      <Dest>**Dungeon Script is in Sleep Mode**</Dest>
+    </String>
+    <String List="0">
+      <Source>Rats Active In Dungeons: </Source>
+      <Dest>Rats Active In Dungeons: </Dest>
+    </String>
+    <String List="0">
+      <Source>Secondary Encounters Running: </Source>
+      <Dest>Secondary Encounters Running: </Dest>
+    </String>
+    <String List="0">
+      <Source>Blade Enabled: </Source>
+      <Dest>Blade Enabled: </Dest>
+    </String>
+    <String List="0">
+      <Source>Bane Enabled: </Source>
+      <Dest>Bane Enabled: </Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Enabled: </Source>
+      <Dest>Burning Inferno Enabled: </Dest>
+    </String>
+    <String List="0">
+      <Source>...Avenge Bane/Blade: </Source>
+      <Dest>...Avenge Bane/Blade: </Dest>
+    </String>
+    <String List="0">
+      <Source>...Innocents Script Running: </Source>
+      <Dest>...Innocents Script Running: </Dest>
+    </String>
+    <String List="0">
+      <Source>System States</Source>
+      <Dest>System States</Dest>
+    </String>
+    <String List="0">
+      <Source>Debug Mode Running: </Source>
+      <Dest>Debug Mode Running: </Dest>
+    </String>
+    <String List="0">
+      <Source>Gameplay Script Latency Test On: </Source>
+      <Dest>Gameplay Script Latency Test On: </Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Animations Running: </Source>
+      <Dest>Sleeping Animations Running: </Dest>
+    </String>
+    <String List="0">
+      <Source>Display Notification Messages: </Source>
+      <Dest>Display Notification Messages: </Dest>
+    </String>
+    <String List="0">
+      <Source>Delay ALL Scripts (seconds): </Source>
+      <Dest>Delay ALL Scripts (seconds): </Dest>
+    </String>
+    <String List="0">
+      <Source>Lore Mode Enforced: </Source>
+      <Dest>Lore Mode Enforced: </Dest>
+    </String>
+    <String List="0">
+      <Source>NPC Shouts Allowed: </Source>
+      <Dest>NPC Shouts Allowed: </Dest>
+    </String>
+    <String List="0">
+      <Source>System States (Continued)</Source>
+      <Dest>System States (Continued)</Dest>
+    </String>
+    <String List="0">
+      <Source>Unleveled NPCs Allowed: </Source>
+      <Dest>Unleveled NPCs Allowed: </Dest>
+    </String>
+    <String List="0">
+      <Source>NPCs Drop Loot Chests: </Source>
+      <Dest>NPCs Drop Loot Chests: </Dest>
+    </String>
+    <String List="0">
+      <Source>Modded Armor/Weapons Allowed: </Source>
+      <Dest>Modded Armor/Weapons Allowed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Gypsy Merchant Allowed: </Source>
+      <Dest>Gypsy Merchant Allowed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Arms Merchant Allowed: </Source>
+      <Dest>Arms Merchant Allowed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Graduation Level Set At: </Source>
+      <Dest>Graduation Level Set At: </Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Modules</Source>
+      <Dest>Suspend Modules</Dest>
+    </String>
+    <String List="0">
+      <Source>Select a Module to Suspend (pause)</Source>
+      <Dest>Select a Module to Suspend (pause)</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Dynamic Surface Encounters</Source>
+      <Dest>Suspend Dynamic Surface Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Surface Enhancer</Source>
+      <Dest>Suspend Surface Enhancer</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Dynamic Dungeon Encounters</Source>
+      <Dest>Suspend Dynamic Dungeon Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Waiting Encounters In Dungeons</Source>
+      <Dest>Suspend Waiting Encounters In Dungeons</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Fast Travel Encounters</Source>
+      <Dest>Suspend Fast Travel Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Sleep Ambushes</Source>
+      <Dest>Suspend Sleep Ambushes</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Desecration Encounters</Source>
+      <Dest>Suspend Desecration Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Assassin Encounters</Source>
+      <Dest>Suspend Assassin Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend &apos;&apos;Bulwark&apos;&apos; Engine</Source>
+      <Dest>Suspend &apos;&apos;Bulwark&apos;&apos; Engine</Dest>
+    </String>
+    <String List="0">
+      <Source>Activate Mod Here</Source>
+      <Dest>Activate Mod Here</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod Presets</Source>
+      <Dest>Mod Presets</Dest>
+    </String>
+    <String List="0">
+      <Source>Options Disabled Until Mod is Activated.</Source>
+      <Dest>Options Disabled Until Mod is Activated.</Dest>
+    </String>
+    <String List="0">
+      <Source>Please Activate Mod and Exit MCM Menu</Source>
+      <Dest>Please Activate Mod and Exit MCM Menu</Dest>
+    </String>
+    <String List="0">
+      <Source>for 4 Minutes.</Source>
+      <Dest>for 4 Minutes.</Dest>
+    </String>
+    <String List="0">
+      <Source>Preset Option</Source>
+      <Dest>Preset Option</Dest>
+    </String>
+    <String List="0">
+      <Source>Spartan Graduation Level</Source>
+      <Dest>Spartan Graduation Level</Dest>
+    </String>
+    <String List="0">
+      <Source>Extend Health In Combat At First</Source>
+      <Dest>Extend Health In Combat At First</Dest>
+    </String>
+    <String List="0">
+      <Source>Preset Descriptions (Highlight One)</Source>
+      <Dest>Preset Descriptions (Highlight One)</Dest>
+    </String>
+    <String List="0">
+      <Source>Save / Load Options</Source>
+      <Dest>Save / Load Options</Dest>
+    </String>
+    <String List="0">
+      <Source>FISS Installed</Source>
+      <Dest>FISS Installed</Dest>
+    </String>
+    <String List="0">
+      <Source>Select SoTSave File</Source>
+      <Dest>Select SoTSave File</Dest>
+    </String>
+    <String List="0">
+      <Source>Save Settings To This File</Source>
+      <Dest>Save Settings To This File</Dest>
+    </String>
+    <String List="0">
+      <Source>Load Settings From This File</Source>
+      <Dest>Load Settings From This File</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Surface Encounters</Source>
+      <Dest>Suspend Surface Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Settings</Source>
+      <Dest>Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Dice Roll 1</Source>
+      <Dest>Dice Roll 1</Dest>
+    </String>
+    <String List="0">
+      <Source>Dice Roll 2</Source>
+      <Dest>Dice Roll 2</Dest>
+    </String>
+    <String List="0">
+      <Source>Dice Roll Daytime Adjuster</Source>
+      <Dest>Dice Roll Daytime Adjuster</Dest>
+    </String>
+    <String List="0">
+      <Source>Surface Encounter Timer</Source>
+      <Dest>Surface Encounter Timer</Dest>
+    </String>
+    <String List="0">
+      <Source>Cooldown Between Encounters</Source>
+      <Dest>Cooldown Between Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Base Cooldown Between Encounters</Source>
+      <Dest>Base Cooldown Between Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Level at Which Hard Spawns Are Allowed</Source>
+      <Dest>Level at Which Hard Spawns Are Allowed</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Attacks While Waiting</Source>
+      <Dest>Disable Attacks While Waiting</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Distance of Spawns by</Source>
+      <Dest>Increase Distance of Spawns by</Dest>
+    </String>
+    <String List="0">
+      <Source>Blighted NPC Die With All Attacks</Source>
+      <Dest>Blighted NPC Die With All Attacks</Dest>
+    </String>
+    <String List="0">
+      <Source>Reinforcement Settings</Source>
+      <Dest>Reinforcement Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Surface Reinforcements Allowed</Source>
+      <Dest>Surface Reinforcements Allowed</Dest>
+    </String>
+    <String List="0">
+      <Source>Min Time Before Reinforcements</Source>
+      <Dest>Min Time Before Reinforcements</Dest>
+    </String>
+    <String List="0">
+      <Source>Max Time Before Reinforcements</Source>
+      <Dest>Max Time Before Reinforcements</Dest>
+    </String>
+    <String List="0">
+      <Source>Max Number of Spawns Allowed</Source>
+      <Dest>Max Number of Spawns Allowed</Dest>
+    </String>
+    <String List="0">
+      <Source>Cooldown Between Increased Spawns</Source>
+      <Dest>Cooldown Between Increased Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Cooldown</Source>
+      <Dest>...Randomize Cooldown</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Dragon Cloning</Source>
+      <Dest>Allow Dragon Cloning</Dest>
+    </String>
+    <String List="0">
+      <Source>Attacks Only At Night</Source>
+      <Dest>Attacks Only At Night</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Stealth/Covert Messages</Source>
+      <Dest>Allow Stealth/Covert Messages</Dest>
+    </String>
+    <String List="0">
+      <Source>Mob Surface Attacks</Source>
+      <Dest>Mob Surface Attacks</Dest>
+    </String>
+    <String List="0">
+      <Source>Maximum Size of Mobs</Source>
+      <Dest>Maximum Size of Mobs</Dest>
+    </String>
+    <String List="0">
+      <Source>Make FxUndead Slower</Source>
+      <Dest>Make FxUndead Slower</Dest>
+    </String>
+    <String List="0">
+      <Source>...Percent of Speed to Reduce</Source>
+      <Dest>...Percent of Speed to Reduce</Dest>
+    </String>
+    <String List="0">
+      <Source>Add Some Weaker FxUndead also</Source>
+      <Dest>Add Some Weaker FxUndead also</Dest>
+    </String>
+    <String List="0">
+      <Source>Surface Waiting Encounters</Source>
+      <Dest>Surface Waiting Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Encounter Odds While Waiting</Source>
+      <Dest>Encounter Odds While Waiting</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Time Rewind When Ambushed</Source>
+      <Dest>Disable Time Rewind When Ambushed</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Vanilla Vs Custom Encounters</Source>
+      <Dest>Odds of Vanilla Vs Custom Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Vanilla List Now Has: </Source>
+      <Dest>Vanilla List Now Has: </Dest>
+    </String>
+    <String List="0">
+      <Source>Reset all Toons to 1</Source>
+      <Dest>Reset all Toons to 1</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable NPC Cleanup</Source>
+      <Dest>Disable NPC Cleanup</Dest>
+    </String>
+    <String List="0">
+      <Source>NPCs</Source>
+      <Dest>NPCs</Dest>
+    </String>
+    <String List="0">
+      <Source>Atronachs</Source>
+      <Dest>Atronachs</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandits</Source>
+      <Dest>Bandits</Dest>
+    </String>
+    <String List="0">
+      <Source>Bears</Source>
+      <Dest>Bears</Dest>
+    </String>
+    <String List="0">
+      <Source>Blood Horkers</Source>
+      <Dest>Blood Horkers</Dest>
+    </String>
+    <String List="0">
+      <Source>Boneman Skeletons</Source>
+      <Dest>Boneman Skeletons</Dest>
+    </String>
+    <String List="0">
+      <Source>Dark Brotherhood</Source>
+      <Dest>Dark Brotherhood</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnguard</Source>
+      <Dest>Dawnguard</Dest>
+    </String>
+    <String List="0">
+      <Source>Dremora </Source>
+      <Dest>Dremora </Dest>
+    </String>
+    <String List="0">
+      <Source>Forsworn</Source>
+      <Dest>Forsworn</Dest>
+    </String>
+    <String List="0">
+      <Source>Giants</Source>
+      <Dest>Giants</Dest>
+    </String>
+    <String List="0">
+      <Source>Hagraven</Source>
+      <Dest>Hagraven</Dest>
+    </String>
+    <String List="0">
+      <Source>Ice Wraith</Source>
+      <Dest>Ice Wraith</Dest>
+    </String>
+    <String List="0">
+      <Source>Orcs</Source>
+      <Dest>Orcs</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hands</Source>
+      <Dest>Silver Hands</Dest>
+    </String>
+    <String List="0">
+      <Source>Spriggans</Source>
+      <Dest>Spriggans</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor</Source>
+      <Dest>Thalmor</Dest>
+    </String>
+    <String List="0">
+      <Source>Troll</Source>
+      <Dest>Troll</Dest>
+    </String>
+    <String List="0">
+      <Source>Wisps</Source>
+      <Dest>Wisps</Dest>
+    </String>
+    <String List="0">
+      <Source>Witches</Source>
+      <Dest>Witches</Dest>
+    </String>
+    <String List="0">
+      <Source>Suspend Dungeon Encounters</Source>
+      <Dest>Suspend Dungeon Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Max Number of Spawns Added</Source>
+      <Dest>Max Number of Spawns Added</Dest>
+    </String>
+    <String List="0">
+      <Source>...Estimated Cooldown: </Source>
+      <Dest>...Estimated Cooldown: </Dest>
+    </String>
+    <String List="0">
+      <Source>Cooldown Between Waiting Encounters</Source>
+      <Dest>Cooldown Between Waiting Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Turn On &apos;&apos;Spirit Spawn&apos;&apos; System</Source>
+      <Dest>Turn On &apos;&apos;Spirit Spawn&apos;&apos; System</Dest>
+    </String>
+    <String List="0">
+      <Source>Turn On &apos;&apos;Hostile Detection&apos;&apos; System</Source>
+      <Dest>Turn On &apos;&apos;Hostile Detection&apos;&apos; System</Dest>
+    </String>
+    <String List="0">
+      <Source>Reinforcements Settings</Source>
+      <Dest>Reinforcements Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Reinforcements Allowed</Source>
+      <Dest>Dungeon Reinforcements Allowed</Dest>
+    </String>
+    <String List="0">
+      <Source>Increased Spawns Style</Source>
+      <Dest>Increased Spawns Style</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Reinforcements</Source>
+      <Dest>Odds of Reinforcements</Dest>
+    </String>
+    <String List="0">
+      <Source>Detection Level</Source>
+      <Dest>Detection Level</Dest>
+    </String>
+    <String List="0">
+      <Source>Max Number of Reinforcements</Source>
+      <Dest>Max Number of Reinforcements</Dest>
+    </String>
+    <String List="0">
+      <Source>Cooldown Before Reinforcements</Source>
+      <Dest>Cooldown Before Reinforcements</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Rats</Source>
+      <Dest>Dungeon Rats</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Rats in Dungeons</Source>
+      <Dest>Allow Rats in Dungeons</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of Healthy Rats</Source>
+      <Dest>...Odds of Healthy Rats</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of Sickly Rats</Source>
+      <Dest>...Odds of Sickly Rats</Dest>
+    </String>
+    <String List="0">
+      <Source>Is Apocalypse Allowed?</Source>
+      <Dest>Is Apocalypse Allowed?</Dest>
+    </String>
+    <String List="0">
+      <Source>Apocalypse Trigger Level Hidden</Source>
+      <Dest>Apocalypse Trigger Level Hidden</Dest>
+    </String>
+    <String List="0">
+      <Source>Required Trigger Level</Source>
+      <Dest>Required Trigger Level</Dest>
+    </String>
+    <String List="0">
+      <Source>Turn On NPC Cleanup System</Source>
+      <Dest>Turn On NPC Cleanup System</Dest>
+    </String>
+    <String List="0">
+      <Source>...Seconds Before Deleting Bodies</Source>
+      <Dest>...Seconds Before Deleting Bodies</Dest>
+    </String>
+    <String List="0">
+      <Source>Attack Settings</Source>
+      <Dest>Attack Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Rumiirua Attack Waves Allowed</Source>
+      <Dest>Rumiirua Attack Waves Allowed</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Number of Waves</Source>
+      <Dest>...Randomize Number of Waves</Dest>
+    </String>
+    <String List="0">
+      <Source>Rumiirua Allowed Per Wave</Source>
+      <Dest>Rumiirua Allowed Per Wave</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Number of Rumiirua</Source>
+      <Dest>...Randomize Number of Rumiirua</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Lich To Summon Undead</Source>
+      <Dest>Allow Lich To Summon Undead</Dest>
+    </String>
+    <String List="0">
+      <Source>...Number of Biters To Summon</Source>
+      <Dest>...Number of Biters To Summon</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Number of Summons</Source>
+      <Dest>...Randomize Number of Summons</Dest>
+    </String>
+    <String List="0">
+      <Source>Level When Assassins Can Attack</Source>
+      <Dest>Level When Assassins Can Attack</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Wilderness Assassins</Source>
+      <Dest>Allow Wilderness Assassins</Dest>
+    </String>
+    <String List="0">
+      <Source>Number of Wilderness Assassins</Source>
+      <Dest>Number of Wilderness Assassins</Dest>
+    </String>
+    <String List="0">
+      <Source>..Randomize Number of Assassins</Source>
+      <Dest>..Randomize Number of Assassins</Dest>
+    </String>
+    <String List="0">
+      <Source>Cooldown Between Wilderness Attacks</Source>
+      <Dest>Cooldown Between Wilderness Attacks</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow in Riften</Source>
+      <Dest>Allow in Riften</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of Assassin Attack</Source>
+      <Dest>...Odds of Assassin Attack</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow in Whiterun</Source>
+      <Dest>Allow in Whiterun</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow in Solitude</Source>
+      <Dest>Allow in Solitude</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow in Windhelm</Source>
+      <Dest>Allow in Windhelm</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Spider Settings</Source>
+      <Dest>Mephala Spider Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Mephala Spider</Source>
+      <Dest>Odds of Mephala Spider</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Weapon Settings</Source>
+      <Dest>Mephala Weapon Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Poison Strength</Source>
+      <Dest>Poison Strength</Dest>
+    </String>
+    <String List="0">
+      <Source>Looted Daggers</Source>
+      <Dest>Looted Daggers</Dest>
+    </String>
+    <String List="0">
+      <Source>Looted Axes</Source>
+      <Dest>Looted Axes</Dest>
+    </String>
+    <String List="0">
+      <Source>Looted Arrows</Source>
+      <Dest>Looted Arrows</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds Mephala Weapon Will Self Destroy</Source>
+      <Dest>Odds Mephala Weapon Will Self Destroy</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Chameleon Assassins</Source>
+      <Dest>Allow Chameleon Assassins</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Attack</Source>
+      <Dest>Odds of Attack</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Battle in Remote Areas</Source>
+      <Dest>Allow Battle in Remote Areas</Dest>
+    </String>
+    <String List="0">
+      <Source>Timing Adjuster for Detecting FT</Source>
+      <Dest>Timing Adjuster for Detecting FT</Dest>
+    </String>
+    <String List="0">
+      <Source>Use Alternate Detection Script</Source>
+      <Dest>Use Alternate Detection Script</Dest>
+    </String>
+    <String List="0">
+      <Source>Desecration Encounters</Source>
+      <Dest>Desecration Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds if Spoiling Tomb</Source>
+      <Dest>Odds if Spoiling Tomb</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds if Spoiling Shrine</Source>
+      <Dest>Odds if Spoiling Shrine</Dest>
+    </String>
+    <String List="0">
+      <Source>Casual (Non-Threatening) Encounters</Source>
+      <Dest>Casual (Non-Threatening) Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds Of Treasure Hunter</Source>
+      <Dest>Odds Of Treasure Hunter</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Weapon Dealer</Source>
+      <Dest>Odds of Weapon Dealer</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of General Merchant</Source>
+      <Dest>Odds of General Merchant</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Encounters</Source>
+      <Dest>Sleeping Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Drowsy Effect</Source>
+      <Dest>Allow Drowsy Effect</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Ambush in Sleeping Area</Source>
+      <Dest>Odds of Ambush in Sleeping Area</Dest>
+    </String>
+    <String List="0">
+      <Source>College of Winterhold</Source>
+      <Dest>College of Winterhold</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Keep</Source>
+      <Dest>Draugr Keep</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeons</Source>
+      <Dest>Dungeons</Dest>
+    </String>
+    <String List="0">
+      <Source>Inns</Source>
+      <Dest>Inns</Dest>
+    </String>
+    <String List="0">
+      <Source>Jorrvaskr Hall</Source>
+      <Dest>Jorrvaskr Hall</Dest>
+    </String>
+    <String List="0">
+      <Source>All Other Areas</Source>
+      <Dest>All Other Areas</Dest>
+    </String>
+    <String List="0">
+      <Source>Area Safety Markers</Source>
+      <Dest>Area Safety Markers</Dest>
+    </String>
+    <String List="0">
+      <Source>Mark Current Area Safe</Source>
+      <Dest>Mark Current Area Safe</Dest>
+    </String>
+    <String List="0">
+      <Source>Angarvunde Populated: </Source>
+      <Dest>Angarvunde Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Bleak Falls Barrow Populated: </Source>
+      <Dest>Bleak Falls Barrow Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Dead Men&apos;s Respite Populated: </Source>
+      <Dest>Dead Men&apos;s Respite Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Haemar&apos;s Cavern Populated: </Source>
+      <Dest>Haemar&apos;s Cavern Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Movarth&apos;s Lair Populated: </Source>
+      <Dest>Movarth&apos;s Lair Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Ragnvald Crypt Populated: </Source>
+      <Dest>Ragnvald Crypt Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Saarthal Tomb Populated: </Source>
+      <Dest>Saarthal Tomb Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>...Use Milder Placement (placebo): </Source>
+      <Dest>...Use Milder Placement (placebo): </Dest>
+    </String>
+    <String List="0">
+      <Source>Ustengrav Populated</Source>
+      <Dest>Ustengrav Populated</Dest>
+    </String>
+    <String List="0">
+      <Source>Volunruud Tomb Populated: </Source>
+      <Dest>Volunruud Tomb Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Dwarvern Ruins</Source>
+      <Dest>Dwarvern Ruins</Dest>
+    </String>
+    <String List="0">
+      <Source>Alftand Ruins Populated</Source>
+      <Dest>Alftand Ruins Populated</Dest>
+    </String>
+    <String List="0">
+      <Source>Patrols</Source>
+      <Dest>Patrols</Dest>
+    </String>
+    <String List="0">
+      <Source>Dustman Cairn Lich Patrol</Source>
+      <Dest>Dustman Cairn Lich Patrol</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Camps</Source>
+      <Dest>Bandit Camps</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon Bridge Overlook: </Source>
+      <Dest>Dragon Bridge Overlook: </Dest>
+    </String>
+    <String List="0">
+      <Source>Druadach Redoubt: </Source>
+      <Dest>Druadach Redoubt: </Dest>
+    </String>
+    <String List="0">
+      <Source>Halted Stream: </Source>
+      <Dest>Halted Stream: </Dest>
+    </String>
+    <String List="0">
+      <Source>Karthspire Camp: </Source>
+      <Dest>Karthspire Camp: </Dest>
+    </String>
+    <String List="0">
+      <Source>Knifepoint Ridge: </Source>
+      <Dest>Knifepoint Ridge: </Dest>
+    </String>
+    <String List="0">
+      <Source>Robbers Gorge Populated: </Source>
+      <Dest>Robbers Gorge Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Silent Moons Camp Populated</Source>
+      <Dest>Silent Moons Camp Populated</Dest>
+    </String>
+    <String List="0">
+      <Source>Uttering Hills Populated</Source>
+      <Dest>Uttering Hills Populated</Dest>
+    </String>
+    <String List="0">
+      <Source>Forts</Source>
+      <Dest>Forts</Dest>
+    </String>
+    <String List="0">
+      <Source>Mistwatch Fort Populated: </Source>
+      <Dest>Mistwatch Fort Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Snow Hawk Fort Populated: </Source>
+      <Dest>Snow Hawk Fort Populated: </Dest>
+    </String>
+    <String List="0">
+      <Source>Populated Enhancer</Source>
+      <Dest>Populated Enhancer</Dest>
+    </String>
+    <String List="0">
+      <Source>Populated Enhancer (Continued)</Source>
+      <Dest>Populated Enhancer (Continued)</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Bonemen/Mistmen in World</Source>
+      <Dest>Increase Bonemen/Mistmen in World</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Skeletons in World</Source>
+      <Dest>Increase Skeletons in World</Dest>
+    </String>
+    <String List="0">
+      <Source>Populate Dungeon on Cell Load</Source>
+      <Dest>Populate Dungeon on Cell Load</Dest>
+    </String>
+    <String List="0">
+      <Source>How To Spawn</Source>
+      <Dest>How To Spawn</Dest>
+    </String>
+    <String List="0">
+      <Source>Humanoid Settings</Source>
+      <Dest>Humanoid Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Max Spawns in an Outside Cell</Source>
+      <Dest>Max Spawns in an Outside Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Max Spawns in an Inside Cell</Source>
+      <Dest>Max Spawns in an Inside Cell</Dest>
+    </String>
+    <String List="0">
+      <Source>Humanoid NPCs</Source>
+      <Dest>Humanoid NPCs</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Bandit Spawns</Source>
+      <Dest>...Randomize Bandit Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Boneman Spawns</Source>
+      <Dest>...Randomize Boneman Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of a Boneman Boss</Source>
+      <Dest>...Odds of a Boneman Boss</Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Spawns</Source>
+      <Dest>Draugr Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Draugr Spawns</Source>
+      <Dest>...Randomize Draugr Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>Skeletons</Source>
+      <Dest>Skeletons</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Skeleton Spawns</Source>
+      <Dest>...Randomize Skeleton Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of a Lich Boss</Source>
+      <Dest>...Odds of a Lich Boss</Dest>
+    </String>
+    <String List="0">
+      <Source>Falmers</Source>
+      <Dest>Falmers</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Falmer Spawns</Source>
+      <Dest>...Randomize Falmer Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of a Falmer Boss</Source>
+      <Dest>...Odds of a Falmer Boss</Dest>
+    </String>
+    <String List="0">
+      <Source>Creature Settings</Source>
+      <Dest>Creature Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Size of Wolf Pack Outdoors</Source>
+      <Dest>Size of Wolf Pack Outdoors</Dest>
+    </String>
+    <String List="0">
+      <Source>Size of Wolf Pack Indoors</Source>
+      <Dest>Size of Wolf Pack Indoors</Dest>
+    </String>
+    <String List="0">
+      <Source>Creature NPCs</Source>
+      <Dest>Creature NPCs</Dest>
+    </String>
+    <String List="0">
+      <Source>Wolves</Source>
+      <Dest>Wolves</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Wolf Spawns</Source>
+      <Dest>...Randomize Wolf Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of Alpha Wolf</Source>
+      <Dest>...Odds of Alpha Wolf</Dest>
+    </String>
+    <String List="0">
+      <Source>Spiders</Source>
+      <Dest>Spiders</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Spider Spawns</Source>
+      <Dest>...Randomize Spider Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of a Dire Spider</Source>
+      <Dest>...Odds of a Dire Spider</Dest>
+    </String>
+    <String List="0">
+      <Source>...Forbid Spider Hallucination Attack</Source>
+      <Dest>...Forbid Spider Hallucination Attack</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno</Source>
+      <Dest>Burning Inferno</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Active</Source>
+      <Dest>Burning Inferno Active</Dest>
+    </String>
+    <String List="0">
+      <Source>Inferno Type</Source>
+      <Dest>Inferno Type</Dest>
+    </String>
+    <String List="0">
+      <Source>Inferno Shield Active</Source>
+      <Dest>Inferno Shield Active</Dest>
+    </String>
+    <String List="0">
+      <Source>Avenge Bane and Blade</Source>
+      <Dest>Avenge Bane and Blade</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire Hunters / Blade</Source>
+      <Dest>Vampire Hunters / Blade</Dest>
+    </String>
+    <String List="0">
+      <Source>Vamp Hunters Allowed</Source>
+      <Dest>Vamp Hunters Allowed</Dest>
+    </String>
+    <String List="0">
+      <Source>Hunters Lore Friendly</Source>
+      <Dest>Hunters Lore Friendly</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hand Hunters / Bane</Source>
+      <Dest>Silver Hand Hunters / Bane</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hands Allowed</Source>
+      <Dest>Silver Hands Allowed</Dest>
+    </String>
+    <String List="0">
+      <Source>Silvers Lore Friendly</Source>
+      <Dest>Silvers Lore Friendly</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hands Added Chance</Source>
+      <Dest>Silver Hands Added Chance</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Death Knights</Source>
+      <Dest>Mephala Death Knights</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Knights</Source>
+      <Dest>Allow Knights</Dest>
+    </String>
+    <String List="0">
+      <Source>Assassin Kills Needed To Spawn</Source>
+      <Dest>Assassin Kills Needed To Spawn</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Mind Flayers</Source>
+      <Dest>Allow Mind Flayers</Dest>
+    </String>
+    <String List="0">
+      <Source>Inferno Cooldown Settings</Source>
+      <Dest>Inferno Cooldown Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Days Before Appearance Possible</Source>
+      <Dest>Days Before Appearance Possible</Dest>
+    </String>
+    <String List="0">
+      <Source>...Randomize Cooldown Period</Source>
+      <Dest>...Randomize Cooldown Period</Dest>
+    </String>
+    <String List="0">
+      <Source>Blade Cooldown Settings</Source>
+      <Dest>Blade Cooldown Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Bane Cooldown Settings</Source>
+      <Dest>Bane Cooldown Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Squad Leaders</Source>
+      <Dest>Squad Leaders</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Arcane Devourer</Source>
+      <Dest>Allow Arcane Devourer</Dest>
+    </String>
+    <String List="0">
+      <Source>Appear at Player Level</Source>
+      <Dest>Appear at Player Level</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Spawned NPCs to Shout</Source>
+      <Dest>Allow Spawned NPCs to Shout</Dest>
+    </String>
+    <String List="0">
+      <Source>Re-Level Populated NPCs</Source>
+      <Dest>Re-Level Populated NPCs</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Unlevelled (Dynamic) NPCs</Source>
+      <Dest>Allow Unlevelled (Dynamic) NPCs</Dest>
+    </String>
+    <String List="0">
+      <Source>Health Lowest Value</Source>
+      <Dest>Health Lowest Value</Dest>
+    </String>
+    <String List="0">
+      <Source>Health Highest Value</Source>
+      <Dest>Health Highest Value</Dest>
+    </String>
+    <String List="0">
+      <Source>Stamina Lowest Value</Source>
+      <Dest>Stamina Lowest Value</Dest>
+    </String>
+    <String List="0">
+      <Source>Stamina Highest Value</Source>
+      <Dest>Stamina Highest Value</Dest>
+    </String>
+    <String List="0">
+      <Source>Magicka Lowest Value</Source>
+      <Dest>Magicka Lowest Value</Dest>
+    </String>
+    <String List="0">
+      <Source>Magicka Highest Value</Source>
+      <Dest>Magicka Highest Value</Dest>
+    </String>
+    <String List="0">
+      <Source>Loot Adjustments</Source>
+      <Dest>Loot Adjustments</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable Chance of Potions</Source>
+      <Dest>Enable Chance of Potions</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of Potions Added to NPCs</Source>
+      <Dest>...Odds of Potions Added to NPCs</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable Treasure Chest Drops</Source>
+      <Dest>Enable Treasure Chest Drops</Dest>
+    </String>
+    <String List="0">
+      <Source>...Odds of Drop</Source>
+      <Dest>...Odds of Drop</Dest>
+    </String>
+    <String List="0">
+      <Source>...Keep Dead Bodies</Source>
+      <Dest>...Keep Dead Bodies</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Mod&apos;s Weapons / Armor</Source>
+      <Dest>Disable Mod&apos;s Weapons / Armor</Dest>
+    </String>
+    <String List="0">
+      <Source>...Do Not Level Restrict Armor</Source>
+      <Dest>...Do Not Level Restrict Armor</Dest>
+    </String>
+    <String List="0">
+      <Source>Player Adjustments</Source>
+      <Dest>Player Adjustments</Dest>
+    </String>
+    <String List="0">
+      <Source>Attempt Removal of Unwanted Effects</Source>
+      <Dest>Attempt Removal of Unwanted Effects</Dest>
+    </String>
+    <String List="0">
+      <Source>Anti-Doppelganger Spell:</Source>
+      <Dest>Anti-Doppelganger Spell:</Dest>
+    </String>
+    <String List="0">
+      <Source>Change Player Carry Weight</Source>
+      <Dest>Change Player Carry Weight</Dest>
+    </String>
+    <String List="0">
+      <Source>No More Green Pill</Source>
+      <Dest>No More Green Pill</Dest>
+    </String>
+    <String List="0">
+      <Source>No More Red Pill</Source>
+      <Dest>No More Red Pill</Dest>
+    </String>
+    <String List="0">
+      <Source>Script Adjustments</Source>
+      <Dest>Script Adjustments</Dest>
+    </String>
+    <String List="0">
+      <Source>Delay All Script Times (in sec)</Source>
+      <Dest>Delay All Script Times (in sec)</Dest>
+    </String>
+    <String List="0">
+      <Source>Lore Adjustments</Source>
+      <Dest>Lore Adjustments</Dest>
+    </String>
+    <String List="0">
+      <Source>Enforce Lore Mode</Source>
+      <Dest>Enforce Lore Mode</Dest>
+    </String>
+    <String List="0">
+      <Source>Notification Messages</Source>
+      <Dest>Notification Messages</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Braxton Stormcrow</Source>
+      <Dest>Disable Braxton Stormcrow</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Krull The Fletcher</Source>
+      <Dest>Disable Krull The Fletcher</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Punishment</Source>
+      <Dest>Disable Punishment</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Ivarstead Smithy</Source>
+      <Dest>Allow Ivarstead Smithy</Dest>
+    </String>
+    <String List="0">
+      <Source>Activate SOT Debugging Mode</Source>
+      <Dest>Activate SOT Debugging Mode</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking (Surface) Encounters</Source>
+      <Dest>Walking (Surface) Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Waiting Encounters</Source>
+      <Dest>Waiting Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Fast Travel Detection Script</Source>
+      <Dest>Fast Travel Detection Script</Dest>
+    </String>
+    <String List="0">
+      <Source>Fast Travel Main Script</Source>
+      <Dest>Fast Travel Main Script</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Ambushes Script</Source>
+      <Dest>Sleeping Ambushes Script</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Encounters</Source>
+      <Dest>Burning Inferno Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Activation Handler &amp; Silver Weapons</Source>
+      <Dest>Activation Handler &amp; Silver Weapons</Dest>
+    </String>
+    <String List="0">
+      <Source>Testing / Debugging (Continued)</Source>
+      <Dest>Testing / Debugging (Continued)</Dest>
+    </String>
+    <String List="0">
+      <Source>Script Latency Test by Alex</Source>
+      <Dest>Script Latency Test by Alex</Dest>
+    </String>
+    <String List="0">
+      <Source>Show # Of Scripts As They Fire</Source>
+      <Dest>Show # Of Scripts As They Fire</Dest>
+    </String>
+    <String List="0">
+      <Source>Guidance Scrolls</Source>
+      <Dest>Guidance Scrolls</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll I: The Overview</Source>
+      <Dest>Scroll I: The Overview</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll II: Presets</Source>
+      <Dest>Scroll II: Presets</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll III: Surface Encounters</Source>
+      <Dest>Scroll III: Surface Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll IV: Surface Enhancer</Source>
+      <Dest>Scroll IV: Surface Enhancer</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll V: Dungeon Encounters</Source>
+      <Dest>Scroll V: Dungeon Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll VI: Apocalypse Encounters</Source>
+      <Dest>Scroll VI: Apocalypse Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll VII: Assassin Encounters</Source>
+      <Dest>Scroll VII: Assassin Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll VIII: Subsidiary Encounters</Source>
+      <Dest>Scroll VIII: Subsidiary Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll IX: Populated Spawns</Source>
+      <Dest>Scroll IX: Populated Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll X: Bolstered Vanilla Spawns</Source>
+      <Dest>Scroll X: Bolstered Vanilla Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll XI: Boss Settings</Source>
+      <Dest>Scroll XI: Boss Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll XII: System Settings</Source>
+      <Dest>Scroll XII: System Settings</Dest>
+    </String>
+    <String List="0">
+      <Source>Specific Topic Scrolls</Source>
+      <Dest>Specific Topic Scrolls</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll I: Dungeon Reinforcement Guide</Source>
+      <Dest>Scroll I: Dungeon Reinforcement Guide</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll II: An Alternate Fast Travel</Source>
+      <Dest>Scroll II: An Alternate Fast Travel</Dest>
+    </String>
+    <String List="0">
+      <Source>Scroll III: Surface Cooldowns Explained</Source>
+      <Dest>Scroll III: Surface Cooldowns Explained</Dest>
+    </String>
+    <String List="0">
+      <Source>Helpers</Source>
+      <Dest>Helpers</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Asyrin The Vagabond Knight</Source>
+      <Dest>Allow Asyrin The Vagabond Knight</Dest>
+    </String>
+    <String List="0">
+      <Source>Health Percent Level To Trigger Help</Source>
+      <Dest>Health Percent Level To Trigger Help</Dest>
+    </String>
+    <String List="0">
+      <Source>Cooldown in Days</Source>
+      <Dest>Cooldown in Days</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Appearance Per Hit</Source>
+      <Dest>Odds of Appearance Per Hit</Dest>
+    </String>
+    <String List="0">
+      <Source>Do Not Grant Dancing Swords Power</Source>
+      <Dest>Do Not Grant Dancing Swords Power</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Traveling Coin Penalty</Source>
+      <Dest>Allow Traveling Coin Penalty</Dest>
+    </String>
+    <String List="0">
+      <Source>If Toggled to True Will Not Give Player The Special Dancing Swords Power.</Source>
+      <Dest>If Toggled to True Will Not Give Player The Special Dancing Swords Power.</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Mephala Weapon Self Destroying When Player Picks One Up or Loots One.</Source>
+      <Dest>Odds of Mephala Weapon Self Destroying When Player Picks One Up or Loots One.</Dest>
+    </String>
+    <String List="0">
+      <Source>This Feature Will Help Player Survive Until Spartan Graduation By Providing Extra Health On The Fly While In Combat. Will Also Attempt to Give Player Breathing Room While In Bleedout.</Source>
+      <Dest>This Feature Will Help Player Survive Until Spartan Graduation By Providing Extra Health On The Fly While In Combat. Will Also Attempt to Give Player Breathing Room While In Bleedout.</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Vagabond Knight Appearing to Help Player.  This is Per Enemy Hit Assuming Health Level is Below MCM Set Value. </Source>
+      <Dest>Odds of Vagabond Knight Appearing to Help Player.  This is Per Enemy Hit Assuming Health Level is Below MCM Set Value. </Dest>
+    </String>
+    <String List="0">
+      <Source>Number of Days Before Asyrin the Vagabond Knight Can Help the Player Again.</Source>
+      <Dest>Number of Days Before Asyrin the Vagabond Knight Can Help the Player Again.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Health Level from the Player to Trigger The Appearance of Asyrin the Vagabond Knight.</Source>
+      <Dest>The Health Level from the Player to Trigger The Appearance of Asyrin the Vagabond Knight.</Dest>
+    </String>
+    <String List="0">
+      <Source>Wether to Allow Asyrin the Vagabond Knight to Come to the Aid of the Player.</Source>
+      <Dest>Wether to Allow Asyrin the Vagabond Knight to Come to the Aid of the Player.</Dest>
+    </String>
+    <String List="0">
+      <Source>Populate all Draugr Dungeons with Skeletons.  Adds Over a Hundred Skeleton Encounters.</Source>
+      <Dest>Populate all Draugr Dungeons with Skeletons.  Adds Over a Hundred Skeleton Encounters.</Dest>
+    </String>
+    <String List="0">
+      <Source>Player Level Needed Before Arcane Devourers Can Spawn.</Source>
+      <Dest>Player Level Needed Before Arcane Devourers Can Spawn.</Dest>
+    </String>
+    <String List="0">
+      <Source>Wether to allow Fishbiter and the Smithy To Do Business in Iverstead.</Source>
+      <Dest>Wether to allow Fishbiter and the Smithy To Do Business in Iverstead.</Dest>
+    </String>
+    <String List="0">
+      <Source>Wether to Populate The World Where Appropiate With Arcane Devourers.</Source>
+      <Dest>Wether to Populate The World Where Appropiate With Arcane Devourers.</Dest>
+    </String>
+    <String List="0">
+      <Source>Populate The World Where Appropiate With Bone Men Skeletons.</Source>
+      <Dest>Populate The World Where Appropiate With Bone Men Skeletons.</Dest>
+    </String>
+    <String List="0">
+      <Source>Can be set to Not Active, Mode 1 in Which Spawns Appear Ahead of Player or At Player, or Mode 2 in Which Spawns Appear Behind or In Front of Player.</Source>
+      <Dest>Can be set to Not Active, Mode 1 in Which Spawns Appear Ahead of Player or At Player, or Mode 2 in Which Spawns Appear Behind or In Front of Player.</Dest>
+    </String>
+    <String List="0">
+      <Source>If True, Will Clone Enemy NPCS in the Loaded Cellspace At Their Present Location.  Recommend Instead to Use New System Below: &apos;How To Spawn&apos;.</Source>
+      <Dest>If True, Will Clone Enemy NPCS in the Loaded Cellspace At Their Present Location.  Recommend Instead to Use New System Below: &apos;How To Spawn&apos;.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Fort Mistwatch</Source>
+      <Dest>If Set to True, Will Increase the Population of Fort Mistwatch</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Ragnvald Crypt in a Deadly Way.</Source>
+      <Dest>If Set to True, Will Increase the Population of Ragnvald Crypt in a Deadly Way.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether To Allow NPCs Provided by Populated Encounters to Level to The Player or Leave Them Unlevelled.</Source>
+      <Dest>Whether To Allow NPCs Provided by Populated Encounters to Level to The Player or Leave Them Unlevelled.</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Or Allow Bolstered Spawns, Which Is Cloning of Enemy NPCs..  </Source>
+      <Dest>Disable Or Allow Bolstered Spawns, Which Is Cloning of Enemy NPCs..  </Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of an NPC Getting A Potion.</Source>
+      <Dest>Odds of an NPC Getting A Potion.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Give Spawned Enemy NPCs Potions.</Source>
+      <Dest>Whether to Give Spawned Enemy NPCs Potions.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Haemar&apos;s Shame.</Source>
+      <Dest>If Set to True, Will Increase the Population of Haemar&apos;s Shame.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow SOT To Clean Up Dead Rumiirua Bodies.</Source>
+      <Dest>Whether to Allow SOT To Clean Up Dead Rumiirua Bodies.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Enabled How Fast In Seconds to Delete The Dead Rumiirua Bodies.</Source>
+      <Dest>If Enabled How Fast In Seconds to Delete The Dead Rumiirua Bodies.</Dest>
+    </String>
+    <String List="0">
+      <Source>Player Level Required Before Mephala Assassins Can Attack</Source>
+      <Dest>Player Level Required Before Mephala Assassins Can Attack</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether To Allow Mephala Knight To Summon Mind Flayers.</Source>
+      <Dest>Whether To Allow Mephala Knight To Summon Mind Flayers.</Dest>
+    </String>
+    <String List="0">
+      <Source>Replace the Standard Saarthal Populated Encounter With A Less Intense Version.</Source>
+      <Dest>Replace the Standard Saarthal Populated Encounter With A Less Intense Version.</Dest>
+    </String>
+    <String List="0">
+      <Source>Number of Mephala Assassins That Must Be Killed Before The Mephala Death Knight Appears.</Source>
+      <Dest>Number of Mephala Assassins That Must Be Killed Before The Mephala Death Knight Appears.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow Mephala Death Knights to Spawn.  They Go After Do-Gooders and Will Spawn When Enough Mephala Assassins Have Been Killed.</Source>
+      <Dest>Whether to Allow Mephala Death Knights to Spawn.  They Go After Do-Gooders and Will Spawn When Enough Mephala Assassins Have Been Killed.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Alftand Dwemer Ruins</Source>
+      <Dest>If Set to True, Will Increase the Population of Alftand Dwemer Ruins</Dest>
+    </String>
+    <String List="0">
+      <Source>Encounter Odds While Using The Wait Menu to Wait Outdoors</Source>
+      <Dest>Encounter Odds While Using The Wait Menu to Wait Outdoors</Dest>
+    </String>
+    <String List="0">
+      <Source>If A Waiting Surface Encounter is Triggered, This Setting Decides If Time Needs Rewinding To Simulate Waiting Interruption.</Source>
+      <Dest>If A Waiting Surface Encounter is Triggered, This Setting Decides If Time Needs Rewinding To Simulate Waiting Interruption.</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod Will Create A Random Number of Biters From 1 to Maximum Set in MCM Menu</Source>
+      <Dest>Mod Will Create A Random Number of Biters From 1 to Maximum Set in MCM Menu</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Randomzize Number of Summoned Rumiirua Biters </Source>
+      <Dest>Whether to Randomzize Number of Summoned Rumiirua Biters </Dest>
+    </String>
+    <String List="0">
+      <Source>Toggles Whether Zombie Lich Can Summon More Zombies</Source>
+      <Dest>Toggles Whether Zombie Lich Can Summon More Zombies</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod Will Create A Random Number of Zombie Waves From 1 to Maximum in MCM Menu</Source>
+      <Dest>Mod Will Create A Random Number of Zombie Waves From 1 to Maximum in MCM Menu</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod Will Spawn A Random Number of Zombies From 1 to Maximum in MCM Menu</Source>
+      <Dest>Mod Will Spawn A Random Number of Zombies From 1 to Maximum in MCM Menu</Dest>
+    </String>
+    <String List="0">
+      <Source>Number of Zombie Waves</Source>
+      <Dest>Number of Zombie Waves</Dest>
+    </String>
+    <String List="0">
+      <Source>Number of Rumiirua Per Zombie Wave</Source>
+      <Dest>Number of Rumiirua Per Zombie Wave</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to show the player the level at which Zombie Apocalypse Starts</Source>
+      <Dest>Whether to show the player the level at which Zombie Apocalypse Starts</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow Zombie Apocalypse.</Source>
+      <Dest>Whether to Allow Zombie Apocalypse.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Lowest Stamina Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Source>
+      <Dest>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Lowest Stamina Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Highest Stamina Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Source>
+      <Dest>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Highest Stamina Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Health in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Source>
+      <Dest>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Health in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Highest Health Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Source>
+      <Dest>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Highest Health Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Magicka in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Source>
+      <Dest>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Magicka in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Highest Magicka Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Source>
+      <Dest>If Unlevelled NPCs Are Activated Then This Value is Used to Adjust Highest Magicka Value in Spawned NPCS. The sliders use a percentage of the players base health, magika, stamina with 100 being equal to the player.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Enabled Then The Stamina, Health, and Magicka Will be Altered As Per Settings Below. This Will Affect Spawns from Surface, Dungeon, Sleeping and Fast Travel Encounters.</Source>
+      <Dest>If Enabled Then The Stamina, Health, and Magicka Will be Altered As Per Settings Below. This Will Affect Spawns from Surface, Dungeon, Sleeping and Fast Travel Encounters.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Disable Additional Spawns in a Dungeon Until no NPCs Are Found.</Source>
+      <Dest>If Set to True, Will Disable Additional Spawns in a Dungeon Until no NPCs Are Found.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Disable The Halluciantion Attack Used By Hallucination Spiders.</Source>
+      <Dest>If Set to True, Will Disable The Halluciantion Attack Used By Hallucination Spiders.</Dest>
+    </String>
+    <String List="0">
+      <Source>OnlY Useful if the Preset SPARTAN is Chosen.  Will Use a Very Light Version Until This Level is Reached, Then Regular Spartan Settings Activate.</Source>
+      <Dest>OnlY Useful if the Preset SPARTAN is Chosen.  Will Use a Very Light Version Until This Level is Reached, Then Regular Spartan Settings Activate.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Ustengrav.</Source>
+      <Dest>If Set to True, Will Increase the Population of Ustengrav.</Dest>
+    </String>
+    <String List="0">
+      <Source>Cooldown before more wilderness assassins</Source>
+      <Dest>Cooldown before more wilderness assassins</Dest>
+    </String>
+    <String List="0">
+      <Source>Randomly Pick From 1 to max set in above setting for variety)</Source>
+      <Dest>Randomly Pick From 1 to max set in above setting for variety)</Dest>
+    </String>
+    <String List="0">
+      <Source>How Many Wilderness Assassins to Spawn - From 1 to 5</Source>
+      <Dest>How Many Wilderness Assassins to Spawn - From 1 to 5</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Having Assassin in Wilderness are Determined by TWO Dice Rolls Every Cell Change.  Raise each to INCREASE Chance.  Lower value to Decrease Chance.</Source>
+      <Dest>Odds of Having Assassin in Wilderness are Determined by TWO Dice Rolls Every Cell Change.  Raise each to INCREASE Chance.  Lower value to Decrease Chance.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow Assassins in the Wilderness</Source>
+      <Dest>Whether to Allow Assassins in the Wilderness</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow Assassins to Attack the Player in Riften</Source>
+      <Dest>Whether to Allow Assassins to Attack the Player in Riften</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow Assassins to Attack the Player in Windhelm</Source>
+      <Dest>Whether to Allow Assassins to Attack the Player in Windhelm</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Assassin Attack in Windhelm</Source>
+      <Dest>Odds of Assassin Attack in Windhelm</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Assassin Attack in Riften</Source>
+      <Dest>Odds of Assassin Attack in Riften</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow Assassins to Attack the Player in Solitude</Source>
+      <Dest>Whether to Allow Assassins to Attack the Player in Solitude</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow Assassins to Attack the Player in Whiterun</Source>
+      <Dest>Whether to Allow Assassins to Attack the Player in Whiterun</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Assassin Attack in Whiterun</Source>
+      <Dest>Odds of Assassin Attack in Whiterun</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Assassin Attack in Solitude</Source>
+      <Dest>Odds of Assassin Attack in Solitude</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True Mod Will Use An Alternate Script to Detect Fast Travel.  After Toggling Save Game and Reload Game.  See Extended Help Scroll 2.</Source>
+      <Dest>If Set to True Mod Will Use An Alternate Script to Detect Fast Travel.  After Toggling Save Game and Reload Game.  See Extended Help Scroll 2.</Dest>
+    </String>
+    <String List="0">
+      <Source>If an NPC Dies and a Chest is Dropped the Dead NPC Is Normally Deleted Unless Toggled Here.</Source>
+      <Dest>If an NPC Dies and a Chest is Dropped the Dead NPC Is Normally Deleted Unless Toggled Here.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Volunruud Tomb.</Source>
+      <Dest>If Set to True, Will Increase the Population of Volunruud Tomb.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Uttering Hills.</Source>
+      <Dest>If Set to True, Will Increase the Population of Uttering Hills.</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Undead Patrol At Dustman Cairn.</Source>
+      <Dest>Allow Undead Patrol At Dustman Cairn.</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Increased Drops of Treasure Chests.</Source>
+      <Dest>Allow Increased Drops of Treasure Chests.</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Treasure Chests Being Dropped.</Source>
+      <Dest>Odds of Treasure Chests Being Dropped.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Silent Moons Camp Including A Patrol.</Source>
+      <Dest>If Set to True, Will Increase the Population of Silent Moons Camp Including A Patrol.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Movarth&apos;s Lair.</Source>
+      <Dest>If Set to True, Will Increase the Population of Movarth&apos;s Lair.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Knife Point Camp.</Source>
+      <Dest>If Set to True, Will Increase the Population of Knife Point Camp.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Dead Men&apos;s Respite.</Source>
+      <Dest>If Set to True, Will Increase the Population of Dead Men&apos;s Respite.</Dest>
+    </String>
+    <String List="0">
+      <Source>Timing Value Measured From .1 to 1.0 Seconds, Default is .4 seconds.  Divide MCM Menu Value by 10 to Obtain Real Value.  If Set to Low, Fat Travel Will Not Be Detected.  If Too High, Player Will See His Character Arrive At Fast Travel Destination Only To Be Yanked Away to Encounter.</Source>
+      <Dest>Timing Value Measured From .1 to 1.0 Seconds, Default is .4 seconds.  Divide MCM Menu Value by 10 to Obtain Real Value.  If Set to Low, Fat Travel Will Not Be Detected.  If Too High, Player Will See His Character Arrive At Fast Travel Destination Only To Be Yanked Away to Encounter.</Dest>
+    </String>
+    <String List="0">
+      <Source>Enables or Disables Krull the Fletcher.  The NPC is Placed In Riverwood by SOT.</Source>
+      <Dest>Enables or Disables Krull the Fletcher.  The NPC is Placed In Riverwood by SOT.</Dest>
+    </String>
+    <String List="0">
+      <Source>Adds a Cooldown to Dungeon Added Spawns.  Calculated by Value Here Times the Dungeon Heartbeat Value (usually 12 seconds plus adjusters)</Source>
+      <Dest>Adds a Cooldown to Dungeon Added Spawns.  Calculated by Value Here Times the Dungeon Heartbeat Value (usually 12 seconds plus adjusters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Adds a Cooldown to Dungeon Increased Spawns.  Calculated by Value Here Times the Dungeon Heartbeat Value (usually 12 seconds plus adjusters)</Source>
+      <Dest>Adds a Cooldown to Dungeon Increased Spawns.  Calculated by Value Here Times the Dungeon Heartbeat Value (usually 12 seconds plus adjusters)</Dest>
+    </String>
+    <String List="0">
+      <Source>Adds a Cooldown to Dungeon Waiting Spawns.  Calculated by Value Here Times the Dungeon Heartbeat Value (usually 12 seconds plus adjusters)</Source>
+      <Dest>Adds a Cooldown to Dungeon Waiting Spawns.  Calculated by Value Here Times the Dungeon Heartbeat Value (usually 12 seconds plus adjusters)</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Bandits at Karthspire Camp.  An open sprawling Forsworn encampment located Northwest of Old Hroldan Inn.</Source>
+      <Dest>If Set to True, Will Increase the Population of Bandits at Karthspire Camp.  An open sprawling Forsworn encampment located Northwest of Old Hroldan Inn.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Bandits at Halted Stream.  An iron mine and cavern overlain with a wooden fort located Northwest of Whitewatch Tower.</Source>
+      <Dest>If Set to True, Will Increase the Population of Bandits at Halted Stream.  An iron mine and cavern overlain with a wooden fort located Northwest of Whitewatch Tower.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Bandits at Druadach Redoubt.  A small encampment and cave occupied by Forsworn, located Southwest of Mor Khazgur and north of the Shrine to Peryite.</Source>
+      <Dest>If Set to True, Will Increase the Population of Bandits at Druadach Redoubt.  A small encampment and cave occupied by Forsworn, located Southwest of Mor Khazgur and north of the Shrine to Peryite.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Bandits at Robbers Gorge.</Source>
+      <Dest>If Set to True, Will Increase the Population of Bandits at Robbers Gorge.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of AngarVunde Crypt.</Source>
+      <Dest>If Set to True, Will Increase the Population of AngarVunde Crypt.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Will Increase the Population of Bandits at Dragon BridgeOverlook, A small Forsworn camp on a cliff overlooking Dragon Bridge.</Source>
+      <Dest>If Set to True, Will Increase the Population of Bandits at Dragon BridgeOverlook, A small Forsworn camp on a cliff overlooking Dragon Bridge.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Set to True, Mod Will Attempt to Remove from Player all Magical Effects.  This Includes The Infamous Draugr Eyes Effect.  Toggle to ON, Then Exit Menu and Wait 60 Seconds.</Source>
+      <Dest>If Set to True, Mod Will Attempt to Remove from Player all Magical Effects.  This Includes The Infamous Draugr Eyes Effect.  Toggle to ON, Then Exit Menu and Wait 60 Seconds.</Dest>
+    </String>
+    <String List="0">
+      <Source>Toggles Whether Player Can Be Attacked While Waiting Or Working In An Area.  If True Then Player Can Only Be Attacked While Travelling Somewhere.</Source>
+      <Dest>Toggles Whether Player Can Be Attacked While Waiting Or Working In An Area.  If True Then Player Can Only Be Attacked While Travelling Somewhere.</Dest>
+    </String>
+    <String List="0">
+      <Source>Extends the Distance That NPCs Are Spawned in Surface Encounters.  Anything over 3,000 is the same as 6,000.  </Source>
+      <Dest>Extends the Distance That NPCs Are Spawned in Surface Encounters.  Anything over 3,000 is the same as 6,000.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Display Covert and Stealth Messages.</Source>
+      <Dest>Whether to Display Covert and Stealth Messages.</Dest>
+    </String>
+    <String List="0">
+      <Source>Quick Presets to Start Playing Right Away.  Recommended is the Spartan setting.  Select it again to enable it.</Source>
+      <Dest>Quick Presets to Start Playing Right Away.  Recommended is the Spartan setting.  Select it again to enable it.</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Being Attacked if Stealing From Shrines.</Source>
+      <Dest>Odds of Being Attacked if Stealing From Shrines.</Dest>
+    </String>
+    <String List="0">
+      <Source>Select What Happens When Mephala Dagger is Looted.  Whether Player Can Use It, Whether It Is Limited To Level 20 or Higher, or Whether it Breaks.</Source>
+      <Dest>Select What Happens When Mephala Dagger is Looted.  Whether Player Can Use It, Whether It Is Limited To Level 20 or Higher, or Whether it Breaks.</Dest>
+    </String>
+    <String List="0">
+      <Source>Select What Happens When Mephala Ax is Looted.  Whether Player Can Use It, Whether It Is Limited To Level 20 or Higher, or Whether it Breaks.</Source>
+      <Dest>Select What Happens When Mephala Ax is Looted.  Whether Player Can Use It, Whether It Is Limited To Level 20 or Higher, or Whether it Breaks.</Dest>
+    </String>
+    <String List="0">
+      <Source>Select What Happens When Mephala Arrows are Looted.  Whether Player Can Use It, Whether It Is Limited To Level 20 or Higher, or Whether it Breaks.</Source>
+      <Dest>Select What Happens When Mephala Arrows are Looted.  Whether Player Can Use It, Whether It Is Limited To Level 20 or Higher, or Whether it Breaks.</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of Being Attacked if Stealing From the Dead.</Source>
+      <Dest>Odds of Being Attacked if Stealing From the Dead.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Boneman Skeletons While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page. </Source>
+      <Dest>Increases Odds of Encountering Boneman Skeletons While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page. </Dest>
+    </String>
+    <String List="0">
+      <Source>Toggles whether spawned npcs should be deleted if the player leaves the cell.  Characters that use sneak attacks and hit and run tactics may want this off.</Source>
+      <Dest>Toggles whether spawned npcs should be deleted if the player leaves the cell.  Characters that use sneak attacks and hit and run tactics may want this off.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Bears While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Bears While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Horkers While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Horkers While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Chaurus While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Chaurus While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering The Dark Brotherhood While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering The Dark Brotherhood While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Orcs While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Orcs While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Trolls While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Trolls While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Wisps While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Wisps While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Witches While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Witches While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Thalmor While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Thalmor While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Spriggans While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Spriggans While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Silver Hands While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Silver Hands While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Ice Wraith While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Ice Wraith While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Hagraven While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Hagraven While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Dawnguard While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Dawnguard While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Forsworn While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Forsworn While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Giants While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Giants While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering Dremora While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering Dremora While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering a Bandit While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering a Bandit While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Odds of Encountering a Atronach While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Source>
+      <Dest>Increases Odds of Encountering a Atronach While On The Surface. Odds Are Calculated In Relation to the Other Vanilla Encounters On This Page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of Having a Vanilla Surface Encounters Versus a Custom Surface Encounter.  Higher Number Here Favors Vanilla.</Source>
+      <Dest>Chance of Having a Vanilla Surface Encounters Versus a Custom Surface Encounter.  Higher Number Here Favors Vanilla.</Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of a Boneman Boss to Appear.</Source>
+      <Dest>Chance of a Boneman Boss to Appear.</Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of a Falmer Boss to Appear.</Source>
+      <Dest>Chance of a Falmer Boss to Appear.</Dest>
+    </String>
+    <String List="0">
+      <Source>Randomize Falmer Vanilla Spawns From 1 to Maximum Specified With Slider </Source>
+      <Dest>Randomize Falmer Vanilla Spawns From 1 to Maximum Specified With Slider </Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Falmer Vanilla Spawns by Number Set Here. Zero Disables Feature.</Source>
+      <Dest>Increase Falmer Vanilla Spawns by Number Set Here. Zero Disables Feature.</Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of a Spider Boss to Appear With Spider Swarm.</Source>
+      <Dest>Chance of a Spider Boss to Appear With Spider Swarm.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Spider Vanilla Spawns by Number Set Here. Zero Disables Feature.</Source>
+      <Dest>Increase Spider Vanilla Spawns by Number Set Here. Zero Disables Feature.</Dest>
+    </String>
+    <String List="0">
+      <Source>Randomize Spider Vanilla Spawns From 1 to Maximum Specified With Slider </Source>
+      <Dest>Randomize Spider Vanilla Spawns From 1 to Maximum Specified With Slider </Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Skeleton Vanilla Spawns by Number Set Here. Zero Disables Feature.</Source>
+      <Dest>Increase Skeleton Vanilla Spawns by Number Set Here. Zero Disables Feature.</Dest>
+    </String>
+    <String List="0">
+      <Source>Randomize Skeleton Vanilla Spawns From 1 to Maximum Specified With  Slider </Source>
+      <Dest>Randomize Skeleton Vanilla Spawns From 1 to Maximum Specified With  Slider </Dest>
+    </String>
+    <String List="0">
+      <Source>Randomize Boneman Vanilla Spawns From 1 to Maximum Specified With  Slider </Source>
+      <Dest>Randomize Boneman Vanilla Spawns From 1 to Maximum Specified With  Slider </Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of a Lich Boss to Appear with Skeleton Spawns</Source>
+      <Dest>Chance of a Lich Boss to Appear with Skeleton Spawns</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Draugr Vanilla Spawns by Number Set Here. Zero Disables Feature.</Source>
+      <Dest>Increase Draugr Vanilla Spawns by Number Set Here. Zero Disables Feature.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Boneman Vanilla Spawns by Number Set Here. Zero Disables Feature.</Source>
+      <Dest>Increase Boneman Vanilla Spawns by Number Set Here. Zero Disables Feature.</Dest>
+    </String>
+    <String List="0">
+      <Source>Randomize Draugr Vanilla Spawns From 1 to Maximum Specified With  Slider </Source>
+      <Dest>Randomize Draugr Vanilla Spawns From 1 to Maximum Specified With  Slider </Dest>
+    </String>
+    <String List="0">
+      <Source>Limits the Number of Increased Vanilla Spawns in a Outside Cell.  A Sanity Issue.</Source>
+      <Dest>Limits the Number of Increased Vanilla Spawns in a Outside Cell.  A Sanity Issue.</Dest>
+    </String>
+    <String List="0">
+      <Source>Limits the Number of Increased Vanilla Spawns in a Dungeon Cell.  A Sanity Issue.</Source>
+      <Dest>Limits the Number of Increased Vanilla Spawns in a Dungeon Cell.  A Sanity Issue.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase Bandit Vanilla Spawns by Number Set Here. Zero Disables Feature.</Source>
+      <Dest>Increase Bandit Vanilla Spawns by Number Set Here. Zero Disables Feature.</Dest>
+    </String>
+    <String List="0">
+      <Source>Randomize Bandit Vanilla Spawns From 1 to Maximum Specified With  Slider </Source>
+      <Dest>Randomize Bandit Vanilla Spawns From 1 to Maximum Specified With  Slider </Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Player to Wear Unique SOT Armor Regardless of Player Level.  Such as the Assassins Outfit.</Source>
+      <Dest>Allow Player to Wear Unique SOT Armor Regardless of Player Level.  Such as the Assassins Outfit.</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable or Enable the Wizard Braxton Stormcrow.  Resides at College of Magic.</Source>
+      <Dest>Disable or Enable the Wizard Braxton Stormcrow.  Resides at College of Magic.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pause the Dungeon Encounters, both Added and Waiting. Only pauses encounters on Dungeon Encounters MCM page.</Source>
+      <Dest>Pause the Dungeon Encounters, both Added and Waiting. Only pauses encounters on Dungeon Encounters MCM page.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether to Allow NPCs From This Mod To Use Shouts.</Source>
+      <Dest>Whether to Allow NPCs From This Mod To Use Shouts.</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable or Disable Fast Travel Ambushes.</Source>
+      <Dest>Enable or Disable Fast Travel Ambushes.</Dest>
+    </String>
+    <String List="0">
+      <Source>Maximum Number of Minutes Before Reinforcements Appear.</Source>
+      <Dest>Maximum Number of Minutes Before Reinforcements Appear.</Dest>
+    </String>
+    <String List="0">
+      <Source>Minimum Number of Minutes Before Reinforcements Appear.</Source>
+      <Dest>Minimum Number of Minutes Before Reinforcements Appear.</Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of Gypsy Merchant Appearing in Dungeon.  Higher number means more likely.</Source>
+      <Dest>Chance of Gypsy Merchant Appearing in Dungeon.  Higher number means more likely.</Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of Arms Dealer Merchant Appearing in Dungeon.  Higher number means more likely.</Source>
+      <Dest>Chance of Arms Dealer Merchant Appearing in Dungeon.  Higher number means more likely.</Dest>
+    </String>
+    <String List="0">
+      <Source>Stop the Mod From Giving You Another Pill After Using or Discarding it</Source>
+      <Dest>Stop the Mod From Giving You Another Pill After Using or Discarding it</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase or Decrease How Much the Player Can Carry</Source>
+      <Dest>Increase or Decrease How Much the Player Can Carry</Dest>
+    </String>
+    <String List="0">
+      <Source>Chance of Treasure Hunter Appearing in Dungeon.  Higher number means more likely.</Source>
+      <Dest>Chance of Treasure Hunter Appearing in Dungeon.  Higher number means more likely.</Dest>
+    </String>
+    <String List="0">
+      <Source>Percentage of FXUndead Speed to Reduce.  Choosing .90 Will Produce Very Slow Undead. If you use .10 The Undead Will Be Very Fast.</Source>
+      <Dest>Percentage of FXUndead Speed to Reduce.  Choosing .90 Will Produce Very Slow Undead. If you use .10 The Undead Will Be Very Fast.</Dest>
+    </String>
+    <String List="0">
+      <Source>Decrease Speed The Speed of FxUndead by the Slider Amount Below.</Source>
+      <Dest>Decrease Speed The Speed of FxUndead by the Slider Amount Below.</Dest>
+    </String>
+    <String List="0">
+      <Source>Add a 50% Chance of A FxUndead Being Spawned at 25% of Players Level.  Normal is Equal to Players Level.</Source>
+      <Dest>Add a 50% Chance of A FxUndead Being Spawned at 25% of Players Level.  Normal is Equal to Players Level.</Dest>
+    </String>
+    <String List="0">
+      <Source>Number of Attackers that will form the mob in a surface encounter.  From 0 to 16 in increments of 4.</Source>
+      <Dest>Number of Attackers that will form the mob in a surface encounter.  From 0 to 16 in increments of 4.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increases Likelihood of Silver Hands Appearing by Adding This Value to The Die Rolls.  Higher Makes it More Likely.</Source>
+      <Dest>Increases Likelihood of Silver Hands Appearing by Adding This Value to The Die Rolls.  Higher Makes it More Likely.</Dest>
+    </String>
+    <String List="0">
+      <Source>Maximum Number of Added Spawns Added Per Battle</Source>
+      <Dest>Maximum Number of Added Spawns Added Per Battle</Dest>
+    </String>
+    <String List="0">
+      <Source>Die roll 1 of 2 That Determines if Player is Ambushed While Exploring Dungeon.  Zero = No Chance.  Odds are set initially the same as Walking Encounters</Source>
+      <Dest>Die roll 1 of 2 That Determines if Player is Ambushed While Exploring Dungeon.  Zero = No Chance.  Odds are set initially the same as Walking Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Die roll 2 of 2 That Determines if Player is Ambushed While Exploring Dungeon.  Zero = No Chance.  Odds are set initially the same as Walking Encounters</Source>
+      <Dest>Die roll 2 of 2 That Determines if Player is Ambushed While Exploring Dungeon.  Zero = No Chance.  Odds are set initially the same as Walking Encounters</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Spirits if Necessary.  Spirits are Normally Invisible and Used as Spawning Points in Dungeon Encounters.</Source>
+      <Dest>Disable Spirits if Necessary.  Spirits are Normally Invisible and Used as Spawning Points in Dungeon Encounters.</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds Of a Sick Rat Appearing.  100 is always.  This is Checked Two to Three Times a Minute So Keep It Low.</Source>
+      <Dest>Odds Of a Sick Rat Appearing.  100 is always.  This is Checked Two to Three Times a Minute So Keep It Low.</Dest>
+    </String>
+    <String List="0">
+      <Source>Odds Of a Healthy Rat Appearing.  100 is always.  This is Checked Two to Three Times a Minute So Keep It Low.</Source>
+      <Dest>Odds Of a Healthy Rat Appearing.  100 is always.  This is Checked Two to Three Times a Minute So Keep It Low.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether Rats Are Allowed in Dungeons.  This Includes Normal Rats and Sick Rats.</Source>
+      <Dest>Whether Rats Are Allowed in Dungeons.  This Includes Normal Rats and Sick Rats.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Activated the Cooldown Between Increased Spawns will be Repeatedly Randomly Chosen Between 1 and the Spawn Cooldown Number Chosen With Slider.</Source>
+      <Dest>If Activated the Cooldown Between Increased Spawns will be Repeatedly Randomly Chosen Between 1 and the Spawn Cooldown Number Chosen With Slider.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase the number for a higher chance of an attack while Fast Travelling.  Reduce the number to lessen it.  Range is 0 to 100.</Source>
+      <Dest>Increase the number for a higher chance of an attack while Fast Travelling.  Reduce the number to lessen it.  Range is 0 to 100.</Dest>
+    </String>
+    <String List="0">
+      <Source>Toggle whether Fast Travel Encounters in the Wild are allowed.  Normally 50% of battles are at the town gates, the other half are in the wild.</Source>
+      <Dest>Toggle whether Fast Travel Encounters in the Wild are allowed.  Normally 50% of battles are at the town gates, the other half are in the wild.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Toggled On It Will Allow Blight NPCs to Take Damage From Any Attack, Not Just Fire.</Source>
+      <Dest>If Toggled On It Will Allow Blight NPCs to Take Damage From Any Attack, Not Just Fire.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Toggled On There Will Only Be Walking Encounters at Night.</Source>
+      <Dest>If Toggled On There Will Only Be Walking Encounters at Night.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Enabled Will Set Cooldown Period Between 1 and the Number Selected With Slider.  After Bane Appears a New Random Cooldown is Chosen.</Source>
+      <Dest>If Enabled Will Set Cooldown Period Between 1 and the Number Selected With Slider.  After Bane Appears a New Random Cooldown is Chosen.</Dest>
+    </String>
+    <String List="0">
+      <Source>Select the Number of Days Before It is Possible for Bane the Werewolf Hunter to Appear.  Picking Zero Disables Cooldown</Source>
+      <Dest>Select the Number of Days Before It is Possible for Bane the Werewolf Hunter to Appear.  Picking Zero Disables Cooldown</Dest>
+    </String>
+    <String List="0">
+      <Source>Base Cooldown Period Between Walking Encounters.  Initially set to 15.  Calculated at this number times the script timer, in seconds. See Help Scroll 3 for more info.</Source>
+      <Dest>Base Cooldown Period Between Walking Encounters.  Initially set to 15.  Calculated at this number times the script timer, in seconds. See Help Scroll 3 for more info.</Dest>
+    </String>
+    <String List="0">
+      <Source>Select the Number of Days Before It is Possible for Blade the Vampire Hunter to Appear.  Picking Zero Disables Cooldown</Source>
+      <Dest>Select the Number of Days Before It is Possible for Blade the Vampire Hunter to Appear.  Picking Zero Disables Cooldown</Dest>
+    </String>
+    <String List="0">
+      <Source>Select the Number of Days Before It is Possible for Burning Inferno to Appear.  Picking Zero Disables Cooldown</Source>
+      <Dest>Select the Number of Days Before It is Possible for Burning Inferno to Appear.  Picking Zero Disables Cooldown</Dest>
+    </String>
+    <String List="0">
+      <Source>If Enabled Will Set Cooldown Period Between 1 and the Number Selected With Slider.  After Blade Appears a New Random Cooldown is Chosen.</Source>
+      <Dest>If Enabled Will Set Cooldown Period Between 1 and the Number Selected With Slider.  After Blade Appears a New Random Cooldown is Chosen.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Enabled Will Set Cooldown Period Between 1 and the Number Selected With Slider.  After Inferno Appears a New Random Cooldown is Chosen.</Source>
+      <Dest>If Enabled Will Set Cooldown Period Between 1 and the Number Selected With Slider.  After Inferno Appears a New Random Cooldown is Chosen.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Increased Spawns Style Above is Set to TACTICAL, Determines at What Enemy Detection Level Increased Spawns Are Allowed, With Zero Being Always Allowed/Constant.  Level 1 Means Player Has Been Hit 1 to 3 Times, Level 2 is 4 to 6 Times, Level 3 is 7 Times or More.</Source>
+      <Dest>If Increased Spawns Style Above is Set to TACTICAL, Determines at What Enemy Detection Level Increased Spawns Are Allowed, With Zero Being Always Allowed/Constant.  Level 1 Means Player Has Been Hit 1 to 3 Times, Level 2 is 4 to 6 Times, Level 3 is 7 Times or More.</Dest>
+    </String>
+    <String List="0">
+      <Source>Measure script latency as you play and display notification every few seconds. Ideally latency should stay around 50 ms and never go above 100 ms. Wrong results caused by menu mode should be ignored. Courtesy of Alex from Convenient Horses aka mitchalek.</Source>
+      <Dest>Measure script latency as you play and display notification every few seconds. Ideally latency should stay around 50 ms and never go above 100 ms. Wrong results caused by menu mode should be ignored. Courtesy of Alex from Convenient Horses aka mitchalek.</Dest>
+    </String>
+    <String List="0">
+      <Source>Extend The Time That All Scripts Fire.  From 0 to 180 seconds.  The Higher The Less Strain on Game But Less Efficient and Accurate. Will Also Affect The Odds Already Set.</Source>
+      <Dest>Extend The Time That All Scripts Fire.  From 0 to 180 seconds.  The Higher The Less Strain on Game But Less Efficient and Accurate. Will Also Affect The Odds Already Set.</Dest>
+    </String>
+    <String List="0">
+      <Source>Will mark a small room or sleeping area as encounter free when sleeping.  Useful for a custom player home. 6 Safe Locations are provided. Please select any of the 6 to set this location as safe.</Source>
+      <Dest>Will mark a small room or sleeping area as encounter free when sleeping.  Useful for a custom player home. 6 Safe Locations are provided. Please select any of the 6 to set this location as safe.</Dest>
+    </String>
+    <String List="0">
+      <Source>When the player wakes up, and if laying on bed animations are not enabled, the player will be drowsy and sluggish to respond for a second.</Source>
+      <Dest>When the player wakes up, and if laying on bed animations are not enabled, the player will be drowsy and sluggish to respond for a second.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In All Other Places.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In All Other Places.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Draugr Keep.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Draugr Keep.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Inn.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Inn.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In Jorrvaskr HQ.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In Jorrvaskr HQ.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In the Mages College.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In the Mages College.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Dungeon.</Source>
+      <Dest>Set The Odds From 0 to 100 for Getting Ambushed While Sleeping In a Dungeon.</Dest>
+    </String>
+    <String List="0">
+      <Source>Disables or Enables the Punishment for Killing Refugees</Source>
+      <Dest>Disables or Enables the Punishment for Killing Refugees</Dest>
+    </String>
+    <String List="0">
+      <Source>Disables or Enables the use of non vanilla armors and weapons.</Source>
+      <Dest>Disables or Enables the use of non vanilla armors and weapons.</Dest>
+    </String>
+    <String List="0">
+      <Source>Toggle whether there is a chance of trapped Treasures Chests being left behind.</Source>
+      <Dest>Toggle whether there is a chance of trapped Treasures Chests being left behind.</Dest>
+    </String>
+    <String List="0">
+      <Source>Will enable or disable notification messages when enemies are spawned.</Source>
+      <Dest>Will enable or disable notification messages when enemies are spawned.</Dest>
+    </String>
+    <String List="0">
+      <Source>If Enabled will block most non lore features.  If Disabled will allow Young People, Silver Hands, Blade, Bane, Burning Inferno, Treasure Chests,  etc.</Source>
+      <Dest>If Enabled will block most non lore features.  If Disabled will allow Young People, Silver Hands, Blade, Bane, Burning Inferno, Treasure Chests,  etc.</Dest>
+    </String>
+    <String List="0">
+      <Source>Controls Fast Travel Ambushes.  Only Fires One Time per Fast Travel.</Source>
+      <Dest>Controls Fast Travel Ambushes.  Only Fires One Time per Fast Travel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Controls SLeeping Ambushes.  Only Fires One Time per Sleep Session.</Source>
+      <Dest>Controls SLeeping Ambushes.  Only Fires One Time per Sleep Session.</Dest>
+    </String>
+    <String List="0">
+      <Source>Make the Silver Hands more Lore Friendly</Source>
+      <Dest>Make the Silver Hands more Lore Friendly</Dest>
+    </String>
+    <String List="0">
+      <Source>Allow Silver Hand Werewolf Hunters, Including Blade</Source>
+      <Dest>Allow Silver Hand Werewolf Hunters, Including Blade</Dest>
+    </String>
+    <String List="0">
+      <Source>Make the hunters more lore friendly. No new armor or weapons.</Source>
+      <Dest>Make the hunters more lore friendly. No new armor or weapons.</Dest>
+    </String>
+    <String List="0">
+      <Source> Whether or not to Allow Vampire Hunters to Spawn.  Will hunt Vampire players and Includes Master Hunter Blade</Source>
+      <Dest> Whether or not to Allow Vampire Hunters to Spawn.  Will hunt Vampire players and Includes Master Hunter Blade</Dest>
+    </String>
+    <String List="0">
+      <Source>Aids in Fast Travel Detection, a Secondary Script</Source>
+      <Dest>Aids in Fast Travel Detection, a Secondary Script</Dest>
+    </String>
+    <String List="0">
+      <Source>Handles Mod ACtivation and Deactivation from MCM Menu.  Also Silver Weapons Effects.</Source>
+      <Dest>Handles Mod ACtivation and Deactivation from MCM Menu.  Also Silver Weapons Effects.</Dest>
+    </String>
+    <String List="0">
+      <Source>Drives the Sleeping Animations.  This should be first thing disabled to save resources.</Source>
+      <Dest>Drives the Sleeping Animations.  This should be first thing disabled to save resources.</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Script is responsible for several Inferno features as well as Stopping/Starting Innocents Quest.</Source>
+      <Dest>Burning Inferno Script is responsible for several Inferno features as well as Stopping/Starting Innocents Quest.</Dest>
+    </String>
+    <String List="0">
+      <Source>Waiting Encounters Script Controls Dungeon Encounters Including Increased Spawns.</Source>
+      <Dest>Waiting Encounters Script Controls Dungeon Encounters Including Increased Spawns.</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Encounters Script is the hardest working script in SOT.  Controls surface encounters including Increased Spawns.</Source>
+      <Dest>Walking Encounters Script is the hardest working script in SOT.  Controls surface encounters including Increased Spawns.</Dest>
+    </String>
+    <String List="0">
+      <Source>Revenge Mode : Toggles whether she will avenge the death of Blade or Bane.</Source>
+      <Dest>Revenge Mode : Toggles whether she will avenge the death of Blade or Bane.</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable or Disable the Shield That Often Protects Burning Inferno.</Source>
+      <Dest>Enable or Disable the Shield That Often Protects Burning Inferno.</Dest>
+    </String>
+    <String List="0">
+      <Source>Select Between Full Power Burning Inferno or Weaker Fire Girl.  Fire Girl Has no Demon Larvae, Shield, or Earth Spell.</Source>
+      <Dest>Select Between Full Power Burning Inferno or Weaker Fire Girl.  Fire Girl Has no Demon Larvae, Shield, or Earth Spell.</Dest>
+    </String>
+    <String List="0">
+      <Source>Will Enable or Disable Burning Inferno.</Source>
+      <Dest>Will Enable or Disable Burning Inferno.</Dest>
+    </String>
+    <String List="0">
+      <Source>Set Player Level at Which Hard Spawn Are Allowed.  NPCs will be less, 66% slower, and have greatly reduced hitpoints.</Source>
+      <Dest>Set Player Level at Which Hard Spawn Are Allowed.  NPCs will be less, 66% slower, and have greatly reduced hitpoints.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether Chance of Cloning is Tactical/Constant or Based on odds of Encounters Just Like Waiting in a Dungeon.  See Extended Help Scroll 1.</Source>
+      <Dest>Whether Chance of Cloning is Tactical/Constant or Based on odds of Encounters Just Like Waiting in a Dungeon.  See Extended Help Scroll 1.</Dest>
+    </String>
+    <String List="0">
+      <Source>Maximum Number of Spawns, from 1 to 5.  A random number in the specified range will be chosen .</Source>
+      <Dest>Maximum Number of Spawns, from 1 to 5.  A random number in the specified range will be chosen .</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable or Disable Increased Dungeon Spawns.  Surface Increased Spawns are not Affected.</Source>
+      <Dest>Enable or Disable Increased Dungeon Spawns.  Surface Increased Spawns are not Affected.</Dest>
+    </String>
+    <String List="0">
+      <Source>Increase the number for a higher chance of an attack while Waiting in a Dungeon.  Reduce the number to lessen it.  Range is 0 to 100.</Source>
+      <Dest>Increase the number for a higher chance of an attack while Waiting in a Dungeon.  Reduce the number to lessen it.  Range is 0 to 100.</Dest>
+    </String>
+    <String List="0">
+      <Source>For testing only.  Will enable a stream of notifications for diagnosing and verification.  Run when mod is working fine so you know the baseline for your system.</Source>
+      <Dest>For testing only.  Will enable a stream of notifications for diagnosing and verification.  Run when mod is working fine so you know the baseline for your system.</Dest>
+    </String>
+    <String List="0">
+      <Source>How Much Time Between Increased Spawn Attempts.  Multiply the Timer Number by This Mumber to Equal Seconds in Between Spawn Attempts.</Source>
+      <Dest>How Much Time Between Increased Spawn Attempts.  Multiply the Timer Number by This Mumber to Equal Seconds in Between Spawn Attempts.</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable or Disable Cloning of Dragons by Increased Spawns Feature.</Source>
+      <Dest>Enable or Disable Cloning of Dragons by Increased Spawns Feature.</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable or Disable Increased Spawns While Walking on the Surface.</Source>
+      <Dest>Enable or Disable Increased Spawns While Walking on the Surface.</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable or Disable Increased Surface Spawns From Any Source Choose Maximum Number of Spawns, from 1 to 5.  A random amount in the specified range will be chosen .</Source>
+      <Dest>Enable or Disable Increased Surface Spawns From Any Source Choose Maximum Number of Spawns, from 1 to 5.  A random amount in the specified range will be chosen .</Dest>
+    </String>
+    <String List="0">
+      <Source>Choose a number from 0 to 120.  This will be the minimum number of minutes between encounters while walking on the surface. See Help Scroll 3 for more info.</Source>
+      <Dest>Choose a number from 0 to 120.  This will be the minimum number of minutes between encounters while walking on the surface. See Help Scroll 3 for more info.</Dest>
+    </String>
+    <String List="0">
+      <Source>Controls how often the main Walking Encounter Scripts fires.  Default is every 20 seconds.  Can be increased to 90 seconds, and decreased all the way down to 13.  May help with resource issues and crashes.</Source>
+      <Dest>Controls how often the main Walking Encounter Scripts fires.  Default is every 20 seconds.  Can be increased to 90 seconds, and decreased all the way down to 13.  May help with resource issues and crashes.</Dest>
+    </String>
+    <String List="0">
+      <Source>Likelihood of Not Having an Encounter in the Day Time Hours, Expressed as a Percentage Versus Present Die Roll Settings.  </Source>
+      <Dest>Likelihood of Not Having an Encounter in the Day Time Hours, Expressed as a Percentage Versus Present Die Roll Settings.  </Dest>
+    </String>
+    <String List="0">
+      <Source>Odds of having an encounter while Walking are determined by TWO dice rolls every X seconds.  Increase each to INCREASE encounters.  Lower value to LOWER walking encounters.</Source>
+      <Dest>Odds of having an encounter while Walking are determined by TWO dice rolls every X seconds.  Increase each to INCREASE encounters.  Lower value to LOWER walking encounters.</Dest>
+    </String>
+    <String List="0">
+      <Source>Toggle to Activate Mod.  Then exit menu and wait 4 minutes for full activation. Save Game.
+Default: false</Source>
+      <Dest>Toggle to Activate Mod.  Then exit menu and wait 4 minutes for full activation. Save Game.
+Default: false</Dest>
+    </String>
+    <String List="0">
+      <Source>Controls the Encounters While Walking On the Surface.</Source>
+      <Dest>Controls the Encounters While Walking On the Surface.</Dest>
+    </String>
+    <String List="0">
+      <Source>Controls the Encounters While Using Fast Travel.</Source>
+      <Dest>Controls the Encounters While Using Fast Travel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Whether the Mod is Activated</Source>
+      <Dest>Whether the Mod is Activated</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses the Encounters From Walking on the Surface.</Source>
+      <Dest>Pauses the Encounters From Walking on the Surface.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses the Encounters From Using Fast Travel.</Source>
+      <Dest>Pauses the Encounters From Using Fast Travel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses the Encounters From Waiting in a Dungeon.</Source>
+      <Dest>Pauses the Encounters From Waiting in a Dungeon.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses the Encounters From Sleeping.</Source>
+      <Dest>Pauses the Encounters From Sleeping.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses Encounters While Using Fast Travel.</Source>
+      <Dest>Pauses Encounters While Using Fast Travel.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses the Encounters From Traditional Surface Spawns.</Source>
+      <Dest>Pauses the Encounters From Traditional Surface Spawns.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses the Encounters From Mephala Assassins.</Source>
+      <Dest>Pauses the Encounters From Mephala Assassins.</Dest>
+    </String>
+    <String List="0">
+      <Source>Pauses the Encounters From the &apos;&apos;Bulwark&apos;&apos; Engine Which Bolsters Vanilla Spawns.</Source>
+      <Dest>Pauses the Encounters From the &apos;&apos;Bulwark&apos;&apos; Engine Which Bolsters Vanilla Spawns.</Dest>
+    </String>
+    <String List="0">
+      <Source>Recommended For a Very Light Challenge. No Populated Dungeons, Minimal Spawns. Like all Milk Drinkers.</Source>
+      <Dest>Recommended For a Very Light Challenge. No Populated Dungeons, Minimal Spawns. Like all Milk Drinkers.</Dest>
+    </String>
+    <String List="0">
+      <Source>Recommended For a Casual Challenge. Has Almost Zero SOT Populated Dungeons, Minimal Spawns. No Genesis. For All Adventurers.</Source>
+      <Dest>Recommended For a Casual Challenge. Has Almost Zero SOT Populated Dungeons, Minimal Spawns. No Genesis. For All Adventurers.</Dest>
+    </String>
+    <String List="0">
+      <Source>The Recommended option. Challenge For A Real Spartan Without Spamming Spawns. FOR SPARTA!!!</Source>
+      <Dest>The Recommended option. Challenge For A Real Spartan Without Spamming Spawns. FOR SPARTA!!!</Dest>
+    </String>
+    <String List="0">
+      <Source>Serious Challenge For Players With Over Powered Groups Needing Extra Spawns And Dangers.</Source>
+      <Dest>Serious Challenge For Players With Over Powered Groups Needing Extra Spawns And Dangers.</Dest>
+    </String>
+    <String List="0">
+      <Source>Ridiculously Hard Settings. Spawns Will Be Constant And Many. Living Will Be A Constant Nightmare. Not Truly A Playable Setting.</Source>
+      <Dest>Ridiculously Hard Settings. Spawns Will Be Constant And Many. Living Will Be A Constant Nightmare. Not Truly A Playable Setting.</Dest>
+    </String>
+    <String List="0">
+      <Source>FISS Mod Required To Save To Or Load From SoTSave Files.
+See The Sands Of Time Nexus Page For More Info.</Source>
+      <Dest>FISS Mod Required To Save To Or Load From SoTSave Files.
+See The Sands Of Time Nexus Page For More Info.</Dest>
+    </String>
+    <String List="0">
+      <Source>FISS Mod Installed
+Saving To And Loading From SoTSave Files Is Enabled.</Source>
+      <Dest>FISS Mod Installed
+Saving To And Loading From SoTSave Files Is Enabled.</Dest>
+    </String>
+    <String List="0">
+      <Source>SoTSave Files Are Found In The Following Directory
+&apos;&apos;Data\SKSE\Plugins\FISS\Sands Of Time&apos;&apos;</Source>
+      <Dest>SoTSave Files Are Found In The Following Directory
+&apos;&apos;Data\SKSE\Plugins\FISS\Sands Of Time&apos;&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>SoT Settings Will Be Saved To And Overwrite The SoTSave File Chosen Above.
+Two Confirmation Boxes Will Appear.</Source>
+      <Dest>SoT Settings Will Be Saved To And Overwrite The SoTSave File Chosen Above.
+Two Confirmation Boxes Will Appear.</Dest>
+    </String>
+    <String List="0">
+      <Source>SoT Settings Will Be Loaded And Overwritten From The SoTSave File Chosen Above.
+Two Confirmation Boxes Will Appear.</Source>
+      <Dest>SoT Settings Will Be Loaded And Overwritten From The SoTSave File Chosen Above.
+Two Confirmation Boxes Will Appear.</Dest>
+    </String>
+    <String List="0">
+      <Source>Wether to Allow Chameleon Master Assassins and Lesser Chamele on Thugs.</Source>
+      <Dest>Wether to Allow Chameleon Master Assassins and Lesser Chamele on Thugs.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>eu3fanguardiantrapscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>No Sentinel to summon.</Source>
+      <Dest>No Sentinel to summon.</Dest>
+    </String>
+    <String List="0">
+      <Source>Summoning.</Source>
+      <Dest>Summoning.</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot proceed because: </Source>
+      <Dest>Cannot proceed because: </Dest>
+    </String>
+    <String List="0">
+      <Source>No Sentinel to unsummon.</Source>
+      <Dest>No Sentinel to unsummon.</Dest>
+    </String>
+    <String List="0">
+      <Source>Unsummoning.</Source>
+      <Dest>Unsummoning.</Dest>
+    </String>
+    <String List="0">
+      <Source>Device not in an active state.</Source>
+      <Dest>Device not in an active state.</Dest>
+    </String>
+    <String List="0">
+      <Source>There is no available deceased person or you already have </Source>
+      <Dest>There is no available deceased person or you already have </Dest>
+    </String>
+    <String List="0">
+      <Source> Sentinels.</Source>
+      <Dest> Sentinels.</Dest>
+    </String>
+    <String List="0">
+      <Source>This device considers your choice to be an insult. It only accepts unique inidividuals or people who could be a marriage partner a follower.</Source>
+      <Dest>This device considers your choice to be an insult. It only accepts unique inidividuals or people who could be a marriage partner a follower.</Dest>
+    </String>
+    <String List="0">
+      <Source>Retiring device</Source>
+      <Dest>Retiring device</Dest>
+    </String>
+    <String List="0">
+      <Source>What? This should be an invalid index</Source>
+      <Dest>What? This should be an invalid index</Dest>
+    </String>
+    <String List="0">
+      <Source>No Sentinal is stored in this slot.</Source>
+      <Dest>No Sentinal is stored in this slot.</Dest>
+    </String>
+    <String List="0">
+      <Source>This Sentinel is currently undergoing a maintenance procedure by another device. Please try again later.</Source>
+      <Dest>This Sentinel is currently undergoing a maintenance procedure by another device. Please try again later.</Dest>
+    </String>
+    <String List="0">
+      <Source>This Guardian Device would like to urge its owner not to disrespect it for </Source>
+      <Dest>This Guardian Device would like to urge its owner not to disrespect it for </Dest>
+    </String>
+    <String List="0">
+      <Source>recreational purposes. Failure to comply may result in an immediate increase in </Source>
+      <Dest>recreational purposes. Failure to comply may result in an immediate increase in </Dest>
+    </String>
+    <String List="0">
+      <Source>probability of The Last Dragonborn visiting Sovngarde in an enforced noncorporeal form. </Source>
+      <Dest>probability of The Last Dragonborn visiting Sovngarde in an enforced noncorporeal form. </Dest>
+    </String>
+    <String List="0">
+      <Source>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 002A</Source>
+      <Dest>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 002A</Dest>
+    </String>
+    <String List="0">
+      <Source> is now ready to become a Sentinel. Discontinue your companion&apos;s mortal existence to continue the process.</Source>
+      <Dest> is now ready to become a Sentinel. Discontinue your companion&apos;s mortal existence to continue the process.</Dest>
+    </String>
+    <String List="0">
+      <Source>The device is bounded with another Sentinel. Please disentangle the binding and try again.</Source>
+      <Dest>The device is bounded with another Sentinel. Please disentangle the binding and try again.</Dest>
+    </String>
+    <String List="0">
+      <Source>The device is busy. Please try again later.</Source>
+      <Dest>The device is busy. Please try again later.</Dest>
+    </String>
+    <String List="0">
+      <Source>Unloading. </Source>
+      <Dest>Unloading. </Dest>
+    </String>
+    <String List="0">
+      <Source>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001A</Source>
+      <Dest>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001A</Dest>
+    </String>
+    <String List="0">
+      <Source> is now bound to this device.</Source>
+      <Dest> is now bound to this device.</Dest>
+    </String>
+    <String List="0">
+      <Source> is now bound to this device and unbound from its original anchor.</Source>
+      <Dest> is now bound to this device and unbound from its original anchor.</Dest>
+    </String>
+    <String List="0">
+      <Source>This Sentinel has already been bound to this device.</Source>
+      <Dest>This Sentinel has already been bound to this device.</Dest>
+    </String>
+    <String List="0">
+      <Source>This Sentinel is now being summoned.</Source>
+      <Dest>This Sentinel is now being summoned.</Dest>
+    </String>
+    <String List="0">
+      <Source>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001B</Source>
+      <Dest>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001B</Dest>
+    </String>
+    <String List="0">
+      <Source> is now unbound from this device.</Source>
+      <Dest> is now unbound from this device.</Dest>
+    </String>
+    <String List="0">
+      <Source>There is no Sentinel in this slot.</Source>
+      <Dest>There is no Sentinel in this slot.</Dest>
+    </String>
+    <String List="0">
+      <Source>This Sentinel is not bound anywhere.</Source>
+      <Dest>This Sentinel is not bound anywhere.</Dest>
+    </String>
+    <String List="0">
+      <Source>Freeing </Source>
+      <Dest>Freeing </Dest>
+    </String>
+    <String List="0">
+      <Source>.</Source>
+      <Dest>.</Dest>
+    </String>
+    <String List="0">
+      <Source>Abort. To proceed the following conditions must apply:
+</Source>
+      <Dest>Abort. To proceed the following conditions must apply:
+</Dest>
+    </String>
+    <String List="0">
+      <Source>(1) Sentinel is not summoned.
+</Source>
+      <Dest>(1) Sentinel is not summoned.
+</Dest>
+    </String>
+    <String List="0">
+      <Source>(2) Sentinel&apos;s device must not be busy.
+</Source>
+      <Dest>(2) Sentinel&apos;s device must not be busy.
+</Dest>
+    </String>
+    <String List="0">
+      <Source>(3) This device must not be busy
+
+</Source>
+      <Dest>(3) This device must not be busy
+
+</Dest>
+    </String>
+    <String List="0">
+      <Source>Advice: Bind this Sentinel to this device and try again after the transfer is completed.</Source>
+      <Dest>Advice: Bind this Sentinel to this device and try again after the transfer is completed.</Dest>
+    </String>
+    <String List="0">
+      <Source>If this is already the case, make sure the Sentinel is not in a summoned state.</Source>
+      <Dest>If this is already the case, make sure the Sentinel is not in a summoned state.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_playermonitorquest.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I Covertly Advance...</Source>
+      <Dest>I Covertly Advance...</Dest>
+    </String>
+    <String List="0">
+      <Source>Hit Stealth Handler Running</Source>
+      <Dest>Hit Stealth Handler Running</Dest>
+    </String>
+    <String List="0">
+      <Source>PlayerMonitor AtRest ScriptsbeingProcessed: </Source>
+      <Dest>PlayerMonitor AtRest ScriptsbeingProcessed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Level is: </Source>
+      <Dest>Level is: </Dest>
+    </String>
+    <String List="0">
+      <Source>Element of Surprise Is Totally Lost...</Source>
+      <Dest>Element of Surprise Is Totally Lost...</Dest>
+    </String>
+    <String List="0">
+      <Source>Element of Surprise is Gone...</Source>
+      <Dest>Element of Surprise is Gone...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Lost Some Cover...</Source>
+      <Dest>I Lost Some Cover...</Dest>
+    </String>
+    <String List="0">
+      <Source>General Alarm Is Raised ...</Source>
+      <Dest>General Alarm Is Raised ...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Lost Some Concealment...</Source>
+      <Dest>I Lost Some Concealment...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

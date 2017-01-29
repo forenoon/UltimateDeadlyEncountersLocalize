@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_ftravesendevent.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Mysterious Stranger Arrives!</Source>
+      <Dest>Mysterious Stranger Arrives!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dancing Swords Scrolls Granted!</Source>
+      <Dest>Dancing Swords Scrolls Granted!</Dest>
+    </String>
+    <String List="0">
+      <Source>Sending Modevent</Source>
+      <Dest>Sending Modevent</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_removesicbracers.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>We were equipped by the player!</Source>
+      <Dest>We were equipped by the player!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Not Experienced Enough For This Bracers!</Source>
+      <Dest>I Am Not Experienced Enough For This Bracers!</Dest>
+    </String>
+    <String List="0">
+      <Source>not level 20 to wear me!</Source>
+      <Dest>not level 20 to wear me!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

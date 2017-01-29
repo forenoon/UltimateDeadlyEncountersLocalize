@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>eu3fanteleportertrapscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Destination Set: </Source>
+      <Dest>Destination Set: </Dest>
+    </String>
+    <String List="0">
+      <Source> -&gt; </Source>
+      <Dest> -&gt; </Dest>
+    </String>
+    <String List="0">
+      <Source>Teleporter Trap Destroyed: </Source>
+      <Dest>Teleporter Trap Destroyed: </Dest>
+    </String>
+    <String List="0">
+      <Source>This teleporter does not exist</Source>
+      <Dest>This teleporter does not exist</Dest>
+    </String>
+    <String List="0">
+      <Source>Device not spawned: Must be positioned at </Source>
+      <Dest>Device not spawned: Must be positioned at </Dest>
+    </String>
+    <String List="0">
+      <Source> or further.</Source>
+      <Dest> or further.</Dest>
+    </String>
+    <String List="0">
+      <Source>Device not spawned: Already have </Source>
+      <Dest>Device not spawned: Already have </Dest>
+    </String>
+    <String List="0">
+      <Source> instances.</Source>
+      <Dest> instances.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

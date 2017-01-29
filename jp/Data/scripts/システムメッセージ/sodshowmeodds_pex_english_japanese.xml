@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sodshowmeodds.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Inn Locations: </Source>
+      <Dest>Inn Locations: </Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Locations: </Source>
+      <Dest>Dungeon Locations: </Dest>
+    </String>
+    <String List="0">
+      <Source>Draugr Locations: </Source>
+      <Dest>Draugr Locations: </Dest>
+    </String>
+    <String List="0">
+      <Source>College Location: </Source>
+      <Dest>College Location: </Dest>
+    </String>
+    <String List="0">
+      <Source>Jorrvaskr Location: </Source>
+      <Dest>Jorrvaskr Location: </Dest>
+    </String>
+    <String List="0">
+      <Source>Fast Travel: </Source>
+      <Dest>Fast Travel: </Dest>
+    </String>
+    <String List="0">
+      <Source>All Other Locations: </Source>
+      <Dest>All Other Locations: </Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Encounters: </Source>
+      <Dest>Walking Encounters: </Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

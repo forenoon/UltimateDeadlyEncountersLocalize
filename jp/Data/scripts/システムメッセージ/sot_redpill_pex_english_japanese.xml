@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_redpill.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Mod Arming!</Source>
+      <Dest>Mod Arming!</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Stop!</Source>
+      <Dest>Walking Stop!</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Reset!</Source>
+      <Dest>Walking Reset!</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Start!</Source>
+      <Dest>Walking Start!</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Encounters Initialized!</Source>
+      <Dest>Walking Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Traveling Encounters Initialized!</Source>
+      <Dest>Traveling Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Innocents Initialized!</Source>
+      <Dest>Innocents Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Waiting Encounters Initialized!</Source>
+      <Dest>Waiting Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Encounters Initialized!</Source>
+      <Dest>Sleeping Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Fast Traveling Encounters Initialized!</Source>
+      <Dest>Fast Traveling Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Sands of Time Mod is Ready!</Source>
+      <Dest>Sands of Time Mod is Ready!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

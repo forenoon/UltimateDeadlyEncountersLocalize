@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>eu3fancourtneychestopenscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>As you opened the chest, a gust of wind blew you into the void that is contained within.</Source>
+      <Dest>As you opened the chest, a gust of wind blew you into the void that is contained within.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_dkcool.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Death Knight Summons Mind Flayers!!!</Source>
+      <Dest>Death Knight Summons Mind Flayers!!!</Dest>
+    </String>
+    <String List="0">
+      <Source>Death Knight Casting Death Blossom!</Source>
+      <Dest>Death Knight Casting Death Blossom!</Dest>
+    </String>
+    <String List="0">
+      <Source>Death Knight Casting Death Storm</Source>
+      <Dest>Death Knight Casting Death Storm</Dest>
+    </String>
+    <String List="0">
+      <Source>Death Knight Calls Forth Flying Death</Source>
+      <Dest>Death Knight Calls Forth Flying Death</Dest>
+    </String>
+    <String List="0">
+      <Source>Death Knight Raises Supreme Ward!</Source>
+      <Dest>Death Knight Raises Supreme Ward!</Dest>
+    </String>
+    <String List="0">
+      <Source>Ward Weakens!</Source>
+      <Dest>Ward Weakens!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

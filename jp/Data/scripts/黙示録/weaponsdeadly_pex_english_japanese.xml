@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>weaponsdeadly.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>On Init Ran in WeaponsDeadly Quest!!!!!!!</Source>
+      <Dest>On Init Ran in WeaponsDeadly Quest!!!!!!!</Dest>
+    </String>
+    <String List="0">
+      <Source>Weapons Deadly ScriptsbeingProcessed: </Source>
+      <Dest>Weapons Deadly ScriptsbeingProcessed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Rumiirua Apocalypse!</Source>
+      <Dest>Rumiirua Apocalypse!</Dest>
+    </String>
+    <String List="0">
+      <Source>Rumiirua Are Attacking Whiterun</Source>
+      <Dest>Rumiirua Are Attacking Whiterun</Dest>
+    </String>
+    <String List="0">
+      <Source>Rumiirua Horde!</Source>
+      <Dest>Rumiirua Horde!</Dest>
+    </String>
+    <String List="0">
+      <Source>Rumors Reach Me Of More Rumiirua Attacks!</Source>
+      <Dest>Rumors Reach Me Of More Rumiirua Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Whiterun is Grateful.</Source>
+      <Dest>Victory is Mine!  Whiterun is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>My Crimes Are Expunged!.</Source>
+      <Dest>My Crimes Are Expunged!.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Whiterun Coin Is Awarded To Me!</Source>
+      <Dest>A Whiterun Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Windhelm Under Attack!</Source>
+      <Dest>Windhelm Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Windhelm is Grateful.</Source>
+      <Dest>Victory is Mine!  Windhelm is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Windhelm Coin Is Awarded To Me!</Source>
+      <Dest>A Windhelm Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Ivarstead Under Attack!</Source>
+      <Dest>Ivarstead Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Ivarstead is Grateful.</Source>
+      <Dest>Victory is Mine!  Ivarstead is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>Falkreath Under Attack!</Source>
+      <Dest>Falkreath Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Falkreath is Grateful.</Source>
+      <Dest>Victory is Mine!  Falkreath is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Falkreath Coin Is Awarded To Me!</Source>
+      <Dest>A Falkreath Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Riften Under Attack!</Source>
+      <Dest>Riften Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Riften is Grateful.</Source>
+      <Dest>Victory is Mine!  Riften is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Riften Coin Is Awarded To Me!</Source>
+      <Dest>A Riften Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnstar Under Attack!</Source>
+      <Dest>Dawnstar Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Dawnstar is Grateful.</Source>
+      <Dest>Victory is Mine!  Dawnstar is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnstar Coin Is Awarded To Me!</Source>
+      <Dest>A Dawnstar Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Markarth Under Attack!</Source>
+      <Dest>Markarth Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Markarth is Grateful.</Source>
+      <Dest>Victory is Mine!  Markarth is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Markarth Coin Is Awarded To Me!</Source>
+      <Dest>A Markarth Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Solitude Under Attack!</Source>
+      <Dest>Solitude Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Solitude is Grateful.</Source>
+      <Dest>Victory is Mine!  Solitude is Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Solitude Coin Is Awarded To Me!</Source>
+      <Dest>A Solitude Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Morthal Under Attack!</Source>
+      <Dest>Morthal Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Victory is Mine!  Morthal s Grateful.</Source>
+      <Dest>Victory is Mine!  Morthal s Grateful.</Dest>
+    </String>
+    <String List="0">
+      <Source>A Morthal Coin Is Awarded To Me!</Source>
+      <Dest>A Morthal Coin Is Awarded To Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Removing Magic Effects From Player!</Source>
+      <Dest>Removing Magic Effects From Player!</Dest>
+    </String>
+    <String List="0">
+      <Source>Poison is Neutralized</Source>
+      <Dest>Poison is Neutralized</Dest>
+    </String>
+    <String List="0">
+      <Source>All Done!</Source>
+      <Dest>All Done!</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Encounters Initialized!</Source>
+      <Dest>Walking Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Deadly Weapons Secondary Script Fired (Rest State)!</Source>
+      <Dest>Deadly Weapons Secondary Script Fired (Rest State)!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Holy Silver is Killing You!</Source>
+      <Dest>The Holy Silver is Killing You!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod Arming!</Source>
+      <Dest>Mod Arming!</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Encounters Initialized, timer set to: </Source>
+      <Dest>Walking Encounters Initialized, timer set to: </Dest>
+    </String>
+    <String List="0">
+      <Source>Traveling Encounters Initialized!</Source>
+      <Dest>Traveling Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Innocents Initialized!</Source>
+      <Dest>Innocents Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Waiting Encounters Initialized!</Source>
+      <Dest>Waiting Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Sleeping Encounters Initialized!</Source>
+      <Dest>Sleeping Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Fast Traveling Encounters Initialized!</Source>
+      <Dest>Fast Traveling Encounters Initialized!</Dest>
+    </String>
+    <String List="0">
+      <Source>Sands of Time Mod is Ready!</Source>
+      <Dest>Sands of Time Mod is Ready!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod being disabled....</Source>
+      <Dest>Mod being disabled....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Traveling Encounters....</Source>
+      <Dest>Disable Traveling Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Walking Encounters....</Source>
+      <Dest>Disable Walking Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Waiting Encounters....</Source>
+      <Dest>Disable Waiting Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Ambush Encounters....</Source>
+      <Dest>Disable Ambush Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Inferno Encounters....</Source>
+      <Dest>Disable Inferno Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Fast Travel Encounters....</Source>
+      <Dest>Disable Fast Travel Encounters....</Dest>
+    </String>
+    <String List="0">
+      <Source>Disable Bed Animations....</Source>
+      <Dest>Disable Bed Animations....</Dest>
+    </String>
+    <String List="0">
+      <Source>Mod disabled.  Do not remove scripts files from script folder. To Re-enable mod Using MCM Menu Activate mod again AND change locations by entering indoors or exiting outdoors. Then Wait 20 seconds.</Source>
+      <Dest>Mod disabled.  Do not remove scripts files from script folder. To Re-enable mod Using MCM Menu Activate mod again AND change locations by entering indoors or exiting outdoors. Then Wait 20 seconds.</Dest>
+    </String>
+    <String List="0">
+      <Source>Deadly Weapons Secondary Script Fired (Busy State)!</Source>
+      <Dest>Deadly Weapons Secondary Script Fired (Busy State)!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

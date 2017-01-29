@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>volspidertrap.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>The Dying Spider Shrieks In Despair...</Source>
+      <Dest>The Dying Spider Shrieks In Despair...</Dest>
+    </String>
+    <String List="0">
+      <Source>My Heart Sinks As I Hear The Spider Call of Its Mate Nearby...</Source>
+      <Dest>My Heart Sinks As I Hear The Spider Call of Its Mate Nearby...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>silverswordalternatescript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Blessed Silver is Death to You!</Source>
+      <Dest>Blessed Silver is Death to You!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

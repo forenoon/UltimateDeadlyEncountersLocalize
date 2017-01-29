@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_raab.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>As I Strike Raab I Recite The Chant &apos;Ma qu-a aljamjima alramaadia&apos; .  There is a Deafening Crack of Thunder as the Protection Spell on Raab is Broken! </Source>
+      <Dest>As I Strike Raab I Recite The Chant &apos;Ma qu-a aljamjima alramaadia&apos; .  There is a Deafening Crack of Thunder as the Protection Spell on Raab is Broken! </Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

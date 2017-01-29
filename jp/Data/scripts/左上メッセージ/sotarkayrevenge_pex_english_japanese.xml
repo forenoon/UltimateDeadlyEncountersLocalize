@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sotarkayrevenge.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Arkay is Angered!</Source>
+      <Dest>Arkay is Angered!</Dest>
+    </String>
+    <String List="0">
+      <Source>Akkay is Offended!</Source>
+      <Dest>Akkay is Offended!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Desecration Is Noticed!</Source>
+      <Dest>The Desecration Is Noticed!</Dest>
+    </String>
+    <String List="0">
+      <Source>Arkay Sends Pusnishment!</Source>
+      <Dest>Arkay Sends Pusnishment!</Dest>
+    </String>
+    <String List="0">
+      <Source>Arkay Sends Death!</Source>
+      <Dest>Arkay Sends Death!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

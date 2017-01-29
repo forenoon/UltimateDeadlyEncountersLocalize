@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_darkspawn.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Magic Effect Weakens Blighted Creature</Source>
+      <Dest>Magic Effect Weakens Blighted Creature</Dest>
+    </String>
+    <String List="0">
+      <Source>Magic Enchantment Weakens Blighted Creature</Source>
+      <Dest>Magic Enchantment Weakens Blighted Creature</Dest>
+    </String>
+    <String List="0">
+      <Source>Fire Weapon Weakens Blighted Creature</Source>
+      <Dest>Fire Weapon Weakens Blighted Creature</Dest>
+    </String>
+    <String List="0">
+      <Source>Fire Spell Weakens Blighted Creature</Source>
+      <Dest>Fire Spell Weakens Blighted Creature</Dest>
+    </String>
+    <String List="0">
+      <Source>Blight Creature is Not Hurt!  Maybe A Different Attack Type...</Source>
+      <Dest>Blight Creature is Not Hurt!  Maybe A Different Attack Type...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

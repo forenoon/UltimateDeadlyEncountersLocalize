@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_stealobject.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>The Dead Are Angered!</Source>
+      <Dest>The Dead Are Angered!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dead Awaken!</Source>
+      <Dest>The Dead Awaken!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Smell Rotting Flesh!</Source>
+      <Dest>I Smell Rotting Flesh!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Sense a Malevolent Presence!</Source>
+      <Dest>I Sense a Malevolent Presence!</Dest>
+    </String>
+    <String List="0">
+      <Source>It Is Suddently Freezing!</Source>
+      <Dest>It Is Suddently Freezing!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>c01questscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>There is a Small Earthquake, the Lever Moves A Little</Source>
+      <Dest>There is a Small Earthquake, the Lever Moves A Little</Dest>
+    </String>
+    <String List="0">
+      <Source>Maybe if I Hit It A Little It Will Unstick...</Source>
+      <Dest>Maybe if I Hit It A Little It Will Unstick...</Dest>
+    </String>
+    <String List="0">
+      <Source>TEMP: Werewolves are awesome; fight ends.</Source>
+      <Dest>TEMP: Werewolves are awesome; fight ends.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_darkjourneroberesitance.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I Can Feel Great Power Flowing In The Robe!</Source>
+      <Dest>I Can Feel Great Power Flowing In The Robe!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Not Experienced Enough For This Robe!</Source>
+      <Dest>I Am Not Experienced Enough For This Robe!</Dest>
+    </String>
+    <String List="0">
+      <Source>Only A Level 18 Mage Can Wear This Robe!</Source>
+      <Dest>Only A Level 18 Mage Can Wear This Robe!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

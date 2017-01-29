@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_disablesotmod.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Mod disabled.  Do not remove scripts files from script folder.  Uncheck mod from your mod list but do not uninstall until you start a new game.  Next, wait two minutes, save your game, exit the game, uncheck the mod, go back into game.</Source>
+      <Dest>Mod disabled.  Do not remove scripts files from script folder.  Uncheck mod from your mod list but do not uninstall until you start a new game.  Next, wait two minutes, save your game, exit the game, uncheck the mod, go back into game.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

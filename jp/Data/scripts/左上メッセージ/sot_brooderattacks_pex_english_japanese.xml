@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_brooderattacks.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Infected Rats Are Born!</Source>
+      <Dest>Infected Rats Are Born!</Dest>
+    </String>
+    <String List="0">
+      <Source>Infected Rats Eat Their Way Out!</Source>
+      <Dest>Infected Rats Eat Their Way Out!</Dest>
+    </String>
+    <String List="0">
+      <Source>Infected Rats Come out of Dead Body!</Source>
+      <Dest>Infected Rats Come out of Dead Body!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

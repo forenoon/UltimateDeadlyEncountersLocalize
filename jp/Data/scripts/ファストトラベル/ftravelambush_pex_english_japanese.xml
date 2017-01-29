@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>ftravelambush.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You are ambushed on the way!</Source>
+      <Dest>You are ambushed on the way!</Dest>
+    </String>
+    <String List="0">
+      <Source>Thalmor Assassins!</Source>
+      <Dest>Thalmor Assassins!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Hunter Approaches!</Source>
+      <Dest>A Silver Hand Werewolf Hunter Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Hunter Surprises You!</Source>
+      <Dest>A Silver Hand Werewolf Hunter Surprises You!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Bane Hunter Targets You!</Source>
+      <Dest>A Silver Hand Werewolf Bane Hunter Targets You!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Hunter Archer is Aiming at You!</Source>
+      <Dest>A Silver Hand Werewolf Hunter Archer is Aiming at You!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Hunter Approaches!</Source>
+      <Dest>A Vampire Hunter Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Hunter Surprises Me!</Source>
+      <Dest>A Vampire Hunter Surprises Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Hunter Targets Me!</Source>
+      <Dest>A Vampire Hunter Targets Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Hunter Has Found Me!</Source>
+      <Dest>A Vampire Hunter Has Found Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnguard Warrior Approaches!</Source>
+      <Dest>A Dawnguard Warrior Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnguard Vampire Hunter Surprises Me!</Source>
+      <Dest>A Dawnguard Vampire Hunter Surprises Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnguard Hunter Targets Me!</Source>
+      <Dest>A Dawnguard Hunter Targets Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnguard Hunter Has Found Me!</Source>
+      <Dest>A Dawnguard Hunter Has Found Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Ambushed on the way!</Source>
+      <Dest>I Am Ambushed on the way!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Hunter Surprises Me!</Source>
+      <Dest>A Silver Hand Werewolf Hunter Surprises Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
+      <Dest>Silver Hand Werewolf Bane Hunter Targets Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Hunter Archer is Aiming at Me!!</Source>
+      <Dest>A Silver Hand Werewolf Hunter Archer is Aiming at Me!!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnguard Hunter Approaches!</Source>
+      <Dest>A Dawnguard Hunter Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnguard Warrior Surprises Me!</Source>
+      <Dest>A Dawnguard Warrior Surprises Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Dawnguard Hunter Surprises Me!</Source>
+      <Dest>A Dawnguard Hunter Surprises Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>You Fell In A Hole!</Source>
+      <Dest>You Fell In A Hole!</Dest>
+    </String>
+    <String List="0">
+      <Source>Bounty Hunters!</Source>
+      <Dest>Bounty Hunters!</Dest>
+    </String>
+    <String List="0">
+      <Source>The StormCloaks Attack!</Source>
+      <Dest>The StormCloaks Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Imperial Legion Attacks!</Source>
+      <Dest>The Imperial Legion Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hand Werewolf Hunters Attack!</Source>
+      <Dest>Silver Hand Werewolf Hunters Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>Young Fighters Attack You!</Source>
+      <Dest>Young Fighters Attack You!</Dest>
+    </String>
+    <String List="0">
+      <Source>You have been followed!</Source>
+      <Dest>You have been followed!</Dest>
+    </String>
+    <String List="0">
+      <Source>Highwaymen Surprise You!</Source>
+      <Dest>Highwaymen Surprise You!</Dest>
+    </String>
+    <String List="0">
+      <Source>Assassination Attempt!</Source>
+      <Dest>Assassination Attempt!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

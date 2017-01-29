@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>degrepairmarteau.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>This piece of armor doesn&apos;t need to be repaired !</Source>
+      <Dest>This piece of armor doesn&apos;t need to be repaired !</Dest>
+    </String>
+    <String List="0">
+      <Source>You need first a hammer !</Source>
+      <Dest>You need first a hammer !</Dest>
+    </String>
+    <String List="0">
+      <Source>You don&apos;t have the required skill to get this armor repaired !</Source>
+      <Dest>You don&apos;t have the required skill to get this armor repaired !</Dest>
+    </String>
+    <String List="0">
+      <Source>You don&apos;t have the required skill to get an enchanted armor repaired !</Source>
+      <Dest>You don&apos;t have the required skill to get an enchanted armor repaired !</Dest>
+    </String>
+    <String List="0">
+      <Source>You don&apos;t have the material: </Source>
+      <Dest>You don&apos;t have the material: </Dest>
+    </String>
+    <String List="0">
+      <Source>Completely Repaired: </Source>
+      <Dest>Completely Repaired: </Dest>
+    </String>
+    <String List="0">
+      <Source>You Just Improved: </Source>
+      <Dest>You Just Improved: </Dest>
+    </String>
+    <String List="0">
+      <Source>This weapon doesn&apos;t need to be repaired !</Source>
+      <Dest>This weapon doesn&apos;t need to be repaired !</Dest>
+    </String>
+    <String List="0">
+      <Source>You don&apos;t have the required skill to get an enchanted weapon repaired !</Source>
+      <Dest>You don&apos;t have the required skill to get an enchanted weapon repaired !</Dest>
+    </String>
+    <String List="0">
+      <Source>You don&apos;t have the required skill to get this weapon repaired !</Source>
+      <Dest>You don&apos;t have the required skill to get this weapon repaired !</Dest>
+    </String>
+    <String List="0">
+      <Source>You need the material: </Source>
+      <Dest>You need the material: </Dest>
+    </String>
+    <String List="0">
+      <Source>My hammer has broken !</Source>
+      <Dest>My hammer has broken !</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, Error: can&apos;t get this weapon repaired !!</Source>
+      <Dest>Sorry, Error: can&apos;t get this weapon repaired !!</Dest>
+    </String>
+    <String List="0">
+      <Source>You first need a hammer !</Source>
+      <Dest>You first need a hammer !</Dest>
+    </String>
+    <String List="0">
+      <Source>You have to equip the broken helmet !</Source>
+      <Dest>You have to equip the broken helmet !</Dest>
+    </String>
+    <String List="0">
+      <Source>You have to equip the broken cuirass !</Source>
+      <Dest>You have to equip the broken cuirass !</Dest>
+    </String>
+    <String List="0">
+      <Source>You have to equip the broken gauntlets !</Source>
+      <Dest>You have to equip the broken gauntlets !</Dest>
+    </String>
+    <String List="0">
+      <Source>You have to equip the broken boots !</Source>
+      <Dest>You have to equip the broken boots !</Dest>
+    </String>
+    <String List="0">
+      <Source>Sorry, Error: Can&apos;t get this armor repaired !!</Source>
+      <Dest>Sorry, Error: Can&apos;t get this armor repaired !!</Dest>
+    </String>
+    <String List="0">
+      <Source>You cannot repair while fighting !</Source>
+      <Dest>You cannot repair while fighting !</Dest>
+    </String>
+    <String List="0">
+      <Source>Wait a little bit...</Source>
+      <Dest>Wait a little bit...</Dest>
+    </String>
+    <String List="0">
+      <Source>You have to first equip a weapon in your left hand !</Source>
+      <Dest>You have to first equip a weapon in your left hand !</Dest>
+    </String>
+    <String List="0">
+      <Source>You have to first equip a weapon in your right hand !</Source>
+      <Dest>You have to first equip a weapon in your right hand !</Dest>
+    </String>
+    <String List="0">
+      <Source>You have to equip the broken shield !</Source>
+      <Dest>You have to equip the broken shield !</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

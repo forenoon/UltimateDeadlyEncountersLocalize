@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>killmesilverbane.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Bane Uses Power of Soul Rending!</Source>
+      <Dest>Bane Uses Power of Soul Rending!</Dest>
+    </String>
+    <String List="0">
+      <Source>Bane Drinks a Health Potion!</Source>
+      <Dest>Bane Drinks a Health Potion!</Dest>
+    </String>
+    <String List="0">
+      <Source>Blade Comes to the Aid of His Brother!</Source>
+      <Dest>Blade Comes to the Aid of His Brother!</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Arrives to Aid Bane!</Source>
+      <Dest>Burning Inferno Arrives to Aid Bane!</Dest>
+    </String>
+    <String List="0">
+      <Source>You hit silver!</Source>
+      <Dest>You hit silver!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Silver Armor is Blessed... You are Burning!!!</Source>
+      <Dest>The Silver Armor is Blessed... You are Burning!!!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

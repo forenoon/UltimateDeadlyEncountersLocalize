@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_inferno.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Reinforcements are Summoned!</Source>
+      <Dest>Reinforcements are Summoned!</Dest>
+    </String>
+    <String List="0">
+      <Source>Evil Incarnate is Summoned!</Source>
+      <Dest>Evil Incarnate is Summoned!</Dest>
+    </String>
+    <String List="0">
+      <Source>Flying Death is Summoned!</Source>
+      <Dest>Flying Death is Summoned!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

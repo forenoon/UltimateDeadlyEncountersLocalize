@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>eu3fanmagictrapbasescript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You have triggered the trap.</Source>
+      <Dest>You have triggered the trap.</Dest>
+    </String>
+    <String List="0">
+      <Source>You have stopped the trap.</Source>
+      <Dest>You have stopped the trap.</Dest>
+    </String>
+    <String List="0">
+      <Source>You have disarmed the trap.</Source>
+      <Dest>You have disarmed the trap.</Dest>
+    </String>
+    <String List="0">
+      <Source>You have destroyed the trap.</Source>
+      <Dest>You have destroyed the trap.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

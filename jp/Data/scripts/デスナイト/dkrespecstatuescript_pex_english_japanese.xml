@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>dkrespecstatuescript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source> Blood,frost,unholy Globals reset</Source>
+      <Dest> Blood,frost,unholy Globals reset</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

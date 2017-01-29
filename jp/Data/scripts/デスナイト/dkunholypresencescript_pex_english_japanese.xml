@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>dkunholypresencescript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You are already in Unholy Presence</Source>
+      <Dest>You are already in Unholy Presence</Dest>
+    </String>
+    <String List="0">
+      <Source>Unholy Presence Removed</Source>
+      <Dest>Unholy Presence Removed</Dest>
+    </String>
+    <String List="0">
+      <Source>Frost Presence Removed</Source>
+      <Dest>Frost Presence Removed</Dest>
+    </String>
+    <String List="0">
+      <Source>Unholy Presence Active</Source>
+      <Dest>Unholy Presence Active</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

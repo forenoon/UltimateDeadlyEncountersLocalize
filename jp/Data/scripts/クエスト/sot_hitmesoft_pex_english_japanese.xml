@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_hitmesoft.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>We were hit by </Source>
+      <Dest>We were hit by </Dest>
+    </String>
+    <String List="0">
+      <Source>Invulnerable set</Source>
+      <Dest>Invulnerable set</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

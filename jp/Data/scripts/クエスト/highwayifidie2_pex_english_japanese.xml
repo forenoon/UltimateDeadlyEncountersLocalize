@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>highwayifidie2.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>conjurer event on death trigered...</Source>
+      <Dest>conjurer event on death trigered...</Dest>
+    </String>
+    <String List="0">
+      <Source>conjurer OnDeath Event ran...</Source>
+      <Dest>conjurer OnDeath Event ran...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

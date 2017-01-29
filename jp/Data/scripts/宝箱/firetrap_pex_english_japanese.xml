@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>firetrap.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Leaving Chest Alone</Source>
+      <Dest>宝箱から離れる</Dest>
+    </String>
+    <String List="0">
+      <Source>Trying to Disarm Chest</Source>
+      <Dest>宝箱の解除に挑戦する</Dest>
+    </String>
+    <String List="0">
+      <Source>Succesfully Disarmed!</Source>
+      <Dest>解除に成功した！</Dest>
+    </String>
+    <String List="0">
+      <Source>Forcing Chest Opened</Source>
+      <Dest>宝箱を無理矢理こじあける</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

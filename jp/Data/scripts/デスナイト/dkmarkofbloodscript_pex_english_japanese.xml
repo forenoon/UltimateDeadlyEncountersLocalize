@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>dkmarkofbloodscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Your Target is Marked by Blood</Source>
+      <Dest>Your Target is Marked by Blood</Dest>
+    </String>
+    <String List="0">
+      <Source>Your Target is no longer Marked by Blood</Source>
+      <Dest>Your Target is no longer Marked by Blood</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

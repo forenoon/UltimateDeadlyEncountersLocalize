@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_menu3.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Cannot increase beyond 100%</Source>
+      <Dest>Cannot increase beyond 100%</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot Decrease beyond 0%</Source>
+      <Dest>Cannot Decrease beyond 0%</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot increase beyond 240</Source>
+      <Dest>Cannot increase beyond 240</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot Decrease beyond 0</Source>
+      <Dest>Cannot Decrease beyond 0</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot increase beyond 5</Source>
+      <Dest>Cannot increase beyond 5</Dest>
+    </String>
+    <String List="0">
+      <Source>Cannot increase beyond 10</Source>
+      <Dest>Cannot increase beyond 10</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

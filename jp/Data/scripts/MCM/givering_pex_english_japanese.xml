@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>givering.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Skyui is not detected, so no MCM Menu support is possible.  Until released for SSE you will be given the SandMan summoning ring. Summon him and use dialogue to set game settings, and to get the Revelation Book for even more mod settings..</Source>
+      <Dest>Skyui is not detected, so no MCM Menu support is possible.  Until released for SSE you will be given the SandMan summoning ring. Summon him and use dialogue to set game settings, and to get the Revelation Book for even more mod settings..</Dest>
+    </String>
+    <String List="0">
+      <Source>Skyui is Detected! Mod has full MCM Menu support. Please Activate mod from MCM menu, the mod starts inactive. Wait for 4 minutes, save game, exit game, go back to game, save, and play.  If Upgrading and it Does Not Activate Swallow The Red Pill.  DO NOT SWALLOW THE GREEN PILL!!! If you keep the mod please endorse. -Tonycubed2</Source>
+      <Dest>Skyui is Detected! Mod has full MCM Menu support. Please Activate mod from MCM menu, the mod starts inactive. Wait for 4 minutes, save game, exit game, go back to game, save, and play.  If Upgrading and it Does Not Activate Swallow The Red Pill.  DO NOT SWALLOW THE GREEN PILL!!! If you keep the mod please endorse. -Tonycubed2</Dest>
+    </String>
+    <String List="0">
+      <Source>MOD Order Has Changed!  This is not adviceable mid game.  Consider using blank mods to preserve order.</Source>
+      <Dest>MOD Order Has Changed!  This is not adviceable mid game.  Consider using blank mods to preserve order.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

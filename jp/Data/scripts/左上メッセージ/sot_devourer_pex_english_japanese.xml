@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_devourer.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Devourer Feeds On Nearby Magic!</Source>
+      <Dest>Devourer Feeds On Nearby Magic!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

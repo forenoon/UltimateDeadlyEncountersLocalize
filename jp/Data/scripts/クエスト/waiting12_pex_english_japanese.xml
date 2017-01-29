@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>waiting12.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Initial state - one time only</Source>
+      <Dest>Initial state - one time only</Dest>
+    </String>
+    <String List="0">
+      <Source>state busy - no execution - blank</Source>
+      <Dest>state busy - no execution - blank</Dest>
+    </String>
+    <String List="0">
+      <Source>HoldeMe = : </Source>
+      <Dest>HoldeMe = : </Dest>
+    </String>
+    <String List="0">
+      <Source>DungeonScriptsbeingProcessed: </Source>
+      <Dest>DungeonScriptsbeingProcessed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Waiting Script Fired! - inout2 = </Source>
+      <Dest>Waiting Script Fired! - inout2 = </Dest>
+    </String>
+    <String List="0">
+      <Source>New Dungeon Location!</Source>
+      <Dest>New Dungeon Location!</Dest>
+    </String>
+    <String List="0">
+      <Source>Deploy Spirits!</Source>
+      <Dest>Deploy Spirits!</Dest>
+    </String>
+    <String List="0">
+      <Source>Spirits 1 deployed</Source>
+      <Dest>Spirits 1 deployed</Dest>
+    </String>
+    <String List="0">
+      <Source>Spirits 2 deployed</Source>
+      <Dest>Spirits 2 deployed</Dest>
+    </String>
+    <String List="0">
+      <Source>Spirits 3 deployed</Source>
+      <Dest>Spirits 3 deployed</Dest>
+    </String>
+    <String List="0">
+      <Source>Spirits Going Home!</Source>
+      <Dest>Spirits Going Home!</Dest>
+    </String>
+    <String List="0">
+      <Source>Looking for Rats!</Source>
+      <Dest>Looking for Rats!</Dest>
+    </String>
+    <String List="0">
+      <Source>CoolAdded = : </Source>
+      <Dest>CoolAdded = : </Dest>
+    </String>
+    <String List="0">
+      <Source>no hostile npcs found! line 481</Source>
+      <Dest>no hostile npcs found! line 481</Dest>
+    </String>
+    <String List="0">
+      <Source>Undead Approach!</Source>
+      <Dest>Undead Approach!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Temperature Drops...!</Source>
+      <Dest>The Temperature Drops...!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Smell Rotting Flesh!</Source>
+      <Dest>I Smell Rotting Flesh!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Sense a Malevolent Presence!</Source>
+      <Dest>I Sense a Malevolent Presence!</Dest>
+    </String>
+    <String List="0">
+      <Source>It Is Suddently Freezing!</Source>
+      <Dest>It Is Suddently Freezing!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Popping and Cracking Bones!</Source>
+      <Dest>I Hear Popping and Cracking Bones!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Freezing...!</Source>
+      <Dest>I Am Freezing...!</Dest>
+    </String>
+    <String List="0">
+      <Source>There Are Rattling Sounds Nearby!</Source>
+      <Dest>There Are Rattling Sounds Nearby!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Sense a Evil Presence!</Source>
+      <Dest>I Sense a Evil Presence!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dead Rise From Their Slumber...!</Source>
+      <Dest>The Dead Rise From Their Slumber...!</Dest>
+    </String>
+    <String List="0">
+      <Source>Undead Crawl Out of the Ground...!</Source>
+      <Dest>Undead Crawl Out of the Ground...!</Dest>
+    </String>
+    <String List="0">
+      <Source>Wretched Dead Rise to Destroy You...!</Source>
+      <Dest>Wretched Dead Rise to Destroy You...!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dead Walk Again...!</Source>
+      <Dest>The Dead Walk Again...!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Source>
+      <Dest>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;The true Dragonborn will judge you!&apos;</Source>
+      <Dest>I Hear &apos;The true Dragonborn will judge you!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Source>
+      <Dest>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;You will be an offering to the Master!&apos;</Source>
+      <Dest>I Hear &apos;You will be an offering to the Master!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Sharp Hissing...</Source>
+      <Dest>I Hear Sharp Hissing...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Soft Footsteps!&apos;</Source>
+      <Dest>I Hear Soft Footsteps!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Pincers Snappin!&apos;</Source>
+      <Dest>I Hear Pincers Snappin!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I See Fresh Webbing In This Area!&apos;</Source>
+      <Dest>I See Fresh Webbing In This Area!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>Insects crawl out of the ground...</Source>
+      <Dest>Insects crawl out of the ground...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Not Alone...</Source>
+      <Dest>I Am Not Alone...</Dest>
+    </String>
+    <String List="0">
+      <Source>I feel goosebumps on my arms...</Source>
+      <Dest>I feel goosebumps on my arms...</Dest>
+    </String>
+    <String List="0">
+      <Source>A Foul Stench Hits Me...</Source>
+      <Dest>A Foul Stench Hits Me...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Sense Bone Chilling Evil...</Source>
+      <Dest>I Sense Bone Chilling Evil...</Dest>
+    </String>
+    <String List="0">
+      <Source>A Wave of Pure Evil Can Be Felt...</Source>
+      <Dest>A Wave of Pure Evil Can Be Felt...</Dest>
+    </String>
+    <String List="0">
+      <Source>Mindless Ancient Hatred Can Be Felt...</Source>
+      <Dest>Mindless Ancient Hatred Can Be Felt...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Stagger For A Second As A Pure Hateful Presence Approaches...</Source>
+      <Dest>I Stagger For A Second As A Pure Hateful Presence Approaches...</Dest>
+    </String>
+    <String List="0">
+      <Source>Aborting Dungeon Spawning</Source>
+      <Dest>Aborting Dungeon Spawning</Dest>
+    </String>
+    <String List="0">
+      <Source>Evil Grows in Strength...</Source>
+      <Dest>Evil Grows in Strength...</Dest>
+    </String>
+    <String List="0">
+      <Source>Enemies Nearby!</Source>
+      <Dest>Enemies Nearby!</Dest>
+    </String>
+    <String List="0">
+      <Source>Reinforcements!</Source>
+      <Dest>Reinforcements!</Dest>
+    </String>
+    <String List="0">
+      <Source>Enemy Forces Increase!</Source>
+      <Dest>Enemy Forces Increase!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Encounters Script Firing! - inout2 =</Source>
+      <Dest>Dungeon Encounters Script Firing! - inout2 =</Dest>
+    </String>
+    <String List="0">
+      <Source>Found a COC marker within one cell length of the player!</Source>
+      <Dest>Found a COC marker within one cell length of the player!</Dest>
+    </String>
+    <String List="0">
+      <Source>Found a xmarker within one cell length of the player!</Source>
+      <Dest>Found a xmarker within one cell length of the player!</Dest>
+    </String>
+    <String List="0">
+      <Source>No good spawn location found</Source>
+      <Dest>No good spawn location found</Dest>
+    </String>
+    <String List="0">
+      <Source>I hear something!</Source>
+      <Dest>I hear something!</Dest>
+    </String>
+    <String List="0">
+      <Source>I hear footsteps!</Source>
+      <Dest>I hear footsteps!</Dest>
+    </String>
+    <String List="0">
+      <Source>I have an eerie sensation!</Source>
+      <Dest>I have an eerie sensation!</Dest>
+    </String>
+    <String List="0">
+      <Source>The temperature drops drastically!</Source>
+      <Dest>The temperature drops drastically!</Dest>
+    </String>
+    <String List="0">
+      <Source>I feel very cold!</Source>
+      <Dest>I feel very cold!</Dest>
+    </String>
+    <String List="0">
+      <Source>There is a big drop in temperature!</Source>
+      <Dest>There is a big drop in temperature!</Dest>
+    </String>
+    <String List="0">
+      <Source>Suddenly it is freezing!</Source>
+      <Dest>Suddenly it is freezing!</Dest>
+    </String>
+    <String List="0">
+      <Source>I hear soft steps!</Source>
+      <Dest>I hear soft steps!</Dest>
+    </String>
+    <String List="0">
+      <Source>I hear evil laughter!</Source>
+      <Dest>I hear evil laughter!</Dest>
+    </String>
+    <String List="0">
+      <Source>I hear grunting noises!</Source>
+      <Dest>I hear grunting noises!</Dest>
+    </String>
+    <String List="0">
+      <Source>I feel raw power in the air!</Source>
+      <Dest>I feel raw power in the air!</Dest>
+    </String>
+    <String List="0">
+      <Source>I hear low chanting!</Source>
+      <Dest>I hear low chanting!</Dest>
+    </String>
+    <String List="0">
+      <Source>I hear Battlecries of &apos;Behold the Thalmor!&apos;</Source>
+      <Dest>I hear Battlecries of &apos;Behold the Thalmor!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Can Hear Rusty Armor Moving!</Source>
+      <Dest>I Can Hear Rusty Armor Moving!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Rattling Bones!</Source>
+      <Dest>I Hear Rattling Bones!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Creaking and Snapping Joints!</Source>
+      <Dest>I Hear Creaking and Snapping Joints!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Smell Putrid Flesh!</Source>
+      <Dest>I Smell Putrid Flesh!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Smell Rotten Flesh!</Source>
+      <Dest>I Smell Rotten Flesh!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Loud Hissing</Source>
+      <Dest>I Hear Loud Hissing</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dead Walk Again...</Source>
+      <Dest>The Dead Walk Again...</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Encounters Script in Dormant Mode!</Source>
+      <Dest>Dungeon Encounters Script in Dormant Mode!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Encounters Script Firing in None Mode!</Source>
+      <Dest>Dungeon Encounters Script Firing in None Mode!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dungeon Encounters Script Firing in Menu Mode!</Source>
+      <Dest>Dungeon Encounters Script Firing in Menu Mode!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,547 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>walkingdangers49.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Surface Encounters busy ScriptsbeingProcessed: </Source>
+      <Dest>Surface Encounters busy ScriptsbeingProcessed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Encounters Script Firing In Busy State!</Source>
+      <Dest>Walking Encounters Script Firing In Busy State!</Dest>
+    </String>
+    <String List="0">
+      <Source>Surface Encounters AtRest ScriptsbeingProcessed: </Source>
+      <Dest>Surface Encounters AtRest ScriptsbeingProcessed: </Dest>
+    </String>
+    <String List="0">
+      <Source>My Gold Attracts Attention...</Source>
+      <Dest>My Gold Attracts Attention...</Dest>
+    </String>
+    <String List="0">
+      <Source>Thieves Demand my Gold...</Source>
+      <Dest>Thieves Demand my Gold...</Dest>
+    </String>
+    <String List="0">
+      <Source>They Are After my Money...</Source>
+      <Dest>They Are After my Money...</Dest>
+    </String>
+    <String List="0">
+      <Source>An Enemy Call for Help Goes Out!</Source>
+      <Dest>An Enemy Call for Help Goes Out!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Sense Something...</Source>
+      <Dest>I Sense Something...</Dest>
+    </String>
+    <String List="0">
+      <Source>The Enemy Calls for Help!</Source>
+      <Dest>The Enemy Calls for Help!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Sense Enemies Nearby!</Source>
+      <Dest>I Sense Enemies Nearby!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear an Unnatural Silence!</Source>
+      <Dest>I Hear an Unnatural Silence!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Detect Danger!</Source>
+      <Dest>I Detect Danger!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Have a Sense of Foreboding...</Source>
+      <Dest>I Have a Sense of Foreboding...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Enemy Reinforcements Arriving!</Source>
+      <Dest>I Hear Enemy Reinforcements Arriving!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Enemy Receives Reinforcements!</Source>
+      <Dest>The Enemy Receives Reinforcements!</Dest>
+    </String>
+    <String List="0">
+      <Source>I See More Enemies Arriving!</Source>
+      <Dest>I See More Enemies Arriving!</Dest>
+    </String>
+    <String List="0">
+      <Source>I See Enemy Forces Increase!</Source>
+      <Dest>I See Enemy Forces Increase!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Hunter Approaches!</Source>
+      <Dest>A Silver Hand Werewolf Hunter Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Smell A Silver Hand Werewolf Hunter!</Source>
+      <Dest>I Smell A Silver Hand Werewolf Hunter!</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
+      <Dest>Silver Hand Werewolf Bane Hunter Targets Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Silver Hand Werewolf Hunters Are After Me!</Source>
+      <Dest>Silver Hand Werewolf Hunters Are After Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Silver Hand Werewolf Hunter Archer Stalks Me!</Source>
+      <Dest>A Silver Hand Werewolf Hunter Archer Stalks Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Rogue Necromancer Attacks!</Source>
+      <Dest>Rogue Necromancer Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>Chaurus Follow Me!</Source>
+      <Dest>Chaurus Follow Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Chaurus Attack!</Source>
+      <Dest>Chaurus Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>I found a nest of Chaurus monsters!</Source>
+      <Dest>I found a nest of Chaurus monsters!</Dest>
+    </String>
+    <String List="0">
+      <Source>Chaurus Find Me!</Source>
+      <Dest>Chaurus Find Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Chaurus Swarm has Cornered Me!</Source>
+      <Dest>A Chaurus Swarm has Cornered Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Chaurus Ambush Me!</Source>
+      <Dest>Chaurus Ambush Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Chaurus Advance on Me!</Source>
+      <Dest>Chaurus Advance on Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Undead Follow Me!</Source>
+      <Dest>Undead Follow Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Armored Skeletons Attack!</Source>
+      <Dest>Armored Skeletons Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dead Rise!</Source>
+      <Dest>The Dead Rise!</Dest>
+    </String>
+    <String List="0">
+      <Source>Walking Dead Surround Me!</Source>
+      <Dest>Walking Dead Surround Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Temperature Is Ice Cold!</Source>
+      <Dest>The Temperature Is Ice Cold!</Dest>
+    </String>
+    <String List="0">
+      <Source>Zombies Ambush Me!</Source>
+      <Dest>Zombies Ambush Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Undead Lich Advance on Me!</Source>
+      <Dest>Undead Lich Advance on Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Undead Orc Advance on Me!</Source>
+      <Dest>Undead Orc Advance on Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Undead Argonian Advance on Me!</Source>
+      <Dest>Undead Argonian Advance on Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Shadow Assassins!</Source>
+      <Dest>Shadow Assassins!</Dest>
+    </String>
+    <String List="0">
+      <Source>Assassins!</Source>
+      <Dest>Assassins!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Ambushed!!</Source>
+      <Dest>I Am Ambushed!!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dark Brotherhood Attacks!</Source>
+      <Dest>Dark Brotherhood Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>Cold Blooded Assassins!</Source>
+      <Dest>Cold Blooded Assassins!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Smell of Rotten Flesh Is Everywhere...!</Source>
+      <Dest>The Smell of Rotten Flesh Is Everywhere...!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Stench of Putrid Flesh Is Everywhere...!</Source>
+      <Dest>The Stench of Putrid Flesh Is Everywhere...!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Draman Coven Ambushes Me!</Source>
+      <Dest>A Draman Coven Ambushes Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Draman Shade Attacks!</Source>
+      <Dest>A Draman Shade Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Draman Skeletal Scouting Party!</Source>
+      <Dest>A Draman Skeletal Scouting Party!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Draman Clan Finds Me!</Source>
+      <Dest>A Draman Clan Finds Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Draman Elite Party Has Cornered Me!</Source>
+      <Dest>A Draman Elite Party Has Cornered Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Ancient Draman Ambush Me!</Source>
+      <Dest>Ancient Draman Ambush Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Draman Advance!</Source>
+      <Dest>Draman Advance!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Rumiirua Horde Attacks!</Source>
+      <Dest>A Rumiirua Horde Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Rumiirua Group Attacks!</Source>
+      <Dest>A Rumiirua Group Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>Rumiirua Attack!</Source>
+      <Dest>Rumiirua Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Lord Ambushes Me!</Source>
+      <Dest>A Vampire Lord Ambushes Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Baron Attacks!</Source>
+      <Dest>A Vampire Baron Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Scouting Party!</Source>
+      <Dest>A Vampire Scouting Party!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vampire Clan Finds Me!</Source>
+      <Dest>A Vampire Clan Finds Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampires Have Cornered Me!</Source>
+      <Dest>Vampires Have Cornered Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampires All Around!</Source>
+      <Dest>Vampires All Around!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampires Approach!</Source>
+      <Dest>Vampires Approach!</Dest>
+    </String>
+    <String List="0">
+      <Source>Malevolent Horde!</Source>
+      <Dest>Malevolent Horde!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Band of Brigands Ambush Me!</Source>
+      <Dest>A Band of Brigands Ambush Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Bandit Is Near!</Source>
+      <Dest>A Bandit Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Someone Approaching!</Source>
+      <Dest>I Hear Someone Approaching!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Waylaid!</Source>
+      <Dest>I Am Waylaid!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Bandit Tracks Me!</Source>
+      <Dest>A Bandit Tracks Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>An Orc Is Near!</Source>
+      <Dest>An Orc Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear an Orc Voice!</Source>
+      <Dest>I Hear an Orc Voice!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Heavy Boots!</Source>
+      <Dest>I Hear Heavy Boots!</Dest>
+    </String>
+    <String List="0">
+      <Source>An Orc Tracks Me!</Source>
+      <Dest>An Orc Tracks Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>An Animal Is Near!</Source>
+      <Dest>An Animal Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear a Beast!</Source>
+      <Dest>I Hear a Beast!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Animals!</Source>
+      <Dest>I Hear Animals!</Dest>
+    </String>
+    <String List="0">
+      <Source>An Animal is Tracking Me!</Source>
+      <Dest>An Animal is Tracking Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>An Animal is Nearby!</Source>
+      <Dest>An Animal is Nearby!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Creature Approaches!</Source>
+      <Dest>A Creature Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Forsworn Is Near!</Source>
+      <Dest>A Forsworn Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Forsworn Tracks Me!</Source>
+      <Dest>A Forsworn Tracks Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Refugee Approaches!</Source>
+      <Dest>A Refugee Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Footsteps!</Source>
+      <Dest>I Hear Footsteps!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Running!</Source>
+      <Dest>I Hear Running!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Yelling!</Source>
+      <Dest>I Hear Yelling!</Dest>
+    </String>
+    <String List="0">
+      <Source>There is Someone Near!</Source>
+      <Dest>There is Someone Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Cursing!</Source>
+      <Dest>I Hear Cursing!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Troll Approaches!</Source>
+      <Dest>A Troll Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Heavy Footsteps!</Source>
+      <Dest>I Hear Heavy Footsteps!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Loud Running!</Source>
+      <Dest>I Hear Loud Running!</Dest>
+    </String>
+    <String List="0">
+      <Source>Trolls Are Coming!</Source>
+      <Dest>Trolls Are Coming!</Dest>
+    </String>
+    <String List="0">
+      <Source>There Are Trolls Near!</Source>
+      <Dest>There Are Trolls Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Vicious Snarling!</Source>
+      <Dest>I Hear Vicious Snarling!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Death Mage Is Near!</Source>
+      <Dest>A Death Mage Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Vigilant of Stendarr Is Near!</Source>
+      <Dest>A Vigilant of Stendarr Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear The Battlecry of Stendarr!</Source>
+      <Dest>I Hear The Battlecry of Stendarr!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Marauder Is Near!</Source>
+      <Dest>A Marauder Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Marauder Tracks Me!</Source>
+      <Dest>A Marauder Tracks Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>You Hear Shouts: Behold the future!</Source>
+      <Dest>You Hear Shouts: Behold the future!</Dest>
+    </String>
+    <String List="0">
+      <Source>You Hear Shouts: Behold the Thalmor!</Source>
+      <Dest>You Hear Shouts: Behold the Thalmor!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Stricken Is Near!</Source>
+      <Dest>A Stricken Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Stricken Tracks Me!</Source>
+      <Dest>A Stricken Tracks Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Bandit Mob Attacks!</Source>
+      <Dest>A Bandit Mob Attacks!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Source>
+      <Dest>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;The true Dragonborn will judge you!&apos;</Source>
+      <Dest>I Hear &apos;The true Dragonborn will judge you!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Source>
+      <Dest>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear &apos;You will be an offering to the Master!&apos;</Source>
+      <Dest>I Hear &apos;You will be an offering to the Master!&apos;</Dest>
+    </String>
+    <String List="0">
+      <Source>A Cultist Ambush!</Source>
+      <Dest>A Cultist Ambush!</Dest>
+    </String>
+    <String List="0">
+      <Source>Bandit Scum!</Source>
+      <Dest>Bandit Scum!</Dest>
+    </String>
+    <String List="0">
+      <Source>Highway Robbers!</Source>
+      <Dest>Highway Robbers!</Dest>
+    </String>
+    <String List="0">
+      <Source>Brigands Attack Me!</Source>
+      <Dest>Brigands Attack Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Raid!</Source>
+      <Dest>A Raid!</Dest>
+    </String>
+    <String List="0">
+      <Source>Outlaws Approach!</Source>
+      <Dest>Outlaws Approach!</Dest>
+    </String>
+    <String List="0">
+      <Source>Riekling Raiders Attack!</Source>
+      <Dest>Riekling Raiders Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am Under Attack!</Source>
+      <Dest>I Am Under Attack!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Hear Yells of This is for Haldyn!</Source>
+      <Dest>I Hear Yells of This is for Haldyn!</Dest>
+    </String>
+    <String List="0">
+      <Source>Frost Troll Approaches!</Source>
+      <Dest>Frost Troll Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>Another Frost Troll Is Near!</Source>
+      <Dest>Another Frost Troll Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>A Frost Troll Hunting Party!</Source>
+      <Dest>A Frost Troll Hunting Party!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire Hunter Approaches!</Source>
+      <Dest>Vampire Hunter Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire Hunter Is Near!</Source>
+      <Dest>Vampire Hunter Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire Hunter Hit Squad!</Source>
+      <Dest>Vampire Hunter Hit Squad!</Dest>
+    </String>
+    <String List="0">
+      <Source>Vampire Hunter Is On My Trail!</Source>
+      <Dest>Vampire Hunter Is On My Trail!</Dest>
+    </String>
+    <String List="0">
+      <Source>Master Vampire Slayer Blade is Near!</Source>
+      <Dest>Master Vampire Slayer Blade is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>Elite Vampire Slayer is Near!</Source>
+      <Dest>Elite Vampire Slayer is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnguard Hunter Approaches!</Source>
+      <Dest>Dawnguard Hunter Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnguard Hunter Is Near!</Source>
+      <Dest>Dawnguard Hunter Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnguard Hunters Find Me!</Source>
+      <Dest>Dawnguard Hunters Find Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dawnguard Hunter Is On My Trail!</Source>
+      <Dest>Dawnguard Hunter Is On My Trail!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Dawnguard Are Near!</Source>
+      <Dest>The Dawnguard Are Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>Boethia Worshipper Approaches!</Source>
+      <Dest>Boethia Worshipper Approaches!</Dest>
+    </String>
+    <String List="0">
+      <Source>Boethia Worshipper Is Near!</Source>
+      <Dest>Boethia Worshipper Is Near!</Dest>
+    </String>
+    <String List="0">
+      <Source>Boethia Worshipper Seeks Revenge!</Source>
+      <Dest>Boethia Worshipper Seeks Revenge!</Dest>
+    </String>
+    <String List="0">
+      <Source>Boethia Worshipper!</Source>
+      <Dest>Boethia Worshipper!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

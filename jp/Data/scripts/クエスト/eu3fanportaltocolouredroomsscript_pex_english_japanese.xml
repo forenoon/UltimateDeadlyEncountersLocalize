@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>eu3fanportaltocolouredroomsscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>A surge of energy coursed through your body as you picked up the book. Before you knew it, you found yourself in a temple that seemed somewhat out of place.</Source>
+      <Dest>A surge of energy coursed through your body as you picked up the book. Before you knew it, you found yourself in a temple that seemed somewhat out of place.</Dest>
+    </String>
+    <String List="0">
+      <Source>You opened the book again. It teleported you to the temple.</Source>
+      <Dest>You opened the book again. It teleported you to the temple.</Dest>
+    </String>
+    <String List="0">
+      <Source>You opened the book again. It decided to transport you back to the College of Winterhold.</Source>
+      <Dest>You opened the book again. It decided to transport you back to the College of Winterhold.</Dest>
+    </String>
+    <String List="0">
+      <Source>You opened the book again. It teleported you to the College of Winterhold.</Source>
+      <Dest>You opened the book again. It teleported you to the College of Winterhold.</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>burningsensation.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Burning Sensation ScriptsbeingProcessed: </Source>
+      <Dest>Burning Sensation ScriptsbeingProcessed: </Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Script Fired!</Source>
+      <Dest>Burning Inferno Script Fired!</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Comes To Help Blade!</Source>
+      <Dest>Burning Inferno Comes To Help Blade!</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Comes To Help Bane!</Source>
+      <Dest>Burning Inferno Comes To Help Bane!</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno the Crime Punisher is After Me!</Source>
+      <Dest>Burning Inferno the Crime Punisher is After Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Appears! Justice has found me at last...</Source>
+      <Dest>Burning Inferno Appears! Justice has found me at last...</Dest>
+    </String>
+    <String List="0">
+      <Source>Burning Inferno Appears Seeking Revenge! ...</Source>
+      <Dest>Burning Inferno Appears Seeking Revenge! ...</Dest>
+    </String>
+    <String List="0">
+      <Source>Inferno Raises the Dead!</Source>
+      <Dest>Inferno Raises the Dead!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mama Dragon Appears! She heard her baby&apos;s screams...</Source>
+      <Dest>Mama Dragon Appears! She heard her baby&apos;s screams...</Dest>
+    </String>
+    <String List="0">
+      <Source>Mephala Master Death Knight Has Tracked You Down...</Source>
+      <Dest>Mephala Master Death Knight Has Tracked You Down...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

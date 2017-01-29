@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_avengechestakatosh.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Akatosh is Angered!</Source>
+      <Dest>Akatosh is Angered!</Dest>
+    </String>
+    <String List="0">
+      <Source>Akatosh is Offended!</Source>
+      <Dest>Akatosh is Offended!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Desecration Is Noticed!</Source>
+      <Dest>The Desecration Is Noticed!</Dest>
+    </String>
+    <String List="0">
+      <Source>Akatosh Pusnishes Me!</Source>
+      <Dest>Akatosh Pusnishes Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Akatosh Sends Death!</Source>
+      <Dest>Akatosh Sends Death!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

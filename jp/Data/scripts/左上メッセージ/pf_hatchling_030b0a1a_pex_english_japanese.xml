@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>pf_hatchling_030b0a1a.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Hatchling Gravelly Wounded!</Source>
+      <Dest>Hatchling Gravelly Wounded!</Dest>
+    </String>
+    <String List="0">
+      <Source>Dragon Fights!</Source>
+      <Dest>Dragon Fights!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

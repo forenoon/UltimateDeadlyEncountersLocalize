@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_bladescript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Blade Curses All as He Overloads His Sword!</Source>
+      <Dest>Blade Curses All as He Overloads His Sword!</Dest>
+    </String>
+    <String List="0">
+      <Source>Blade Disarms Me!</Source>
+      <Dest>Blade Disarms Me!</Dest>
+    </String>
+    <String List="0">
+      <Source>Blade Drinks a Health Potion!</Source>
+      <Dest>Blade Drinks a Health Potion!</Dest>
+    </String>
+    <String List="0">
+      <Source>Bane Comes to the Aid of His Brother!</Source>
+      <Dest>Bane Comes to the Aid of His Brother!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

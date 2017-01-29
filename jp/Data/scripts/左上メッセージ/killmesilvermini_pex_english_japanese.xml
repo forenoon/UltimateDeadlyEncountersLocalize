@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>killmesilvermini.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>You hit silver!</Source>
+      <Dest>You hit silver!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Silver Armor is Blessed... You are Burning!!!</Source>
+      <Dest>The Silver Armor is Blessed... You are Burning!!!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

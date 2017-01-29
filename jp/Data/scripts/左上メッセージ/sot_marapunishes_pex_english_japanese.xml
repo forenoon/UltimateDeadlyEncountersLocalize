@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_marapunishes.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I Have Taken The Sacred Emerald!</Source>
+      <Dest>I Have Taken The Sacred Emerald!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara is Angered!</Source>
+      <Dest>Mara is Angered!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara is Furious!</Source>
+      <Dest>Mara is Furious!</Dest>
+    </String>
+    <String List="0">
+      <Source>The Desecration Is Noticed!</Source>
+      <Dest>The Desecration Is Noticed!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara Deals Out Pusnishment!</Source>
+      <Dest>Mara Deals Out Pusnishment!</Dest>
+    </String>
+    <String List="0">
+      <Source>Mara Sends Death!</Source>
+      <Dest>Mara Sends Death!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

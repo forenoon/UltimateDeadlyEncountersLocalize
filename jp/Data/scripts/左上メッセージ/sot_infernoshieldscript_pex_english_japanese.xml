@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_infernoshieldscript.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Inferno Raises Supreme Ward!</Source>
+      <Dest>Inferno Raises Supreme Ward!</Dest>
+    </String>
+    <String List="0">
+      <Source>Ward Weakens!</Source>
+      <Dest>Ward Weakens!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

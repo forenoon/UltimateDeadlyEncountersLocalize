@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_removedeathblossom.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>The Words of The Spell Are Fuzzzy In My Mind...</Source>
+      <Dest>The Words of The Spell Are Fuzzzy In My Mind...</Dest>
+    </String>
+    <String List="0">
+      <Source>The Spell Is Forgotten!</Source>
+      <Dest>The Spell Is Forgotten!</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

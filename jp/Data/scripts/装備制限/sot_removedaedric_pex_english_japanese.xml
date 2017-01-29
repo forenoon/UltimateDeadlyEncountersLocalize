@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sot_removedaedric.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>I Am Not Experienced Enough For This Armor!</Source>
+      <Dest>I Am Not Experienced Enough For This Armor!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Am So Close I Can Taste It!</Source>
+      <Dest>I Am So Close I Can Taste It!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Think I am Getting Very Close Though!</Source>
+      <Dest>I Think I am Getting Very Close Though!</Dest>
+    </String>
+    <String List="0">
+      <Source>I Think I Need A Lot More Practice...</Source>
+      <Dest>I Think I Need A Lot More Practice...</Dest>
+    </String>
+    <String List="0">
+      <Source>I Think I Am Far Far Away From Wearing This...</Source>
+      <Dest>I Think I Am Far Far Away From Wearing This...</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>

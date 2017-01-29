@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SSTXMLRessources>
+  <Params>
+    <Addon>sotusundeadfxmcm.pex</Addon>
+    <Source>english</Source>
+    <Dest>japanese</Dest>
+    <Version>2</Version>
+  </Params>
+  <Content>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have a small amount of degredation; higher numbers have higher chances
+Default: 10</Source>
+      <Dest>Affects how likely it is that the FX will initially have a small amount of degredation; higher numbers have higher chances
+Default: 10</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have a medium amount of degredation; higher numbers have higher chances
+Default: 40</Source>
+      <Dest>Affects how likely it is that the FX will initially have a medium amount of degredation; higher numbers have higher chances
+Default: 40</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have a large amount of degredation; higher numbers have higher chances
+Default: 25</Source>
+      <Dest>Affects how likely it is that the FX will initially have a large amount of degredation; higher numbers have higher chances
+Default: 25</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have a very large amount of degredation; higher numbers have higher chances
+Default: 15</Source>
+      <Dest>Affects how likely it is that the FX will initially have a very large amount of degredation; higher numbers have higher chances
+Default: 15</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have full  degredation (all flesh removed); higher numbers have higher chances
+Default: 0</Source>
+      <Dest>Affects how likely it is that the FX will initially have full  degredation (all flesh removed); higher numbers have higher chances
+Default: 0</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have no degredation; higher numbers have higher chances
+Default: 0</Source>
+      <Dest>Affects how likely it is that the FX will initially have no degredation; higher numbers have higher chances
+Default: 0</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have a small amount of degredation; higher numbers have higher chances
+Default: 25</Source>
+      <Dest>Affects how likely it is that the FX will initially have a small amount of degredation; higher numbers have higher chances
+Default: 25</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have a medium amount of degredation; higher numbers have higher chances
+Default: 25</Source>
+      <Dest>Affects how likely it is that the FX will initially have a medium amount of degredation; higher numbers have higher chances
+Default: 25</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have a large amount of degredation; higher numbers have higher chances
+Default: 20</Source>
+      <Dest>Affects how likely it is that the FX will initially have a large amount of degredation; higher numbers have higher chances
+Default: 20</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have full degredation (all flesh removed); higher numbers have higher chances
+Default: 9</Source>
+      <Dest>Affects how likely it is that the FX will initially have full degredation (all flesh removed); higher numbers have higher chances
+Default: 9</Dest>
+    </String>
+    <String List="0">
+      <Source>Affects how likely it is that the FX will initially have no degredation; higher numbers have higher chancesnDefault: 8</Source>
+      <Dest>Affects how likely it is that the FX will initially have no degredation; higher numbers have higher chancesnDefault: 8</Dest>
+    </String>
+    <String List="0">
+      <Source>Controls whether the FX chances are treates as percentages
+Default: Disabled</Source>
+      <Dest>Controls whether the FX chances are treates as percentages
+Default: Disabled</Dest>
+    </String>
+    <String List="0">
+      <Source>Enables or disables the cloak spell on the player that applies the FX spell to NPCs 
+ Disable before brawls to avoid the brawl bug
+ Default: Enabled</Source>
+      <Dest>Enables or disables the cloak spell on the player that applies the FX spell to NPCs 
+ Disable before brawls to avoid the brawl bug
+ Default: Enabled</Dest>
+    </String>
+    <String List="0">
+      <Source>Controls whether the FX remain on killed summons
+ Default: Enabled</Source>
+      <Dest>Controls whether the FX remain on killed summons
+ Default: Enabled</Dest>
+    </String>
+    <String List="0">
+      <Source>The time after initial reanimation that the FX will degrade further; Does not apply to undead who don&apos;t disintegrate on death (e.g. thralls)
+Set to 0 to disable; Default: 40</Source>
+      <Dest>The time after initial reanimation that the FX will degrade further; Does not apply to undead who don&apos;t disintegrate on death (e.g. thralls)
+Set to 0 to disable; Default: 40</Dest>
+    </String>
+    <String List="0">
+      <Source>The time from one degredation to the next, after dynamic degredation has started
+Set to 0 to disable; Default: 1</Source>
+      <Dest>The time from one degredation to the next, after dynamic degredation has started
+Set to 0 to disable; Default: 1</Dest>
+    </String>
+    <String List="0">
+      <Source>The time after initial reanimation that the FX will degrade further; Does not apply to undead who don&apos;t disintegrate on death (e.g. thralls)
+Set to 0 to disable; Default: 30</Source>
+      <Dest>The time after initial reanimation that the FX will degrade further; Does not apply to undead who don&apos;t disintegrate on death (e.g. thralls)
+Set to 0 to disable; Default: 30</Dest>
+    </String>
+    <String List="0">
+      <Source>The time from one degredation to the next, after dynamic degredation has started
+Set to 0 to disable; Default: 10</Source>
+      <Dest>The time from one degredation to the next, after dynamic degredation has started
+Set to 0 to disable; Default: 10</Dest>
+    </String>
+    <String List="0">
+      <Source>Enables or disables the reapplication of the effect shader when changing cells; useful for people running &apos;Wet and Cold&apos; or other mods that may apply other FX
+Default: Disabled</Source>
+      <Dest>Enables or disables the reapplication of the effect shader when changing cells; useful for people running &apos;Wet and Cold&apos; or other mods that may apply other FX
+Default: Disabled</Dest>
+    </String>
+    <String List="0">
+      <Source>Adds an unenchantable amulet with the FX spell to the player
+It is called the &quot;Necromantic Amulet&quot;</Source>
+      <Dest>Adds an unenchantable amulet with the FX spell to the player
+It is called the &quot;Necromantic Amulet&quot;</Dest>
+    </String>
+    <String List="0">
+      <Source>Adds an amulet which cleans the FX off anyone who equips it
+It is called the &quot;Repentant Amulet&quot;</Source>
+      <Dest>Adds an amulet which cleans the FX off anyone who equips it
+It is called the &quot;Repentant Amulet&quot;</Dest>
+    </String>
+    <String List="0">
+      <Source>Adds meat underneath the dissolved skin; this is WIP: the model hasn&apos;t been fitted for females, doesn&apos;t adjust its size with the NPC&apos;s weight, and doesn&apos;t look that great
+Default: Disabled</Source>
+      <Dest>Adds meat underneath the dissolved skin; this is WIP: the model hasn&apos;t been fitted for females, doesn&apos;t adjust its size with the NPC&apos;s weight, and doesn&apos;t look that great
+Default: Disabled</Dest>
+    </String>
+    <String List="0">
+      <Source>Adds a glowing eye FX to reanimated NPCs, similar to the Draugr&apos;s eyes; this is WIP
+Default:Disabled</Source>
+      <Dest>Adds a glowing eye FX to reanimated NPCs, similar to the Draugr&apos;s eyes; this is WIP
+Default:Disabled</Dest>
+    </String>
+    <String List="0">
+      <Source>Normal Initial FX Level</Source>
+      <Dest>Normal Initial FX Level</Dest>
+    </String>
+    <String List="0">
+      <Source>Dark Souls Initial FX Level</Source>
+      <Dest>Dark Souls Initial FX Level</Dest>
+    </String>
+    <String List="0">
+      <Source>Small FX Chance</Source>
+      <Dest>Small FX Chance</Dest>
+    </String>
+    <String List="0">
+      <Source>Medium FX Chance</Source>
+      <Dest>Medium FX Chance</Dest>
+    </String>
+    <String List="0">
+      <Source>Large FX Chance</Source>
+      <Dest>Large FX Chance</Dest>
+    </String>
+    <String List="0">
+      <Source>Extra Large FX Chance</Source>
+      <Dest>Extra Large FX Chance</Dest>
+    </String>
+    <String List="0">
+      <Source>Full Degradation Chance</Source>
+      <Dest>Full Degradation Chance</Dest>
+    </String>
+    <String List="0">
+      <Source>No FX Chance</Source>
+      <Dest>No FX Chance</Dest>
+    </String>
+    <String List="0">
+      <Source>Treat Chances as Percentages</Source>
+      <Dest>Treat Chances as Percentages</Dest>
+    </String>
+    <String List="0">
+      <Source>Normal FX Dynamic Degredation</Source>
+      <Dest>Normal FX Dynamic Degredation</Dest>
+    </String>
+    <String List="0">
+      <Source>Dark Souls Dynamic Degredation</Source>
+      <Dest>Dark Souls Dynamic Degredation</Dest>
+    </String>
+    <String List="0">
+      <Source>Dynamic Degredation Start Time</Source>
+      <Dest>Dynamic Degredation Start Time</Dest>
+    </String>
+    <String List="0">
+      <Source>Dynamic Degredation Interval Time</Source>
+      <Dest>Dynamic Degredation Interval Time</Dest>
+    </String>
+    <String List="0">
+      <Source>FX Status</Source>
+      <Dest>FX Status</Dest>
+    </String>
+    <String List="0">
+      <Source>Enable Player Cloak</Source>
+      <Dest>Enable Player Cloak</Dest>
+    </String>
+    <String List="0">
+      <Source>FX Remain On Corpse</Source>
+      <Dest>FX Remain On Corpse</Dest>
+    </String>
+    <String List="0">
+      <Source>Refresh FX On Cell Change</Source>
+      <Dest>Refresh FX On Cell Change</Dest>
+    </String>
+    <String List="0">
+      <Source>Add FX Amulet to Player</Source>
+      <Dest>Add FX Amulet to Player</Dest>
+    </String>
+    <String List="0">
+      <Source>Add FX Cleanup Amulet to Player</Source>
+      <Dest>Add FX Cleanup Amulet to Player</Dest>
+    </String>
+    <String List="0">
+      <Source>Work In Progress Features</Source>
+      <Dest>Work In Progress Features</Dest>
+    </String>
+    <String List="0">
+      <Source>Use &quot;Meat Man&quot; Underskin</Source>
+      <Dest>Use &quot;Meat Man&quot; Underskin</Dest>
+    </String>
+    <String List="0">
+      <Source>Use Eye Glow FX</Source>
+      <Dest>Use Eye Glow FX</Dest>
+    </String>
+  </Content>
+</SSTXMLRessources>
