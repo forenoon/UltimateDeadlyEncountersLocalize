@@ -77,7 +77,7 @@
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Approaches!</Source>
-      <Dest>A Silver Hand Werewolf Hunter Approaches!</Dest>
+      <Dest>ウェアウルフ・ハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>I Smell A Silver Hand Werewolf Hunter!</Source>
@@ -85,7 +85,7 @@
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
-      <Dest>Silver Hand Werewolf Bane Hunter Targets Me!</Dest>
+      <Dest>ウェアウルフ・ハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Are After Me!</Source>
@@ -337,7 +337,7 @@
     </String>
     <String List="0">
       <Source>I Hear Footsteps!</Source>
-      <Dest>I Hear Footsteps!</Dest>
+      <Dest>足音が聞こえた！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Running!</Source>
@@ -421,11 +421,11 @@
     </String>
     <String List="0">
       <Source>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Source>
-      <Dest>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Dest>
+      <Dest>「おまえはドラゴンボーンの正義を免れることはできない！」と聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;The true Dragonborn will judge you!&apos;</Source>
-      <Dest>I Hear &apos;The true Dragonborn will judge you!&apos;</Dest>
+      <Dest>「真のドラゴンボーンがお前を裁く！」と聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Source>
@@ -485,7 +485,7 @@
     </String>
     <String List="0">
       <Source>Vampire Hunter Approaches!</Source>
-      <Dest>Vampire Hunter Approaches!</Dest>
+      <Dest>バンパイアハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>Vampire Hunter Is Near!</Source>
@@ -509,7 +509,7 @@
     </String>
     <String List="0">
       <Source>Dawnguard Hunter Approaches!</Source>
-      <Dest>Dawnguard Hunter Approaches!</Dest>
+      <Dest>ドーンガードが近づく！</Dest>
     </String>
     <String List="0">
       <Source>Dawnguard Hunter Is Near!</Source>

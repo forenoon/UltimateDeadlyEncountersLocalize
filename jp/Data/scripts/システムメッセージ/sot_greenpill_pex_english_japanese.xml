@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>As I Swallow The Pill, I Feel Dizzy...</Source>
-      <Dest>As I Swallow The Pill, I Feel Dizzy...</Dest>
+      <Dest>錠剤を飲むと、くらくらしてきた…</Dest>
     </String>
     <String List="0">
       <Source>As It Passes, I Receive a Vision...</Source>
-      <Dest>As It Passes, I Receive a Vision...</Dest>
+      <Dest>それが過ぎると、映像が浮かんできた…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

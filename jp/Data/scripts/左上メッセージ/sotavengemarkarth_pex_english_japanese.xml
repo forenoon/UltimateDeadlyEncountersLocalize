@@ -9,23 +9,23 @@
   <Content>
     <String List="0">
       <Source>Dibella is Angered!</Source>
-      <Dest>Dibella is Angered!</Dest>
+      <Dest>ディベラは憤慨した！</Dest>
     </String>
     <String List="0">
       <Source>Dibella is Offended!</Source>
-      <Dest>Dibella is Offended!</Dest>
+      <Dest>ディベラは怒った！</Dest>
     </String>
     <String List="0">
       <Source>The Desecration Is Noticed!</Source>
-      <Dest>The Desecration Is Noticed!</Dest>
+      <Dest>冒涜は気づかれる！</Dest>
     </String>
     <String List="0">
       <Source>Dibella Punishes Me!</Source>
-      <Dest>Dibella Punishes Me!</Dest>
+      <Dest>ディベラは天罰を下した！</Dest>
     </String>
     <String List="0">
       <Source>Dibella Sends Death!</Source>
-      <Dest>Dibella Sends Death!</Dest>
+      <Dest>ディベラは死を告げた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

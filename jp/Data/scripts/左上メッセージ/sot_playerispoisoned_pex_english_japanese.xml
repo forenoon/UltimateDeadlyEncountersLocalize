@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>I Have Been Mortally Poisoned!</Source>
-      <Dest>I Have Been Mortally Poisoned!</Dest>
+      <Dest>致命的な毒を受けた！</Dest>
     </String>
     <String List="0">
       <Source>I Have Been Poisoned!</Source>
-      <Dest>I Have Been Poisoned!</Dest>
+      <Dest>毒を受けた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

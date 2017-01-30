@@ -9,23 +9,23 @@
   <Content>
     <String List="0">
       <Source>Akatosh is Angered!</Source>
-      <Dest>Akatosh is Angered!</Dest>
+      <Dest>アカトシュは憤慨した！</Dest>
     </String>
     <String List="0">
       <Source>Akatosh is Offended!</Source>
-      <Dest>Akatosh is Offended!</Dest>
+      <Dest>アカトシュは怒った！</Dest>
     </String>
     <String List="0">
       <Source>The Desecration Is Noticed!</Source>
-      <Dest>The Desecration Is Noticed!</Dest>
+      <Dest>冒涜は気づかれる！</Dest>
     </String>
     <String List="0">
       <Source>Akatosh Pusnishes Me!</Source>
-      <Dest>Akatosh Pusnishes Me!</Dest>
+      <Dest>アカトシュは天罰を下す！</Dest>
     </String>
     <String List="0">
       <Source>Akatosh Sends Death!</Source>
-      <Dest>Akatosh Sends Death!</Dest>
+      <Dest>アカトシュは死を告げた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

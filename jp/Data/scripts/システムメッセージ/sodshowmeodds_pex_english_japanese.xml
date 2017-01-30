@@ -9,35 +9,35 @@
   <Content>
     <String List="0">
       <Source>Inn Locations: </Source>
-      <Dest>Inn Locations: </Dest>
+      <Dest>宿屋: </Dest>
     </String>
     <String List="0">
       <Source>Dungeon Locations: </Source>
-      <Dest>Dungeon Locations: </Dest>
+      <Dest>ダンジョン: </Dest>
     </String>
     <String List="0">
       <Source>Draugr Locations: </Source>
-      <Dest>Draugr Locations: </Dest>
+      <Dest>ドラウグル: </Dest>
     </String>
     <String List="0">
       <Source>College Location: </Source>
-      <Dest>College Location: </Dest>
+      <Dest>大学: </Dest>
     </String>
     <String List="0">
       <Source>Jorrvaskr Location: </Source>
-      <Dest>Jorrvaskr Location: </Dest>
+      <Dest>ジョルバスクル: </Dest>
     </String>
     <String List="0">
       <Source>Fast Travel: </Source>
-      <Dest>Fast Travel: </Dest>
+      <Dest>ファストトラベル: </Dest>
     </String>
     <String List="0">
       <Source>All Other Locations: </Source>
-      <Dest>All Other Locations: </Dest>
+      <Dest>その他全部: </Dest>
     </String>
     <String List="0">
       <Source>Walking Encounters: </Source>
-      <Dest>Walking Encounters: </Dest>
+      <Dest>散策遭遇: </Dest>
     </String>
   </Content>
 </SSTXMLRessources>

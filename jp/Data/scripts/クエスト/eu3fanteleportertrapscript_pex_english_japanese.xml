@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Destination Set: </Source>
-      <Dest>Destination Set: </Dest>
+      <Dest>転送先: </Dest>
     </String>
     <String List="0">
       <Source> -&gt; </Source>
@@ -17,27 +17,27 @@
     </String>
     <String List="0">
       <Source>Teleporter Trap Destroyed: </Source>
-      <Dest>Teleporter Trap Destroyed: </Dest>
+      <Dest>転送罠を破壊した: </Dest>
     </String>
     <String List="0">
       <Source>This teleporter does not exist</Source>
-      <Dest>This teleporter does not exist</Dest>
+      <Dest>この転送装置は存在しない</Dest>
     </String>
     <String List="0">
       <Source>Device not spawned: Must be positioned at </Source>
-      <Dest>Device not spawned: Must be positioned at </Dest>
+      <Dest>装置は生成されない: 次の場所に設置しなければならない -> </Dest>
     </String>
     <String List="0">
       <Source> or further.</Source>
-      <Dest> or further.</Dest>
+      <Dest> に配置されなければならない。</Dest>
     </String>
     <String List="0">
       <Source>Device not spawned: Already have </Source>
-      <Dest>Device not spawned: Already have </Dest>
+      <Dest>装置は生成されない: 完了している</Dest>
     </String>
     <String List="0">
       <Source> instances.</Source>
-      <Dest> instances.</Dest>
+      <Dest> は既にある。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

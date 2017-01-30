@@ -9,31 +9,31 @@
   <Content>
     <String List="0">
       <Source>Ambush!</Source>
-      <Dest>Ambush!</Dest>
+      <Dest>待ち伏せだ！</Dest>
     </String>
     <String List="0">
       <Source>You Hear Something!</Source>
-      <Dest>You Hear Something!</Dest>
+      <Dest>何か聞こえた！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters!</Source>
-      <Dest>Silver Hand Werewolf Hunters!</Dest>
+      <Dest>ウェアウルフ・ハンターだ！</Dest>
     </String>
     <String List="0">
       <Source>Vampire Hunters!</Source>
-      <Dest>Vampire Hunters!</Dest>
+      <Dest>バンパイアハンターだ！</Dest>
     </String>
     <String List="0">
       <Source>Highway Men!</Source>
-      <Dest>Highway Men!</Dest>
+      <Dest>追い剥ぎだ！</Dest>
     </String>
     <String List="0">
       <Source>The Dawnguard Attack!</Source>
-      <Dest>The Dawnguard Attack!</Dest>
+      <Dest>ドーンガードだ！</Dest>
     </String>
     <String List="0">
       <Source>Thalmor Assassins!</Source>
-      <Dest>Thalmor Assassins!</Dest>
+      <Dest>サールモールの暗殺者だ！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

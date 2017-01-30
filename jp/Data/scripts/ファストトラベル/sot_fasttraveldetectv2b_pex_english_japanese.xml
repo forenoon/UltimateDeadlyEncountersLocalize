@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>I Hear Something!</Source>
-      <Dest>I Hear Something!</Dest>
+      <Dest>何か聞こえた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -33,7 +33,7 @@
     </String>
     <String List="0">
       <Source>Deploy Spirits!</Source>
-      <Dest>Deploy Spirits!</Dest>
+      <Dest>霊魂 配置！</Dest>
     </String>
     <String List="0">
       <Source>Spirits 1 deployed</Source>
@@ -49,11 +49,11 @@
     </String>
     <String List="0">
       <Source>Spirits Going Home!</Source>
-      <Dest>Spirits Going Home!</Dest>
+      <Dest>霊魂が帰る！</Dest>
     </String>
     <String List="0">
       <Source>Looking for Rats!</Source>
-      <Dest>Looking for Rats!</Dest>
+      <Dest>ネズミが見えた！</Dest>
     </String>
     <String List="0">
       <Source>CoolAdded = : </Source>
@@ -65,103 +65,103 @@
     </String>
     <String List="0">
       <Source>Undead Approach!</Source>
-      <Dest>Undead Approach!</Dest>
+      <Dest>アンデッドが近づく！</Dest>
     </String>
     <String List="0">
       <Source>The Temperature Drops...!</Source>
-      <Dest>The Temperature Drops...!</Dest>
+      <Dest>温度が下がる…！</Dest>
     </String>
     <String List="0">
       <Source>I Smell Rotting Flesh!</Source>
-      <Dest>I Smell Rotting Flesh!</Dest>
+      <Dest>腐った肉の臭いがする！</Dest>
     </String>
     <String List="0">
       <Source>I Sense a Malevolent Presence!</Source>
-      <Dest>I Sense a Malevolent Presence!</Dest>
+      <Dest>悪意を持った何者かを感じる！</Dest>
     </String>
     <String List="0">
       <Source>It Is Suddently Freezing!</Source>
-      <Dest>It Is Suddently Freezing!</Dest>
+      <Dest>それは突然凍る！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Popping and Cracking Bones!</Source>
-      <Dest>I Hear Popping and Cracking Bones!</Dest>
+      <Dest>ポンと割れる骨の音がする！</Dest>
     </String>
     <String List="0">
       <Source>I Am Freezing...!</Source>
-      <Dest>I Am Freezing...!</Dest>
+      <Dest>凍りついてしまう…！</Dest>
     </String>
     <String List="0">
       <Source>There Are Rattling Sounds Nearby!</Source>
-      <Dest>There Are Rattling Sounds Nearby!</Dest>
+      <Dest>近くでガタガタと音がする！</Dest>
     </String>
     <String List="0">
       <Source>I Sense a Evil Presence!</Source>
-      <Dest>I Sense a Evil Presence!</Dest>
+      <Dest>悪意の存在を感じる！</Dest>
     </String>
     <String List="0">
       <Source>The Dead Rise From Their Slumber...!</Source>
-      <Dest>The Dead Rise From Their Slumber...!</Dest>
+      <Dest>死者が眠りから起きる…！</Dest>
     </String>
     <String List="0">
       <Source>Undead Crawl Out of the Ground...!</Source>
-      <Dest>Undead Crawl Out of the Ground...!</Dest>
+      <Dest>アンデッドが地面から這い出てくる...！</Dest>
     </String>
     <String List="0">
       <Source>Wretched Dead Rise to Destroy You...!</Source>
-      <Dest>Wretched Dead Rise to Destroy You...!</Dest>
+      <Dest>惨めな死者が滅ぼすために…！</Dest>
     </String>
     <String List="0">
       <Source>The Dead Walk Again...!</Source>
-      <Dest>The Dead Walk Again...!</Dest>
+      <Dest>死者がまた…！</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Source>
-      <Dest>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Dest>
+      <Dest>「おまえはドラゴンボーンの正義を免れることはできない！」と聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;The true Dragonborn will judge you!&apos;</Source>
-      <Dest>I Hear &apos;The true Dragonborn will judge you!&apos;</Dest>
+      <Dest>「真のドラゴンボーンがお前を裁く！」と聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Source>
-      <Dest>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Dest>
+      <Dest>「おまえの血はミラーク様の名のもとに流れる！」と聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;You will be an offering to the Master!&apos;</Source>
-      <Dest>I Hear &apos;You will be an offering to the Master!&apos;</Dest>
+      <Dest>「おまえはマスターへの供物だ！」と聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Hear Sharp Hissing...</Source>
-      <Dest>I Hear Sharp Hissing...</Dest>
+      <Dest>シューッという音が聞こえる…</Dest>
     </String>
     <String List="0">
       <Source>I Hear Soft Footsteps!&apos;</Source>
-      <Dest>I Hear Soft Footsteps!&apos;</Dest>
+      <Dest>柔らかい足音がする！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Pincers Snappin!&apos;</Source>
-      <Dest>I Hear Pincers Snappin!&apos;</Dest>
+      <Dest>ハサミの鳴る音がする！</Dest>
     </String>
     <String List="0">
       <Source>I See Fresh Webbing In This Area!&apos;</Source>
-      <Dest>I See Fresh Webbing In This Area!&apos;</Dest>
+      <Dest>周りに真新しい網が見える！</Dest>
     </String>
     <String List="0">
       <Source>Insects crawl out of the ground...</Source>
-      <Dest>Insects crawl out of the ground...</Dest>
+      <Dest>昆虫が地面から這い出る…</Dest>
     </String>
     <String List="0">
       <Source>I Am Not Alone...</Source>
-      <Dest>I Am Not Alone...</Dest>
+      <Dest>私は一人じゃない…</Dest>
     </String>
     <String List="0">
       <Source>I feel goosebumps on my arms...</Source>
-      <Dest>I feel goosebumps on my arms...</Dest>
+      <Dest>腕に鳥肌が立つ…</Dest>
     </String>
     <String List="0">
       <Source>A Foul Stench Hits Me...</Source>
-      <Dest>A Foul Stench Hits Me...</Dest>
+      <Dest>不潔な悪臭が撫でる…</Dest>
     </String>
     <String List="0">
       <Source>I Sense Bone Chilling Evil...</Source>
@@ -185,19 +185,19 @@
     </String>
     <String List="0">
       <Source>Evil Grows in Strength...</Source>
-      <Dest>Evil Grows in Strength...</Dest>
+      <Dest>悪は強さで成長する…</Dest>
     </String>
     <String List="0">
       <Source>Enemies Nearby!</Source>
-      <Dest>Enemies Nearby!</Dest>
+      <Dest>敵が近い！</Dest>
     </String>
     <String List="0">
       <Source>Reinforcements!</Source>
-      <Dest>Reinforcements!</Dest>
+      <Dest>増援だ！</Dest>
     </String>
     <String List="0">
       <Source>Enemy Forces Increase!</Source>
-      <Dest>Enemy Forces Increase!</Dest>
+      <Dest>敵が増えた！</Dest>
     </String>
     <String List="0">
       <Source>Dungeon Encounters Script Firing! - inout2 =</Source>
@@ -217,83 +217,83 @@
     </String>
     <String List="0">
       <Source>I hear something!</Source>
-      <Dest>I hear something!</Dest>
+      <Dest>何か聞こえた！</Dest>
     </String>
     <String List="0">
       <Source>I hear footsteps!</Source>
-      <Dest>I hear footsteps!</Dest>
+      <Dest>足音が聞こえた！</Dest>
     </String>
     <String List="0">
       <Source>I have an eerie sensation!</Source>
-      <Dest>I have an eerie sensation!</Dest>
+      <Dest>不気味な感覚がする！</Dest>
     </String>
     <String List="0">
       <Source>The temperature drops drastically!</Source>
-      <Dest>The temperature drops drastically!</Dest>
+      <Dest>温度が急激に下る！</Dest>
     </String>
     <String List="0">
       <Source>I feel very cold!</Source>
-      <Dest>I feel very cold!</Dest>
+      <Dest>とても寒い！</Dest>
     </String>
     <String List="0">
       <Source>There is a big drop in temperature!</Source>
-      <Dest>There is a big drop in temperature!</Dest>
+      <Dest>急に温度が下がる！</Dest>
     </String>
     <String List="0">
       <Source>Suddenly it is freezing!</Source>
-      <Dest>Suddenly it is freezing!</Dest>
+      <Dest>それは急に凍る！</Dest>
     </String>
     <String List="0">
       <Source>I hear soft steps!</Source>
-      <Dest>I hear soft steps!</Dest>
+      <Dest>軽い足音がする！</Dest>
     </String>
     <String List="0">
       <Source>I hear evil laughter!</Source>
-      <Dest>I hear evil laughter!</Dest>
+      <Dest>邪悪な笑い声を聞いた！</Dest>
     </String>
     <String List="0">
       <Source>I hear grunting noises!</Source>
-      <Dest>I hear grunting noises!</Dest>
+      <Dest>何かブツブツと聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>I feel raw power in the air!</Source>
-      <Dest>I feel raw power in the air!</Dest>
+      <Dest>空気に素の力を感じる！</Dest>
     </String>
     <String List="0">
       <Source>I hear low chanting!</Source>
-      <Dest>I hear low chanting!</Dest>
+      <Dest>低い詠唱が聞こえた！</Dest>
     </String>
     <String List="0">
       <Source>I hear Battlecries of &apos;Behold the Thalmor!&apos;</Source>
-      <Dest>I hear Battlecries of &apos;Behold the Thalmor!&apos;</Dest>
+      <Dest>「サルモールを見よ！」という戦の声が聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Can Hear Rusty Armor Moving!</Source>
-      <Dest>I Can Hear Rusty Armor Moving!</Dest>
+      <Dest>錆びた鎧の動く音がする！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Rattling Bones!</Source>
-      <Dest>I Hear Rattling Bones!</Dest>
+      <Dest>ガタつく骨の音が聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Creaking and Snapping Joints!</Source>
-      <Dest>I Hear Creaking and Snapping Joints!</Dest>
+      <Dest>きしむ関節の音が聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>I Smell Putrid Flesh!</Source>
-      <Dest>I Smell Putrid Flesh!</Dest>
+      <Dest>朽ちた肉の臭いがする！</Dest>
     </String>
     <String List="0">
       <Source>I Smell Rotten Flesh!</Source>
-      <Dest>I Smell Rotten Flesh!</Dest>
+      <Dest>腐った肉の臭いがする！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Loud Hissing</Source>
-      <Dest>I Hear Loud Hissing</Dest>
+      <Dest>騒がしい雑音が聞こえた</Dest>
     </String>
     <String List="0">
       <Source>The Dead Walk Again...</Source>
-      <Dest>The Dead Walk Again...</Dest>
+      <Dest>死者がまた…</Dest>
     </String>
     <String List="0">
       <Source>Dungeon Encounters Script in Dormant Mode!</Source>

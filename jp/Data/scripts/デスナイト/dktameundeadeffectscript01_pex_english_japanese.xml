@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Target is not valid for Controlling</Source>
-      <Dest>Target is not valid for Controlling</Dest>
+      <Dest>その対象はコントロールできない</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

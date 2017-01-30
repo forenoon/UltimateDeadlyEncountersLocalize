@@ -9,23 +9,23 @@
   <Content>
     <String List="0">
       <Source>Arkay is Angered!</Source>
-      <Dest>Arkay is Angered!</Dest>
+      <Dest>アーケイは憤慨した！</Dest>
     </String>
     <String List="0">
       <Source>Akkay is Offended!</Source>
-      <Dest>Akkay is Offended!</Dest>
+      <Dest>アーケイは怒った！</Dest>
     </String>
     <String List="0">
       <Source>The Desecration Is Noticed!</Source>
-      <Dest>The Desecration Is Noticed!</Dest>
+      <Dest>冒涜は気づかれる！</Dest>
     </String>
     <String List="0">
       <Source>Arkay Sends Pusnishment!</Source>
-      <Dest>Arkay Sends Pusnishment!</Dest>
+      <Dest>アーケイは天罰を下した！</Dest>
     </String>
     <String List="0">
       <Source>Arkay Sends Death!</Source>
-      <Dest>Arkay Sends Death!</Dest>
+      <Dest>アーケイは死を告げた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

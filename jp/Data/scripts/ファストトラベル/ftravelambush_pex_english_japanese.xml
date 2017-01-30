@@ -9,123 +9,123 @@
   <Content>
     <String List="0">
       <Source>You are ambushed on the way!</Source>
-      <Dest>You are ambushed on the way!</Dest>
+      <Dest>途中で待ち伏せされた！</Dest>
     </String>
     <String List="0">
       <Source>Thalmor Assassins!</Source>
-      <Dest>Thalmor Assassins!</Dest>
+      <Dest>サールモールの暗殺者だ！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Approaches!</Source>
-      <Dest>A Silver Hand Werewolf Hunter Approaches!</Dest>
+      <Dest>ウェアウルフ・ハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Surprises You!</Source>
-      <Dest>A Silver Hand Werewolf Hunter Surprises You!</Dest>
+      <Dest>ウェアウルフ・ハンターの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Bane Hunter Targets You!</Source>
-      <Dest>A Silver Hand Werewolf Bane Hunter Targets You!</Dest>
+      <Dest>ウェアウルフ・ハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Archer is Aiming at You!</Source>
-      <Dest>A Silver Hand Werewolf Hunter Archer is Aiming at You!</Dest>
+      <Dest>ウェアウルフ・ハンターが狙っている！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Approaches!</Source>
-      <Dest>A Vampire Hunter Approaches!</Dest>
+      <Dest>バンパイアハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Surprises Me!</Source>
-      <Dest>A Vampire Hunter Surprises Me!</Dest>
+      <Dest>バンパイアハンターの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Targets Me!</Source>
-      <Dest>A Vampire Hunter Targets Me!</Dest>
+      <Dest>バンパイアハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Has Found Me!</Source>
-      <Dest>A Vampire Hunter Has Found Me!</Dest>
+      <Dest>バンパイアハンターに見つかった！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Warrior Approaches!</Source>
-      <Dest>A Dawnguard Warrior Approaches!</Dest>
+      <Dest>ドーンガードが近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Vampire Hunter Surprises Me!</Source>
-      <Dest>A Dawnguard Vampire Hunter Surprises Me!</Dest>
+      <Dest>ドーンガードの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Targets Me!</Source>
-      <Dest>A Dawnguard Hunter Targets Me!</Dest>
+      <Dest>ドーンガードが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Has Found Me!</Source>
-      <Dest>A Dawnguard Hunter Has Found Me!</Dest>
+      <Dest>ドーンガードに見つかった！</Dest>
     </String>
     <String List="0">
       <Source>I Am Ambushed on the way!</Source>
-      <Dest>I Am Ambushed on the way!</Dest>
+      <Dest>途中で待ち伏せされた！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Surprises Me!</Source>
-      <Dest>A Silver Hand Werewolf Hunter Surprises Me!</Dest>
+      <Dest>ウェアウルフ・ハンターの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
-      <Dest>Silver Hand Werewolf Bane Hunter Targets Me!</Dest>
+      <Dest>ウェアウルフ・ハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Archer is Aiming at Me!!</Source>
-      <Dest>A Silver Hand Werewolf Hunter Archer is Aiming at Me!!</Dest>
+      <Dest>ウェアウルフ・ハンターが狙っている！！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Approaches!</Source>
-      <Dest>A Dawnguard Hunter Approaches!</Dest>
+      <Dest>ドーンガードが近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Warrior Surprises Me!</Source>
-      <Dest>A Dawnguard Warrior Surprises Me!</Dest>
+      <Dest>ドーンガードの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Surprises Me!</Source>
-      <Dest>A Dawnguard Hunter Surprises Me!</Dest>
+      <Dest>ドーンガードの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>You Fell In A Hole!</Source>
-      <Dest>You Fell In A Hole!</Dest>
+      <Dest>窮地に陥った！</Dest>
     </String>
     <String List="0">
       <Source>Bounty Hunters!</Source>
-      <Dest>Bounty Hunters!</Dest>
+      <Dest>賞金稼ぎだ！</Dest>
     </String>
     <String List="0">
       <Source>The StormCloaks Attack!</Source>
-      <Dest>The StormCloaks Attack!</Dest>
+      <Dest>ストームクロークです。こんにちは！</Dest>
     </String>
     <String List="0">
       <Source>The Imperial Legion Attacks!</Source>
-      <Dest>The Imperial Legion Attacks!</Dest>
+      <Dest>帝国軍ばんざい！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Attack!</Source>
-      <Dest>Silver Hand Werewolf Hunters Attack!</Dest>
+      <Dest>ウェアウルフ・ハンターだ！</Dest>
     </String>
     <String List="0">
       <Source>Young Fighters Attack You!</Source>
-      <Dest>Young Fighters Attack You!</Dest>
+      <Dest>若い戦士が襲いかかる！</Dest>
     </String>
     <String List="0">
       <Source>You have been followed!</Source>
-      <Dest>You have been followed!</Dest>
+      <Dest>後を付けられた！</Dest>
     </String>
     <String List="0">
       <Source>Highwaymen Surprise You!</Source>
-      <Dest>Highwaymen Surprise You!</Dest>
+      <Dest>追い剥ぎの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>Assassination Attempt!</Source>
-      <Dest>Assassination Attempt!</Dest>
+      <Dest>暗殺未遂だ！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

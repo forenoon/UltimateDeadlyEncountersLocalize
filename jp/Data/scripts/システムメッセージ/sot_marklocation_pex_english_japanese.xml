@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>This Location Assigned to Safe Spot #</Source>
-      <Dest>This Location Assigned to Safe Spot #</Dest>
+      <Dest>この場所は安全な場所に割当てられた #</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

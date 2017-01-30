@@ -9,23 +9,23 @@
   <Content>
     <String List="0">
       <Source>The Dead Are Angered!</Source>
-      <Dest>The Dead Are Angered!</Dest>
+      <Dest>死者を怒らせた！</Dest>
     </String>
     <String List="0">
       <Source>The Dead Awaken!</Source>
-      <Dest>The Dead Awaken!</Dest>
+      <Dest>死者が起きる！</Dest>
     </String>
     <String List="0">
       <Source>I Smell Rotting Flesh!</Source>
-      <Dest>I Smell Rotting Flesh!</Dest>
+      <Dest>腐った肉の臭いがする！</Dest>
     </String>
     <String List="0">
       <Source>I Sense a Malevolent Presence!</Source>
-      <Dest>I Sense a Malevolent Presence!</Dest>
+      <Dest>悪意を持った何者かを感じる！</Dest>
     </String>
     <String List="0">
       <Source>It Is Suddently Freezing!</Source>
-      <Dest>It Is Suddently Freezing!</Dest>
+      <Dest>それは突然凍る！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

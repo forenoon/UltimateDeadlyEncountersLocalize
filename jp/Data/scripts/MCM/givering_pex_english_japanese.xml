@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>Skyui is not detected, so no MCM Menu support is possible.  Until released for SSE you will be given the SandMan summoning ring. Summon him and use dialogue to set game settings, and to get the Revelation Book for even more mod settings..</Source>
-      <Dest>Skyui is not detected, so no MCM Menu support is possible.  Until released for SSE you will be given the SandMan summoning ring. Summon him and use dialogue to set game settings, and to get the Revelation Book for even more mod settings..</Dest>
+      <Dest>Skyuiが見つからないため、どのMCMメニューのサポートもできません。SSE版のSkyUIがリリースされるまでは「サンドマン召喚の指輪」が与えられます。彼を召喚してダイアログからゲームの設定を行い、より多くのMOD設定のためにRevelation Bookを入手してください。</Dest>
     </String>
     <String List="0">
       <Source>Skyui is Detected! Mod has full MCM Menu support. Please Activate mod from MCM menu, the mod starts inactive. Wait for 4 minutes, save game, exit game, go back to game, save, and play.  If Upgrading and it Does Not Activate Swallow The Red Pill.  DO NOT SWALLOW THE GREEN PILL!!! If you keep the mod please endorse. -Tonycubed2</Source>
-      <Dest>Skyui is Detected! Mod has full MCM Menu support. Please Activate mod from MCM menu, the mod starts inactive. Wait for 4 minutes, save game, exit game, go back to game, save, and play.  If Upgrading and it Does Not Activate Swallow The Red Pill.  DO NOT SWALLOW THE GREEN PILL!!! If you keep the mod please endorse. -Tonycubed2</Dest>
+      <Dest>Skyuiを検出しました！Modは全MCMメニューをサポートします。MCMメニューからModをアクティブにして、インアクティブ状態から開始してください。4分待って、ゲームをセーブして、ゲーム終了し、ゲームに戻り、セーブして、それからプレイしてください。もしアップグレードしてから動作しないなら「赤い錠剤」を飲んでください。「緑の錠剤」は飲むなよ！絶対飲むなよ！！もしこのModを支えたいなら支持してください。 -Tonycubed2</Dest>
     </String>
     <String List="0">
       <Source>MOD Order Has Changed!  This is not adviceable mid game.  Consider using blank mods to preserve order.</Source>
-      <Dest>MOD Order Has Changed!  This is not adviceable mid game.  Consider using blank mods to preserve order.</Dest>
+      <Dest>MODオーダーが変更されました！これはゲームの途中からは推奨できません。順番を維持するために外したMODの利用を検討してください。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

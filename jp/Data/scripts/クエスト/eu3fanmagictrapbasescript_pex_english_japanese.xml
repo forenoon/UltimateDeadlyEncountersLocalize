@@ -9,19 +9,19 @@
   <Content>
     <String List="0">
       <Source>You have triggered the trap.</Source>
-      <Dest>You have triggered the trap.</Dest>
+      <Dest>罠を動かしてしまった。</Dest>
     </String>
     <String List="0">
       <Source>You have stopped the trap.</Source>
-      <Dest>You have stopped the trap.</Dest>
+      <Dest>罠を停止させた。</Dest>
     </String>
     <String List="0">
       <Source>You have disarmed the trap.</Source>
-      <Dest>You have disarmed the trap.</Dest>
+      <Dest>罠を解除した。</Dest>
     </String>
     <String List="0">
       <Source>You have destroyed the trap.</Source>
-      <Dest>You have destroyed the trap.</Dest>
+      <Dest>罠を破壊した。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

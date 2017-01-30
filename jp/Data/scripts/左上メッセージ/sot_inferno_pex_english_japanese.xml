@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>Reinforcements are Summoned!</Source>
-      <Dest>Reinforcements are Summoned!</Dest>
+      <Dest>増援が召喚された！</Dest>
     </String>
     <String List="0">
       <Source>Evil Incarnate is Summoned!</Source>
-      <Dest>Evil Incarnate is Summoned!</Dest>
+      <Dest>Evil Incarnate が召喚された！</Dest>
     </String>
     <String List="0">
       <Source>Flying Death is Summoned!</Source>
-      <Dest>Flying Death is Summoned!</Dest>
+      <Dest>Flying Death が召喚された！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

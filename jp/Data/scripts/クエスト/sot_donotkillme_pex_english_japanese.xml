@@ -9,35 +9,35 @@
   <Content>
     <String List="0">
       <Source>The Goddess Mara Punishes You!</Source>
-      <Dest>The Goddess Mara Punishes You!</Dest>
+      <Dest>女神マーラがおまえを罰するぞ！</Dest>
     </String>
     <String List="0">
       <Source>The Goddess Mara Is Displeased!</Source>
-      <Dest>The Goddess Mara Is Displeased!</Dest>
+      <Dest>マーラ様に嫌われるぞ！</Dest>
     </String>
     <String List="0">
       <Source>I Can Choose To Be Merciful Today...</Source>
-      <Dest>I Can Choose To Be Merciful Today...</Dest>
+      <Dest>今日は慈悲深い方を選べる…</Dest>
     </String>
     <String List="0">
       <Source>Do I Spill This Blood...</Source>
-      <Dest>Do I Spill This Blood...</Dest>
+      <Dest>この血を流す…</Dest>
     </String>
     <String List="0">
       <Source>I Can Let the Wretch Go...</Source>
-      <Dest>I Can Let the Wretch Go...</Dest>
+      <Dest>哀れな者を行かせることができる…</Dest>
     </String>
     <String List="0">
       <Source>Do I Spare This Life?</Source>
-      <Dest>Do I Spare This Life?</Dest>
+      <Dest>この命を助けてやれる？</Dest>
     </String>
     <String List="0">
       <Source>I Can Reign in My Wrath...</Source>
-      <Dest>I Can Reign in My Wrath...</Dest>
+      <Dest>自分の怒りを納められる…</Dest>
     </String>
     <String List="0">
       <Source>The Goddess Mara Approves of You!</Source>
-      <Dest>The Goddess Mara Approves of You!</Dest>
+      <Dest>女神マーラはあなたをお認めになった！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

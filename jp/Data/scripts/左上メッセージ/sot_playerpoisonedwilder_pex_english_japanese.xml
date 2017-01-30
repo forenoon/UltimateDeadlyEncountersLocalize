@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>I Have Been Mortally Poisoned!</Source>
-      <Dest>I Have Been Mortally Poisoned!</Dest>
+      <Dest>致命的な毒を受けた！</Dest>
     </String>
     <String List="0">
       <Source>I Have Been Poisoned!</Source>
-      <Dest>I Have Been Poisoned!</Dest>
+      <Dest>毒を受けた！</Dest>
     </String>
     <String List="0">
       <Source>I Am Not Experienced Enough To Equip This Ammo!</Source>
@@ -21,7 +21,7 @@
     </String>
     <String List="0">
       <Source>Mephala Enchantment Dispells!</Source>
-      <Dest>Mephala Enchantment Dispells!</Dest>
+      <Dest>メファーラの付呪が解除された！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

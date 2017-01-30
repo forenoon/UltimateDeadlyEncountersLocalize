@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>Infected Rats Are Born!</Source>
-      <Dest>Infected Rats Are Born!</Dest>
+      <Dest>感染したネズミが生まれてる！</Dest>
     </String>
     <String List="0">
       <Source>Infected Rats Eat Their Way Out!</Source>
-      <Dest>Infected Rats Eat Their Way Out!</Dest>
+      <Dest>感染したネズミが食べて出口を！</Dest>
     </String>
     <String List="0">
       <Source>Infected Rats Come out of Dead Body!</Source>
-      <Dest>Infected Rats Come out of Dead Body!</Dest>
+      <Dest>感染したネズミが死体から出てくる！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

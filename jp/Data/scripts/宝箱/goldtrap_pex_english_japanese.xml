@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Leaving Chest Alone</Source>
-      <Dest>宝箱から離れる</Dest>
+      <Dest>宝箱を置いていった</Dest>
     </String>
     <String List="0">
       <Source>Trying to Disarm Chest</Source>
@@ -21,7 +21,7 @@
     </String>
     <String List="0">
       <Source>Forcing Chest Opened</Source>
-      <Dest>宝箱を無理矢理こじあける</Dest>
+      <Dest>力ずくで宝箱を開けた</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

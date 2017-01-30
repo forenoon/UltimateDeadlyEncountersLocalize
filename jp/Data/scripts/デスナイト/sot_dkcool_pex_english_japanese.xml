@@ -9,27 +9,27 @@
   <Content>
     <String List="0">
       <Source>Death Knight Summons Mind Flayers!!!</Source>
-      <Dest>Death Knight Summons Mind Flayers!!!</Dest>
+      <Dest>死の騎士はマインドフライヤを呼び出した！！！</Dest>
     </String>
     <String List="0">
       <Source>Death Knight Casting Death Blossom!</Source>
-      <Dest>Death Knight Casting Death Blossom!</Dest>
+      <Dest>死の騎士は死の花を唱えた！</Dest>
     </String>
     <String List="0">
       <Source>Death Knight Casting Death Storm</Source>
-      <Dest>Death Knight Casting Death Storm</Dest>
+      <Dest>死の騎士は死の嵐を唱えた</Dest>
     </String>
     <String List="0">
       <Source>Death Knight Calls Forth Flying Death</Source>
-      <Dest>Death Knight Calls Forth Flying Death</Dest>
+      <Dest>死の騎士は Forth Flying Death を呼んだ</Dest>
     </String>
     <String List="0">
       <Source>Death Knight Raises Supreme Ward!</Source>
-      <Dest>Death Knight Raises Supreme Ward!</Dest>
+      <Dest>死の騎士は至高の魔力を発する！</Dest>
     </String>
     <String List="0">
       <Source>Ward Weakens!</Source>
-      <Dest>Ward Weakens!</Dest>
+      <Dest>魔力が弱くなる！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

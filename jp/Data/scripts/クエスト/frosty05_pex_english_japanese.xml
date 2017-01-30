@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Changing Faction Associations...</Source>
-      <Dest>Changing Faction Associations...</Dest>
+      <Dest>派閥の関連付けを変更する…</Dest>
     </String>
     <String List="0">
       <Source>Finished...</Source>
-      <Dest>Finished...</Dest>
+      <Dest>完了…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

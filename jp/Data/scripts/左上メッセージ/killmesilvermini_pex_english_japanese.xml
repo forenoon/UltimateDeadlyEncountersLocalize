@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>You hit silver!</Source>
-      <Dest>You hit silver!</Dest>
+      <Dest>銀の攻撃された！</Dest>
     </String>
     <String List="0">
       <Source>The Silver Armor is Blessed... You are Burning!!!</Source>
-      <Dest>The Silver Armor is Blessed... You are Burning!!!</Dest>
+      <Dest>銀の鎧は祝福されている... 身体が燃える！！！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

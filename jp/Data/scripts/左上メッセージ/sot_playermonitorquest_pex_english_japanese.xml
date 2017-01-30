@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>I Covertly Advance...</Source>
-      <Dest>I Covertly Advance...</Dest>
+      <Dest>ひっそりと進む…</Dest>
     </String>
     <String List="0">
       <Source>Hit Stealth Handler Running</Source>
@@ -25,23 +25,23 @@
     </String>
     <String List="0">
       <Source>Element of Surprise Is Totally Lost...</Source>
-      <Dest>Element of Surprise Is Totally Lost...</Dest>
+      <Dest>驚きの要素はすっかり失われた…</Dest>
     </String>
     <String List="0">
       <Source>Element of Surprise is Gone...</Source>
-      <Dest>Element of Surprise is Gone...</Dest>
+      <Dest>驚きの要素は過ぎ去った…</Dest>
     </String>
     <String List="0">
       <Source>I Lost Some Cover...</Source>
-      <Dest>I Lost Some Cover...</Dest>
+      <Dest>いくつかの包みを失った…</Dest>
     </String>
     <String List="0">
       <Source>General Alarm Is Raised ...</Source>
-      <Dest>General Alarm Is Raised ...</Dest>
+      <Dest>警告が発生する…</Dest>
     </String>
     <String List="0">
       <Source>I Lost Some Concealment...</Source>
-      <Dest>I Lost Some Concealment...</Dest>
+      <Dest>いくつかの隠蔽を失った…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

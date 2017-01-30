@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Bed Is In Use!</Source>
-      <Dest>Bed Is In Use!</Dest>
+      <Dest>ベッドは使用中だ！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
