@@ -17,11 +17,11 @@
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters!</Source>
-      <Dest>ウェアウルフ・ハンターだ！</Dest>
+      <Dest>ウェアウルフハンターだ！</Dest>
     </String>
     <String List="0">
       <Source>Vampire Hunters!</Source>
-      <Dest>バンパイアハンターだ！</Dest>
+      <Dest>ヴァンパイアハンターだ！</Dest>
     </String>
     <String List="0">
       <Source>Highway Men!</Source>
@@ -29,7 +29,7 @@
     </String>
     <String List="0">
       <Source>The Dawnguard Attack!</Source>
-      <Dest>ドーンガードだ！</Dest>
+      <Dest>ドーンガードの襲撃だ！</Dest>
     </String>
     <String List="0">
       <Source>Thalmor Assassins!</Source>
