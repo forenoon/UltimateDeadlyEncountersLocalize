@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <SSTXMLRessources>
   <Params>
-    <Addon>sot_mephalaaxe.pex</Addon>
+    <Addon>sot_mephaladagger.pex</Addon>
     <Source>english</Source>
     <Dest>japanese</Dest>
     <Version>2</Version>
   </Params>
   <Content>
     <String List="0">
+      <Source>I Am Not Experienced Enough For This Dagger!</Source>
+      <Dest>このダガーを扱うには経験が足りない！</Dest>
+    </String>
+    <String List="0">
       <Source>Mephala Enchantment Dispells!</Source>
       <Dest>メファーラの付呪が解除された！</Dest>
     </String>
     <String List="0">
       <Source>Mephala Weapon Implodes!</Source>
-      <Dest>Mephala Weapon Implodes!</Dest>
+      <Dest>メファーラの武器が壊れた！</Dest>
     </String>
     <String List="0">
       <Source>Mephala Weapon Self Destructs!</Source>
-      <Dest>Mephala Weapon Self Destructs!</Dest>
-    </String>
-    <String List="0">
-      <Source>I Am Not Experienced Enough For This Axe!</Source>
-      <Dest>この装備を扱えるほど熟練していない！</Dest>
+      <Dest>メファーラの武器が自壊した！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -77,7 +77,7 @@
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Approaches!</Source>
-      <Dest>ウェアウルフ・ハンターが近づく！</Dest>
+      <Dest>ウェアウルフハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>I Smell A Silver Hand Werewolf Hunter!</Source>
@@ -85,7 +85,7 @@
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
-      <Dest>ウェアウルフ・ハンターが狙いを定める！</Dest>
+      <Dest>ウェアウルフハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Are After Me!</Source>
@@ -485,7 +485,7 @@
     </String>
     <String List="0">
       <Source>Vampire Hunter Approaches!</Source>
-      <Dest>バンパイアハンターが近づく！</Dest>
+      <Dest>ヴァンパイアハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>Vampire Hunter Is Near!</Source>
