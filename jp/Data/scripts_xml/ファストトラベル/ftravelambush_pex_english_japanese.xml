@@ -17,35 +17,35 @@
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Approaches!</Source>
-      <Dest>ウェアウルフ・ハンターが近づく！</Dest>
+      <Dest>ウェアウルフハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Surprises You!</Source>
-      <Dest>ウェアウルフ・ハンターの不意打ちだ！</Dest>
+      <Dest>ウェアウルフハンターの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Bane Hunter Targets You!</Source>
-      <Dest>ウェアウルフ・ハンターが狙いを定める！</Dest>
+      <Dest>ウェアウルフハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Archer is Aiming at You!</Source>
-      <Dest>ウェアウルフ・ハンターが狙っている！</Dest>
+      <Dest>ウェアウルフハンターが狙っている！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Approaches!</Source>
-      <Dest>バンパイアハンターが近づく！</Dest>
+      <Dest>ヴァンパイアハンターが近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Surprises Me!</Source>
-      <Dest>バンパイアハンターの不意打ちだ！</Dest>
+      <Dest>ヴァンパイアハンターの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Targets Me!</Source>
-      <Dest>バンパイアハンターが狙いを定める！</Dest>
+      <Dest>ヴァンパイアハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Has Found Me!</Source>
-      <Dest>バンパイアハンターに見つかった！</Dest>
+      <Dest>ヴァンパイアハンターに見つかった！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Warrior Approaches!</Source>
@@ -69,15 +69,15 @@
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Surprises Me!</Source>
-      <Dest>ウェアウルフ・ハンターの不意打ちだ！</Dest>
+      <Dest>ウェアウルフハンターの不意打ちだ！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
-      <Dest>ウェアウルフ・ハンターが狙いを定める！</Dest>
+      <Dest>ウェアウルフハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Archer is Aiming at Me!!</Source>
-      <Dest>ウェアウルフ・ハンターが狙っている！！</Dest>
+      <Dest>ウェアウルフハンターが狙っている！！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Approaches!</Source>
@@ -109,7 +109,7 @@
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Attack!</Source>
-      <Dest>ウェアウルフ・ハンターだ！</Dest>
+      <Dest>ウェアウルフハンターだ！</Dest>
     </String>
     <String List="0">
       <Source>Young Fighters Attack You!</Source>
