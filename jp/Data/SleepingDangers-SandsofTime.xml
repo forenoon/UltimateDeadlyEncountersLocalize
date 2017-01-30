@@ -576,7 +576,7 @@
     </String>
     <String List="0">
       <Source>Vampire Hunter Cuirass</Source>
-      <Dest>バンパイアハンターキュイラス</Dest>
+      <Dest>ヴァンパイアハンターキュイラス</Dest>
     </String>
     <String List="0">
       <Source>Soulless Pilgrim</Source>
@@ -1110,7 +1110,7 @@
     </String>
     <String List="0">
       <Source>Make Hunters normal.</Source>
-      <Dest>バンパイアハンターを通常にする</Dest>
+      <Dest>ヴァンパイアハンターを通常にする</Dest>
     </String>
     <String List="0">
       <Source>Dice Roll 1</Source>
@@ -1262,7 +1262,7 @@
     </String>
     <String List="0">
       <Source>Silver Werewolf Hunters Toggle</Source>
-      <Dest>シルバーハンドのウェアウルフ・ハンターを切り替える</Dest>
+      <Dest>シルバーハンドのウェアウルフハンターを切り替える</Dest>
     </String>
     <String List="0">
       <Source>Frostbite Hallucination Spider</Source>
@@ -1860,7 +1860,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>VampireBaron</Source>
-      <Dest>バンパイア男爵</Dest>
+      <Dest>ヴァンパイア男爵</Dest>
     </String>
     <String List="0">
       <Source>Save Cities From Rumiirua Horde</Source>
@@ -2008,7 +2008,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Falmer Missile</Source>
-      <Dest>バンパイア・ファルマーミサイル</Dest>
+      <Dest>ヴァンパイア・ファルマーミサイル</Dest>
     </String>
     <String List="0">
       <Source>About The Draman</Source>
@@ -2064,7 +2064,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Killer</Source>
-      <Dest>バンパイアキラー</Dest>
+      <Dest>ヴァンパイアキラー</Dest>
     </String>
     <String List="0">
       <Source>Chameleon Rogue</Source>
@@ -2120,7 +2120,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Hunters Toggle</Source>
-      <Dest>バンパイアハンターの切り替え</Dest>
+      <Dest>ヴァンパイアハンターの切り替え</Dest>
     </String>
     <String List="0">
       <Source>The Ragged Flagon</Source>
@@ -2424,7 +2424,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vamp Killer</Source>
-      <Dest>バンパイアキラー</Dest>
+      <Dest>ヴァンパイアキラー</Dest>
     </String>
     <String List="0">
       <Source>Assasins Odds</Source>
@@ -2604,7 +2604,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Blade Vampire Hunter</Source>
-      <Dest>バンパイアハンターの剣士</Dest>
+      <Dest>ヴァンパイアハンターの剣士</Dest>
     </String>
     <String List="0">
       <Source>King</Source>
@@ -2812,7 +2812,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Hunters</Source>
-      <Dest>バンパイアハンター</Dest>
+      <Dest>ヴァンパイアハンター</Dest>
     </String>
     <String List="0">
       <Source>Display Status</Source>
@@ -3204,7 +3204,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Make Hunters Lore Friendly</Source>
-      <Dest>バンパイアハンターを世界観に一致したものにする</Dest>
+      <Dest>ヴァンパイアハンターを世界観に一致したものにする</Dest>
     </String>
     <String List="0">
       <Source>Healthy Rat Odds</Source>
@@ -3284,7 +3284,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Hunters are disabled. Click here to turn feature on.</Source>
-      <Dest>バンパイアハンターが無効になった。オンにするにはここをクリック</Dest>
+      <Dest>ヴァンパイアハンターが無効になった。オンにするにはここをクリック</Dest>
     </String>
     <String List="0">
       <Source>Steel Bolt</Source>
@@ -3868,7 +3868,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Hunter Boots</Source>
-      <Dest>バンパイアハンターブーツ</Dest>
+      <Dest>ヴァンパイアハンターブーツ</Dest>
     </String>
     <String List="0">
       <Source>Frozen Falmer</Source>
@@ -3940,7 +3940,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Baron</Source>
-      <Dest>バンパイア男爵</Dest>
+      <Dest>ヴァンパイア男爵</Dest>
     </String>
     <String List="0">
       <Source>Potent Storm Atronach</Source>
@@ -3976,7 +3976,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunter Berserker</Source>
-      <Dest>シルバーハンドのウェアウルフ・ハンター狂戦士</Dest>
+      <Dest>シルバーハンドのウェアウルフハンター狂戦士</Dest>
     </String>
     <String List="0">
       <Source>Spell Tome: Sunlight</Source>
@@ -4236,7 +4236,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Baron</Source>
-      <Dest>バンパイア男爵</Dest>
+      <Dest>ヴァンパイア男爵</Dest>
     </String>
     <String List="0">
       <Source>Encounter Odds While Sleeping in the Companions Hall</Source>
@@ -4740,7 +4740,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Acolyte</Source>
-      <Dest>バンパイア アコライト</Dest>
+      <Dest>ヴァンパイア・アコライト</Dest>
     </String>
     <String List="0">
       <Source>Spell Tome: Chaos Shield</Source>
@@ -5486,7 +5486,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Hunter</Source>
-      <Dest>バンパイアハンター</Dest>
+      <Dest>ヴァンパイアハンター</Dest>
     </String>
     <String List="0">
       <Source>Skeever</Source>
@@ -6146,7 +6146,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunter</Source>
-      <Dest>シルバーハンドのウェアウルフ・ハンター</Dest>
+      <Dest>シルバーハンドのウェアウルフハンター</Dest>
     </String>
     <String List="0">
       <Source>Nils</Source>
@@ -6558,7 +6558,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Boss</Source>
-      <Dest>バンパイアのボス</Dest>
+      <Dest>ヴァンパイアのボス</Dest>
     </String>
     <String List="0">
       <Source>Bound Defiler Sword</Source>
@@ -7506,7 +7506,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Corrupted Shade</Source>
-      <Dest>バンパイア・コラプテッドシェイド</Dest>
+      <Dest>ヴァンパイア・コラプテッドシェイド</Dest>
     </String>
     <String List="0">
       <Source>I Cannot At This Time...</Source>
@@ -7546,7 +7546,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Vampire Death Hound</Source>
-      <Dest>バンパイア・デスハウンド</Dest>
+      <Dest>ヴァンパイア・デスハウンド</Dest>
     </String>
     <String List="0">
       <Source>White Mage Novice Boots</Source>
@@ -7606,7 +7606,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Elite Vampire Hunter</Source>
-      <Dest>エリート・バンパイアハンター</Dest>
+      <Dest>エリート・ヴァンパイアハンター</Dest>
     </String>
     <String List="0">
       <Source>Scourge Lord Helmet</Source>
@@ -8098,7 +8098,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Toggle</Source>
-      <Dest>シルバーハンドのウェアウルフ・ハンター の切り替え</Dest>
+      <Dest>シルバーハンドのウェアウルフハンター の切り替え</Dest>
     </String>
     <String List="0">
       <Source>Soulless Forsaken Miner</Source>
@@ -8512,7 +8512,7 @@ Sometimes, there are cases where it scares the enemy.</Source>
     </String>
     <String List="0">
       <Source>Hunters are allowed.  Click here to turn feature off.</Source>
-      <Dest>バンパイアハンターが有効になった。オフにするにはここをクリック</Dest>
+      <Dest>ヴァンパイアハンターが有効になった。オフにするにはここをクリック</Dest>
     </String>
     <String List="0">
       <Source>Jester's Clothes</Source>
@@ -8664,7 +8664,7 @@ Sometimes, there are cases where it scares the enemy.</Source>
     </String>
     <String List="0">
       <Source>Vampire Guard</Source>
-      <Dest>バンパイア・ガード</Dest>
+      <Dest>ヴァンパイア・ガード</Dest>
     </String>
     <String List="0">
       <Source>Thank you for your help!</Source>
@@ -8724,7 +8724,7 @@ Sometimes, there are cases where it scares the enemy.</Source>
     </String>
     <String List="0">
       <Source>Vampire Hunter Gloves</Source>
-      <Dest>バンパイアハンターグローブ</Dest>
+      <Dest>ヴァンパイアハンターグローブ</Dest>
     </String>
     <String List="0">
       <Source>Hob's Fall Cave</Source>
@@ -9916,7 +9916,7 @@ Sometimes, there are cases where it scares the enemy.</Source>
     </String>
     <String List="0">
       <Source>Wolf and Vamp Hunters</Source>
-      <Dest>シルバーハンドとバンパイアハンター</Dest>
+      <Dest>シルバーハンドとヴァンパイアハンター</Dest>
     </String>
     <String List="0">
       <Source>Madesi</Source>
@@ -10412,7 +10412,7 @@ Present value is : %.0f</Source>
     </String>
     <String List="1">
       <Source>Wether ot not to allow Vampire Hunters to spawn.  Will hunt Vampire players and includes Master Hunter Blade.  You can alse make the hunters more lore friendly.</Source>
-      <Dest>バンパイアハンターが湧くかどうかを調整します。プレイヤーがバンパイアならもちろん攻撃されますし、中にはマスターハンターブレイドのような強敵もいます。さらに詳細に設定して、より世界観に一致させることもできます。</Dest>
+      <Dest>ヴァンパイアハンターが湧くかどうかを調整します。プレイヤーがヴァンパイアならもちろん攻撃されますし、中にはマスターハンターブレイドのような強敵もいます。さらに詳細に設定して、より世界観に一致させることもできます。</Dest>
     </String>
     <String List="1">
       <Source>Dual wielding attacks are 20% stronger</Source>
@@ -10728,7 +10728,7 @@ Currently Set at : %.0f</Source>
     </String>
     <String List="1">
       <Source>25% less damage from Vampire attacks and Drain Life spells while wearing a complete set of Dawnguard Paladin armor.</Source>
-      <Dest>ドーンガードの聖騎士シリーズをセットで着込めば、バンパイアの吸血を含む攻撃全てに対して25％の抵抗を得る</Dest>
+      <Dest>ドーンガードの聖騎士シリーズをセットで着込めば、ヴァンパイアの吸血を含む攻撃全てに対して25％の抵抗を得る</Dest>
     </String>
     <String List="1">
       <Source>Save Cities from Rumiirua Hordes</Source>
@@ -10778,7 +10778,7 @@ Currently Set at : %.0f</Source>
     </String>
     <String List="1">
       <Source>Wether ot not to allow Silver Hand Werewolf Hunters to spawn.  Will hunt werewolf players and includes Master Hunter Bane.  You can alse make the hunters more lore friendly.</Source>
-      <Dest>シルバーハンドのウェアウルフ・ハンターが出現するかどうかを切り替えます。もちろんプレイヤーがウェアウルフだと襲われますし、中には「ウェアウルフ殺し」と呼ばれるやつらもいます。さらに詳細な設定も可能です。</Dest>
+      <Dest>シルバーハンドのウェアウルフハンターが出現するかどうかを切り替えます。もちろんプレイヤーがウェアウルフだと襲われますし、中には「ウェアウルフ殺し」と呼ばれるやつらもいます。さらに詳細な設定も可能です。</Dest>
     </String>
     <String List="1">
       <Source>Dual wielding power attacks do 60% bonus damage.</Source>
@@ -10915,7 +10915,7 @@ Present value is : %.0f</Source>
     <String List="1">
       <Source>Choose to adjust Sillver hands (Werewolf Hunters) or Vampire Hunters
 </Source>
-      <Dest>シルバーハンドやバンパイアハンターを調節するために選択する</Dest>
+      <Dest>シルバーハンドやヴァンパイアハンターを調節するために選択する</Dest>
     </String>
     <String List="1">
       <Source>You feel as though you've learned the basics.</Source>
