@@ -9,15 +9,11 @@
   <Content>
     <String List="0">
       <Source>Mysterious Stranger Arrives!</Source>
-      <Dest>Mysterious Stranger Arrives!</Dest>
+      <Dest>謎めいた異邦人が来た！</Dest>
     </String>
     <String List="0">
       <Source>Dancing Swords Scrolls Granted!</Source>
-      <Dest>Dancing Swords Scrolls Granted!</Dest>
-    </String>
-    <String List="0">
-      <Source>Sending Modevent</Source>
-      <Dest>Sending Modevent</Dest>
+      <Dest>ダンシングソードの巻物を貰った！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

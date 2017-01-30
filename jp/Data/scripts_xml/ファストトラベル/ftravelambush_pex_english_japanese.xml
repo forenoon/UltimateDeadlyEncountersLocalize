@@ -25,11 +25,11 @@
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Bane Hunter Targets You!</Source>
-      <Dest>ウェアウルフハンターが狙いを定める！</Dest>
+      <Dest>ウェアウルフベインハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Archer is Aiming at You!</Source>
-      <Dest>ウェアウルフハンターが狙っている！</Dest>
+      <Dest>ウェアウルフハンターの弓矢に狙われている！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Approaches!</Source>
@@ -37,11 +37,11 @@
     </String>
     <String List="0">
       <Source>A Vampire Hunter Surprises Me!</Source>
-      <Dest>ヴァンパイアハンターの不意打ちだ！</Dest>
+      <Dest>ヴァンパイアハンターに不意打ちされた！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Targets Me!</Source>
-      <Dest>ヴァンパイアハンターが狙いを定める！</Dest>
+      <Dest>ヴァンパイアハンターに狙われた！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Hunter Has Found Me!</Source>
@@ -49,19 +49,19 @@
     </String>
     <String List="0">
       <Source>A Dawnguard Warrior Approaches!</Source>
-      <Dest>ドーンガードが近づく！</Dest>
+      <Dest>ドーンガードの戦士が近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Vampire Hunter Surprises Me!</Source>
-      <Dest>ドーンガードの不意打ちだ！</Dest>
+      <Dest>ドーンガードのヴァンパイアハンターに不意打ちされた！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Targets Me!</Source>
-      <Dest>ドーンガードが狙いを定める！</Dest>
+      <Dest>ドーンガードの狩人に狙われた！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Has Found Me!</Source>
-      <Dest>ドーンガードに見つかった！</Dest>
+      <Dest>ドーンガードの狩人に見つかった！</Dest>
     </String>
     <String List="0">
       <Source>I Am Ambushed on the way!</Source>
@@ -69,27 +69,27 @@
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Surprises Me!</Source>
-      <Dest>ウェアウルフハンターの不意打ちだ！</Dest>
+      <Dest>ウェアウルフハンターに不意打ちされた！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
-      <Dest>ウェアウルフハンターが狙いを定める！</Dest>
+      <Dest>ウェアウルフベインハンターに狙われた！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Archer is Aiming at Me!!</Source>
-      <Dest>ウェアウルフハンターが狙っている！！</Dest>
+      <Dest>ウェアウルフハンターの弓矢に狙われた！！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Approaches!</Source>
-      <Dest>ドーンガードが近づく！</Dest>
+      <Dest>ドーンガードの狩人が近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Warrior Surprises Me!</Source>
-      <Dest>ドーンガードの不意打ちだ！</Dest>
+      <Dest>ドーンガードの戦士に不意打ちされた！</Dest>
     </String>
     <String List="0">
       <Source>A Dawnguard Hunter Surprises Me!</Source>
-      <Dest>ドーンガードの不意打ちだ！</Dest>
+      <Dest>ドーンガードの狩人に不意打ちされた！</Dest>
     </String>
     <String List="0">
       <Source>You Fell In A Hole!</Source>
@@ -101,7 +101,7 @@
     </String>
     <String List="0">
       <Source>The StormCloaks Attack!</Source>
-      <Dest>ストームクロークです。こんにちは！</Dest>
+      <Dest>スカイリムはノルドのものだ！</Dest>
     </String>
     <String List="0">
       <Source>The Imperial Legion Attacks!</Source>
@@ -109,7 +109,7 @@
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Attack!</Source>
-      <Dest>ウェアウルフハンターだ！</Dest>
+      <Dest>ウェアウルフハンターの襲撃だ！</Dest>
     </String>
     <String List="0">
       <Source>Young Fighters Attack You!</Source>
@@ -125,7 +125,7 @@
     </String>
     <String List="0">
       <Source>Assassination Attempt!</Source>
-      <Dest>暗殺未遂だ！</Dest>
+      <Dest>暗殺される！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
