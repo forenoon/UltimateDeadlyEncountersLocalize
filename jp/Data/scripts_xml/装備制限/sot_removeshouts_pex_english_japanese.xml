@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Removing Shouts....</Source>
-      <Dest>Removing Shouts....</Dest>
+      <Dest>シャウトが外された…</Dest>
     </String>
     <String List="0">
       <Source>Removing Shouts 2....</Source>
-      <Dest>Removing Shouts 2....</Dest>
+      <Dest>シャウト2が外された…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

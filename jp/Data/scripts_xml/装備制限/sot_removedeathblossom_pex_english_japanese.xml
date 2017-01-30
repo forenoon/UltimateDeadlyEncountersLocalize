@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>The Words of The Spell Are Fuzzzy In My Mind...</Source>
-      <Dest>The Words of The Spell Are Fuzzzy In My Mind...</Dest>
+      <Dest>頭のなかで呪文の詠唱があいまいになっている…</Dest>
     </String>
     <String List="0">
       <Source>The Spell Is Forgotten!</Source>
-      <Dest>The Spell Is Forgotten!</Dest>
+      <Dest>呪文を忘れてしまった！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>I Am Not Experienced Enough For This Armor!</Source>
-      <Dest>この装備を扱えるほど熟練していない！</Dest>
+      <Dest>この鎧を扱うには経験が足りない！</Dest>
     </String>
     <String List="0">
       <Source>I Am So Close I Can Taste It!</Source>
@@ -17,11 +17,11 @@
     </String>
     <String List="0">
       <Source>I Think I am Getting Very Close Though!</Source>
-      <Dest>ほとんど親くなっているはずだ！</Dest>
+      <Dest>とても近づいているはずだ！</Dest>
     </String>
     <String List="0">
       <Source>I Think I Need A Lot More Practice...</Source>
-      <Dest>もっと練習が必要だ…</Dest>
+      <Dest>もっと練習が必要だろう…</Dest>
     </String>
     <String List="0">
       <Source>I Think I Am Far Far Away From Wearing This...</Source>

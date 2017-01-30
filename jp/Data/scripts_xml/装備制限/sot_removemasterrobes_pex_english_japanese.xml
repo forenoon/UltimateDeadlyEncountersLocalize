@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>I Can Feel Power Flowing In The Robe!</Source>
-      <Dest>I Can Feel Power Flowing In The Robe!</Dest>
+      <Dest>このローブから力を感じる！</Dest>
     </String>
     <String List="0">
       <Source>I Am Not Experienced Enough For This Robe!</Source>
-      <Dest>この装備を扱えるほど熟練していない！</Dest>
+      <Dest>このローブを扱うには経験が足りない！</Dest>
     </String>
     <String List="0">
       <Source>Only A Level 35 Master Mage Can Wear This Robe!</Source>
-      <Dest>Only A Level 35 Master Mage Can Wear This Robe!</Dest>
+      <Dest>レベル35の達人の魔術師からこのローブを着ることができる！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

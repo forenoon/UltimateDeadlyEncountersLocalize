@@ -8,16 +8,8 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>We were equipped by the player!</Source>
-      <Dest>We were equipped by the player!</Dest>
-    </String>
-    <String List="0">
       <Source>I Am Not Experienced Enough To Equip This!</Source>
-      <Dest>I Am Not Experienced Enough To Equip This!</Dest>
-    </String>
-    <String List="0">
-      <Source>not at level to wear me!</Source>
-      <Dest>not at level to wear me!</Dest>
+      <Dest>この装備を扱うには経験が足りない！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
