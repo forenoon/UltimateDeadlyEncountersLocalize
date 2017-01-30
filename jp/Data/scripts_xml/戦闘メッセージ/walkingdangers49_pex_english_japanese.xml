@@ -85,7 +85,7 @@
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
-      <Dest>ウェアウルフハンターが狙いを定める！</Dest>
+      <Dest>ウェアウルフベインハンターが狙いを定める！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Are After Me!</Source>
@@ -509,7 +509,7 @@
     </String>
     <String List="0">
       <Source>Dawnguard Hunter Approaches!</Source>
-      <Dest>ドーンガードが近づく！</Dest>
+      <Dest>ドーンガードの狩人が近づく！</Dest>
     </String>
     <String List="0">
       <Source>Dawnguard Hunter Is Near!</Source>
