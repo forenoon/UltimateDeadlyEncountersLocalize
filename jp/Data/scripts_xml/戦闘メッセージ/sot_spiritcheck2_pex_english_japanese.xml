@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>Spirit Bleeding Out!</Source>
-      <Dest>Spirit Bleeding Out!</Dest>
+      <Dest>霊魂は出血した！</Dest>
     </String>
     <String List="0">
       <Source>Spirit Killed!</Source>
-      <Dest>Spirit Killed!</Dest>
+      <Dest>霊魂は殺された！</Dest>
     </String>
     <String List="0">
       <Source>Spirit Will Cast Mage Light for Testing!</Source>
-      <Dest>Spirit Will Cast Mage Light for Testing!</Dest>
+      <Dest>霊魂は試しに魔術師の光を唱えた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

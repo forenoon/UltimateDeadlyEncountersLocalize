@@ -17,43 +17,43 @@
     </String>
     <String List="0">
       <Source>...This Feels Wrong...</Source>
-      <Dest>…これはきっと間違いだ…</Dest>
+      <Dest>…気のせいか…</Dest>
     </String>
     <String List="0">
       <Source>...Deadly Encounter!</Source>
-      <Dest>…致命的な遭遇！</Dest>
+      <Dest>…致命的な遭遇だ！</Dest>
     </String>
     <String List="0">
       <Source>...Bandit Mob Ahead!</Source>
-      <Dest>…前に山賊が群がっている！</Dest>
+      <Dest>…正面に山賊の一団だ！</Dest>
     </String>
     <String List="0">
       <Source>...They Are Everywhere!</Source>
-      <Dest>…奴らは至る所にいる！</Dest>
+      <Dest>…こいつらどこにでもいるな！</Dest>
     </String>
     <String List="0">
       <Source>...Ambush!</Source>
-      <Dest>…待ち伏せだ！</Dest>
+      <Dest>…待ち伏せか！</Dest>
     </String>
     <String List="0">
       <Source>...More Bandits Approach!</Source>
-      <Dest>…さらに山賊達が近づく！</Dest>
+      <Dest>…さらに山賊達がくるぞ！</Dest>
     </String>
     <String List="0">
       <Source>...I Am Cornered!</Source>
-      <Dest>…追い詰められた！</Dest>
+      <Dest>…追い詰められたか！</Dest>
     </String>
     <String List="0">
       <Source>...There Are More of Them!</Source>
-      <Dest>…たくさん居やがる！</Dest>
+      <Dest>…まだいるのか！</Dest>
     </String>
     <String List="0">
       <Source>...Where Do They Come From!</Source>
-      <Dest>…奴らはどこから来たんだ！</Dest>
+      <Dest>…こいつらどこから来たんだ！</Dest>
     </String>
     <String List="0">
       <Source>...Going from Bad to Worse!</Source>
-      <Dest>…Going from Bad to Worse!</Dest>
+      <Dest>…どんどん悪くなるな！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -9,27 +9,27 @@
   <Content>
     <String List="0">
       <Source>Bane Uses Power of Soul Rending!</Source>
-      <Dest>Bane Uses Power of Soul Rending!</Dest>
+      <Dest>ベインは魂を削り力を使う！</Dest>
     </String>
     <String List="0">
       <Source>Bane Drinks a Health Potion!</Source>
-      <Dest>Bane Drinks a Health Potion!</Dest>
+      <Dest>ベインは回復薬を飲んだ！</Dest>
     </String>
     <String List="0">
       <Source>Blade Comes to the Aid of His Brother!</Source>
-      <Dest>Blade Comes to the Aid of His Brother!</Dest>
+      <Dest>ブレードが兄弟の援護にかけつけた！</Dest>
     </String>
     <String List="0">
       <Source>Burning Inferno Arrives to Aid Bane!</Source>
-      <Dest>Burning Inferno Arrives to Aid Bane!</Dest>
+      <Dest>灼熱の業火がベインの援護にやってきた！</Dest>
     </String>
     <String List="0">
       <Source>You hit silver!</Source>
-      <Dest>銀の攻撃された！</Dest>
+      <Dest>銀で攻撃された！</Dest>
     </String>
     <String List="0">
       <Source>The Silver Armor is Blessed... You are Burning!!!</Source>
-      <Dest>銀の鎧は祝福されている... 身体が燃える！！！</Dest>
+      <Dest>銀の鎧は祝福されている…身体が燃える！！！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

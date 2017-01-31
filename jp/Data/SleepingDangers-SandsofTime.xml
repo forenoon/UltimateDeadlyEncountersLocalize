@@ -140,7 +140,7 @@
     </String>
     <String List="0">
       <Source>Escort Bandits Damsel</Source>
-      <Dest>悪漢からお嬢様を護衛する</Dest>
+      <Dest>悪漢から少女を護衛する</Dest>
     </String>
     <String List="0">
       <Source>Alpha</Source>
@@ -284,7 +284,7 @@
     </String>
     <String List="0">
       <Source>Young People Toggle</Source>
-      <Dest>若い人々の切り替え</Dest>
+      <Dest>若者達の切り替え</Dest>
     </String>
     <String List="0">
       <Source>Withervine of Force</Source>
@@ -933,7 +933,7 @@
     </String>
     <String List="0">
       <Source>Escort Damsel in Distress to an Inn Safety </Source>
-      <Dest>悩めるお嬢様を安全な宿まで護衛する</Dest>
+      <Dest>困っている少女を安全な宿まで護衛する</Dest>
     </String>
     <String List="0">
       <Source>Caustic Oil Fine</Source>
@@ -2096,7 +2096,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Triple Tragedy - Burning Inferno - Book I</Source>
-      <Dest>悲劇の三部作 - 灼熱地獄 第1巻</Dest>
+      <Dest>悲劇の三部作 - 灼熱の業火 第1巻</Dest>
     </String>
     <String List="0">
       <Source>Daedric Mage HEAVY ARMOR Hood  w/Mask NO HEAD Eye Glow</Source>
@@ -2336,7 +2336,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Damsel In Distress</Source>
-      <Dest>悩めるお嬢様</Dest>
+      <Dest>困っている少女</Dest>
     </String>
     <String List="0">
       <Source>Summons Larvae wherever the Caster is pointing.</Source>
@@ -2472,7 +2472,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Damsel in Distress</Source>
-      <Dest>悩めるお嬢様</Dest>
+      <Dest>困っている少女</Dest>
     </String>
     <String List="0">
       <Source>Solitude Catacombs</Source>
@@ -6014,7 +6014,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Toggle Young People On</Source>
-      <Dest>若い人々をオンにする</Dest>
+      <Dest>若者達をオンにする</Dest>
     </String>
     <String List="0">
       <Source>IncreaseStats</Source>
@@ -6758,7 +6758,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Young People Off</Source>
-      <Dest>若い人々をオフにする</Dest>
+      <Dest>若者達をオフにする</Dest>
     </String>
     <String List="0">
       <Source>Dice Roll 2 Plus 1</Source>
@@ -7082,7 +7082,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Young People Toggle Switch</Source>
-      <Dest>若い人々の切り替え</Dest>
+      <Dest>若者達の切り替え</Dest>
     </String>
     <String List="0">
       <Source>Cloned</Source>
@@ -7894,7 +7894,7 @@ Legend has it, only those deemed worthy of a mighty destiny may wield it.</Sourc
     </String>
     <String List="0">
       <Source>Enable Young People</Source>
-      <Dest>若い人々を有効にする</Dest>
+      <Dest>若者達を有効にする</Dest>
     </String>
     <String List="0">
       <Source>Bromjunaar Sanctuary</Source>
@@ -9940,7 +9940,7 @@ Sometimes, there are cases where it scares the enemy.</Source>
     </String>
     <String List="0">
       <Source>Disable Young People</Source>
-      <Dest>若い人々を無効にする</Dest>
+      <Dest>若者達を無効にする</Dest>
     </String>
     <String List="0">
       <Source>Disable Mod</Source>
@@ -10696,7 +10696,7 @@ Currently Set at : %.0f</Source>
     </String>
     <String List="1">
       <Source>Take Damsel to an Inn</Source>
-      <Dest>Take Damsel to an Inn</Dest>
+      <Dest>少女を宿まで連れて行く</Dest>
     </String>
     <String List="1">
       <Source>An otherworldly voice coming from Mount Kilkreath is commanding me to find a beacon and return it.</Source>
@@ -10985,7 +10985,7 @@ Revenge Mode : Toggles whether she will avenge the death of Blade or Bane</Sourc
     </String>
     <String List="1">
       <Source>If set to Disabled will block most lore features.  If Enabled will allow Young People, Silver Hands, Blade, Bane, Burning Inferno, Treasure Chests,  etc.</Source>
-      <Dest>無効にすれば、ほとんどの世界観に一致しないフィーチャーをはじけます。有効にすると、若い人々、シルバーハンド、ベインなど多くのフィーチャーが有効になります。</Dest>
+      <Dest>無効にすれば、ほとんどの世界観に一致しないフィーチャーをはじけます。有効にすると、若者達、シルバーハンド、ベインなど多くのフィーチャーが有効になります。</Dest>
     </String>
     <String List="1">
       <Source>Stormbringer RuneBlade </Source>

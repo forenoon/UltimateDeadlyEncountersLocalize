@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Poison is Neutralized</Source>
-      <Dest>毒は中和された</Dest>
+      <Dest>毒が中和された</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

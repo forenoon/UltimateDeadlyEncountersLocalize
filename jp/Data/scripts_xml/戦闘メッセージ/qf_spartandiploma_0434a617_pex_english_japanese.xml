@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Letter Delivered</Source>
-      <Dest>Letter Delivered</Dest>
+      <Dest>手紙が届いた</Dest>
     </String>
     <String List="0">
       <Source>Congratulations On Promotion to Spartan From Spartan Trainee! Check Settings, Many Changed!</Source>
-      <Dest>Congratulations On Promotion to Spartan From Spartan Trainee! Check Settings, Many Changed!</Dest>
+      <Dest>Spartan訓練生からSpartanへの昇進をお祝いします！設定を確認してください、色々変わりましたよ！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -12,16 +12,8 @@
       <Dest>ひっそりと進む…</Dest>
     </String>
     <String List="0">
-      <Source>Hit Stealth Handler Running</Source>
-      <Dest>Hit Stealth Handler Running</Dest>
-    </String>
-    <String List="0">
-      <Source>PlayerMonitor AtRest ScriptsbeingProcessed: </Source>
-      <Dest>PlayerMonitor AtRest ScriptsbeingProcessed: </Dest>
-    </String>
-    <String List="0">
       <Source>Level is: </Source>
-      <Dest>Level is: </Dest>
+      <Dest>レベル: </Dest>
     </String>
     <String List="0">
       <Source>Element of Surprise Is Totally Lost...</Source>
@@ -37,7 +29,7 @@
     </String>
     <String List="0">
       <Source>General Alarm Is Raised ...</Source>
-      <Dest>警告が発生する…</Dest>
+      <Dest>普通の警報が鳴った…</Dest>
     </String>
     <String List="0">
       <Source>I Lost Some Concealment...</Source>

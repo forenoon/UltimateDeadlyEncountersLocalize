@@ -13,11 +13,11 @@
     </String>
     <String List="0">
       <Source>Evil Incarnate is Summoned!</Source>
-      <Dest>Evil Incarnate が召喚された！</Dest>
+      <Dest>邪悪の化身が召喚された！</Dest>
     </String>
     <String List="0">
       <Source>Flying Death is Summoned!</Source>
-      <Dest>Flying Death が召喚された！</Dest>
+      <Dest>フライングデスが召喚された！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

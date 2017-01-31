@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Potion Wears off...</Source>
-      <Dest>Potion Wears off...</Dest>
+      <Dest>ポーションを消耗した…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

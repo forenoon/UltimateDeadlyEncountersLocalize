@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Death Knight Summons Mind Flayers!!!</Source>
-      <Dest>死の騎士はマインドフライヤを呼び出した！！！</Dest>
+      <Dest>死の騎士はマインドフライヤを召喚した！！！</Dest>
     </String>
     <String List="0">
       <Source>Death Knight Casting Death Blossom!</Source>
@@ -21,15 +21,15 @@
     </String>
     <String List="0">
       <Source>Death Knight Calls Forth Flying Death</Source>
-      <Dest>死の騎士は Forth Flying Death を呼んだ</Dest>
+      <Dest>死の騎士は目の前にフライングデスを呼び出した</Dest>
     </String>
     <String List="0">
       <Source>Death Knight Raises Supreme Ward!</Source>
-      <Dest>死の騎士は至高の魔力を発する！</Dest>
+      <Dest>死の騎士は最高の檻を発生させた！</Dest>
     </String>
     <String List="0">
       <Source>Ward Weakens!</Source>
-      <Dest>魔力が弱くなる！</Dest>
+      <Dest>檻が弱まった！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

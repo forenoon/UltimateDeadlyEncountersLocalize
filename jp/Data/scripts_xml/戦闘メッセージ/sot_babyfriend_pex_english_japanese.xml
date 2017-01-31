@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Baby Dragon Nibbles On Food!</Source>
-      <Dest>Baby Dragon Nibbles On Food!</Dest>
+      <Dest>ベビー・ドラゴンは餌に齧りついている！</Dest>
     </String>
     <String List="0">
       <Source>Baby Dragon Is Now Your Friend!</Source>
-      <Dest>Baby Dragon Is Now Your Friend!</Dest>
+      <Dest>ベビー・ドラゴンと友達になった！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Inferno Raises Supreme Ward!</Source>
-      <Dest>業火は至高の魔力を発する！</Dest>
+      <Dest>業火は最高の檻を発生させた！</Dest>
     </String>
     <String List="0">
       <Source>Ward Weakens!</Source>
-      <Dest>魔力が弱くなる！</Dest>
+      <Dest>檻が弱まった！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

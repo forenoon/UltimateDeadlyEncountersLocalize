@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>I have Been Killed!</Source>
-      <Dest>I have Been Killed!</Dest>
+      <Dest>殺されてしまった！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

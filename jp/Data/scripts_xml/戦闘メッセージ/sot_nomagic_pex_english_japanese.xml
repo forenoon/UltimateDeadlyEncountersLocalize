@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Magic Fizzles Out!</Source>
-      <Dest>Magic Fizzles Out!</Dest>
+      <Dest>魔法が失敗した！</Dest>
     </String>
     <String List="0">
       <Source>Magic Is Not Working!</Source>
-      <Dest>Magic Is Not Working!</Dest>
+      <Dest>魔法が発動しない！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

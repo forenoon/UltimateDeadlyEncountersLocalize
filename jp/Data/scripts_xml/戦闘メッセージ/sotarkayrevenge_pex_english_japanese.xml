@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>Arkay is Angered!</Source>
-      <Dest>アーケイは憤慨した！</Dest>
+      <Dest>アーケイは激怒した！</Dest>
     </String>
     <String List="0">
       <Source>Akkay is Offended!</Source>
-      <Dest>アーケイは怒った！</Dest>
+      <Dest>アーケイは腹を立てている！</Dest>
     </String>
     <String List="0">
       <Source>The Desecration Is Noticed!</Source>
-      <Dest>冒涜は気づかれる！</Dest>
+      <Dest>冒涜行為に気づかれた！</Dest>
     </String>
     <String List="0">
       <Source>Arkay Sends Pusnishment!</Source>

@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>There is a Small Earthquake, the Lever Moves A Little</Source>
-      <Dest>There is a Small Earthquake, the Lever Moves A Little</Dest>
+      <Dest>小さな地震で、レバーが少し動いた。</Dest>
     </String>
     <String List="0">
       <Source>Maybe if I Hit It A Little It Will Unstick...</Source>
-      <Dest>Maybe if I Hit It A Little It Will Unstick...</Dest>
+      <Dest>少し叩いたらはがれないだろうか…</Dest>
     </String>
     <String List="0">
       <Source>TEMP: Werewolves are awesome; fight ends.</Source>
-      <Dest>TEMP: Werewolves are awesome; fight ends.</Dest>
+      <Dest>TEMP: ウェアウルフは素晴らしい。戦いは終わる。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

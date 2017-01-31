@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>Chaos Shield Spell Is Forgotten...</Source>
-      <Dest>Chaos Shield Spell Is Forgotten...</Dest>
+      <Dest>混沌の盾の呪文を忘れてしまった…</Dest>
     </String>
     <String List="0">
       <Source>Chaos Shield Spell Is Starting to Fade From My Memory...</Source>
-      <Dest>Chaos Shield Spell Is Starting to Fade From My Memory...</Dest>
+      <Dest>混沌の盾の呪文が徐々に記憶から薄れ始めた…</Dest>
     </String>
     <String List="0">
       <Source>Shield Activated</Source>
-      <Dest>Shield Activated</Dest>
+      <Dest>シールドが発動した</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

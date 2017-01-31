@@ -9,18 +9,18 @@
   <Content>
     <String List="0">
       <Source>Akatosh is Angered!</Source>
-      <Dest>アカトシュは憤慨した！</Dest>
+      <Dest>アカトシュは激怒した！</Dest>
     </String>
     <String List="0">
       <Source>Akatosh is Offended!</Source>
-      <Dest>アカトシュは怒った！</Dest>
+      <Dest>アカトシュは腹を立てている！</Dest>
     </String>
     <String List="0">
       <Source>The Desecration Is Noticed!</Source>
-      <Dest>冒涜は気づかれる！</Dest>
+      <Dest>冒涜行為に気づかれた！</Dest>
     </String>
     <String List="0">
-      <Source>Akatosh Pusnishes Me!</Source>
+      <Source>Akatosh Punishes Me!</Source>
       <Dest>アカトシュは天罰を下す！</Dest>
     </String>
     <String List="0">

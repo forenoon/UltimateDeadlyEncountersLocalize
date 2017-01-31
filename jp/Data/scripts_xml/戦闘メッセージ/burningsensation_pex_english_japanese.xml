@@ -8,44 +8,36 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>Burning Sensation ScriptsbeingProcessed: </Source>
-      <Dest>Burning Sensation ScriptsbeingProcessed: </Dest>
-    </String>
-    <String List="0">
-      <Source>Burning Inferno Script Fired!</Source>
-      <Dest>Burning Inferno Script Fired!</Dest>
-    </String>
-    <String List="0">
       <Source>Burning Inferno Comes To Help Blade!</Source>
-      <Dest>Burning Inferno Comes To Help Blade!</Dest>
+      <Dest>灼熱の業火がブレードを助けにきた！</Dest>
     </String>
     <String List="0">
       <Source>Burning Inferno Comes To Help Bane!</Source>
-      <Dest>Burning Inferno Comes To Help Bane!</Dest>
+      <Dest>灼熱の業火がベインを助けにきた！</Dest>
     </String>
     <String List="0">
       <Source>Burning Inferno the Crime Punisher is After Me!</Source>
-      <Dest>Burning Inferno the Crime Punisher is After Me!</Dest>
+      <Dest>断罪の灼熱の業火が後ろにいる！</Dest>
     </String>
     <String List="0">
       <Source>Burning Inferno Appears! Justice has found me at last...</Source>
-      <Dest>Burning Inferno Appears! Justice has found me at last...</Dest>
+      <Dest>灼熱の業火があらわれた！ついに裁かれるときがきたのだ…</Dest>
     </String>
     <String List="0">
       <Source>Burning Inferno Appears Seeking Revenge! ...</Source>
-      <Dest>Burning Inferno Appears Seeking Revenge! ...</Dest>
+      <Dest>灼熱の業火が復讐にあらわれた！</Dest>
     </String>
     <String List="0">
       <Source>Inferno Raises the Dead!</Source>
-      <Dest>Inferno Raises the Dead!</Dest>
+      <Dest>業火は死を生み出す！</Dest>
     </String>
     <String List="0">
       <Source>Mama Dragon Appears! She heard her baby&apos;s screams...</Source>
-      <Dest>Mama Dragon Appears! She heard her baby&apos;s screams...</Dest>
+      <Dest>ママ・ドラゴンがあらわれた！子ども達の叫びを聞きつけたんだ…</Dest>
     </String>
     <String List="0">
       <Source>Mephala Master Death Knight Has Tracked You Down...</Source>
-      <Dest>Mephala Master Death Knight Has Tracked You Down...</Dest>
+      <Dest>メファーラのマスター・デスナイトが追跡してきた…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

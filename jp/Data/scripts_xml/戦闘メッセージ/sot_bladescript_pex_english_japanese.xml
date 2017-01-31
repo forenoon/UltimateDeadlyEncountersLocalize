@@ -9,19 +9,19 @@
   <Content>
     <String List="0">
       <Source>Blade Curses All as He Overloads His Sword!</Source>
-      <Dest>Blade Curses All as He Overloads His Sword!</Dest>
+      <Dest>ブレードの剣がオーバーロードすると全てが呪われる！</Dest>
     </String>
     <String List="0">
       <Source>Blade Disarms Me!</Source>
-      <Dest>Blade Disarms Me!</Dest>
+      <Dest>ブレードに武器を弾き飛ばされた！</Dest>
     </String>
     <String List="0">
       <Source>Blade Drinks a Health Potion!</Source>
-      <Dest>Blade Drinks a Health Potion!</Dest>
+      <Dest>ブレードは回復薬を飲んだ！</Dest>
     </String>
     <String List="0">
       <Source>Bane Comes to the Aid of His Brother!</Source>
-      <Dest>Bane Comes to the Aid of His Brother!</Dest>
+      <Dest>べインが兄弟の援護にかけつけた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

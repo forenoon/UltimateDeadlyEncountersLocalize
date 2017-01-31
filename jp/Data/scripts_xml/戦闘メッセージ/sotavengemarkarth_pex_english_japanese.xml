@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>Dibella is Angered!</Source>
-      <Dest>ディベラは憤慨した！</Dest>
+      <Dest>ディベラは激怒した！</Dest>
     </String>
     <String List="0">
       <Source>Dibella is Offended!</Source>
-      <Dest>ディベラは怒った！</Dest>
+      <Dest>ディベラは腹を立てている！</Dest>
     </String>
     <String List="0">
       <Source>The Desecration Is Noticed!</Source>
-      <Dest>冒涜は気づかれる！</Dest>
+      <Dest>冒涜行為に気づかれた！</Dest>
     </String>
     <String List="0">
       <Source>Dibella Punishes Me!</Source>

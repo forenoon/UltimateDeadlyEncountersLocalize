@@ -17,7 +17,7 @@
     </String>
     <String List="0">
       <Source>I Am Not Experienced Enough To Equip This Ammo!</Source>
-      <Dest>I Am Not Experienced Enough To Equip This Ammo!</Dest>
+      <Dest>この弾を扱うには経験が足りない！</Dest>
     </String>
     <String List="0">
       <Source>Mephala Enchantment Dispells!</Source>

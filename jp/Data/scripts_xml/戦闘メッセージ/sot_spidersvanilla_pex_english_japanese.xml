@@ -17,19 +17,19 @@
     </String>
     <String List="0">
       <Source>I Hear Eggs Hatching!</Source>
-      <Dest>卵のかえる音がする！</Dest>
+      <Dest>卵がかえる音がする！</Dest>
     </String>
     <String List="0">
       <Source>Deadly Encounter!</Source>
-      <Dest>致命的な遭遇！</Dest>
+      <Dest>致命的な遭遇だ！</Dest>
     </String>
     <String List="0">
       <Source>Creatures Descend!</Source>
-      <Dest>生き物の急襲！</Dest>
+      <Dest>数が減ってきた！</Dest>
     </String>
     <String List="0">
       <Source>They Are Everywhere!</Source>
-      <Dest>奴らは至る所にいる！</Dest>
+      <Dest>こいつらどこにでもいるな！</Dest>
     </String>
     <String List="0">
       <Source>Ambush!</Source>
@@ -37,19 +37,19 @@
     </String>
     <String List="0">
       <Source>More Fiends Approach!</Source>
-      <Dest>さらに悪魔達が近づく！</Dest>
+      <Dest>さらに悪霊がくるぞ！</Dest>
     </String>
     <String List="0">
       <Source>I Am Cornered!</Source>
-      <Dest>追い詰められた！</Dest>
+      <Dest>追い詰められたか！</Dest>
     </String>
     <String List="0">
       <Source>There is More of Them!</Source>
-      <Dest>たくさん居やがる！</Dest>
+      <Dest>まだいるのか！</Dest>
     </String>
     <String List="0">
       <Source>Where Do They Come From!</Source>
-      <Dest>奴らはどこから来たんだ！</Dest>
+      <Dest>こいつらどこから来たんだ！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Hatchling Gravelly Wounded!</Source>
-      <Dest>Hatchling Gravelly Wounded!</Dest>
+      <Dest>グレイブリーの幼体は傷を負っている！</Dest>
     </String>
     <String List="0">
       <Source>Dragon Fights!</Source>
-      <Dest>Dragon Fights!</Dest>
+      <Dest>ドラゴンの戦いだ！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
