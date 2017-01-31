@@ -9,23 +9,23 @@
   <Content>
     <String List="0">
       <Source>Magic Effect Weakens Blighted Creature</Source>
-      <Dest>魔法の効果が荒廃した生物を弱める</Dest>
+      <Dest>魔法の効果が荒廃した怪物を弱める</Dest>
     </String>
     <String List="0">
       <Source>Magic Enchantment Weakens Blighted Creature</Source>
-      <Dest>魔法の付呪が荒廃した生物を弱める</Dest>
+      <Dest>魔法の付呪が荒廃した怪物を弱める</Dest>
     </String>
     <String List="0">
       <Source>Fire Weapon Weakens Blighted Creature</Source>
-      <Dest>炎の武器が荒廃した生物を弱める</Dest>
+      <Dest>炎の武器が荒廃した怪物を弱める</Dest>
     </String>
     <String List="0">
       <Source>Fire Spell Weakens Blighted Creature</Source>
-      <Dest>炎の魔法が荒廃した生物を弱める</Dest>
+      <Dest>炎の魔法が荒廃した怪物を弱める</Dest>
     </String>
     <String List="0">
       <Source>Blight Creature is Not Hurt!  Maybe A Different Attack Type...</Source>
-      <Dest>荒廃した生物を傷つけれらない！何か違う攻撃手段を…</Dest>
+      <Dest>荒廃した怪物を傷つけれらない！何か違う攻撃手段を…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

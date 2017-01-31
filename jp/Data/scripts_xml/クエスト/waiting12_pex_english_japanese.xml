@@ -117,19 +117,19 @@
     </String>
     <String List="0">
       <Source>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Source>
-      <Dest>「おまえはドラゴンボーンの正義を免れることはできない！」と聞こえた</Dest>
+      <Dest>「おまえはドラゴンボーンの正義を免れることはできない！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;The true Dragonborn will judge you!&apos;</Source>
-      <Dest>「真のドラゴンボーンがお前を裁く！」と聞こえた</Dest>
+      <Dest>「真のドラゴンボーンがお前を裁く！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Source>
-      <Dest>「おまえの血はミラーク様の名のもとに流れる！」と聞こえた</Dest>
+      <Dest>「おまえの血はミラーク様の名のもとに流れる！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;You will be an offering to the Master!&apos;</Source>
-      <Dest>「おまえはマスターへの供物だ！」と聞こえた</Dest>
+      <Dest>「おまえはマスターへの供物だ！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear Sharp Hissing...</Source>

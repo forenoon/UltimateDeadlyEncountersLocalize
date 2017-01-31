@@ -8,72 +8,60 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>Surface Encounters busy ScriptsbeingProcessed: </Source>
-      <Dest>Surface Encounters busy ScriptsbeingProcessed: </Dest>
-    </String>
-    <String List="0">
-      <Source>Walking Encounters Script Firing In Busy State!</Source>
-      <Dest>Walking Encounters Script Firing In Busy State!</Dest>
-    </String>
-    <String List="0">
-      <Source>Surface Encounters AtRest ScriptsbeingProcessed: </Source>
-      <Dest>Surface Encounters AtRest ScriptsbeingProcessed: </Dest>
-    </String>
-    <String List="0">
       <Source>My Gold Attracts Attention...</Source>
-      <Dest>My Gold Attracts Attention...</Dest>
+      <Dest>この金が狙われている気がする…</Dest>
     </String>
     <String List="0">
       <Source>Thieves Demand my Gold...</Source>
-      <Dest>Thieves Demand my Gold...</Dest>
+      <Dest>盗賊に強請られる…</Dest>
     </String>
     <String List="0">
       <Source>They Are After my Money...</Source>
-      <Dest>They Are After my Money...</Dest>
+      <Dest>やつらは私の金が目当てだ…</Dest>
     </String>
     <String List="0">
       <Source>An Enemy Call for Help Goes Out!</Source>
-      <Dest>An Enemy Call for Help Goes Out!</Dest>
+      <Dest>敵が救援を呼びに行った！</Dest>
     </String>
     <String List="0">
       <Source>I Sense Something...</Source>
-      <Dest>I Sense Something...</Dest>
+      <Dest>何かを感じる…</Dest>
     </String>
     <String List="0">
       <Source>The Enemy Calls for Help!</Source>
-      <Dest>The Enemy Calls for Help!</Dest>
+      <Dest>敵が救援を呼んだ！</Dest>
     </String>
     <String List="0">
       <Source>I Sense Enemies Nearby!</Source>
-      <Dest>I Sense Enemies Nearby!</Dest>
+      <Dest>近くに敵の気配がする！</Dest>
     </String>
     <String List="0">
       <Source>I Hear an Unnatural Silence!</Source>
-      <Dest>I Hear an Unnatural Silence!</Dest>
+      <Dest>変だ静かすぎるぞ！</Dest>
     </String>
     <String List="0">
       <Source>I Detect Danger!</Source>
-      <Dest>I Detect Danger!</Dest>
+      <Dest>危険に気付いた！</Dest>
     </String>
     <String List="0">
       <Source>I Have a Sense of Foreboding...</Source>
-      <Dest>I Have a Sense of Foreboding...</Dest>
+      <Dest>嫌な予感がする…</Dest>
     </String>
     <String List="0">
       <Source>I Hear Enemy Reinforcements Arriving!</Source>
-      <Dest>I Hear Enemy Reinforcements Arriving!</Dest>
+      <Dest>敵の増援が着いたのか！</Dest>
     </String>
     <String List="0">
       <Source>The Enemy Receives Reinforcements!</Source>
-      <Dest>The Enemy Receives Reinforcements!</Dest>
+      <Dest>敵に増援と合流された！</Dest>
     </String>
     <String List="0">
       <Source>I See More Enemies Arriving!</Source>
-      <Dest>I See More Enemies Arriving!</Dest>
+      <Dest>さらに敵がきやがった！</Dest>
     </String>
     <String List="0">
       <Source>I See Enemy Forces Increase!</Source>
-      <Dest>I See Enemy Forces Increase!</Dest>
+      <Dest>敵が強くなってないか！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Approaches!</Source>
@@ -81,7 +69,7 @@
     </String>
     <String List="0">
       <Source>I Smell A Silver Hand Werewolf Hunter!</Source>
-      <Dest>I Smell A Silver Hand Werewolf Hunter!</Dest>
+      <Dest>ウェアウルフハンターの臭いがする！</Dest>
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Bane Hunter Targets Me!</Source>
@@ -89,251 +77,251 @@
     </String>
     <String List="0">
       <Source>Silver Hand Werewolf Hunters Are After Me!</Source>
-      <Dest>Silver Hand Werewolf Hunters Are After Me!</Dest>
+      <Dest>ウェアウルフハンターが追ってきた！</Dest>
     </String>
     <String List="0">
       <Source>A Silver Hand Werewolf Hunter Archer Stalks Me!</Source>
-      <Dest>A Silver Hand Werewolf Hunter Archer Stalks Me!</Dest>
+      <Dest>ウェアウルフハンターの弓使いにつけられている！</Dest>
     </String>
     <String List="0">
       <Source>Rogue Necromancer Attacks!</Source>
-      <Dest>Rogue Necromancer Attacks!</Dest>
+      <Dest>ならず者の死霊術士が襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>Chaurus Follow Me!</Source>
-      <Dest>Chaurus Follow Me!</Dest>
+      <Dest>シャウラスが着いてきた！</Dest>
     </String>
     <String List="0">
       <Source>Chaurus Attack!</Source>
-      <Dest>Chaurus Attack!</Dest>
+      <Dest>シャウラスが襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>I found a nest of Chaurus monsters!</Source>
-      <Dest>I found a nest of Chaurus monsters!</Dest>
+      <Dest>シャウラスの素を見つけた！</Dest>
     </String>
     <String List="0">
       <Source>Chaurus Find Me!</Source>
-      <Dest>Chaurus Find Me!</Dest>
+      <Dest>シャウラスに見つかった！</Dest>
     </String>
     <String List="0">
       <Source>A Chaurus Swarm has Cornered Me!</Source>
-      <Dest>A Chaurus Swarm has Cornered Me!</Dest>
+      <Dest>シャウラスの群れに追い詰められた！</Dest>
     </String>
     <String List="0">
       <Source>Chaurus Ambush Me!</Source>
-      <Dest>Chaurus Ambush Me!</Dest>
+      <Dest>シャウラスに待ち伏せされていた！</Dest>
     </String>
     <String List="0">
       <Source>Chaurus Advance on Me!</Source>
-      <Dest>Chaurus Advance on Me!</Dest>
+      <Dest>シャウラスが向かってきた！</Dest>
     </String>
     <String List="0">
       <Source>Undead Follow Me!</Source>
-      <Dest>Undead Follow Me!</Dest>
+      <Dest>アンデッドが着いてきた！</Dest>
     </String>
     <String List="0">
       <Source>Armored Skeletons Attack!</Source>
-      <Dest>Armored Skeletons Attack!</Dest>
+      <Dest>武装したスケルトンが襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>The Dead Rise!</Source>
-      <Dest>The Dead Rise!</Dest>
+      <Dest>死者が目を覚ました！</Dest>
     </String>
     <String List="0">
       <Source>Walking Dead Surround Me!</Source>
-      <Dest>Walking Dead Surround Me!</Dest>
+      <Dest>動く死体に囲まれた！</Dest>
     </String>
     <String List="0">
       <Source>The Temperature Is Ice Cold!</Source>
-      <Dest>The Temperature Is Ice Cold!</Dest>
+      <Dest>凍りつくように寒い！</Dest>
     </String>
     <String List="0">
       <Source>Zombies Ambush Me!</Source>
-      <Dest>Zombies Ambush Me!</Dest>
+      <Dest>ゾンビに待ち伏せされた！</Dest>
     </String>
     <String List="0">
       <Source>Undead Lich Advance on Me!</Source>
-      <Dest>Undead Lich Advance on Me!</Dest>
+      <Dest>アンデッドリッチが向かってきた！</Dest>
     </String>
     <String List="0">
       <Source>Undead Orc Advance on Me!</Source>
-      <Dest>Undead Orc Advance on Me!</Dest>
+      <Dest>アンデッドオークが向かってきた！</Dest>
     </String>
     <String List="0">
       <Source>Undead Argonian Advance on Me!</Source>
-      <Dest>Undead Argonian Advance on Me!</Dest>
+      <Dest>アンデッドアルゴニアンが向かってきた！</Dest>
     </String>
     <String List="0">
       <Source>Shadow Assassins!</Source>
-      <Dest>Shadow Assassins!</Dest>
+      <Dest>シャドウアサシンだ！</Dest>
     </String>
     <String List="0">
       <Source>Assassins!</Source>
-      <Dest>Assassins!</Dest>
+      <Dest>暗殺者だ！</Dest>
     </String>
     <String List="0">
       <Source>I Am Ambushed!!</Source>
-      <Dest>I Am Ambushed!!</Dest>
+      <Dest>待ち伏せされていた！</Dest>
     </String>
     <String List="0">
       <Source>Dark Brotherhood Attacks!</Source>
-      <Dest>Dark Brotherhood Attacks!</Dest>
+      <Dest>闇の一刀が襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>Cold Blooded Assassins!</Source>
-      <Dest>Cold Blooded Assassins!</Dest>
+      <Dest>コールドブラッドアサシンだ！</Dest>
     </String>
     <String List="0">
       <Source>The Smell of Rotten Flesh Is Everywhere...!</Source>
-      <Dest>The Smell of Rotten Flesh Is Everywhere...!</Dest>
+      <Dest>あちこちから腐った肉の匂いがする…！</Dest>
     </String>
     <String List="0">
       <Source>The Stench of Putrid Flesh Is Everywhere...!</Source>
-      <Dest>The Stench of Putrid Flesh Is Everywhere...!</Dest>
+      <Dest>あちこちから汚れた肉の匂いがする…！</Dest>
     </String>
     <String List="0">
       <Source>A Draman Coven Ambushes Me!</Source>
-      <Dest>A Draman Coven Ambushes Me!</Dest>
+      <Dest>ドラマン秘密結社に待ち伏せされていた！</Dest>
     </String>
     <String List="0">
       <Source>A Draman Shade Attacks!</Source>
-      <Dest>A Draman Shade Attacks!</Dest>
+      <Dest>ドラマンの影が襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>A Draman Skeletal Scouting Party!</Source>
-      <Dest>A Draman Skeletal Scouting Party!</Dest>
+      <Dest>骨のドラマンの偵察部隊だ！</Dest>
     </String>
     <String List="0">
       <Source>A Draman Clan Finds Me!</Source>
-      <Dest>A Draman Clan Finds Me!</Dest>
+      <Dest>ドラマンの一族に見つかった！</Dest>
     </String>
     <String List="0">
       <Source>A Draman Elite Party Has Cornered Me!</Source>
-      <Dest>A Draman Elite Party Has Cornered Me!</Dest>
+      <Dest>ドラマンの精鋭部隊に追い詰められた！</Dest>
     </String>
     <String List="0">
       <Source>Ancient Draman Ambush Me!</Source>
-      <Dest>Ancient Draman Ambush Me!</Dest>
+      <Dest>古代のドラマンに待ち伏せされていた！</Dest>
     </String>
     <String List="0">
       <Source>Draman Advance!</Source>
-      <Dest>Draman Advance!</Dest>
+      <Dest>ドラマンが向かってきた！</Dest>
     </String>
     <String List="0">
       <Source>A Rumiirua Horde Attacks!</Source>
-      <Dest>A Rumiirua Horde Attacks!</Dest>
+      <Dest>ルミールアが大挙して襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>A Rumiirua Group Attacks!</Source>
-      <Dest>A Rumiirua Group Attacks!</Dest>
+      <Dest>ルミールアの集団が襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>Rumiirua Attack!</Source>
-      <Dest>Rumiirua Attack!</Dest>
+      <Dest>ルミールアが襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Lord Ambushes Me!</Source>
-      <Dest>A Vampire Lord Ambushes Me!</Dest>
+      <Dest>吸血鬼の王に待ち伏せされていた！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Baron Attacks!</Source>
-      <Dest>A Vampire Baron Attacks!</Dest>
+      <Dest>ヴァンパイア男爵が襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Scouting Party!</Source>
-      <Dest>A Vampire Scouting Party!</Dest>
+      <Dest>吸血鬼の偵察部隊だ！</Dest>
     </String>
     <String List="0">
       <Source>A Vampire Clan Finds Me!</Source>
-      <Dest>A Vampire Clan Finds Me!</Dest>
+      <Dest>吸血鬼の一族に見つかった！</Dest>
     </String>
     <String List="0">
       <Source>Vampires Have Cornered Me!</Source>
-      <Dest>Vampires Have Cornered Me!</Dest>
+      <Dest>吸血鬼に追い詰められた！</Dest>
     </String>
     <String List="0">
       <Source>Vampires All Around!</Source>
-      <Dest>Vampires All Around!</Dest>
+      <Dest>吸血鬼に囲まれた！</Dest>
     </String>
     <String List="0">
       <Source>Vampires Approach!</Source>
-      <Dest>Vampiresがくるぞ！</Dest>
+      <Dest>吸血鬼がくるぞ！</Dest>
     </String>
     <String List="0">
       <Source>Malevolent Horde!</Source>
-      <Dest>Malevolent Horde!</Dest>
+      <Dest>悪意ある群れが！</Dest>
     </String>
     <String List="0">
       <Source>A Band of Brigands Ambush Me!</Source>
-      <Dest>A Band of Brigands Ambush Me!</Dest>
+      <Dest>山賊一味に待ち伏せされていた！</Dest>
     </String>
     <String List="0">
       <Source>A Bandit Is Near!</Source>
-      <Dest>A Bandit Is Near!</Dest>
+      <Dest>山賊が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Someone Approaching!</Source>
-      <Dest>I Hear Someone Approaching!</Dest>
+      <Dest>何かが近づいてきている！</Dest>
     </String>
     <String List="0">
       <Source>I Am Waylaid!</Source>
-      <Dest>I Am Waylaid!</Dest>
+      <Dest>待ち伏せだと！</Dest>
     </String>
     <String List="0">
       <Source>A Bandit Tracks Me!</Source>
-      <Dest>A Bandit Tracks Me!</Dest>
+      <Dest>山賊が追いかけてきた！</Dest>
     </String>
     <String List="0">
       <Source>An Orc Is Near!</Source>
-      <Dest>An Orc Is Near!</Dest>
+      <Dest>オークが近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear an Orc Voice!</Source>
-      <Dest>I Hear an Orc Voice!</Dest>
+      <Dest>オークの声がする！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Heavy Boots!</Source>
-      <Dest>I Hear Heavy Boots!</Dest>
+      <Dest>重いブーツが踏みしめる音が聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>An Orc Tracks Me!</Source>
-      <Dest>An Orc Tracks Me!</Dest>
+      <Dest>オークが追いかけてきた！</Dest>
     </String>
     <String List="0">
       <Source>An Animal Is Near!</Source>
-      <Dest>An Animal Is Near!</Dest>
+      <Dest>動物が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear a Beast!</Source>
-      <Dest>I Hear a Beast!</Dest>
+      <Dest>獣がいる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Animals!</Source>
-      <Dest>I Hear Animals!</Dest>
+      <Dest>動物がいる！</Dest>
     </String>
     <String List="0">
       <Source>An Animal is Tracking Me!</Source>
-      <Dest>An Animal is Tracking Me!</Dest>
+      <Dest>動物が追いかけてきた！</Dest>
     </String>
     <String List="0">
       <Source>An Animal is Nearby!</Source>
-      <Dest>An Animal is Nearby!</Dest>
+      <Dest>動物が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>A Creature Approaches!</Source>
-      <Dest>A Creature Approaches!</Dest>
+      <Dest>怪物が近づく！</Dest>
     </String>
     <String List="0">
       <Source>A Forsworn Is Near!</Source>
-      <Dest>A Forsworn Is Near!</Dest>
+      <Dest>フォースウォーンが近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>A Forsworn Tracks Me!</Source>
-      <Dest>A Forsworn Tracks Me!</Dest>
+      <Dest>フォースウォーンが追いかけてきた！</Dest>
     </String>
     <String List="0">
       <Source>A Refugee Approaches!</Source>
-      <Dest>A Refugee Approaches!</Dest>
+      <Dest>難民が近づいてきた！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Footsteps!</Source>
@@ -341,147 +329,147 @@
     </String>
     <String List="0">
       <Source>I Hear Running!</Source>
-      <Dest>I Hear Running!</Dest>
+      <Dest>何かが走っている！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Yelling!</Source>
-      <Dest>I Hear Yelling!</Dest>
+      <Dest>どこかっらか怒号が聞こえた！</Dest>
     </String>
     <String List="0">
       <Source>There is Someone Near!</Source>
-      <Dest>There is Someone Near!</Dest>
+      <Dest>何かが近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Cursing!</Source>
-      <Dest>I Hear Cursing!</Dest>
+      <Dest>悪態が聞こえた！</Dest>
     </String>
     <String List="0">
       <Source>A Troll Approaches!</Source>
-      <Dest>A Troll Approaches!</Dest>
+      <Dest>トロールが近づいてきた！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Heavy Footsteps!</Source>
-      <Dest>I Hear Heavy Footsteps!</Dest>
+      <Dest>重い足音が聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Loud Running!</Source>
-      <Dest>I Hear Loud Running!</Dest>
+      <Dest>どすどす走る音が聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>Trolls Are Coming!</Source>
-      <Dest>Trolls Are Coming!</Dest>
+      <Dest>トロールが来た！</Dest>
     </String>
     <String List="0">
       <Source>There Are Trolls Near!</Source>
-      <Dest>There Are Trolls Near!</Dest>
+      <Dest>トロールが近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Vicious Snarling!</Source>
-      <Dest>I Hear Vicious Snarling!</Dest>
+      <Dest>剣呑なうなり声が聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>A Death Mage Is Near!</Source>
-      <Dest>A Death Mage Is Near!</Dest>
+      <Dest>死の魔術師が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>A Vigilant of Stendarr Is Near!</Source>
-      <Dest>A Vigilant of Stendarr Is Near!</Dest>
+      <Dest>ステンダールの番人が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>I Hear The Battlecry of Stendarr!</Source>
-      <Dest>I Hear The Battlecry of Stendarr!</Dest>
+      <Dest>ステンダールの雄叫びだ！</Dest>
     </String>
     <String List="0">
       <Source>A Marauder Is Near!</Source>
-      <Dest>A Marauder Is Near!</Dest>
+      <Dest>略奪者が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>A Marauder Tracks Me!</Source>
-      <Dest>A Marauder Tracks Me!</Dest>
+      <Dest>略奪者が追いかけてきた！</Dest>
     </String>
     <String List="0">
       <Source>You Hear Shouts: Behold the future!</Source>
-      <Dest>You Hear Shouts: Behold the future!</Dest>
+      <Dest>「未来よ！しかと見よ！」</Dest>
     </String>
     <String List="0">
       <Source>You Hear Shouts: Behold the Thalmor!</Source>
-      <Dest>You Hear Shouts: Behold the Thalmor!</Dest>
+      <Dest>「サルモールよ！しかと見よ！」</Dest>
     </String>
     <String List="0">
       <Source>A Stricken Is Near!</Source>
-      <Dest>A Stricken Is Near!</Dest>
+      <Dest>A Stricken が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>A Stricken Tracks Me!</Source>
-      <Dest>A Stricken Tracks Me!</Dest>
+      <Dest>A Stricken が追いかけてきた！</Dest>
     </String>
     <String List="0">
       <Source>A Bandit Mob Attacks!</Source>
-      <Dest>A Bandit Mob Attacks!</Dest>
+      <Dest>山賊の一団が襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Source>
-      <Dest>「おまえはドラゴンボーンの正義を免れることはできない！」と聞こえた</Dest>
+      <Dest>「おまえはドラゴンボーンの正義から逃れることはできない！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;The true Dragonborn will judge you!&apos;</Source>
-      <Dest>「真のドラゴンボーンがお前を裁く！」と聞こえた</Dest>
+      <Dest>「真のドラゴンボーンがお前を裁く！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Source>
-      <Dest>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Dest>
+      <Dest>「お前の血はミラークの名の下に流れる！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;You will be an offering to the Master!&apos;</Source>
-      <Dest>I Hear &apos;You will be an offering to the Master!&apos;</Dest>
+      <Dest>「お前を主へと捧げよう！」</Dest>
     </String>
     <String List="0">
       <Source>A Cultist Ambush!</Source>
-      <Dest>A Cultist Ambush!</Dest>
+      <Dest>信者に待ち伏せされていた！</Dest>
     </String>
     <String List="0">
       <Source>Bandit Scum!</Source>
-      <Dest>Bandit Scum!</Dest>
+      <Dest>山賊のクズ野郎！</Dest>
     </String>
     <String List="0">
       <Source>Highway Robbers!</Source>
-      <Dest>Highway Robbers!</Dest>
+      <Dest>追い剥ぎの盗賊だ！</Dest>
     </String>
     <String List="0">
       <Source>Brigands Attack Me!</Source>
-      <Dest>Brigands Attack Me!</Dest>
+      <Dest>追い剥ぎが襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>A Raid!</Source>
-      <Dest>A Raid!</Dest>
+      <Dest>襲撃だ！</Dest>
     </String>
     <String List="0">
       <Source>Outlaws Approach!</Source>
-      <Dest>Outlawsがくるぞ！</Dest>
+      <Dest>無法者がくるぞ！</Dest>
     </String>
     <String List="0">
       <Source>Riekling Raiders Attack!</Source>
-      <Dest>Riekling Raiders Attack!</Dest>
+      <Dest>リークリング・ライダーが襲ってきた！</Dest>
     </String>
     <String List="0">
       <Source>I Am Under Attack!</Source>
-      <Dest>I Am Under Attack!</Dest>
+      <Dest>攻撃を受けている！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Yells of This is for Haldyn!</Source>
-      <Dest>I Hear Yells of This is for Haldyn!</Dest>
+      <Dest>これはハルディンの怒号か！</Dest>
     </String>
     <String List="0">
       <Source>Frost Troll Approaches!</Source>
-      <Dest>Frost Troll Approaches!</Dest>
+      <Dest>フロストトロールが近づいてきた！</Dest>
     </String>
     <String List="0">
       <Source>Another Frost Troll Is Near!</Source>
-      <Dest>Another Frost Troll Is Near!</Dest>
+      <Dest>フロストトロールがもう一匹いる！</Dest>
     </String>
     <String List="0">
       <Source>A Frost Troll Hunting Party!</Source>
-      <Dest>A Frost Troll Hunting Party!</Dest>
+      <Dest>フロストトロールの狩猟団だ！</Dest>
     </String>
     <String List="0">
       <Source>Vampire Hunter Approaches!</Source>
@@ -489,23 +477,23 @@
     </String>
     <String List="0">
       <Source>Vampire Hunter Is Near!</Source>
-      <Dest>Vampire Hunter Is Near!</Dest>
+      <Dest>ヴァンパイアハンターが近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>Vampire Hunter Hit Squad!</Source>
-      <Dest>Vampire Hunter Hit Squad!</Dest>
+      <Dest>ヴァンパイアハンターの攻撃部隊だ！</Dest>
     </String>
     <String List="0">
       <Source>Vampire Hunter Is On My Trail!</Source>
-      <Dest>Vampire Hunter Is On My Trail!</Dest>
+      <Dest>ヴァンパイアハンターがこの先にいる！</Dest>
     </String>
     <String List="0">
       <Source>Master Vampire Slayer Blade is Near!</Source>
-      <Dest>Master Vampire Slayer Blade is Near!</Dest>
+      <Dest>達人のヴァンパイアスレイヤー・ブレードが近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>Elite Vampire Slayer is Near!</Source>
-      <Dest>Elite Vampire Slayer is Near!</Dest>
+      <Dest>ヴァンパイアスレイヤーの精鋭が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>Dawnguard Hunter Approaches!</Source>
@@ -513,35 +501,35 @@
     </String>
     <String List="0">
       <Source>Dawnguard Hunter Is Near!</Source>
-      <Dest>Dawnguard Hunter Is Near!</Dest>
+      <Dest>ドーンガードの狩人が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>Dawnguard Hunters Find Me!</Source>
-      <Dest>Dawnguard Hunters Find Me!</Dest>
+      <Dest>ドーンガードの狩人に見つかった！</Dest>
     </String>
     <String List="0">
       <Source>Dawnguard Hunter Is On My Trail!</Source>
-      <Dest>Dawnguard Hunter Is On My Trail!</Dest>
+      <Dest>ドーンガードの狩人がこの先にいる！</Dest>
     </String>
     <String List="0">
       <Source>The Dawnguard Are Near!</Source>
-      <Dest>The Dawnguard Are Near!</Dest>
+      <Dest>ドーンガードが近い！</Dest>
     </String>
     <String List="0">
       <Source>Boethia Worshipper Approaches!</Source>
-      <Dest>Boethia Worshipper Approaches!</Dest>
+      <Dest>ボエシアの信奉者が近づいてくる！</Dest>
     </String>
     <String List="0">
       <Source>Boethia Worshipper Is Near!</Source>
-      <Dest>Boethia Worshipper Is Near!</Dest>
+      <Dest>ボエシアの信奉者が近くにいる！</Dest>
     </String>
     <String List="0">
       <Source>Boethia Worshipper Seeks Revenge!</Source>
-      <Dest>Boethia Worshipper Seeks Revenge!</Dest>
+      <Dest>ボエシアの信奉者は復習を求めている！</Dest>
     </String>
     <String List="0">
       <Source>Boethia Worshipper!</Source>
-      <Dest>Boethia Worshipper!</Dest>
+      <Dest>ボエシアの信奉者だ！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
