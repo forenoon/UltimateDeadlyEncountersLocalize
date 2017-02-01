@@ -16,10 +16,6 @@
       <Dest>Summoning.</Dest>
     </String>
     <String List="0">
-      <Source>Cannot proceed because: </Source>
-      <Dest>Cannot proceed because: </Dest>
-    </String>
-    <String List="0">
       <Source>No Sentinel to unsummon.</Source>
       <Dest>No Sentinel to unsummon.</Dest>
     </String>

@@ -9,35 +9,19 @@
   <Content>
     <String List="0">
       <Source>I examine the weapon...</Source>
-      <Dest>I examine the weapon...</Dest>
+      <Dest>武器を調べる…</Dest>
     </String>
     <String List="0">
       <Source>I am looking at the armor...</Source>
-      <Dest>I am looking at the armor...</Dest>
-    </String>
-    <String List="0">
-      <Source>SOT Has Detected Ace Archery Installed!  Enabling Full Support!</Source>
-      <Dest>SOT Has Detected Ace Archery Installed!  Enabling Full Support!</Dest>
-    </String>
-    <String List="0">
-      <Source>SOT Has Detected SkyRe installed!  Enabling Support!</Source>
-      <Dest>SOT Has Detected SkyRe installed!  Enabling Support!</Dest>
-    </String>
-    <String List="0">
-      <Source>SOT Has Detected Ace Archery Also Installed! </Source>
-      <Dest>SOT Has Detected Ace Archery Also Installed! </Dest>
-    </String>
-    <String List="0">
-      <Source>Load ACE  After SkyRe in Mod Order.  Using Ace Bows Instead!</Source>
-      <Dest>Load ACE  After SkyRe in Mod Order.  Using Ace Bows Instead!</Dest>
+      <Dest>防具を見ている…</Dest>
     </String>
     <String List="0">
       <Source>Identifying Weapon...</Source>
-      <Dest>Identifying Weapon...</Dest>
+      <Dest>武器を確認する…</Dest>
     </String>
     <String List="0">
       <Source>Identifying Armor...</Source>
-      <Dest>Identifying Armor...</Dest>
+      <Dest>防具を確認する…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

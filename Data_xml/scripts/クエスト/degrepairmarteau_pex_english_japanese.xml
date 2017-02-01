@@ -9,99 +9,99 @@
   <Content>
     <String List="0">
       <Source>This piece of armor doesn&apos;t need to be repaired !</Source>
-      <Dest>This piece of armor doesn&apos;t need to be repaired !</Dest>
+      <Dest>この防具の一部は修復する必要はない！</Dest>
     </String>
     <String List="0">
       <Source>You need first a hammer !</Source>
-      <Dest>You need first a hammer !</Dest>
+      <Dest>まずハンマーが必要だ！</Dest>
     </String>
     <String List="0">
       <Source>You don&apos;t have the required skill to get this armor repaired !</Source>
-      <Dest>You don&apos;t have the required skill to get this armor repaired !</Dest>
+      <Dest>防具の修復に必要なスキルを持っていない！</Dest>
     </String>
     <String List="0">
       <Source>You don&apos;t have the required skill to get an enchanted armor repaired !</Source>
-      <Dest>You don&apos;t have the required skill to get an enchanted armor repaired !</Dest>
+      <Dest>付呪された防具の修復に必要なスキルを持っていない！</Dest>
     </String>
     <String List="0">
       <Source>You don&apos;t have the material: </Source>
-      <Dest>You don&apos;t have the material: </Dest>
+      <Dest>素材が足りない: </Dest>
     </String>
     <String List="0">
       <Source>Completely Repaired: </Source>
-      <Dest>Completely Repaired: </Dest>
+      <Dest>修復完了: </Dest>
     </String>
     <String List="0">
       <Source>You Just Improved: </Source>
-      <Dest>You Just Improved: </Dest>
+      <Dest>改善された: </Dest>
     </String>
     <String List="0">
       <Source>This weapon doesn&apos;t need to be repaired !</Source>
-      <Dest>This weapon doesn&apos;t need to be repaired !</Dest>
+      <Dest>この武器は修復する必要はない！</Dest>
     </String>
     <String List="0">
       <Source>You don&apos;t have the required skill to get an enchanted weapon repaired !</Source>
-      <Dest>You don&apos;t have the required skill to get an enchanted weapon repaired !</Dest>
+      <Dest>付呪された武器の修復に必要なスキルを持っていない！</Dest>
     </String>
     <String List="0">
       <Source>You don&apos;t have the required skill to get this weapon repaired !</Source>
-      <Dest>You don&apos;t have the required skill to get this weapon repaired !</Dest>
+      <Dest>武器の修復に必要なスキルを持っていない！</Dest>
     </String>
     <String List="0">
       <Source>You need the material: </Source>
-      <Dest>You need the material: </Dest>
+      <Dest>素材が足りない: </Dest>
     </String>
     <String List="0">
       <Source>My hammer has broken !</Source>
-      <Dest>My hammer has broken !</Dest>
+      <Dest>ハンマーが壊れた！</Dest>
     </String>
     <String List="0">
       <Source>Sorry, Error: can&apos;t get this weapon repaired !!</Source>
-      <Dest>Sorry, Error: can&apos;t get this weapon repaired !!</Dest>
+      <Dest>すまない、失敗した: 武器を修復できなかった！！</Dest>
     </String>
     <String List="0">
       <Source>You first need a hammer !</Source>
-      <Dest>You first need a hammer !</Dest>
+      <Dest>まずハンマーが必要だ！</Dest>
     </String>
     <String List="0">
       <Source>You have to equip the broken helmet !</Source>
-      <Dest>You have to equip the broken helmet !</Dest>
+      <Dest>壊れた兜の装備が必要！</Dest>
     </String>
     <String List="0">
       <Source>You have to equip the broken cuirass !</Source>
-      <Dest>You have to equip the broken cuirass !</Dest>
+      <Dest>壊れた鎧の装備が必要！</Dest>
     </String>
     <String List="0">
       <Source>You have to equip the broken gauntlets !</Source>
-      <Dest>You have to equip the broken gauntlets !</Dest>
+      <Dest>壊れた篭手の装備が必要！</Dest>
     </String>
     <String List="0">
       <Source>You have to equip the broken boots !</Source>
-      <Dest>You have to equip the broken boots !</Dest>
+      <Dest>壊れたブーツの装備が必要！</Dest>
     </String>
     <String List="0">
       <Source>Sorry, Error: Can&apos;t get this armor repaired !!</Source>
-      <Dest>Sorry, Error: Can&apos;t get this armor repaired !!</Dest>
+      <Dest>すまない、失敗した: 防具を修復できなかった！！</Dest>
     </String>
     <String List="0">
       <Source>You cannot repair while fighting !</Source>
-      <Dest>You cannot repair while fighting !</Dest>
+      <Dest>戦闘中は修復できない！</Dest>
     </String>
     <String List="0">
       <Source>Wait a little bit...</Source>
-      <Dest>Wait a little bit...</Dest>
+      <Dest>少し待ってくれ…</Dest>
     </String>
     <String List="0">
       <Source>You have to first equip a weapon in your left hand !</Source>
-      <Dest>You have to first equip a weapon in your left hand !</Dest>
+      <Dest>最初に左手武器の装備が必要！</Dest>
     </String>
     <String List="0">
       <Source>You have to first equip a weapon in your right hand !</Source>
-      <Dest>You have to first equip a weapon in your right hand !</Dest>
+      <Dest>最初に右手武器の装備が必要！</Dest>
     </String>
     <String List="0">
       <Source>You have to equip the broken shield !</Source>
-      <Dest>You have to equip the broken shield !</Dest>
+      <Dest>壊れた盾の装備が必要！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

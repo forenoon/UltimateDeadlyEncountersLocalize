@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>As you opened the chest, a gust of wind blew you into the void that is contained within.</Source>
-      <Dest>As you opened the chest, a gust of wind blew you into the void that is contained within.</Dest>
+      <Dest>宝箱を空けたら、内側の空隙からの突風に吹き飛ばされた。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

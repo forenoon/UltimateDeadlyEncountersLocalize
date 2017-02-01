@@ -9,119 +9,119 @@
   <Content>
     <String List="0">
       <Source>Guardian Node is already in this mode.</Source>
-      <Dest>Guardian Node is already in this mode.</Dest>
+      <Dest>ガーディアンノードはすでにこのモードになっている。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node needs to be turned off first.</Source>
-      <Dest>Guardian Node needs to be turned off first.</Dest>
+      <Dest>ガーディアンノードは最初にオフにする必要がある。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node is switching to Berserk mode.</Source>
-      <Dest>Guardian Node is switching to Berserk mode.</Dest>
+      <Dest>ガーディアンノードをバーサクモードに切替えた。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node is switching to Sentry mode.</Source>
-      <Dest>Guardian Node is switching to Sentry mode.</Dest>
+      <Dest>ガーディアンノードをセントリーモードに切替えた。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node is switching to Passive mode.</Source>
-      <Dest>Guardian Node is switching to Passive mode.</Dest>
+      <Dest>ガーディアンノードをパッシブモードに切替えた。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node now persists after you leave the room.</Source>
-      <Dest>Guardian Node now persists after you leave the room.</Dest>
+      <Dest>ガーディアンノードを部屋を出ても維持されるようにした。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node now retires after you leave the room.</Source>
-      <Dest>Guardian Node now retires after you leave the room.</Dest>
+      <Dest>ガーディアンノードを部屋を出たら回収されるようにした。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node now activates if a character triggers it and it is not busy.</Source>
-      <Dest>Guardian Node now activates if a character triggers it and it is not busy.</Dest>
+      <Dest>ガーディアンノードをビジーでない時にキャラクターがトリガーしたらアクティブになるようにした。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node now does not activate upon trigger.</Source>
-      <Dest>Guardian Node now does not activate upon trigger.</Dest>
+      <Dest>ガーディアンノードをトリガーでアクティブにならないようにした。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node is now turned on.</Source>
-      <Dest>Guardian Node is now turned on.</Dest>
+      <Dest>ガーディアンノードをオンにした。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node is busy or already turned on.</Source>
-      <Dest>Guardian Node is busy or already turned on.</Dest>
+      <Dest>ガーディアンノードはビジーまたはすでにオンになっている。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node is now turned off.</Source>
-      <Dest>Guardian Node is now turned off.</Dest>
+      <Dest>ガーディアンノードをオフにした。</Dest>
     </String>
     <String List="0">
       <Source>Guardian Node is busy or already turned off.</Source>
-      <Dest>Guardian Node is busy or already turned off.</Dest>
+      <Dest>ガーディアンノードはビジーまたはすでにオフになっている。</Dest>
     </String>
     <String List="0">
       <Source>Recruiting new Sentinel.</Source>
-      <Dest>Recruiting new Sentinel.</Dest>
+      <Dest>番兵を募集する。</Dest>
     </String>
     <String List="0">
       <Source>Only marryable, recruitable, or unique individuals can be recruited.</Source>
-      <Dest>Only marryable, recruitable, or unique individuals can be recruited.</Dest>
+      <Dest>結婚可能な人物、雇える人物、ユニークな個人のみを募集できる。</Dest>
     </String>
     <String List="0">
       <Source>There is no deceased in range for recruitment.</Source>
-      <Dest>There is no deceased in range for recruitment.</Dest>
+      <Dest>募集範囲に亡くなった人はいない。</Dest>
     </String>
     <String List="0">
       <Source>Cannot recruit more than </Source>
-      <Dest>Cannot recruit more than </Dest>
+      <Dest>これ以上は募集できない</Dest>
     </String>
     <String List="0">
       <Source> Sentinel.</Source>
-      <Dest> Sentinel.</Dest>
+      <Dest> 番兵。</Dest>
     </String>
     <String List="0">
       <Source>Device has not seen any dead bodies yet.</Source>
-      <Dest>Device has not seen any dead bodies yet.</Dest>
+      <Dest>デバイスはまだ死体を見つけていない。</Dest>
     </String>
     <String List="0">
       <Source>Node must be turned off for recruitment to begin.</Source>
-      <Dest>Node must be turned off for recruitment to begin.</Dest>
+      <Dest>募集を開始するにはノードをオフにする必要がある。</Dest>
     </String>
     <String List="0">
       <Source>Node is busy. Wait for it to finish and try again. </Source>
-      <Dest>Node is busy. Wait for it to finish and try again. </Dest>
+      <Dest>ノードはビジーになっている。終わるまで待って再度試す。</Dest>
     </String>
     <String List="0">
       <Source>Retiring Guardian Node.</Source>
-      <Dest>Retiring Guardian Node.</Dest>
+      <Dest>ガーディアンノードは引退した。</Dest>
     </String>
     <String List="0">
       <Source>No Sentinel is found in this slot</Source>
-      <Dest>No Sentinel is found in this slot</Dest>
+      <Dest>このスロットには番兵がいない。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel is already enlisted.</Source>
-      <Dest>This Sentinel is already enlisted.</Dest>
+      <Dest>この番兵はすでに参加している。</Dest>
     </String>
     <String List="0">
       <Source>Enlisting Sentinel.</Source>
-      <Dest>Enlisting Sentinel.</Dest>
+      <Dest>番兵が参加した。</Dest>
     </String>
     <String List="0">
       <Source>Freeing Sentinel.</Source>
-      <Dest>Freeing Sentinel.</Dest>
+      <Dest>番兵を解放した。</Dest>
     </String>
     <String List="0">
       <Source>This Guardian Node is currently busy recruiting a new Sentinel.</Source>
-      <Dest>This Guardian Node is currently busy recruiting a new Sentinel.</Dest>
+      <Dest>このガーディアンノードは新しい番兵の募集中だ。</Dest>
     </String>
     <String List="0">
       <Source>Please wait for Guardian Node to finish turning on.</Source>
-      <Dest>Please wait for Guardian Node to finish turning on.</Dest>
+      <Dest>ガーディアンノードがオンになるまで待って下さい。</Dest>
     </String>
     <String List="0">
       <Source>Please wait for Guardian Node to finish turning off.</Source>
-      <Dest>Please wait for Guardian Node to finish turning off.</Dest>
+      <Dest>ガーディアンノードがオフになるまで待って下さい。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
