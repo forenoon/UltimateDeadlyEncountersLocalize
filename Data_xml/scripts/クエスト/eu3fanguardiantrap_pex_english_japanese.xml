@@ -93,7 +93,7 @@
     </String>
     <String List="0">
       <Source>Retiring Guardian Node.</Source>
-      <Dest>ガーディアンノードは引退した。</Dest>
+      <Dest>ガーディアンノードを撤去中。</Dest>
     </String>
     <String List="0">
       <Source>No Sentinel is found in this slot</Source>

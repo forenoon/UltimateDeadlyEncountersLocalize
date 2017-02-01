@@ -9,123 +9,107 @@
   <Content>
     <String List="0">
       <Source>No Sentinel to summon.</Source>
-      <Dest>No Sentinel to summon.</Dest>
+      <Dest>番兵を召還できない。</Dest>
     </String>
     <String List="0">
       <Source>Summoning.</Source>
-      <Dest>Summoning.</Dest>
+      <Dest>召還中。</Dest>
     </String>
     <String List="0">
       <Source>No Sentinel to unsummon.</Source>
-      <Dest>No Sentinel to unsummon.</Dest>
+      <Dest>番兵を送還できない。</Dest>
     </String>
     <String List="0">
       <Source>Unsummoning.</Source>
-      <Dest>Unsummoning.</Dest>
+      <Dest>送還中。</Dest>
     </String>
     <String List="0">
       <Source>Device not in an active state.</Source>
-      <Dest>Device not in an active state.</Dest>
+      <Dest>デバイスがアクティブになっていない。</Dest>
     </String>
     <String List="0">
       <Source>There is no available deceased person or you already have </Source>
-      <Dest>There is no available deceased person or you already have </Dest>
+      <Dest>すでに死んでいるか、または配置済みで利用できない： </Dest>
     </String>
     <String List="0">
       <Source> Sentinels.</Source>
-      <Dest> Sentinels.</Dest>
+      <Dest> 番兵。</Dest>
     </String>
     <String List="0">
       <Source>This device considers your choice to be an insult. It only accepts unique inidividuals or people who could be a marriage partner a follower.</Source>
-      <Dest>This device considers your choice to be an insult. It only accepts unique inidividuals or people who could be a marriage partner a follower.</Dest>
+      <Dest>デバイスはその選択を拒否した。ユニークな個人か結婚可能なパートナーのみを受け入れる。</Dest>
     </String>
     <String List="0">
       <Source>Retiring device</Source>
-      <Dest>Retiring device</Dest>
-    </String>
-    <String List="0">
-      <Source>What? This should be an invalid index</Source>
-      <Dest>What? This should be an invalid index</Dest>
+      <Dest>デバイスを撤去中</Dest>
     </String>
     <String List="0">
       <Source>No Sentinal is stored in this slot.</Source>
-      <Dest>No Sentinal is stored in this slot.</Dest>
+      <Dest>このスロットには番兵が格納されていない。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel is currently undergoing a maintenance procedure by another device. Please try again later.</Source>
-      <Dest>This Sentinel is currently undergoing a maintenance procedure by another device. Please try again later.</Dest>
+      <Dest>この番兵は今は別のデバイスによるメンテナンスを受けています。後でもう一度お試しください。</Dest>
     </String>
     <String List="0">
       <Source>This Guardian Device would like to urge its owner not to disrespect it for </Source>
-      <Dest>This Guardian Device would like to urge its owner not to disrespect it for </Dest>
+      <Dest>このガーディアンデバイスは、所有者に対して気晴らしで </Dest>
     </String>
     <String List="0">
       <Source>recreational purposes. Failure to comply may result in an immediate increase in </Source>
-      <Dest>recreational purposes. Failure to comply may result in an immediate increase in </Dest>
+      <Dest> に無礼を働くのを勧めています。さもなくば直ちに</Dest>
     </String>
     <String List="0">
       <Source>probability of The Last Dragonborn visiting Sovngarde in an enforced noncorporeal form. </Source>
-      <Dest>probability of The Last Dragonborn visiting Sovngarde in an enforced noncorporeal form. </Dest>
-    </String>
-    <String List="0">
-      <Source>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 002A</Source>
-      <Dest>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 002A</Dest>
+      <Dest>最後のドラゴンボーンが強制的に有無を言わさずソヴンガルデを訪れる確率が増加する可能性があります。</Dest>
     </String>
     <String List="0">
       <Source> is now ready to become a Sentinel. Discontinue your companion&apos;s mortal existence to continue the process.</Source>
-      <Dest> is now ready to become a Sentinel. Discontinue your companion&apos;s mortal existence to continue the process.</Dest>
+      <Dest> は今、番兵になる準備が整いました。あなたの同行者の死の存在を中止して、プロセスを続行してください。</Dest>
     </String>
     <String List="0">
       <Source>The device is bounded with another Sentinel. Please disentangle the binding and try again.</Source>
-      <Dest>The device is bounded with another Sentinel. Please disentangle the binding and try again.</Dest>
+      <Dest>デバイスは別のSentinelに接続されています。 バインディングを解除してもう一度お試しください。</Dest>
     </String>
     <String List="0">
       <Source>The device is busy. Please try again later.</Source>
-      <Dest>The device is busy. Please try again later.</Dest>
+      <Dest>デバイスがビジー状態です。 後でもう一度お試しください。</Dest>
     </String>
     <String List="0">
       <Source>Unloading. </Source>
-      <Dest>Unloading. </Dest>
-    </String>
-    <String List="0">
-      <Source>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001A</Source>
-      <Dest>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001A</Dest>
+      <Dest>アンロード中。 </Dest>
     </String>
     <String List="0">
       <Source> is now bound to this device.</Source>
-      <Dest> is now bound to this device.</Dest>
+      <Dest>彼は今この装置に縛られています。</Dest>
     </String>
     <String List="0">
       <Source> is now bound to this device and unbound from its original anchor.</Source>
-      <Dest> is now bound to this device and unbound from its original anchor.</Dest>
+      <Dest>彼は今この装置に縛られ、元のアンカーから外されています。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel has already been bound to this device.</Source>
-      <Dest>This Sentinel has already been bound to this device.</Dest>
+      <Dest>このSentinelはすでにこのデバイスにバインドされています。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel is now being summoned.</Source>
-      <Dest>This Sentinel is now being summoned.</Dest>
-    </String>
-    <String List="0">
-      <Source>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001B</Source>
-      <Dest>Strange. This should be an inaccessible condition. Let&apos;s call it Bug 001B</Dest>
+      <Dest>このセンチネルは現在召喚されています。</Dest>
     </String>
     <String List="0">
       <Source> is now unbound from this device.</Source>
-      <Dest> is now unbound from this device.</Dest>
+      <Dest>彼は今このデバイスから解放されています。</Dest>
     </String>
     <String List="0">
       <Source>There is no Sentinel in this slot.</Source>
-      <Dest>There is no Sentinel in this slot.</Dest>
+      <Dest>このスロットにはセンチネルはありません。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel is not bound anywhere.</Source>
-      <Dest>This Sentinel is not bound anywhere.</Dest>
+      <Dest>このセンチネルはどこにも縛られていません。</Dest>
     </String>
     <String List="0">
       <Source>Freeing </Source>
-      <Dest>Freeing </Dest>
+      <Dest>解放中 </Dest>
     </String>
     <String List="0">
       <Source>.</Source>
@@ -134,19 +118,19 @@
     <String List="0">
       <Source>Abort. To proceed the following conditions must apply:
 </Source>
-      <Dest>Abort. To proceed the following conditions must apply:
+      <Dest>アボート。 続行するには、次の条件を適用する必要があります。：
 </Dest>
     </String>
     <String List="0">
       <Source>(1) Sentinel is not summoned.
 </Source>
-      <Dest>(1) Sentinel is not summoned.
+      <Dest>（1）センチネルは召喚されていない。
 </Dest>
     </String>
     <String List="0">
       <Source>(2) Sentinel&apos;s device must not be busy.
 </Source>
-      <Dest>(2) Sentinel&apos;s device must not be busy.
+      <Dest>(（2）センチネル装置がビジーであってはならない。
 </Dest>
     </String>
     <String List="0">
@@ -159,11 +143,11 @@
     </String>
     <String List="0">
       <Source>Advice: Bind this Sentinel to this device and try again after the transfer is completed.</Source>
-      <Dest>Advice: Bind this Sentinel to this device and try again after the transfer is completed.</Dest>
+      <Dest>アドバイス：このデバイスにこのSentinelをバインドし、転送が完了したら再試行してください。</Dest>
     </String>
     <String List="0">
       <Source>If this is already the case, make sure the Sentinel is not in a summoned state.</Source>
-      <Dest>If this is already the case, make sure the Sentinel is not in a summoned state.</Dest>
+      <Dest>これがすでに行われている場合は、Sentinelが召喚状態になっていないことを確認してください。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
