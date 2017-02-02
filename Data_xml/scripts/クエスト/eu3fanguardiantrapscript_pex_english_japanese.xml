@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>No Sentinel to summon.</Source>
-      <Dest>番兵を召還できない。</Dest>
+      <Dest>番兵を召喚できない。</Dest>
     </String>
     <String List="0">
       <Source>Summoning.</Source>
-      <Dest>召還中。</Dest>
+      <Dest>召喚中。</Dest>
     </String>
     <String List="0">
       <Source>No Sentinel to unsummon.</Source>
