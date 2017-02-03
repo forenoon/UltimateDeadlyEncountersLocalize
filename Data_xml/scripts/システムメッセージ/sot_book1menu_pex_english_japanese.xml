@@ -9,15 +9,15 @@
   <Content>
     <String List="0">
       <Source>you hit button 1</Source>
-      <Dest>you hit button 1</Dest>
+      <Dest>ボタン1を押す</Dest>
     </String>
     <String List="0">
       <Source>you hit button 2</Source>
-      <Dest>you hit button 2</Dest>
+      <Dest>ボタン2を押す</Dest>
     </String>
     <String List="0">
       <Source>you didnt hit button 1 or 2 hence must have hit 3</Source>
-      <Dest>you didnt hit button 1 or 2 hence must have hit 3</Dest>
+      <Dest>ボタン1も2も押されなかったためボタン3が押されたはず</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
