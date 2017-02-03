@@ -2,15 +2,16 @@
 Skyrim MOD "Ultimate Deadly Encounters" 日本語ローカライズ。（以下、UDEとする）<br>
 現状はLoose File版にのみ対応している。
 
-MOD本体は以下
+下記のファイルをベースに翻訳量を増やしたり、機械翻訳を手直しした。
 
-* [Nexus mods](http://www.nexusmods.com/skyrimspecialedition/mods/3093/?)
-* [Skyrim Mod データベース](http://skyrim.2game.info/detail.php?id=12452)
+* USLEEPの翻訳データ　※UDEにバニラの単語が多数含まれるため
+* [http://www.mediafire.com/download/gqx…](http://www.mediafire.com/download/gqxp94l2kx0dhwg/Ultimate+Deadly+Encounters+-+Sands+of+Time+15.82+jp.7z) v15.82 (本:未訳、MCM:詳細未訳 Script:一部のみ)
+   * [Skyrim Mod データベース](http://skyrim.2game.info/detail.php?id=12452) にリンクされていた。
 
 以下の箇所はまだ翻訳が終わっていない
 
-* MCM　※翻訳箇所をミスるとMCMが機能しなくなるから怖い…
 * 本　※文量が半端なく多くて、小説表現（？）がわからん…
+* MCM　※翻訳箇所をミスるとMCMが機能しなくなるから怖い…
 
 # ■インストール
 **※※※ 注意！！！ ※※※<br>
@@ -18,8 +19,8 @@ MOD本体は以下
 MODが破損してCTDするか、最悪ゲームがおかしくなる可能性がある。 <br>
 バージョンが無かった場合は、自分でSkyrimにインストールされているMODに翻訳データを当てて対応する。**
 
-事前にSkyrim本体のDataフォルダ中のMODデータをバックアップしておくといい。<br>
-ミスっても戻せるから安心
+事前にSkyrim本体のDataフォルダ中のMODデータをバックアップしておくと安全。<br>
+ミスっても戻せる！
 
 * Data/SleepingDangers-SandsofTime.esp
 * Data/scripts
@@ -35,7 +36,7 @@ MODが破損してCTDするか、最悪ゲームがおかしくなる可能性�
 1. ENJOY YOUR SKYRIM !
 
 ## 自分が使うバージョンの翻訳が無かった場合
-自分で翻訳データをMODへ当てていく。少し面倒だが大部分は翻訳されるはず。
+自分で翻訳データをMOD（esp,pex）へ当てていく。少し面倒だが大部分は翻訳されるはず。
 
 1. Githubのページの「Branch」を自分のUDEバージョンに*比較的近いもの*に切り替える。
 1. Githubのページの「Clone or download」から「Download ZIP」をクリックする。
@@ -54,7 +55,7 @@ MODが破損してCTDするか、最悪ゲームがおかしくなる可能性�
       * [sseTranslatorの準備について](http://speakeir.hatenadiary.jp/entry/2016/11/20/215155)
 1. Skyrim本体のDataフォルダにあるespとscripts/*.pexに、解凍したData_xmlフォルダのxmlを適用する。
    * Data_xml/scriptsの下でxmlをフォルダ分類しているが、本体のData/scriptsフォルダではフォルダ無しでpexを全部並べてあるため注意。
-   * 効率良く翻訳ツールで作業するならData_xml/scriptsの分類フォルダ中のxmlをData_xml/scriptsに並べるとよい。本体Data/scriptsと同じになってわかりやすいはず。
+   * 効率良く翻訳ツールで作業するならData_xml/scriptsの分類フォルダ中のxmlを全てData_xml/scriptsに並べると本体Data/scriptsと同じになってわかりやすいはず。
 1. ENJOY YOUR SKYRIM !
 
 ## 間違ったバージョンの翻訳を当ててしまった場合
@@ -65,9 +66,9 @@ MODが破損してCTDするか、最悪ゲームがおかしくなる可能性�
 
 # ■翻訳が間違っていたり変な訳があった場合
 
-## おかしいところを私に教える
-[UltimateDeadlyEncounters_jp Issues](https://github.com/forenoon/UltimateDeadlyEncounters_jp/issues) から教えてほしい。
-（※Githubのアカウント登録がいるけど…）
+## おかしいところを私に伝える
+[Issues](https://github.com/forenoon/UltimateDeadlyEncounters_jp/issues) から教えてもらえると嬉しい。日本語でおｋ。
+（Githubのアカウント登録がいるけど…）
 
 その場合は以下の情報がほしい。
 
@@ -76,11 +77,11 @@ MODが破損してCTDするか、最悪ゲームがおかしくなる可能性�
    * ※訳がかたいのは許して(´･ω･`)　でも良い訳があるなら教えて欲しい…
 * テキストはいつどこで表示されたものか。
    * ※翻訳したもののどこででるか確認できていないものもある…
-   * ※ルミールアクエストがちゃんとクリアできるとか、人種デスナイトとか翻訳するまで知らなかった…
+   * ※Apocalypseクエストにちゃんとクリアがあるとか、人種デスナイトとか翻訳するまで知らなかった…
 
 ## 自分で翻訳してMODに適用する
-[UltimateDeadlyEncounters_jp Wiki](https://github.com/forenoon/UltimateDeadlyEncounters_jp/wiki) にガイドライン的なものを載せている。
-よろしくお願いします！
+[Wiki](https://github.com/forenoon/UltimateDeadlyEncounters_jp/wiki) にガイドライン的なものを載せている。<br>
+Githubの使い方を知っていればForkからのプルリクも歓迎！
 
 # ■新しいバージョンの対応はまだ？
 時間があったら…(´･ω･`)<br>
