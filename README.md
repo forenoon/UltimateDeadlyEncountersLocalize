@@ -18,23 +18,23 @@ MOD本体は以下
 MODが破損してCTDするか、最悪ゲームがおかしくなる可能性がある。 <br>
 バージョンが無かった場合は、自分でSkyrimにインストールされているMODに翻訳データを当てて対応する。**
 
-事前にSkyrim本体の「Data」フォルダ中のMODデータをバックアップしておくといい。<br>
+事前にSkyrim本体のDataフォルダ中のMODデータをバックアップしておくといい。<br>
 ミスっても戻せるから安心
 
 * Data/SleepingDangers-SandsofTime.esp
 * Data/scripts
    * 他のMODのスクリプトも含まれるが気にせずバックアップしておく
 
-## 自分が使うUDEのバージョンの翻訳があった場合
+## 自分が使うバージョンの翻訳があった場合
 翻訳済みのespとpexを上書きするだけなので楽。
 
 1. Githubのページの「Branch」を自分のUDEバージョンに切り替える。
 1. Githubのページの「Clone or download」から「Download ZIP」をクリックする。
 1. ダウンロードされたZIPを解凍する。
-1. 解凍されたフォルダ中の「Data」フォルダの中身をSkyrim本体の「Data」フォルダに上書きする。
+1. 解凍されたフォルダ中のDataフォルダの中身をSkyrim本体のDataフォルダに上書きする。
 1. ENJOY YOUR SKYRIM !
 
-## 自分が使うUDEのバージョンの翻訳が無かった場合
+## 自分が使うバージョンの翻訳が無かった場合
 自分で翻訳データをMODへ当てていく。少し面倒だが大部分は翻訳されるはず。
 
 1. Githubのページの「Branch」を自分のUDEバージョンに*比較的近いもの*に切り替える。
@@ -48,11 +48,13 @@ MODが破損してCTDするか、最悪ゲームがおかしくなる可能性�
    * tesvTranslator
       * [[MODデータベース] tesvTranslator](http://skyrim.2game.info/detail.php?id=29148)
       * [[Nexus] tesvTranslator](http://www.nexusmods.com/skyrim/mods/29148/?)
-1. Skyrim本体の「Data」フォルダにあるespとscripts/*.pexに解凍した「Data_xml」フォルダのxmlを適用する。
    * sseTranslatorやtesvTranslatorのセットアップや使い方は以下を参考。どちらもほぼ同じ。
-   * [TESVTranslatorの導入から使い方まで解説（STRINGSファイルの抽出方法も）](http://nerdhayayo.blog.fc2.com/blog-entry-13.html)
-   * [ど素人減量ライダー始末記 > いまさらの TESVTranslator](http://mantarou-dengana.cocolog-nifty.com/yosenabe/2015/01/tesvtranslator2.html)
-   * [sseTranslatorの準備について](http://speakeir.hatenadiary.jp/entry/2016/11/20/215155)
+      * [TESVTranslatorの導入から使い方まで解説（STRINGSファイルの抽出方法も）](http://nerdhayayo.blog.fc2.com/blog-entry-13.html)
+      * [ど素人減量ライダー始末記 > いまさらの TESVTranslator](http://mantarou-dengana.cocolog-nifty.com/yosenabe/2015/01/tesvtranslator2.html)
+      * [sseTranslatorの準備について](http://speakeir.hatenadiary.jp/entry/2016/11/20/215155)
+1. Skyrim本体のDataフォルダにあるespとscripts/*.pexに、解凍したData_xmlフォルダのxmlを適用する。
+   * Data_xml/scriptsの下でxmlをフォルダ分類しているが、本体のData/scriptsフォルダではフォルダ無しでpexを全部並べてあるため注意。
+   * 効率良く翻訳ツールで作業するならData_xml/scriptsの分類フォルダ中のxmlをData_xml/scriptsに並べるとよい。本体Data/scriptsと同じになってわかりやすいはず。
 1. ENJOY YOUR SKYRIM !
 
 ## 間違ったバージョンの翻訳を当ててしまった場合
