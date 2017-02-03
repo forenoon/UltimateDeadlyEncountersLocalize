@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Spell of Concealment Is Broken!</Source>
-      <Dest>Spell of Concealment Is Broken!</Dest>
+      <Dest>隠蔽呪文が破られた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

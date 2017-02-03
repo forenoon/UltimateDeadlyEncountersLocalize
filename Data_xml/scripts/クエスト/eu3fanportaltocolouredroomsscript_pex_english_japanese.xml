@@ -9,19 +9,19 @@
   <Content>
     <String List="0">
       <Source>A surge of energy coursed through your body as you picked up the book. Before you knew it, you found yourself in a temple that seemed somewhat out of place.</Source>
-      <Dest>A surge of energy coursed through your body as you picked up the book. Before you knew it, you found yourself in a temple that seemed somewhat out of place.</Dest>
+      <Dest>本を拾ったら増大したエネルギーが体を駆け巡った。あっと言う間に、少し離れた場所にいる神殿にいる自分を見つけた。</Dest>
     </String>
     <String List="0">
       <Source>You opened the book again. It teleported you to the temple.</Source>
-      <Dest>You opened the book again. It teleported you to the temple.</Dest>
+      <Dest>再び本を開いた。神殿に転送された。</Dest>
     </String>
     <String List="0">
       <Source>You opened the book again. It decided to transport you back to the College of Winterhold.</Source>
-      <Dest>You opened the book again. It decided to transport you back to the College of Winterhold.</Dest>
+      <Dest>再び本を開いた。この本はウィンターホールド大学に戻そう。</Dest>
     </String>
     <String List="0">
       <Source>You opened the book again. It teleported you to the College of Winterhold.</Source>
-      <Dest>You opened the book again. It teleported you to the College of Winterhold.</Dest>
+      <Dest>再び本を開いた。ウィンターホールド大学に転送された。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

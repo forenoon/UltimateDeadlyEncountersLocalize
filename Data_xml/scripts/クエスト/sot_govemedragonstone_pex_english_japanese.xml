@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>I Found A Dragon Stone!</Source>
-      <Dest>I Found A Dragon Stone!</Dest>
+      <Dest>ドラゴンストーンを見つけた！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

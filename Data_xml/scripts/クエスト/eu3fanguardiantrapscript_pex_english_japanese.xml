@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>No Sentinel to summon.</Source>
-      <Dest>番兵を召還できない。</Dest>
+      <Dest>番兵を召喚できない。</Dest>
     </String>
     <String List="0">
       <Source>Summoning.</Source>
-      <Dest>召還中。</Dest>
+      <Dest>召喚中。</Dest>
     </String>
     <String List="0">
       <Source>No Sentinel to unsummon.</Source>
@@ -49,7 +49,7 @@
     </String>
     <String List="0">
       <Source>This Sentinel is currently undergoing a maintenance procedure by another device. Please try again later.</Source>
-      <Dest>この番兵は今は別のデバイスによるメンテナンスを受けています。後でもう一度お試しください。</Dest>
+      <Dest>この番兵は今は別のデバイスによるメンテナンスを受けています。後でもう一度試してください。</Dest>
     </String>
     <String List="0">
       <Source>This Guardian Device would like to urge its owner not to disrespect it for </Source>
@@ -57,19 +57,19 @@
     </String>
     <String List="0">
       <Source>recreational purposes. Failure to comply may result in an immediate increase in </Source>
-      <Dest> に無礼を働くのを勧めています。さもなくば直ちに</Dest>
+      <Dest> に無礼を働くのを奨めません。さもなくば直ちに</Dest>
     </String>
     <String List="0">
       <Source>probability of The Last Dragonborn visiting Sovngarde in an enforced noncorporeal form. </Source>
-      <Dest>最後のドラゴンボーンが強制的に有無を言わさずソヴンガルデを訪れる確率が増加する可能性があります。</Dest>
+      <Dest>最後のドラゴンボーンが強制的に有無を言わさずソブンガルデを訪れる確率が増加する可能性があります。</Dest>
     </String>
     <String List="0">
       <Source> is now ready to become a Sentinel. Discontinue your companion&apos;s mortal existence to continue the process.</Source>
-      <Dest> は今、番兵になる準備が整いました。あなたの同行者の死の存在を中止して、プロセスを続行してください。</Dest>
+      <Dest> は今、番兵になる準備が整った。あなたの同行者の死の存在を中止して、プロセスを続行してください。</Dest>
     </String>
     <String List="0">
       <Source>The device is bounded with another Sentinel. Please disentangle the binding and try again.</Source>
-      <Dest>デバイスは別のSentinelに接続されています。 バインディングを解除してもう一度お試しください。</Dest>
+      <Dest>デバイスは別の番兵に接続されています。 バインディングを解除してもう一度お試しください。</Dest>
     </String>
     <String List="0">
       <Source>The device is busy. Please try again later.</Source>
@@ -81,31 +81,31 @@
     </String>
     <String List="0">
       <Source> is now bound to this device.</Source>
-      <Dest>彼は今この装置に縛られています。</Dest>
+      <Dest> は今はこの装置に接続されています。</Dest>
     </String>
     <String List="0">
       <Source> is now bound to this device and unbound from its original anchor.</Source>
-      <Dest>彼は今この装置に縛られ、元のアンカーから外されています。</Dest>
+      <Dest> は今はこの装置に接続され元のアンカーから外されています。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel has already been bound to this device.</Source>
-      <Dest>このSentinelはすでにこのデバイスにバインドされています。</Dest>
+      <Dest>この番兵はすでにこのデバイスに接続されています。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel is now being summoned.</Source>
-      <Dest>このセンチネルは現在召喚されています。</Dest>
+      <Dest>この番兵は召喚中です。</Dest>
     </String>
     <String List="0">
       <Source> is now unbound from this device.</Source>
-      <Dest>彼は今このデバイスから解放されています。</Dest>
+      <Dest> は今はこのデバイスから解放されています。</Dest>
     </String>
     <String List="0">
       <Source>There is no Sentinel in this slot.</Source>
-      <Dest>このスロットにはセンチネルはありません。</Dest>
+      <Dest>このスロットには番兵がいません。</Dest>
     </String>
     <String List="0">
       <Source>This Sentinel is not bound anywhere.</Source>
-      <Dest>このセンチネルはどこにも縛られていません。</Dest>
+      <Dest>この番兵はどこにも制御されていません。</Dest>
     </String>
     <String List="0">
       <Source>Freeing </Source>
@@ -113,41 +113,41 @@
     </String>
     <String List="0">
       <Source>.</Source>
-      <Dest>.</Dest>
+      <Dest>。</Dest>
     </String>
     <String List="0">
       <Source>Abort. To proceed the following conditions must apply:
 </Source>
-      <Dest>アボート。 続行するには、次の条件を適用する必要があります。：
+      <Dest>中断。続行するには、次の条件を適用する必要があります。：
 </Dest>
     </String>
     <String List="0">
       <Source>(1) Sentinel is not summoned.
 </Source>
-      <Dest>（1）センチネルは召喚されていない。
+      <Dest>（1）番兵は召喚されていない。
 </Dest>
     </String>
     <String List="0">
       <Source>(2) Sentinel&apos;s device must not be busy.
 </Source>
-      <Dest>(（2）センチネル装置がビジーであってはならない。
+      <Dest>(（2）番兵のデバイスがビジーではならない。
 </Dest>
     </String>
     <String List="0">
       <Source>(3) This device must not be busy
 
 </Source>
-      <Dest>(3) This device must not be busy
+      <Dest>(3) このデバイスがビジーではならない
 
 </Dest>
     </String>
     <String List="0">
       <Source>Advice: Bind this Sentinel to this device and try again after the transfer is completed.</Source>
-      <Dest>アドバイス：このデバイスにこのSentinelをバインドし、転送が完了したら再試行してください。</Dest>
+      <Dest>アドバイス：このデバイスにこの番兵を接続し、転送が完了したら再試行してください。</Dest>
     </String>
     <String List="0">
       <Source>If this is already the case, make sure the Sentinel is not in a summoned state.</Source>
-      <Dest>これがすでに行われている場合は、Sentinelが召喚状態になっていないことを確認してください。</Dest>
+      <Dest>これがすでに行われている場合は、番兵が召喚状態になっていないことを確認してください。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

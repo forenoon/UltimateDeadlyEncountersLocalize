@@ -8,60 +8,28 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>Initial state - one time only</Source>
-      <Dest>Initial state - one time only</Dest>
-    </String>
-    <String List="0">
-      <Source>state busy - no execution - blank</Source>
-      <Dest>state busy - no execution - blank</Dest>
-    </String>
-    <String List="0">
-      <Source>HoldeMe = : </Source>
-      <Dest>HoldeMe = : </Dest>
-    </String>
-    <String List="0">
-      <Source>DungeonScriptsbeingProcessed: </Source>
-      <Dest>DungeonScriptsbeingProcessed: </Dest>
-    </String>
-    <String List="0">
-      <Source>Waiting Script Fired! - inout2 = </Source>
-      <Dest>Waiting Script Fired! - inout2 = </Dest>
-    </String>
-    <String List="0">
-      <Source>New Dungeon Location!</Source>
-      <Dest>New Dungeon Location!</Dest>
-    </String>
-    <String List="0">
       <Source>Deploy Spirits!</Source>
-      <Dest>霊魂 配置！</Dest>
+      <Dest>霊魂を配置する！</Dest>
     </String>
     <String List="0">
       <Source>Spirits 1 deployed</Source>
-      <Dest>Spirits 1 deployed</Dest>
+      <Dest>霊魂1を配置した</Dest>
     </String>
     <String List="0">
       <Source>Spirits 2 deployed</Source>
-      <Dest>Spirits 2 deployed</Dest>
+      <Dest>霊魂2を配置した</Dest>
     </String>
     <String List="0">
       <Source>Spirits 3 deployed</Source>
-      <Dest>Spirits 3 deployed</Dest>
+      <Dest>霊魂3を配置した</Dest>
     </String>
     <String List="0">
       <Source>Spirits Going Home!</Source>
-      <Dest>霊魂が帰る！</Dest>
+      <Dest>霊魂が還っていく！</Dest>
     </String>
     <String List="0">
       <Source>Looking for Rats!</Source>
-      <Dest>ネズミが見えた！</Dest>
-    </String>
-    <String List="0">
-      <Source>CoolAdded = : </Source>
-      <Dest>CoolAdded = : </Dest>
-    </String>
-    <String List="0">
-      <Source>no hostile npcs found! line 481</Source>
-      <Dest>no hostile npcs found! line 481</Dest>
+      <Dest>ネズミがいた！</Dest>
     </String>
     <String List="0">
       <Source>Undead Approach!</Source>
@@ -69,7 +37,7 @@
     </String>
     <String List="0">
       <Source>The Temperature Drops...!</Source>
-      <Dest>温度が下がる…！</Dest>
+      <Dest>気温が下がる…！</Dest>
     </String>
     <String List="0">
       <Source>I Smell Rotting Flesh!</Source>
@@ -81,7 +49,7 @@
     </String>
     <String List="0">
       <Source>It Is Suddently Freezing!</Source>
-      <Dest>それは突然凍る！</Dest>
+      <Dest>それは突然凍りつく！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Popping and Cracking Bones!</Source>
@@ -89,7 +57,7 @@
     </String>
     <String List="0">
       <Source>I Am Freezing...!</Source>
-      <Dest>凍りついてしまう…！</Dest>
+      <Dest>凍えてしまう…！</Dest>
     </String>
     <String List="0">
       <Source>There Are Rattling Sounds Nearby!</Source>
@@ -101,7 +69,7 @@
     </String>
     <String List="0">
       <Source>The Dead Rise From Their Slumber...!</Source>
-      <Dest>死者が眠りから起きる…！</Dest>
+      <Dest>死者が眠りから覚める…！</Dest>
     </String>
     <String List="0">
       <Source>Undead Crawl Out of the Ground...!</Source>
@@ -109,15 +77,15 @@
     </String>
     <String List="0">
       <Source>Wretched Dead Rise to Destroy You...!</Source>
-      <Dest>惨めな死者が滅ぼすために…！</Dest>
+      <Dest>哀れな死者が破壊するために目覚める…！</Dest>
     </String>
     <String List="0">
       <Source>The Dead Walk Again...!</Source>
-      <Dest>死者がまた…！</Dest>
+      <Dest>また死体か…！</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;You cannot escape the Dragonborn&apos;s justice!&apos;</Source>
-      <Dest>「おまえはドラゴンボーンの正義を免れることはできない！」</Dest>
+      <Dest>「おまえはドラゴンボーンの正義から逃れることはできない！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;The true Dragonborn will judge you!&apos;</Source>
@@ -125,7 +93,7 @@
     </String>
     <String List="0">
       <Source>I Hear &apos;Your blood will flow in Miraak&apos;s name!&apos;</Source>
-      <Dest>「おまえの血はミラーク様の名のもとに流れる！」</Dest>
+      <Dest>「お前の血はミラークの名の下に流れる！」</Dest>
     </String>
     <String List="0">
       <Source>I Hear &apos;You will be an offering to the Master!&apos;</Source>
@@ -149,7 +117,7 @@
     </String>
     <String List="0">
       <Source>Insects crawl out of the ground...</Source>
-      <Dest>昆虫が地面から這い出る…</Dest>
+      <Dest>蟲が地面から這い出てくる…</Dest>
     </String>
     <String List="0">
       <Source>I Am Not Alone...</Source>
@@ -169,23 +137,19 @@
     </String>
     <String List="0">
       <Source>A Wave of Pure Evil Can Be Felt...</Source>
-      <Dest>A Wave of Pure Evil Can Be Felt...</Dest>
+      <Dest>純粋な邪悪の波動を感じる…</Dest>
     </String>
     <String List="0">
       <Source>Mindless Ancient Hatred Can Be Felt...</Source>
-      <Dest>Mindless Ancient Hatred Can Be Felt...</Dest>
+      <Dest>心を失った古代の憎しみを感じる…</Dest>
     </String>
     <String List="0">
       <Source>I Stagger For A Second As A Pure Hateful Presence Approaches...</Source>
-      <Dest>I Stagger For A Second As A Pure Hateful Presence Approaches...</Dest>
-    </String>
-    <String List="0">
-      <Source>Aborting Dungeon Spawning</Source>
-      <Dest>Aborting Dungeon Spawning</Dest>
+      <Dest>純粋な憎悪の存在が近づくにつれ、わずかによろめく…</Dest>
     </String>
     <String List="0">
       <Source>Evil Grows in Strength...</Source>
-      <Dest>悪は強さで成長する…</Dest>
+      <Dest>悪意が大挙して押し寄せる…</Dest>
     </String>
     <String List="0">
       <Source>Enemies Nearby!</Source>
@@ -198,22 +162,6 @@
     <String List="0">
       <Source>Enemy Forces Increase!</Source>
       <Dest>敵が増えた！</Dest>
-    </String>
-    <String List="0">
-      <Source>Dungeon Encounters Script Firing! - inout2 =</Source>
-      <Dest>Dungeon Encounters Script Firing! - inout2 =</Dest>
-    </String>
-    <String List="0">
-      <Source>Found a COC marker within one cell length of the player!</Source>
-      <Dest>Found a COC marker within one cell length of the player!</Dest>
-    </String>
-    <String List="0">
-      <Source>Found a xmarker within one cell length of the player!</Source>
-      <Dest>Found a xmarker within one cell length of the player!</Dest>
-    </String>
-    <String List="0">
-      <Source>No good spawn location found</Source>
-      <Dest>No good spawn location found</Dest>
     </String>
     <String List="0">
       <Source>I hear something!</Source>
@@ -229,7 +177,7 @@
     </String>
     <String List="0">
       <Source>The temperature drops drastically!</Source>
-      <Dest>温度が急激に下る！</Dest>
+      <Dest>気温が急激に下る！</Dest>
     </String>
     <String List="0">
       <Source>I feel very cold!</Source>
@@ -237,11 +185,11 @@
     </String>
     <String List="0">
       <Source>There is a big drop in temperature!</Source>
-      <Dest>急に温度が下がる！</Dest>
+      <Dest>急に気温が下がる！</Dest>
     </String>
     <String List="0">
       <Source>Suddenly it is freezing!</Source>
-      <Dest>それは急に凍る！</Dest>
+      <Dest>それは急に凍った！</Dest>
     </String>
     <String List="0">
       <Source>I hear soft steps!</Source>
@@ -265,11 +213,11 @@
     </String>
     <String List="0">
       <Source>I hear Battlecries of &apos;Behold the Thalmor!&apos;</Source>
-      <Dest>「サルモールを見よ！」という戦の声が聞こえた</Dest>
+      <Dest>「サルモールを見よ！」という雄叫びが聞こえた</Dest>
     </String>
     <String List="0">
       <Source>I Can Hear Rusty Armor Moving!</Source>
-      <Dest>錆びた鎧の動く音がする！</Dest>
+      <Dest>錆びた鎧が動く音がする！</Dest>
     </String>
     <String List="0">
       <Source>I Hear Rattling Bones!</Source>
@@ -277,7 +225,7 @@
     </String>
     <String List="0">
       <Source>I Hear Creaking and Snapping Joints!</Source>
-      <Dest>きしむ関節の音が聞こえる！</Dest>
+      <Dest>関節がきしむ音が聞こえる！</Dest>
     </String>
     <String List="0">
       <Source>I Smell Putrid Flesh!</Source>
@@ -293,19 +241,7 @@
     </String>
     <String List="0">
       <Source>The Dead Walk Again...</Source>
-      <Dest>死者がまた…</Dest>
-    </String>
-    <String List="0">
-      <Source>Dungeon Encounters Script in Dormant Mode!</Source>
-      <Dest>Dungeon Encounters Script in Dormant Mode!</Dest>
-    </String>
-    <String List="0">
-      <Source>Dungeon Encounters Script Firing in None Mode!</Source>
-      <Dest>Dungeon Encounters Script Firing in None Mode!</Dest>
-    </String>
-    <String List="0">
-      <Source>Dungeon Encounters Script Firing in Menu Mode!</Source>
-      <Dest>Dungeon Encounters Script Firing in Menu Mode!</Dest>
+      <Dest>また死体か…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
