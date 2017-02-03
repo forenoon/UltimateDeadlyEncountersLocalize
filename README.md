@@ -1,5 +1,3 @@
-UltimateDeadlyEncounters_jp
-
 # ■About
 Skyrim MOD "Ultimate Deadly Encounters" 日本語ローカライズ。（以下、UDEとする）<br>
 現状はLoose File版にのみ対応している。
