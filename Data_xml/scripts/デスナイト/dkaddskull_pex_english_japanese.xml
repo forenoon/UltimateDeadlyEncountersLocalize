@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Death Knight Config Skull Added!</Source>
-      <Dest>Death Knight Config Skull Added!</Dest>
+      <Dest>デスナイトの設定頭蓋骨を追加した！</Dest>
     </String>
     <String List="0">
       <Source>Player already have the Skull</Source>
-      <Dest>Player already have the Skull</Dest>
+      <Dest>プレイヤーはすでに頭蓋骨を持っている</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

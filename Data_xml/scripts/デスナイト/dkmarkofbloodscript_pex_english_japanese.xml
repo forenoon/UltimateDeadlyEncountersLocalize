@@ -9,11 +9,11 @@
   <Content>
     <String List="0">
       <Source>Your Target is Marked by Blood</Source>
-      <Dest>Your Target is Marked by Blood</Dest>
+      <Dest>対象を血の標的にした</Dest>
     </String>
     <String List="0">
       <Source>Your Target is no longer Marked by Blood</Source>
-      <Dest>Your Target is no longer Marked by Blood</Dest>
+      <Dest>対象は血の標的から外れている</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

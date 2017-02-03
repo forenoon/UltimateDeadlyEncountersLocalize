@@ -9,19 +9,19 @@
   <Content>
     <String List="0">
       <Source>You are already in Blood Presence</Source>
-      <Dest>You are already in Blood Presence</Dest>
+      <Dest>すでに血の存在が有効になっている</Dest>
     </String>
     <String List="0">
       <Source>Unholy Presence Removed</Source>
-      <Dest>Unholy Presence Removed</Dest>
+      <Dest>不浄の存在が外れた</Dest>
     </String>
     <String List="0">
       <Source>Frost Presence Removed</Source>
-      <Dest>Frost Presence Removed</Dest>
+      <Dest>冷気の存在が外れた</Dest>
     </String>
     <String List="0">
       <Source>Blood Presence Active</Source>
-      <Dest>Blood Presence Active</Dest>
+      <Dest>血の存在が有効になった</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

@@ -8,14 +8,6 @@
   </Params>
   <Content>
     <String List="0">
-      <Source>On Init Ran in WeaponsDeadly Quest!!!!!!!</Source>
-      <Dest>On Init Ran in WeaponsDeadly Quest!!!!!!!</Dest>
-    </String>
-    <String List="0">
-      <Source>Weapons Deadly ScriptsbeingProcessed: </Source>
-      <Dest>Weapons Deadly ScriptsbeingProcessed: </Dest>
-    </String>
-    <String List="0">
       <Source>Rumiirua Apocalypse!</Source>
       <Dest>ルミールアの黙示録だ！</Dest>
     </String>
@@ -33,11 +25,11 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Whiterun is Grateful.</Source>
-      <Dest>勝利は我に！ホワイトランは感謝している。</Dest>
+      <Dest>我々の勝利だ！ホワイトランは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>My Crimes Are Expunged!.</Source>
-      <Dest>犯罪は抹消されている！</Dest>
+      <Dest>犯罪は隠蔽された！</Dest>
     </String>
     <String List="0">
       <Source>A Whiterun Coin Is Awarded To Me!</Source>
@@ -49,7 +41,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Windhelm is Grateful.</Source>
-      <Dest>勝利は我に！ウィンドヘルムは感謝している。</Dest>
+      <Dest>我々の勝利だ！ウィンドヘルムは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>A Windhelm Coin Is Awarded To Me!</Source>
@@ -61,7 +53,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Ivarstead is Grateful.</Source>
-      <Dest>勝利は我に！イヴァルステッドは感謝している。</Dest>
+      <Dest>我々の勝利だ！イヴァルステッドは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>Falkreath Under Attack!</Source>
@@ -69,7 +61,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Falkreath is Grateful.</Source>
-      <Dest>勝利は我に！ファルクリースは感謝している。</Dest>
+      <Dest>我々の勝利だ！ファルクリースは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>A Falkreath Coin Is Awarded To Me!</Source>
@@ -81,7 +73,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Riften is Grateful.</Source>
-      <Dest>勝利は我に！リフテンは感謝している。</Dest>
+      <Dest>我々の勝利だ！リフテンは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>A Riften Coin Is Awarded To Me!</Source>
@@ -93,7 +85,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Dawnstar is Grateful.</Source>
-      <Dest>勝利は我に！ドーンスターは感謝している。</Dest>
+      <Dest>我々の勝利だ！ドーンスターは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>A Dawnstar Coin Is Awarded To Me!</Source>
@@ -105,7 +97,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Markarth is Grateful.</Source>
-      <Dest>勝利は我に！マルカルスは感謝している。</Dest>
+      <Dest>我々の勝利だ！マルカルスは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>A Markarth Coin Is Awarded To Me!</Source>
@@ -117,7 +109,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Solitude is Grateful.</Source>
-      <Dest>勝利は我に！ソリチュードは感謝している。</Dest>
+      <Dest>我々の勝利だ！ソリチュードは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>A Solitude Coin Is Awarded To Me!</Source>
@@ -129,7 +121,7 @@
     </String>
     <String List="0">
       <Source>Victory is Mine!  Morthal s Grateful.</Source>
-      <Dest>利は我に！モーサルは感謝している。</Dest>
+      <Dest>我々の勝利だ！モーサルは感謝している。</Dest>
     </String>
     <String List="0">
       <Source>A Morthal Coin Is Awarded To Me!</Source>
@@ -137,7 +129,7 @@
     </String>
     <String List="0">
       <Source>Removing Magic Effects From Player!</Source>
-      <Dest>プレイヤーの魔法効果を除去！</Dest>
+      <Dest>魔法の効果が除去されてしまった！</Dest>
     </String>
     <String List="0">
       <Source>Poison is Neutralized</Source>
@@ -145,91 +137,15 @@
     </String>
     <String List="0">
       <Source>All Done!</Source>
-      <Dest>すべて完了！</Dest>
-    </String>
-    <String List="0">
-      <Source>Walking Encounters Initialized!</Source>
-      <Dest>Walking Encounters Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Deadly Weapons Secondary Script Fired (Rest State)!</Source>
-      <Dest>Deadly Weapons Secondary Script Fired (Rest State)!</Dest>
+      <Dest>全て終わった！</Dest>
     </String>
     <String List="0">
       <Source>The Holy Silver is Killing You!</Source>
-      <Dest>聖なる銀はあなたを殺す！</Dest>
-    </String>
-    <String List="0">
-      <Source>Mod Arming!</Source>
-      <Dest>Mod Arming!</Dest>
-    </String>
-    <String List="0">
-      <Source>Walking Encounters Initialized, timer set to: </Source>
-      <Dest>Walking Encounters Initialized, timer set to: </Dest>
-    </String>
-    <String List="0">
-      <Source>Traveling Encounters Initialized!</Source>
-      <Dest>Traveling Encounters Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Innocents Initialized!</Source>
-      <Dest>Innocents Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Waiting Encounters Initialized!</Source>
-      <Dest>Waiting Encounters Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Sleeping Encounters Initialized!</Source>
-      <Dest>Sleeping Encounters Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Fast Traveling Encounters Initialized!</Source>
-      <Dest>Fast Traveling Encounters Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Sands of Time Mod is Ready!</Source>
-      <Dest>Sands of Time Mod is Ready!</Dest>
-    </String>
-    <String List="0">
-      <Source>Mod being disabled....</Source>
-      <Dest>Mod being disabled....</Dest>
-    </String>
-    <String List="0">
-      <Source>Disable Traveling Encounters....</Source>
-      <Dest>Disable Traveling Encounters....</Dest>
-    </String>
-    <String List="0">
-      <Source>Disable Walking Encounters....</Source>
-      <Dest>Disable Walking Encounters....</Dest>
-    </String>
-    <String List="0">
-      <Source>Disable Waiting Encounters....</Source>
-      <Dest>Disable Waiting Encounters....</Dest>
-    </String>
-    <String List="0">
-      <Source>Disable Ambush Encounters....</Source>
-      <Dest>Disable Ambush Encounters....</Dest>
-    </String>
-    <String List="0">
-      <Source>Disable Inferno Encounters....</Source>
-      <Dest>Disable Inferno Encounters....</Dest>
-    </String>
-    <String List="0">
-      <Source>Disable Fast Travel Encounters....</Source>
-      <Dest>Disable Fast Travel Encounters....</Dest>
-    </String>
-    <String List="0">
-      <Source>Disable Bed Animations....</Source>
-      <Dest>Disable Bed Animations....</Dest>
+      <Dest>聖なる銀は死をもたらす！</Dest>
     </String>
     <String List="0">
       <Source>Mod disabled.  Do not remove scripts files from script folder. To Re-enable mod Using MCM Menu Activate mod again AND change locations by entering indoors or exiting outdoors. Then Wait 20 seconds.</Source>
-      <Dest>Mod disabled.  Do not remove scripts files from script folder. To Re-enable mod Using MCM Menu Activate mod again AND change locations by entering indoors or exiting outdoors. Then Wait 20 seconds.</Dest>
-    </String>
-    <String List="0">
-      <Source>Deadly Weapons Secondary Script Fired (Busy State)!</Source>
-      <Dest>Deadly Weapons Secondary Script Fired (Busy State)!</Dest>
+      <Dest>MODが無効になりました。scriptsフォルダからスクリプトファイルを削除しないでください。 MCMメニューから再度MODをアクティブにしてMODを有効にし、屋内に入るか屋外で出ることで位置を変更します。その後、20秒待ってください。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>

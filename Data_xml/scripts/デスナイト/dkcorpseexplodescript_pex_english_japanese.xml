@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Target is ignited!</Source>
-      <Dest>Target is ignited!</Dest>
+      <Dest>対象を点火した！</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
