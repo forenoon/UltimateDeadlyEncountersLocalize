@@ -12569,7 +12569,7 @@ Currently Set at : %.0f</Source>
     </String>
     <String List="2">
       <Source>You are welcome, brave adventurer.</Source>
-      <Dest>ようこそ、勇敢な冒険者さん。</Dest>
+      <Dest>どういたしまして、勇敢な冒険者さん。</Dest>
     </String>
     <String List="2">
       <Source>No problem.</Source>

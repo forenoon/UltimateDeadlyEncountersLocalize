@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>I Covertly Advance...</Source>
-      <Dest>ひっそりと進む…</Dest>
+      <Dest>隠れながら進もう…</Dest>
     </String>
     <String List="0">
       <Source>Level is: </Source>
@@ -17,11 +17,11 @@
     </String>
     <String List="0">
       <Source>Element of Surprise Is Totally Lost...</Source>
-      <Dest>驚きの要素はすっかり失われた…</Dest>
+      <Dest>襲撃者は完全にいなくなった…</Dest>
     </String>
     <String List="0">
       <Source>Element of Surprise is Gone...</Source>
-      <Dest>驚きの要素は過ぎ去った…</Dest>
+      <Dest>襲撃は過ぎ去った…</Dest>
     </String>
     <String List="0">
       <Source>I Lost Some Cover...</Source>
@@ -29,11 +29,11 @@
     </String>
     <String List="0">
       <Source>General Alarm Is Raised ...</Source>
-      <Dest>普通の警報が鳴った…</Dest>
+      <Dest>警報が鳴った…</Dest>
     </String>
     <String List="0">
       <Source>I Lost Some Concealment...</Source>
-      <Dest>いくつかの隠蔽を失った…</Dest>
+      <Dest>見つかってしまった…</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
