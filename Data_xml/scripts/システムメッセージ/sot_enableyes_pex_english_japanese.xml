@@ -11,17 +11,5 @@
       <Source>Mod Armed! Now, please save your game, exit to the desktop, and start the game again.  Please Endorse if you like the mod.</Source>
       <Dest>Mod作動開始！今から、ゲームをセーブして終了し、デスクトップに戻って、再びゲームを再開してください。 もしこのModを気に入ったなら支持してください。</Dest>
     </String>
-    <String List="0">
-      <Source>Walking Encounters Initialized!</Source>
-      <Dest>Walking Encounters Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Waiting Encounters Initialized!</Source>
-      <Dest>Waiting Encounters Initialized!</Dest>
-    </String>
-    <String List="0">
-      <Source>Fast Traveling Encounters Initialized!</Source>
-      <Dest>Fast Traveling Encounters Initialized!</Dest>
-    </String>
   </Content>
 </SSTXMLRessources>

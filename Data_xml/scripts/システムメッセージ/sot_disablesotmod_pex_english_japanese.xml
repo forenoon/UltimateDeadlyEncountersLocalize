@@ -9,7 +9,7 @@
   <Content>
     <String List="0">
       <Source>Mod disabled.  Do not remove scripts files from script folder.  Uncheck mod from your mod list but do not uninstall until you start a new game.  Next, wait two minutes, save your game, exit the game, uncheck the mod, go back into game.</Source>
-      <Dest>Mod disabled.  Do not remove scripts files from script folder.  Uncheck mod from your mod list but do not uninstall until you start a new game.  Next, wait two minutes, save your game, exit the game, uncheck the mod, go back into game.</Dest>
+      <Dest>MODが無効になりました。scriptsフォルダからスクリプトファイルを削除しないでください。MODリストからMODをオフにしますが、ニューゲームを開始するまでアンインストールしないでください。次に、2分待ってゲームを保存し、ゲームを終了し、MODをオフにしてゲームに戻ります。</Dest>
     </String>
   </Content>
 </SSTXMLRessources>
