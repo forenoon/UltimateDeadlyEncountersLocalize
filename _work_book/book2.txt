@@ -1,14 +1,25 @@
 The Curse of the Rumiirua : Being the Journal of Jebidiah Halfwitch
 reface, a warning from the author
 
+ルミールアの呪い
+ジェビディア・ハーフウィッチ 著
+修復と、著者からの警告
 
 
-	Know this:
+Know this:
 By taking and reading this book, it is up to you to stop the undead nightmare.
 Consider this book the torch. And if you are reading it, consider the torch passed.
 I wash my hands of it. Evil sorcerers, magic swords and other such nonsense.
 It's all on you now. Good luck, fool.
 Sincerely,
+D. C.
+
+：
+この本を読み、アンデッドの悪夢を止めるかどうか貴方は次第だ。
+この本はバトンだ。この本を読んだなら、バトンを誰かに渡すことも考えてほしい。
+私はこの件から手を引く。邪悪な魔術師、魔法の剣なんて馬鹿げている。
+これは今や貴方のものだ。おめでとう、愚か者。
+敬具、
 D. C.
 
 
@@ -18,6 +29,9 @@ D. C.
 
 		(pick whichever title you like better)
 
+		「ルミールアの遺産」または「死者の王」
+		
+		（好きな方を取ればいい）
 
 
 			I left home that summer
@@ -25,6 +39,10 @@ D. C.
 			and grief became my merriment
 			and madness stole my joy
 
+			私が生家を追われた夏は
+			私はただの少年で
+			悲しみが私の名誉になり
+			狂気が私の喜びを奪った
 
 You like that? I wrote it sitting by a campfire one night when my father and I were running the back trail of the Rumiirua. I used to dream I'd be a famous bard one day. I dreamt that my father would be proud. Now he's dead and there's no one left to care what I do.
 
@@ -226,9 +244,16 @@ I drank from it and decided what to do next. What I decided was, I'd write this 
 
 Walking dead, evil wizards, sorceresses with enchanted swords, curses, spells, and oh yeah, a creature that crushes skulls one-handed! To Oblivion with this. I'm done. Tamriel can rot. 
 
+歩く死体、邪悪な魔術師達、魔剣の魔女、呪い、呪文、そして、ああ、隻腕の頭蓋砕き！地獄だ。私は終わりだ。タムリエルは腐ってしまう。
+
+
 Unless you care to save it, that is. 
 
+貴方が全てを救わなければ、現実のものとなってしまう。
+
+
 I've been traveling by day and writing by night. East this time. Shadow no longer rising to meet me in the morning. I've heard of a town known as Tristram and a land called Sanctuary. I'm headed there, hoping to live out the rest of my days away from all this madness. 
+
 
 At the edge of Skyrim at a place called Broken Helm Hollow, I will leave this journal. If you find it, the first thing you should know is that I hid the enchanted sword at Bloodlet Throne. Go there, find it and go on to Halldir's Cairn and slay the monster that keeps the Rumiirua's curse alive. 
 
