@@ -16,7 +16,7 @@ D. C.
 
 最初に：
 この本を読み、アンデッドの悪夢を止めるかどうか貴方は次第だ。
-この本はバトンだ。この本を読んだなら、バトンを誰かに渡すことも考えてほしい。
+この本はトーチだ。この本を読んだなら、トーチを誰かに渡すことも考えてほしい。
 私はこの件から手を引く。邪悪な魔術師、魔法の剣なんて馬鹿げている。
 これは今や貴方のものだ。おめでとう、愚か者。
 敬具、
@@ -29,7 +29,7 @@ D. C.
 
 		(pick whichever title you like better)
 
-		「ルミールアの遺産」または「死者の王」
+		「ルミールアの遺産」あるいは「死者の王」
 		
 		（好きな方を取ればいい）
 
@@ -57,7 +57,7 @@ I decided to call this The Legacy of the Rumiirua to keep it consistent with Jeb
 
 I imagine all kinds of people have written accounts of what happened that first night and every night since. Every day as well, for that matter. Everyone wants to leave behind some kind of legacy. 
 
-様々な人たちが最初の夜とそれからの夜ごとに何が起こったかを書いているだろう。毎日のように、それについて。誰もが何かしらの遺産を残したがっている。
+様々な人たちが最初の夜とそれからの夜ごとに何が起こったかを書いていると思う。毎日だろう、そのことについてなら。誰もが何かしらの遺産を残したいものだ。
 
 
 In that respect, Jebidiah's journal was no different than dozens, maybe hundreds of other stories. Except Jebidiah's was the the one my father found. Well, that and the fact that Jebidiah had stumbled across a small bit of the truth of where these monsters came from. 
@@ -67,12 +67,12 @@ In that respect, Jebidiah's journal was no different than dozens, maybe hundreds
 
 My father was a good man by the name of Sebastian Cain. He was a farmer like Jebidiah. And like Jebidiah, had lost all his family except me. He probably felt some sort of kinship to him. Some sympathy or pity. Or maybe just the need to succeed where Jebidiah had failed. In any case, Jebidiah's book set him on a path. 
 
-父はセバスチャン・カインという名の善き人だった。ジュビディアと似たような農家だった。そしてジュビディアと似たように、私を除いたすべての家族を失ってしまった。父はおそらく彼に一種の親近感のようなものを感じたのだろう。共感や同情。あるいはジュビディアが成し遂げられなかったことを成し遂げる必要に駆られたのかもしれない。
+父はセバスチャン・カインという名の善良な人だった。ジュビディアと似たような農家だった。そしてジュビディアと似たように、私を除いたすべての家族を失ってしまった。父はおそらく彼に一種の親近感のようなものを感じたのだろう。共感や同情。あるいはジュビディアが成し遂げられなかったことを成し遂げる必要に駆られたのかもしれない。
 
 
 But I guess that comes a bit later. I should start with the night when the dead rose, like Jebidiah did. Except I'll try to stay much more on point. Lord, could that man ramble on.
 
-だが私もあと少しすれば行くのだろう。私は死者が起き上がったあの夜から始めるべきなのだ、ジュビディアがしたように。私はもっと多くのことを努力しなければならないが。主よ、私は踏み出すことができるでしょうか。
+しかしその話は少し後にした方がいいだろう。私は死者が起き上がったあの夜から始めるべきなのだ、ジュビディアがしたように。私はもっと多くの事に焦点を当てようと思う。本当に、あの男は乱雑だった。
 
 
 My name is Deckard, youngest of two brothers. 14 years old the day the dead came back. I had gone with my father into town for supplies that day. Feed, and a bit of lumber for rebuilding fences. We had a farm not far from Windhelm and were traveling back home on horseback pulling our cart around supper time when we saw the first of the dead. It was slowly stumbling along the side of the road by itself when we passed. We thought he was drunk. He moved to swipe at our horse, but was too far away and too slow. He simply lurched towards it and fell over. It was only later that we realized with horror what he must have been. At the time we just laughed at the stupid drunk. My father made some comment about pulling him off the road, but as we looked back he was already getting up.
@@ -163,32 +163,32 @@ We were both very fortunate and very lucky to have survived some of these encoun
 
 Like I said, we traveled alone mostly. Slowly moving to the west. It didn't take too many uncomfortable encounters before we just avoided other groups instinctively. The road is a lonely place, and it goes on much longer than we will.
 
-前にも言ったように、ずっと私たちだけで旅をしてきた。ゆっくりと西へ。本能的に他のグループを避けたためか、多くの不快な遭遇には出くわさなかった。道は孤独で、私たちよりずっと長く続く。
+前にも言ったように、ずっと私たちだけで旅をしてきた。ゆっくりと西へ。本能的に他のグループを避けたためか、不快な遭遇には多くは出くわさなかった。この道程は孤独で、私たちが思っていたよりも遥かに長かった。
 
 
 I guess this brings me to the old broken temple in Whiterun. And Jebidiah's journal. This would be a few months after the initial Rising. We found the journal in front of the alter while seeking shelter from the rain one night. It was lousy shelter. And considering everything since, I'd give anything if we'd just ridden the storm out. 	                     
 
-思うにこの道の先にホワイトランの寂れた聖堂に辿り着くのだろう。そしてジュビディアの手記。これは最初の発起から数ヶ月後のこと。私たちは一晩の雨風をしのげる場所を探しながら、祭壇の前で手記を見つけた。
+思うにこの道の先にホワイトランの寂れた聖堂に辿り着くのだろう。そしてジュビディアの手記。これは最初の発起から数ヶ月後のこと。私たちは一晩の雨風をしのげる場所を探しながら、祭壇の前で手記を見つけた。あれから色々考えると、私の全てと引き換えにしても、あの嵐の中を突き進むべきだったように思う。
 
 
 But no, we stopped. My father picked up the book and became fascinated with it. I don't know why he picked it up to begin with. What did he think it was, a bible? What good would that do us? But he read it. Then he read it again. Then he had me read it. Then he read it again. Maybe fascinated was the wrong word. Maybe obsessed would be better. 
 
-私たちは立ち止まってしまった。父は本を拾い、そして魅了された。私にはなぜ彼がそれを拾ったのかはわからない。経典だと思った？一体何が良かったのか？しかし彼はそれを読んだ。繰り返し読んだ。繰り返し。繰り返し。魅力的な言葉だったのかもしれない。執着している方が良いのかもしれない。
+しかし私たちは立ち寄ってしまった。父は本を拾い、そして魅了された。私にはなぜ彼がそれを拾ったのかはわからない。経典だと思った？一体何が良かったのか？しかし彼はそれを読んだ。繰り返し読んだ。繰り返し。繰り返し。おそらく魅力的というのは間違っているのだろう。執着していたという方が適切かもしれない。
 
 
 He told me it was now our responsibility to take the book to Jebidiah's sister-in-law. Sarah. He talked about her like he knew her. He said that people must know about the Rumiirua, the summoning, the Mage's guild. He thought the answer to their undoing was in that book. He was close to right, I guess. Funny how things work out.                                                              
 
-彼はジュビディアの姉妹にこの本を届ける責任があると話した。サラ。彼はまるで彼女を知っているかのように彼女について話した。彼は人々はルーミリアについて知らなければならないと言う、召喚、魔術師ギルド。彼は本に描かれていた破滅の元凶について考えた。彼は正解に近づいていた、と思う。可笑しいほど上手くやる方法を。
+彼はジュビディアの姉妹にこの本を届ける責任があると話した。サラ。彼はまるで彼女を知っているかのように彼女について話した。彼は人々はもっとよく知らなければならないと言う、ルーミリアや、召喚術や、魔術師ギルドについて。彼は本に描かれていた破滅の元凶について考えた。彼は正解に近づいていた、と思う。素晴らしく上手くやれる方法を。
 
 
 Sarah lived in a village not far from Whiterun, and in the direction we were heading anyhow. My father thought this was providence. He said we were meant to find the journal and deliver it, and that with this information, the Rumiirua could be stopped. So we set out to find Sarah. That's when things really went to shit.
 
-サラはホワイトランから遠くない村に住んでいて、私達が目指していた方角にあった。父はこれは神の導きであると思ったようだ。私達が手記を見つけそれを届ける、そしてこの情報で、ルミールアを止めることができるのだと。そこで私達はサラを見つけるために出発した。ここからだ、物事が狂い始めたのは。
+サラはホワイトランから遠くない村に住んでいて、私達が目指していた方角にあった。父はこれは神の導きであると思ったようだ。私達が手記を見つけそれを届ける、そしてこの情報で、ルミールアを止めることができるのだと。そこで私達はサラを見つけるために出発した。ここからだ、物事が本当に狂い始めたのは。
 
 
 I guess the first thing to tell you is that we didn't find her. Well, pieces of her, I guess, no way of knowing for sure. It was just over a days journey, and when we arrived we found almost everyone in the town slaughtered. There were three survivors, I don't recall their names. A man, his sister, and another woman I'm not sure either of them really knew. 
 
-まず最初に伝えなければならないのは、彼女を見つけることができなかったということだろう。そう、彼女の断片すら、おそらく、知る術が無い。あれは1日以上旅をしていた時、ほとんどの人が虐殺された町を見つけた。生存者は3人、彼らの名前は思い出せない。男性、男性の姉妹、そして別の女性だがよくどちらだったか本当に覚えていない。
+まず最初に伝えなければならないのは、彼女を見つけることができなかったということだろう。そう、彼女の断片すら、おそらく、知る術が無い。あれは1日以上旅をしていた時、ほとんどの人が虐殺された町を見つけた。生存者は3人、彼らの名前は思い出せない。男性、男性の姉妹、そして別の女性だがどちらだったか本当によく覚えていない。
 
 
 They had survived the attack on their town by hiding in a cellar and barring the door. You hear that Jebidiah, you stupid bastard? The cellar! They hid in the cellar and they survived.
@@ -198,37 +198,37 @@ They had survived the attack on their town by hiding in a cellar and barring the
 
 We asked about Sarah Halfwitch, assuming she had taken her husbands name, and were not disappointed. The man's sister told us where we could find the home. There was certainly no love for the Halfwitches from her. She spit on the ground every time she spoke the name. Something about the great-grandmother and where the family name came from presumably. 
 
-私たちはサラ・ハーフウィッチについてたずね、彼女が夫の名を取っていることも仮定して、そして失望せずにすんだ。男の姉妹が家を見つけられる場所を教えてくれたのだ。ただ彼女からハーフウィッチに対する愛着は感じなかった。その名前を口にするたびに地面に唾を吐きかけたほどだ。曾祖母とその姓がおよそどこから来たのかについてを。
+私たちはサラ・ハーフウィッチについてたずね、彼女が夫の名を取っていることも仮定して、そして失望せずにすんだ。男の姉妹が家を見つけられる場所を教えてくれたのだ。ただ彼女からハーフウィッチに対する好感は感じなかった。その名前を口にするたびに地面に唾を吐き捨てたほどだ。曾祖母の代にその名前の一族と何かあったらしい。
 
 
 We arrived at the home to find just what you'd expect, only slightly more decayed than we were used to. She and whoever had been with her (three others, judging by the mess), had been dead a long time. But someone else had been here since they were slaughtered. The words Southfringe Sanctum had been written on the wall in their blood. My father and I stared at it for a long time, neither of us speaking. Finally he hefted his pack, slung it over his shoulder, gave me a look and walked out the door. After a minute longer staring at the blood writing on the wall by myself, followed after him. There were no answers here. Only more questions. 
 
-私たちはまさにあなたが期待しているであろうものを探すためにその家に着いたが、想像していたよりもわずかに朽ちていた。彼女とともにいた誰か（3人だろうか、汚れ具合からすると）は、死んでからかなり経っているようだった。だが彼女たちが殺されてから、ほかの誰かがここに来たらしい。「サウスフリンジ聖域」という文字が壁に彼らの血で書かれていた。父と私は長いことそれを見つめて、どちらも話さなかった。最後に彼は荷物を持ち上げ、肩にかけ、私を一瞥しドアを出て行った。私は壁の血文字を少しの間見つめてから、彼の後に続いた。ここに答えは無かった。あったのは更なる疑問だけ。
+私たちはその家に辿り着き貴方が予想しているであろうものと向かい合ったが、私たちが慣れたものより更に腐敗していた。彼女とともにいた誰か（3人だろうか、乱雑具合からすると）は、死んでからかなり経っているようだった。だが彼女たちが殺されてから、ほかの誰かがここに来たらしい。「サウスフリンジ聖域」という文字が壁に彼らの血で書かれていた。父と私は長いことそれを見つめて、どちらも話さなかった。最後に彼は荷物を持ち上げ、肩にかけ、私を一瞥しドアを出て行った。私は壁の血文字を少しの間見つめてから、彼の後に続いた。ここに答えは無かった。あったのは更なる疑問だけ。
 
 
 The three strangers we met were nowhere to be seen. We left as quietly as we had come. Moving to the south this time. My father must have felt some kind of depression at not being able to give the journal to Sarah. Maybe he felt some kind of burden now that the journal was his and there was no-one to pass it off to. I don't know, he never spoke of it. But he would read it each night at our camp fire. He would cling to it.
 
-3人の見知らぬ人は私たちが会ったことがない人物だった。私たちは来たときと同じように静かに去った。今から南へ向かう。父はセラに手記を渡すことができていないせいで憂鬱に感じていたに違いない。手記を持っていたことに、何らかの負担を感じたのかもしれない。私は知らない、彼がそう語ることはなかった。でも彼は毎晩、焚き火の火でそれを読むのだ。まるで取り憑かれているように。
+この3人の見知らぬ人たちに私たちを出し抜いて会った者がいる。私たちは来たときと同じように静かに去った。今から南へ向かう。父はサラに手記を渡すことができなかったことで憂鬱に感じていたに違いない。手記を持っていたことに、何らかの負担を感じたのかもしれない。私は知らない、彼がそう語ることはなかったのだ。でも彼は毎晩、焚き火の火でそれを読むのだ。まるで取り憑かれているように。
 
 
 It occurred to me for the first time then that we never truly know our fathers. The lives they lived, the men they were before we came along. There's so much I never knew about him. No sense dwelling on that I suppose.
 
-私は初めて本当の意味で父のことを知らないないのだろう思った。彼らのあり方は、私たちが来る前のままだった。私は彼について何も知らなかった。思うに住んでいる感じではなかった。
+私はここで初めて本当の意味で父のことを知らないないのだろう思った。彼がどう生きてきて、私たちが生まれる前にどんな人だったのか。私は彼について知らないことがあまりに多い。今更考える意味もないのだろうが。
 
 
 We moved to the south, through Riverwood, the Throat of the World looming to the east. We passed through Helgen and made our way to Southfringe Sanctum. It was a long journey, but at least we had a destination. We didn't see much in the way of the Rumiirua. But we saw the devastation everywhere. Almost no signs of life.
 
-私たちは南へ向かい、リバーウッドを通って、世界のノドを東に向かった。ヘルゲンを通り目的のサウスフリンジ聖域へ向かった。それは長い旅だったが、少なくとも私たちにはまだ行き先があった。道中ではルミールアを見ることはなかった。しかしあちこちで廃墟を見かけた。誰かが住んでいる気配はなかった。
+私たちは南へ向かい、リバーウッドを通って、世界のノドを東に向かった。ヘルゲンを通り目的のサウスフリンジ聖域へ向かった。それは長い旅だったが、少なくとも私たちにはまだ行き先があった。道中ではルミールアを見ることはなかった。しかしあちこちで廃墟を見かけた。誰かが生きている気配はなかった。
 
 
 I'll spare you the details of our journey south other than to tell you the closer we got to Southfringe Sanctum, the more dread I began to feel. Who, after all, had written those words in blood on the wall? And why? And for whom? These were questions that, the closer we traveled to our destination, the less I wanted to know the answers.
 
-サウスフリンジ聖域に近づく以外の南への旅の詳細だが、私は強い恐怖を感じ始めた。誰が、結局、壁に血文字を書いたのか？なぜ？誰のために？この疑問は、目的地に近づくほど、その答えを知りたくなくなってきたのだ。
+サウスフリンジ聖域に近づく以外の南への旅については言及しないが、私は強い恐怖を感じ始めた。誰が、結局、壁に血文字を書いたのか？なぜ？誰のために？この疑問は、目的地に近づくほど、その答えを知りたくなくなってきたのだ。
 
 
 We finally arrived in Southfringe to find nothing. Nothing new anyhow. Waste and destruction. What appeared to be a hastily abandoned military camp. My father said nothing. He just set about making camp.
 
-私達はついに何にも遭遇しないままサウスフリンジ聖域に辿り着いた。最近のものは何も無かった。瓦礫と破壊されたもの。突然放棄された軍事施設に見えた。父は何もいわず。キャンプを作った。
+私達はついに何にも遭遇しないままサウスフリンジ聖域に辿り着いた。最近のものは何も無かった。瓦礫と破壊されたもの。突然放棄された軍用キャンプに見えた。父は何もいわず。キャンプを作った。
 
 
 We made our camp on the remains of theirs and built a fire. We were just turning in to sleep when we heard the voice. It was slow and wise, almost angelic.
@@ -243,12 +243,12 @@ We made our camp on the remains of theirs and built a fire. We were just turning
 
 My father was on his feet in an instant, sword already drawn. 'Show yourself, witch', he said looking around in all directions as if addressing the night itself.
 
-父は瞬時に立ち上がり、すでに剣を抜いていた。「姿を現せ、魔女め」、彼は闇夜を見回すようにして言った。
+父は瞬時に立ち上がり、すでに剣を抜いていた。「姿を現せ、魔女め」彼は闇夜を見回すようにして言った。
 
 
 'I am no witch' the voice said. 'And I mean you no harm. Will you put away your sword, or will you strike down the answers you seek?'
 
-「私は魔女ではありません」声は言う。「貴方に害意はありません。剣を納めてください、それとも貴方が探していた答えを諦めますか？」
+「私は魔女ではありません」声は言う。「貴方に危害を加える気はありません。剣を納めてください、それとも貴方が探していた答えを諦めますか？」
 
 
 'How do you know my name?', my father challenged.
@@ -258,7 +258,7 @@ My father was on his feet in an instant, sword already drawn. 'Show yourself, wi
 
 'I know much, and I see much. I have watched you for some time, Sebastian, Champion of Tamriel', the voice said. 'I know you are pure of heart. I know you would avenge your wife and child. And I know mostly, you would see this evil laid to rest, lest it consume everything. As it will if left unchecked'
 
-「よく知っていますよ、よく見ましたから。しばらく貴方を見てきました、セバスチャン、タムリエルの英雄よ。」声は言う。「知っています貴方の純粋な心を。知っています貴方の妻と子の復讐を。よく知っています、you would see this evil laid to rest, lest it consume everything. 人知れず。」
+「よく知っていますよ、よく見ましたから。しばらく貴方を見てきました、セバスチャン、タムリエルの英雄よ。」声は言う。「知っています貴方の純粋な心を。知っています貴方の妻と子の復讐を。よく知っています、貴方が出会った悪を打ち倒し、全てを飲み込ませないようにしていることを。そうさせないように。」
 
 
 'Then it was you who left the message in the Halfwitch home?', my father asked.
@@ -273,12 +273,12 @@ My father was on his feet in an instant, sword already drawn. 'Show yourself, wi
 
 My father did not sheath his sword, but he did lower it so that it pointed to the ground. 'Come then', he said. 'Join us at the fire'
 
-父は剣を抜かなかったが、それを下げて地面を指した。「来い」、彼は言う。「火の前まで」
+父は剣を抜かなかったが、それを下げて地面を指した。「来い」、彼は言う。「火の側まで」
 
 
 She stepped out of the shadows like she was simply materializing into view. And in just a few steps was at the fire. I had never seen anything like her. She was beautiful and foreboding at the same time. She wore a strange headdress that seemed to merge with her clothing. It appeared to be a falcon. It was quite bizarre looking at her face and seeing the face of a bird just above it. The cloak was attached at her wrists and if she held her arms out it would appear that she had wings. Of course the whole ensemble was made of feathers. 
 
-彼女は見やすいように影から出てきた。火のすぐそばまで。私は彼女のようなものを見たことがなかった。彼女は美しく同時に物憂げだった。彼女は彼女の服にあった奇妙な髪飾りを付けていた。鷹のような。彼女の顔と一緒に鳥の顔も見えてとても奇妙な見た目だった。手首には外套が巻かれていて、両手を広げたら翼に見えそうだった。そう全体が羽毛でできていたのだ。
+彼女はまるで何も急に現れたかのように影の中から歩み出てきた。わずか数歩で火のすぐそばまで。私は彼女のようなものを見たことがなかった。彼女は美しく同時に悲しげだった。彼女は服とつながったような奇妙な髪飾りを付けていた。鷹のような。彼女の顔と一緒に鳥の顔も見えてとても奇妙な見た目だった。手首には外套が巻かれていて、両手を広げたら翼に見えそうだった。そう全体が羽毛でできていたのだ。
 
 
 'You may put away your sword too, Young Deckard' she said as she turned to regard me.
@@ -293,171 +293,211 @@ I didn't even realize I had drawn it. I blushed as I lowered it. I hoped she wou
 
 'Fetch some more wood, boy' my father said.
 
-「薪を入れてくれ、息子よ」父が言う。
+「もっと薪を集めてきてくれ、息子よ」父が言う。
 
 
 Before I could even turn around to set about doing so, she simply waved her hand over the fire and it sprang to life. 'There's no need', she said. 'Come and sit'
 
+私が振り向いてそうしようとしたら、彼女が焚き火の上で軽く手を振ると炎が勢いよく燃えはじめた。「必要ありません」彼女が言う。「どうぞ座ってください」
 
 
 It struck me as odd that she was inviting us to our own fire, but we both obeyed.
 
+彼女が私たちの焚き火に私たちを招くというのはおかしな話ではあったが、私たちは共に従った。
 
 
 'My name', she said, 'is Teela-Na. I have come a great distance to find you.'
 
+「私の名は」彼女は言う「ティーラ・ナ。私はとても遠くから貴方を見つけるためにやってきました。」
 
 
 'Can you stop these creatures?', my father asked. No beating around the bush for him. Straight to it.
 
+「あの化け物共を止められるか？」父は尋ねる。彼は遠回しに言わなかった。とてもまっすぐに。
 
 
 'No, I can not', she said. 'But you can. And I can help you.'
 
+「いいえ、できません」彼女は言う。「しかし貴方ならできます。私の助けがあれば。」
 
 
 'These creatures you call Rumiirua, they were created by an evil wizard sometimes known as Keldor.' My father perked up at that name.
 
+「貴方達がルミールアと呼ぶ怪物達、あれらは時にケルドールと呼ばれる邪悪な魔術師によって生み出されました。」父はその名に驚いていた。
 
 
 'Yes', she said. 'You know the name from Jebidiah's journal.'
 
+「そうです」彼女は言う。「貴方は知っていますね、ジュビディアの手記で。」
 
 
 'The traveler Russio met', my father agreed. 
 
+「ルシオが出会った旅行者だ」父は同意した。
 
 
 'Keldor was admiring his handiwork, I imagine', she said. 'Spreading fear as well as death.' 
 
+「ケルドールは自身の業に驕れています、想像するに」彼女は言う「恐怖と死を広めることに。」
 
 
 'How do you know him', my father asked.
 
+「どうやってやつを知った」父は問う。
 
 
 'He and I both come from a world called Eternia.' My father nodded at this as if it confirmed what he suspected. 'You know most the story already from Jebidiah's book, what you need to know anyhow.'
 
+「彼と私は共にエターニアと呼ばれる世界から来ました。」父は疑いが確信に変わったようにうなずいた。「貴方はすでにジュビディアの手記でほとんどを知っているでしょうが、いずれにせよ貴方は知るべきです。」
 
 
 'So this monster comes from your world, lays waste to ours, and you won't lift a finger to help?' I drew in a deep breath at this outburst from my father.
 
+「あの化け物共はお前達の世界から来て、この世界に大災害を引き起こしているのに、これまで助けようと指一本動さなかったのか？」私は父の激しい怒りを目の当たりにして深く息を吸い込んだ。
 
 
 'I am the keeper and protector of a great power and a great secret on Eternia. It is my duty and purpose in life', she said. 'And I channel some of that power to do what must be done. Outside the walls of Cast- of my home, I do not have access to any of those powers.'
 
+「私はエターニアの大いなる力とその秘密を保持し守る者です。それが私の人生の義務であり使命でもあります」彼女は言う「そしてその力の一部を成すべきことを成すために行使するのです。しかし領域の壁の外では、私はそれらの力に触れることができないのです。」
 
 
 'My father gestured toward to roaring fire as if to say 'Then what is this shit?'
 
+父はまるで猛る炎のように言った「ふざけるなよ」。
 
 
 The mystical lady just smiled. 'Such simple conjurers tricks will do nothing to break the spell Keldor has cast. And I am essentially powerless in your world.'
 
+不思議な女性はわずかに微笑んだ。「こんな簡単な呪術ではケルドールが唱えた魔術を破ることはできません。それに私は貴方がたの世界では本質的に無力なのです。」
 
 
 My father seemed to accept this so she went on.
 
+父はこの話を受け入れたように思えたため彼女は続けた。
 
 
 'Keldor found an ancient artifact we had thought was only a myth, called the Spellstone. He used it to animate the dead and set them on a warpath to the Mage's Guild, killing everything in their path, and leaving death in their wake. Increasing their numbers as they go. Even now the Mage's Guild is at war with them and they will not last long. Once the Mages are dead and the Rumiirua have no quest, they will simply wander and kill until there is nothing left of Tamriel but a land of the dead.'   
 
+「ケルドールは私達が神話にすぎないと思っていたある古代のアーティファクトを見つけました、スペルストーンを呼ばれる物です。彼はそれを用いて死者を動かして魔術師ギルドへの進撃を始め、道中の全てを殺し、生ける屍として目覚めさせています。彼らは次第に数を増やしています。今でも魔術師ギルドは彼らと戦っていますが長くは続かないでしょう。もし魔術師達が殺されルミールアの目的が無くなれば、彼らは只ひたすらに彷徨い続け、タムリエルが死の国となるまで何もかもが無くなるまで殺し尽くすでしょう。」
 
 
 'Keldor has left the Spellstone here in your world. It is what keeps them animated. It must be destroyed.'
 
+「ケルドールはスペルストーンをこの世界に残しました。これが彼らを動かしているのです。破さなければなりません。」
 
 
 'Then tell us where it is and we shall destroy it', my father said.
 
+「どこにあるのか教えてくれ、それを破壊しよう」父は言う。
 
 
 'It is not so simple,' she replied. 'The Spellstone has been bonded with a guardian. The stone's essence, if you will, has merged with him and will protect him. And as long as he lives, the Rumiirua will sweep across your land like a plague.'
 
+「それは簡単なことはありません」彼女は返す。「スペルストーンは守護者と結ばれています。あの石の祭壇は、もし破壊しようとすれば守護者と融合し、自身を守ります。それらが存在している限り、ルミールアは疫病のようにこの地を薙ぎ払い続けるでしょう。」
 
 
 'He has gone by many names. Sometimes Osiris, sometimes Khenti-Amentiu. He is also called Raab AlMout, which means Lord of the Dead. He will be essentially invincible on your world to your weapons. But I can give you a weapon, a sword, that will break the magic protecting him and destroy the Spellstone's curse' 
 
+「守護者には多くの呼び名があります。ある時はオシリス、またある時はケンティ・アメンティウ。またラーブ・アルモウトとも呼ばれます、いずれも"死者の王"を意味しています。彼は本質的にこの世界の武器に対して無敵です。しかし私は貴方に武器を授けることができます、剣を、あの魔法の守りを打ち破り彼とスペルストーンの呪いを破壊することができるものです。」
 
 
 As she said this she produced a sword from underneath her feathered cloak and held it out to my father. I have no idea how she had hidden such a thing under there.
 
-
+彼女はそう言いうと羽根の外套の下から剣を取り出して父にそれを手渡した。あれがどうやってあの下に収まっていたのか見当もつかない。
 
 'A sword of power?', my father asked.
 
+「パワーソードか？」父は訪ねる。
 
 
 Teela-Na could not have recoiled more if he had slapped her.
 
+ティーラ・ナは例え父に引っぱたかれたとしてもあんなにたじろがなかっただろう。
 
 
 'Ancients no!', she said. 'Such a thing could never be brought and left here. This is just a sword with a special enchantment I prepared before leaving my refuge. But it is sufficient to penetrate Keldor's spell.'
 
+「ありえません！」彼女は言う「あのようなものはここに持ち込み、そして残してはならないのです。これは私が避難所を出る前に用意した特別な加護を与えた剣です。しかしケルドールの魔法を貫くには十分なものです。」
 
 
 My father clearly had questions about this but kept them to himself, as he reached out to take the sword.
 
+これには父は明らかに疑問を抱いたようだったが内に留め、剣に手を伸ばした。
 
 
 'You will journey to Halldir's Cairn and there you will find him. I am sure he will be well guarded, and a spell must be spoken to activate the enchantment. You must speak this spell within range of both the sword you hold and Raab AlMout. Then strike him down. The magic of the Spellstone will be broken. And once your task is complete the enchantment on your sword will dissipate. The words you must speak are 'Ma qu-a aljamjima alramaadia'. Now, repeat it for me.'
 
+「貴方はハルディールの石塚へ赴き、そして彼とまみえるでしょう。私は彼が十全に守護されていると確信しています、そして加護を発動させるために呪文を唱える必要があります。貴方はラーブ・アルモウトと剣の間合いで呪文を唱えなければなりません。そして彼を打つのです。スペルストーンの魔法は破られるでしょう。役目を果たすと剣の加護は解かれます。その言葉を唱えるのです"マ・クーア・アルジャムジーマ・アルルマーディア"。さあ、続いてください。」
 
 
 My father did as told, then asked 'You say the magic will dissipate, What will happen to the actual Spellstone? Will he be carrying it?'
 
+父は言われたようにしてから、訪ねた「貴女は魔法が解けるというが、本体のスペルストーンには何が起きるんだ？そいつが持っていったりしなのか？」
 
 
 'I imagine Keldor still holds the actual stone. Probably the magic will leave Osiris when he dies and return to the stone.'
 
+「私はケルドールは本体の石を持っていると思います。おそらく死んだオシリスから抜け出た魔法がまた元の石に戻るはずです。」
 
 
 'So this Keldor... he could do this again? He will still have the magic of the stone even after all we do?', my father asked. 'This is all for nothing?'
 
+「それじゃあそのケルドールは…また繰り返すことができるというのか？俺達が全てを終えたとしてもまだ石を持っているのだから？」父は訪ねる「無意味なんじゃないのか？」
 
 
 'He may indeed regain this power. But it will be our problem on Eternia if he does. I have destroyed his means of traveling into this world to make sure something like this doesn't happen here again. He will certainly retaliate once he discovers what I have done. But it is well past time that we faced him directly. We've underestimated him for far too long. Maybe out of fear, maybe from complacency. We are not ready for a foe of his magnitude. We have had peace for too long. The Masters have become weak. The coming storm on my world is inevitable. But the fires will be like a forge, and from the ashes will rise a hero worthy of the powers I protect. But none of that concerns you.  The fate of your world, that is in your hands now.'
 
+「彼は確かにこの力を取り戻すでしょう。しかし彼が何をしようとそれはエターニアでの私達の問題になります。私はこのような間違いが二度と起こらないように彼がこの世界に渡ってくるための手段を破壊しました。彼は間違いなく私のやったことを見つけ次第に報復してくるでしょう。しかし私達が彼と対峙したのはずっと前のことです。私達はとても長い間彼を見くびってきました。おそらくは恐怖から、おそらくは慢心から。私達は彼の強大な力に対する準備ができていません。私達はあまりも長く平和でいすぎました。マスターズは弱くなっています。来る騒乱は必然です。しかし炎は鍛造のようなもので、その灰から私が守る力に相応しい英雄が生まれるでしょう。しかしそれは貴方には無関係な話なのです。この世界の命運は、今は貴方の手に委ねられています。」
 
 
 My father looked at the sword he held with doubt and trepidation. 'Is there nothing else you can do to help?', he asked. 'You may be powerless here, but is there no other that could help us?'
 
+父は懐疑とそして震えながら握った剣を見た。「貴女の手助けはそれが全てか？」彼は尋ねる。「貴女はここでは無力かもしれない、だが他にも策は無いのか？」
 
 
 This brought a strange look to her face. I could tell she wanted to say something else, but instead she said 'There is one who I think will rise to the challenge, a young prince not much older than you, Deckard. But it is not his time yet. He is not yet ready to meet his destiny. He will be of no help to you '
 
+彼女は奇妙な表情を浮かべた。私には彼女が何か言いよどんだのがわかったが、代わりに彼女はこう言った「一人、挑戦者たり得る者がいます、貴方よりもずっと後の若い王子です、デッカード。しかしまだ彼の時代ではないのです。彼はまだ運命と対峙する準備ができていません。貴方の助けにはならないでしょう。」
 
 
 My father stood and said 'Then I will do what must be done.'
 
+父は立ち上がって言った「ならば私はやるべきことをやろう。」
 
 
 'I knew you would', she said. 'I wish you luck and the power of the ancients'
 
+「そう言ってくれると思っていました」彼女は言う「貴方に幸運と古の力のあらんことを」
 
 
 'I wish you luck against Keldor', my father replied.
 
+「貴女にケルドールと対する幸運を」父はそう返した。
 
 
 Then she turned and looked at me. 'Safe journeys, young Deckard. You have a long road to travel.' And with that she seemed to melt back into the shadows. My father looked down at the sword in his hand as if to convince himself the meeting did in fact happen. He said we should get what rest we could and set out in the morning.
 
+彼女は私に振り向き「旅の安全を、デッカード少年。貴方には長い道のりがあります。」そして彼女は影に溶けるように去った。父はこの邂逅が現実であったことを確認するように握った剣を見下ろした。彼は出来る限りの休息をとって朝に出立すべきだと言った。
 
 
 That is my tale. Or most of it I guess. The rest you can probably imagine for yourself, considering I told you at the beginning my father was dead. We set out the next morning. We made the long journey to  Halldir's Cairn. We found Raab AlMout's camp and the Rumiirua that stayed behind as guards. Although why such a creature would need guards is beyond me. 
 
+これが私の物語。あるいはその大半だ。残った物語は想像がつくだろうが、冒頭で述べたように父は死んだ。私達は翌朝出発した。ハルディールの石塚へは長い旅となった。ついに私達はルミールアが守っているラーブ・アルモウトのキャンプを見つけた。だがなぜあんな化物が護衛を必要とするのか理解できない。
 
 
 They weren't paying much attention anyhow. People to eat and all that. My father found a way to sneak around them and confront Raab AlMout directly. He told me to hide and watch while he slew Raab AlMout. I argued, saying that we could attack him together but he would hear none of it. We only had one enchanted sword he said. 
 
+いずれにせよやつらはあまり注意を払っていなかった。食事に夢中だったのだ。父はやつらを回り込むように潜入してラーブ・アルモウトと直接対峙する方法を見つけた。彼は私にラーブ・アルモウトを仕留める間は隠れているように指示した。私は言ったのだ、二人でかかればと、聞き入れられなかったが。加護の剣は1つしかないからだと言って。
 
 
 I watched as he jumped down from the rock outcropping above his foe taking him by surprise. He probably would have succeeded too, but that landing knocked some of the wind from him and he was unable to pronounce the spell properly. When he struck what should have been a killing blow the sword actually bounced back as if he had struck stone. 
 
+私は見ていた、彼が敵の上に突き出た岩から飛び降りて強襲するのを。上手くいったはずだった、だがやつから巻き起こる風で着地に失敗し呪文を正しく発声できていなかったのだ。彼が放った仕留めるはずの一撃はまるで岩を打ち付けたかのように跳ね返されてしまった。
 
 
 Perfect end to the story right? Everything we had gone through and it ends like this? Well curse the gods of Tamriel. Those of Eternia also. My father was a good man and didn't deserve to die like he did.
 
+これが物語の結末だというのか？私達の成してきた結末の果てがこれなのか？タムリエルの神々を呪う。エターニアの連中もだ。父のような善良な人間はこんなところで死ぬべきではなかったのだ。
 
 
 Raab AlMout, after recovering from his shock at being attacked, reached and picked my father up by his neck, and held him there, choking, suspended in the air. The last thing he did was to turn his head somewhat to look at me. He through the sword to me and it landed just before my feet. Then he mouthed the word 'Run.'
@@ -478,7 +518,7 @@ I drank from it and decided what to do next. What I decided was, I'd write this 
 
 Walking dead, evil wizards, sorceresses with enchanted swords, curses, spells, and oh yeah, a creature that crushes skulls one-handed! To Oblivion with this. I'm done. Tamriel can rot. 
 
-歩く死体、邪悪な魔術師達、魔剣の魔女、呪い、呪文、そして、ああ、隻腕の頭蓋砕き！地獄だ。もうおしまいだ。タムリエルは腐ってしまう。
+歩く死体、邪悪な魔術師、魔女と加護の剣、呪い、呪文、そして、ああ、片腕で人の頭蓋を砕く化け物！地獄だ。もうおしまいだ。タムリエルは腐ってしまう。
 
 
 Unless you care to save it, that is. 
@@ -488,12 +528,12 @@ Unless you care to save it, that is.
 
 I've been traveling by day and writing by night. East this time. Shadow no longer rising to meet me in the morning. I've heard of a town known as Tristram and a land called Sanctuary. I'm headed there, hoping to live out the rest of my days away from all this madness. 
 
-私は昼は旅をして夜に書き記している。今回は東だ。Shadow no longer rising to meet me in the morning. 私はトリストラムとして知られる聖地と呼ばれている町について聞いていた。私はそこに向かい、この狂気から離れて残りの日々を過ごせることを願っている。
+私は昼は旅をして夜に書き記している。今回は東だ。もうこの朝に私に影が差すことはない。私はトリストラムとして知られる聖地と呼ばれている町について聞いていた。私はそこに向かい、この狂気から離れて残りの日々を過ごせることを願っている。
 
 
 At the edge of Skyrim at a place called Broken Helm Hollow, I will leave this journal. If you find it, the first thing you should know is that I hid the enchanted sword at Bloodlet Throne. Go there, find it and go on to Halldir's Cairn and slay the monster that keeps the Rumiirua's curse alive. 
 
-スカイリムの端にあるブロークン・ヘルム・ホロウと呼ばれる場所に、私はこの手記を残す。もし貴方がそれを見つけたら、最初に知っておくべきことは、ブラッドレットの玉座に魔法の剣を隠してきたことだ。
+スカイリムの端にあるブロークン・ヘルム・ホロウと呼ばれる場所に、私はこの手記を残す。もし貴方がそれを見つけたら、最初に知っておくべきことは、ブラッドレットの玉座に加護の剣を隠してきたことだ。
 
 
 And the chant, don't forget the chant. Ma qu-a aljamjima alramaadia.
@@ -508,7 +548,7 @@ I guess that's it. My story. It's much longer than I'd intended. When I started 
 
 I do hope someone finds this. I hope you find it and have the courage to break the spell of the Rumiirua. I hope you find the sword and use it to kill Raab AlMout. I hope you succeed where we failed. I hope that Teela-Na finds a way to stop Keldor. I hope that somewhere on Eternia, there exists someone who has the power to defeat him.
 
-誰かがこれを見つけることを願っている。貴方がこれを見つけてルミールアの呪文を打ち砕く勇気を持っていることを願っている。貴方が剣を見つけてラーブ・アルモルトを殺すために使ってくれることを願っている。貴方が私達が成し遂げられなかったことを成し遂げられることを願っている。ティーラ・ナがケルドールを止める方法を見つけることを願っている。エターニアのどこかに、彼を倒せるものがいることを願っている。
+誰かがこれを見つけることを願っている。貴方がこれを見つけてルミールアの呪文を打ち砕く勇気を持っていることを願っている。貴方が剣を見つけてラーブ・アルモウトを殺すために使ってくれることを願っている。貴方が私達が成し遂げられなかったことを成し遂げられることを願っている。ティーラ・ナがケルドールを止める方法を見つけることを願っている。エターニアのどこかに、彼を倒せるものがいることを願っている。
 
 
 But most of all I hope to live the rest of my days in peace.
