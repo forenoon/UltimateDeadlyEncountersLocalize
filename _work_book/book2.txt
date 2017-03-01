@@ -31,7 +31,7 @@ D. C.
 
 		「ルミールアの遺産」あるいは「死者の王」
 		
-		（好きな方を取ればいい）
+		（貴方が好きな方を取ればいい）
 
 
 			I left home that summer
@@ -47,17 +47,17 @@ D. C.
 
 You like that? I wrote it sitting by a campfire one night when my father and I were running the back trail of the Rumiirua. I used to dream I'd be a famous bard one day. I dreamt that my father would be proud. Now he's dead and there's no one left to care what I do.
 
-貴方はそれが好きだろうか？私が父ともにルミールアの足跡を追っていたある夜に焚き火の前に座ってこれを書いた。私はいつしか吟遊詩人を夢を見ていた。私は父に誇れることを夢見ていたのだ。今では彼は死に、私のやることを気にとめる者はいない。
+貴方はどちらが好きだろうか？私が父ともにルミールアの足跡を追っていたある夜に焚き火の前に座ってこれを書いた。私はいつしか吟遊詩人を夢を見ていた。私は父に誇れることを夢見ていたのだ。今では彼は死に、私のやることを気にとめる者はいない。
 
 
 I decided to call this The Legacy of the Rumiirua to keep it consistent with Jebidiah's journal, even though I prefer The Lord of the Dead. Jebidiah Halfwitch, curse that stupid bastard. If he had just hidden in his cellar like his wife wanted they would all still be alive. More to the point, he wouldn't have written his stupid journal and my family might also be alive. My father at least, is what I mean. My mother and sister were already gone when my father found Jebidiah's book.
 
-私はジュビディアの手記に合わせて「ルミールアの遺産」と呼ぶことに決め、私は死者の主を好んだ。ジュビディア・ハーフウィッチ、あの愚か者を罵ろう。彼の妻が望んだように彼が地下室に隠れていたのなら、彼らはきっと全員が生きていられただろう。さらに重要なのは、彼が愚かな手記を書くことがなければ私の家族も生きていたであろうことだ。少なくとも父はそうだ。母と姉妹は父がジュビディアの本を見つけたときにはすでに他界していたが。
+私はジュビディアの手記に合わせて「ルミールアの遺産」と呼ぶことに決めたが、私は「死者の王」の方が気に入っている。ジュビディア・ハーフウィッチ、あの愚か者を罵ろう。彼の妻が望んだように彼が地下室に隠れていたのなら、彼らはきっと全員が生きていられただろう。さらに重要なのは、彼が愚かな手記を書くことがなければ私の家族も生きていたであろうことだ。少なくとも父はそうだ。母と姉妹は父がジュビディアの本を見つけたときにはすでに他界していたが。
 
 
 I imagine all kinds of people have written accounts of what happened that first night and every night since. Every day as well, for that matter. Everyone wants to leave behind some kind of legacy. 
 
-様々な人たちが最初の夜とそれからの夜ごとに何が起こったかを書いていると思う。毎日だろう、そのことについてなら。誰もが何かしらの遺産を残したいものだ。
+様々な人たちが最初の夜とそれからの夜ごとに何が起こったかを書いていると思う。毎日だろう、そのことについてなら。誰もが何かしらの足跡を残したいものだ。
 
 
 In that respect, Jebidiah's journal was no different than dozens, maybe hundreds of other stories. Except Jebidiah's was the the one my father found. Well, that and the fact that Jebidiah had stumbled across a small bit of the truth of where these monsters came from. 
@@ -77,15 +77,17 @@ But I guess that comes a bit later. I should start with the night when the dead 
 
 My name is Deckard, youngest of two brothers. 14 years old the day the dead came back. I had gone with my father into town for supplies that day. Feed, and a bit of lumber for rebuilding fences. We had a farm not far from Windhelm and were traveling back home on horseback pulling our cart around supper time when we saw the first of the dead. It was slowly stumbling along the side of the road by itself when we passed. We thought he was drunk. He moved to swipe at our horse, but was too far away and too slow. He simply lurched towards it and fell over. It was only later that we realized with horror what he must have been. At the time we just laughed at the stupid drunk. My father made some comment about pulling him off the road, but as we looked back he was already getting up.
 
-私の名はデッカード、二人兄弟の弟だ。14歳だったあの日に死者が戻った。
+私の名はデッカード、二人兄弟の弟だ。14歳だったあの日に死者が戻った。父と一緒に町に買い出しに出かけた日だった。食料に、柵を作り直すための少しの材木。私達はウィンドヘルムから遠くない農場を持っていて夕食頃に荷馬車で帰っている時に最初の死者に出会ったのだ。それがゆっくりとふらつきながら道ばたを歩いていた時に私達は通りがかった。酔っ払いだと思ったのだ。あれは馬に殴りかかろうとこちらへ来たが、あまりにも遠くのろまだった。わかりやすくつんのめってそのまま転んだ。あれがどれほど恐ろしいものか気付いたのはずっと後のことだ。あの時は馬鹿な酔っ払いだと大笑いしたしたものだ。父が彼を道から引き離そうかと何か言っていたが、振り返るとあれはすでに起き上がっていた。
 
 
 We traveled on and forgot about it. About and hour later we began to pass a few homes and farms. The first few were totally silent, which didn't even occur to me then but later I realized we should have heard cows, chickens, horses, something. Then our horses began to spook. Nothing alarming, but you could tell they caught wind of something they didn't like. 
 
+私達は旅の中でそんなことを忘れていた。大体一時間でほんの数軒の家々と農場を通り過ぎた。最初の数軒は静まりかえっていたが、思い起こせば牛や、鶏、馬、などの鳴き声を聞いていたはずだった。すると私達の馬も鳴き始めた。気にも留めることはない、だが彼らは嫌な何かを嗅ぎつけていたとも言える。
 
 
 We came upon a homestead where, as we approached we could hear screaming and crying. My father and I exchanged a nervous glance. He stopped the horses and told me to wait with them while he went to see if he could help with something. I watched him walk to the front door and knock. Then, when there was no answer, he walked around the side of the house and out of my sight.
 
+私達が農場に着くと、近づくにつれて泣き叫ぶ声が聞こえてきた。父と私は緊迫した視線を交わした。彼は馬をとめ何かで手が必要になるまで私に待つように言った。彼が玄関まで歩いてノックするのを見ていた。すると、何も返事がなかったのか、彼は歩いて家の横へ回り込み、私からは見えなくなった。
 
 
 I sat and waited, concerned but not scared, as the horses fidgeted nervously . I don't know how long. Then my father came sprinting around the house in a mad panic. As a child, there are few things more terrifying than seeing a parent terrified. My father came sprinting around the corner so fast he lost his footing and almost fell. He caught himself one-handed and kept right on running. When he reached the horses, he jumped on and spurred the horses hard. We took off with a jolt as I asked my father repeatedly what had happened. He wouldn't answer, except to say we needed to get help. 
@@ -208,12 +210,12 @@ We arrived at the home to find just what you'd expect, only slightly more decaye
 
 The three strangers we met were nowhere to be seen. We left as quietly as we had come. Moving to the south this time. My father must have felt some kind of depression at not being able to give the journal to Sarah. Maybe he felt some kind of burden now that the journal was his and there was no-one to pass it off to. I don't know, he never spoke of it. But he would read it each night at our camp fire. He would cling to it.
 
-この3人の見知らぬ人たちに私たちを出し抜いて会った者がいる。私たちは来たときと同じように静かに去った。今から南へ向かう。父はサラに手記を渡すことができなかったことで憂鬱に感じていたに違いない。手記を持っていたことに、何らかの負担を感じたのかもしれない。私は知らない、彼がそう語ることはなかったのだ。でも彼は毎晩、焚き火の火でそれを読むのだ。まるで取り憑かれているように。
+私達が見つけた3人はどこからも見えなかったはずだ。私たちは来たときと同じように静かに去った。今から南へ向かう。父はサラに手記を渡すことができなかったことで憂鬱に感じていたに違いない。手記を持っていることが重荷になっていたのかもしれない。私は知らない、彼がそう語ることはなかったのだ。でも彼は毎晩、焚き火のそばでそれを読んだのだ。まるで取り憑かれているように。
 
 
 It occurred to me for the first time then that we never truly know our fathers. The lives they lived, the men they were before we came along. There's so much I never knew about him. No sense dwelling on that I suppose.
 
-私はここで初めて本当の意味で父のことを知らないないのだろう思った。彼がどう生きてきて、私たちが生まれる前にどんな人だったのか。私は彼について知らないことがあまりに多い。今更考える意味もないのだろうが。
+私はここで初めて本当の意味で父のことを知らないのだろう思った。彼がどう生きてきて、私たちが生まれる前にどんな人だったのか。私は彼について知らないことがあまりに多い。今更考える意味もないのだろうが。
 
 
 We moved to the south, through Riverwood, the Throat of the World looming to the east. We passed through Helgen and made our way to Southfringe Sanctum. It was a long journey, but at least we had a destination. We didn't see much in the way of the Rumiirua. But we saw the devastation everywhere. Almost no signs of life.
@@ -228,17 +230,17 @@ I'll spare you the details of our journey south other than to tell you the close
 
 We finally arrived in Southfringe to find nothing. Nothing new anyhow. Waste and destruction. What appeared to be a hastily abandoned military camp. My father said nothing. He just set about making camp.
 
-私達はついに何にも遭遇しないままサウスフリンジ聖域に辿り着いた。最近のものは何も無かった。瓦礫と破壊されたもの。突然放棄された軍用キャンプに見えた。父は何もいわず。キャンプを作った。
+私達はついに何にも遭遇しないままサウスフリンジ聖域に辿り着いた。最近のものは何も無かった。瓦礫と破壊の跡。突然放棄された軍用キャンプに見えた。父は何もいわず。キャンプを作った。
 
 
 We made our camp on the remains of theirs and built a fire. We were just turning in to sleep when we heard the voice. It was slow and wise, almost angelic.
 
-私たちはそれらの残骸にキャンプを作り火をおこした。寝ようとしたしたときに声が聞こえた。それはゆっくりと聡明で、まるで天使のような。
+私たちはそれらの跡にキャンプを作り火をおこした。すると寝ようとしたしたときに声が聞こえた。それはゆっくりと聡明で、まるで天使のような。
 
 
 'Sebastian Cain', it said. 'I have waited long for you. May I join you at your fire?'
 
-「セバスチャン・カイン」声は言う。「ずっと貴方を待っていた。近くに行きますよ？」
+「セバスチャン・カイン」声は言う。「ずっと貴方を待っていました。近くに行きますよ？」
 
 
 My father was on his feet in an instant, sword already drawn. 'Show yourself, witch', he said looking around in all directions as if addressing the night itself.
@@ -248,7 +250,7 @@ My father was on his feet in an instant, sword already drawn. 'Show yourself, wi
 
 'I am no witch' the voice said. 'And I mean you no harm. Will you put away your sword, or will you strike down the answers you seek?'
 
-「私は魔女ではありません」声は言う。「貴方に危害を加える気はありません。剣を納めてください、それとも貴方が探していた答えを諦めますか？」
+「私は魔女ではありません」声は言う。「貴方に危害を加えるつもりはありません。剣を納めてください、それとも貴方が探していた答えを諦めますか？」
 
 
 'How do you know my name?', my father challenged.
@@ -278,7 +280,7 @@ My father did not sheath his sword, but he did lower it so that it pointed to th
 
 She stepped out of the shadows like she was simply materializing into view. And in just a few steps was at the fire. I had never seen anything like her. She was beautiful and foreboding at the same time. She wore a strange headdress that seemed to merge with her clothing. It appeared to be a falcon. It was quite bizarre looking at her face and seeing the face of a bird just above it. The cloak was attached at her wrists and if she held her arms out it would appear that she had wings. Of course the whole ensemble was made of feathers. 
 
-彼女はまるで何も急に現れたかのように影の中から歩み出てきた。わずか数歩で火のすぐそばまで。私は彼女のようなものを見たことがなかった。彼女は美しく同時に悲しげだった。彼女は服とつながったような奇妙な髪飾りを付けていた。鷹のような。彼女の顔と一緒に鳥の顔も見えてとても奇妙な見た目だった。手首には外套が巻かれていて、両手を広げたら翼に見えそうだった。そう全体が羽毛でできていたのだ。
+彼女はまるで何もなかったところから急に現れたかのように影の中から歩み出てきた。わずか数歩で火のすぐそばまで。私は彼女のようなものを見たことがなかった。彼女は美しく同時に悲しげだった。彼女は服とつながったような奇妙な髪飾りを付けていた。鷹のような。彼女の顔と一緒に鳥の顔も見えてとても奇妙な見た目だった。手首には外套がついていて、両手を広げたら翼に見えそうだった。そう全体が羽毛でできていたのだ。
 
 
 'You may put away your sword too, Young Deckard' she said as she turned to regard me.
@@ -388,7 +390,7 @@ My father seemed to accept this so she went on.
 
 'Then tell us where it is and we shall destroy it', my father said.
 
-「どこにあるのか教えてくれ、それを破壊しよう」父は言う。
+「どこにあるのか教えてくれ、それを破壊する」父は言う。
 
 
 'It is not so simple,' she replied. 'The Spellstone has been bonded with a guardian. The stone's essence, if you will, has merged with him and will protect him. And as long as he lives, the Rumiirua will sweep across your land like a plague.'
@@ -482,7 +484,7 @@ Then she turned and looked at me. 'Safe journeys, young Deckard. You have a long
 
 That is my tale. Or most of it I guess. The rest you can probably imagine for yourself, considering I told you at the beginning my father was dead. We set out the next morning. We made the long journey to  Halldir's Cairn. We found Raab AlMout's camp and the Rumiirua that stayed behind as guards. Although why such a creature would need guards is beyond me. 
 
-これが私の物語。あるいはその大半だ。残った物語は想像がつくだろうが、冒頭で述べたように父は死んだ。私達は翌朝出発した。ハルディールの石塚へは長い旅となった。ついに私達はルミールアが守っているラーブ・アルモウトのキャンプを見つけた。だがなぜあんな化物が護衛を必要とするのか理解できない。
+これが私の物語。あるいはその大半だ。残った物語は想像がつくだろう、冒頭で述べたように父は死んだのだ。私達は翌朝出発した。ハルディールの石塚へは長い旅となった。ついに私達はルミールアが守っているラーブ・アルモウトのキャンプを見つけた。だがなぜあんな化物が護衛を必要とするのか理解できない。
 
 
 They weren't paying much attention anyhow. People to eat and all that. My father found a way to sneak around them and confront Raab AlMout directly. He told me to hide and watch while he slew Raab AlMout. I argued, saying that we could attack him together but he would hear none of it. We only had one enchanted sword he said. 
@@ -502,18 +504,21 @@ Perfect end to the story right? Everything we had gone through and it ends like 
 
 Raab AlMout, after recovering from his shock at being attacked, reached and picked my father up by his neck, and held him there, choking, suspended in the air. The last thing he did was to turn his head somewhat to look at me. He through the sword to me and it landed just before my feet. Then he mouthed the word 'Run.'
 
-
+ラーブ・アルモウトは、攻撃を受けた際の衝撃から立ち直り、父に近づいてその首を掴み、その場に押さえつけ、締め上げ、空中に釣り上げた。最後に父はかろうじて頭を向けて私を見た。彼は剣を私の足下に投げ、「逃げろ」と口を動かした。
 
 Raab AlMout reached out with his other hand, placed it on top of my father's skull and began to squeeze. His screams were indescribable. Then with a sickening crunch, blood and brain seemed to explode from between his fingers as my father's mostly headless body fell to the ground. It was horrifying, but at least the screaming had stopped.
 
+ラーブ・アウモウトはもう一方の腕を伸ばし、その手を父の頭に置きそのまま握りつぶし始めた。父は言い表せないような悲鳴を上げ、その頭がミシミシと嫌な音をたて、血と脳漿がラーブ・アルモウトの指の隙間から吹き出し、頭部を失った父の体が地面へと落下した。恐怖に震えたが、少なくとも叫び声は止まった。
 
 
 What did I do? What do you think? I picked up the sword and ran. I ran and I ran. And did I hear Raab AlMout laughing behind me? Or was that just my imagination? I know not. Eventually I collapsed. I don't know how long I ran or where to, but when I regained consciousness it was night and I was near a stream.
 
+私はどうしたか？どうしたと思う？私は剣を掴んで走った。一目散に逃げたのだ。そして背後からラーブ・アウモウトの哄笑が聞こえていたような？いや、気のせいだった？どうでもいい。ついに私は倒れ込んだ。どのくらい走ってどこまで来たのかわからないが、意識が戻ると夜で、川の近くにいた。
 
 
 I drank from it and decided what to do next. What I decided was, I'd write this journal and hope someone else would find it and finish our quest. I'm done with this shit.
 
+川の水を飲んで次にどうするかを考えた。私が決めたのは、この手記を書き、他の誰かが見つけ私達の悲願を達成するのを願うことだった。やってられるか。
 
 
 Walking dead, evil wizards, sorceresses with enchanted swords, curses, spells, and oh yeah, a creature that crushes skulls one-handed! To Oblivion with this. I'm done. Tamriel can rot. 
@@ -553,12 +558,14 @@ I do hope someone finds this. I hope you find it and have the courage to break t
 
 But most of all I hope to live the rest of my days in peace.
 
-しかしなにより私は平和の中で残りの日々を生きたいと願っている。
+だがなにより私は平和の中で残りの日々を生きたいと願っている。
 
 
 Fare well, stranger.
 
 さようなら、見知らぬ誰か。
 
+
+D.C.
 
 D.C.
