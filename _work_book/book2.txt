@@ -6,7 +6,7 @@ reface, a warning from the author
 修復と、著者からの警告
 
 
-Know this:
+	Know this:
 By taking and reading this book, it is up to you to stop the undead nightmare.
 Consider this book the torch. And if you are reading it, consider the torch passed.
 I wash my hands of it. Evil sorcerers, magic swords and other such nonsense.
@@ -14,7 +14,7 @@ It's all on you now. Good luck, fool.
 Sincerely,
 D. C.
 
-最初に：
+	最初に：
 この本を読み、アンデッドの悪夢を止めるかどうか貴方は次第だ。
 この本はトーチだ。この本を読んだなら、トーチを誰かに渡すことも考えてほしい。
 私はこの件から手を引く。邪悪な魔術師、魔法の剣なんて馬鹿げている。
@@ -29,9 +29,11 @@ D. C.
 
 		(pick whichever title you like better)
 
-		「ルミールアの遺産」あるいは「死者の王」
+		「ルミールアの遺産」
+
+		あるいは「死者の王」
 		
-		（貴方が好きな方を取ればいい）
+		（貴方が好きな方で呼べばいい）
 
 
 			I left home that summer
@@ -57,7 +59,7 @@ I decided to call this The Legacy of the Rumiirua to keep it consistent with Jeb
 
 I imagine all kinds of people have written accounts of what happened that first night and every night since. Every day as well, for that matter. Everyone wants to leave behind some kind of legacy. 
 
-様々な人たちが最初の夜とそれからの夜ごとに何が起こったかを書いていると思う。毎日だろう、そのことについてなら。誰もが何かしらの足跡を残したいものだ。
+様々な人たちが最初の夜とそれからの夜ごとに何が起こったかを書いていると思う。毎日だろう、そのことについてなら。誰もが何かしらの足跡を残したいのだ。
 
 
 In that respect, Jebidiah's journal was no different than dozens, maybe hundreds of other stories. Except Jebidiah's was the the one my father found. Well, that and the fact that Jebidiah had stumbled across a small bit of the truth of where these monsters came from. 
@@ -67,7 +69,7 @@ In that respect, Jebidiah's journal was no different than dozens, maybe hundreds
 
 My father was a good man by the name of Sebastian Cain. He was a farmer like Jebidiah. And like Jebidiah, had lost all his family except me. He probably felt some sort of kinship to him. Some sympathy or pity. Or maybe just the need to succeed where Jebidiah had failed. In any case, Jebidiah's book set him on a path. 
 
-父はセバスチャン・カインという名の善良な人だった。ジュビディアと似たような農家だった。そしてジュビディアと似たように、私を除いたすべての家族を失ってしまった。父はおそらく彼に一種の親近感のようなものを感じたのだろう。共感や同情。あるいはジュビディアが成し遂げられなかったことを成し遂げる必要に駆られたのかもしれない。
+父はセバスチャン・カインという名の善良な人だった。ジュビディアと似た農家だった。そしてジュビディアに似て、私を除いたすべての家族を失ってしまった。父はおそらく彼に一種の親近感のようなものを感じたのだろう。共感や同情。あるいはジュビディアが成し遂げられなかったことを成し遂げる必要に駆られたのかもしれない。
 
 
 But I guess that comes a bit later. I should start with the night when the dead rose, like Jebidiah did. Except I'll try to stay much more on point. Lord, could that man ramble on.
@@ -77,29 +79,32 @@ But I guess that comes a bit later. I should start with the night when the dead 
 
 My name is Deckard, youngest of two brothers. 14 years old the day the dead came back. I had gone with my father into town for supplies that day. Feed, and a bit of lumber for rebuilding fences. We had a farm not far from Windhelm and were traveling back home on horseback pulling our cart around supper time when we saw the first of the dead. It was slowly stumbling along the side of the road by itself when we passed. We thought he was drunk. He moved to swipe at our horse, but was too far away and too slow. He simply lurched towards it and fell over. It was only later that we realized with horror what he must have been. At the time we just laughed at the stupid drunk. My father made some comment about pulling him off the road, but as we looked back he was already getting up.
 
-私の名はデッカード、二人兄弟の弟だ。14歳だったあの日に死者が戻った。父と一緒に町に買い出しに出かけた日だった。食料に、柵を作り直すための少しの材木。私達はウィンドヘルムから遠くない農場を持っていて夕食頃に荷馬車で帰っている時に最初の死者に出会ったのだ。それがゆっくりとふらつきながら道ばたを歩いていた時に私達は通りがかった。酔っ払いだと思ったのだ。あれは馬に殴りかかろうとこちらへ来たが、あまりにも遠くのろまだった。わかりやすくつんのめってそのまま転んだ。あれがどれほど恐ろしいものか気付いたのはずっと後のことだ。あの時は馬鹿な酔っ払いだと大笑いしたしたものだ。父が彼を道から引き離そうかと何か言っていたが、振り返るとあれはすでに起き上がっていた。
+私の名はデッカード、二人兄弟の弟だ。14歳だったあの日に死者が蘇った。父と一緒に町に買い出しに出かけた日だった。食料に、柵を作り直すためのいくらかの材木。私達はウィンドヘルムから遠くない場所に農地を持っていて夕食頃に荷馬車で帰っている時に最初の死者に出会ったのだ。それがゆっくりとふらつきながら道ばたを歩いていた時に私達は通りがかった。酔っ払いだと思った。あれは馬に殴りかかろうとこちらへ来たが、あまりにも遠かったしのろまだった。わかりやすくつんのめってそのまま転んだ。あれがどれほど恐ろしいものか気付いたのはずっと後のことだ。あの時はひどい酔っ払いだと大笑いしたしたものだ。父が彼を道から引き離そうかと何か言っていたが、振り返った時にはあれはすでに起き上がっていた。
 
 
 We traveled on and forgot about it. About and hour later we began to pass a few homes and farms. The first few were totally silent, which didn't even occur to me then but later I realized we should have heard cows, chickens, horses, something. Then our horses began to spook. Nothing alarming, but you could tell they caught wind of something they didn't like. 
 
-私達は旅の中でそんなことを忘れていた。大体一時間でほんの数軒の家々と農場を通り過ぎた。最初の数軒は静まりかえっていたが、思い起こせば牛や、鶏、馬、などの鳴き声を聞いていたはずだった。すると私達の馬も鳴き始めた。気にも留めることはない、だが彼らは嫌な何かを嗅ぎつけていたとも言える。
+そのことはすっかり忘れて移動を続けた。大体一時間でほんの数軒の家々と農場を通り過ぎた。最初の数軒は静まりかえっていたが、思い起こせば牛や、鶏、馬、などの鳴き声を聞いていたはずだった。すると私達の馬も鳴き始めた。何も気にも留めることはなかったが、彼らは嫌な何かを嗅ぎつけていたとも言える。
 
 
 We came upon a homestead where, as we approached we could hear screaming and crying. My father and I exchanged a nervous glance. He stopped the horses and told me to wait with them while he went to see if he could help with something. I watched him walk to the front door and knock. Then, when there was no answer, he walked around the side of the house and out of my sight.
 
-私達が農場に着くと、近づくにつれて泣き叫ぶ声が聞こえてきた。父と私は緊迫した視線を交わした。彼は馬をとめ何かで手が必要になるまで私に待つように言った。彼が玄関まで歩いてノックするのを見ていた。すると、何も返事がなかったのか、彼は歩いて家の横へ回り込み、私からは見えなくなった。
+私達が農地に着くと、近づくにつれて泣き叫ぶ声が聞こえてきた。父と私は緊迫した視線を交わした。彼は馬をとめ何かで手が必要になるまで私に待つように言った。彼が玄関まで歩いてノックするのを見ていた。すると、何も返事がなかったのか、彼は歩いて家の横へ回り込み、私からは見えなくなった。
 
 
 I sat and waited, concerned but not scared, as the horses fidgeted nervously . I don't know how long. Then my father came sprinting around the house in a mad panic. As a child, there are few things more terrifying than seeing a parent terrified. My father came sprinting around the corner so fast he lost his footing and almost fell. He caught himself one-handed and kept right on running. When he reached the horses, he jumped on and spurred the horses hard. We took off with a jolt as I asked my father repeatedly what had happened. He wouldn't answer, except to say we needed to get help. 
 
+座って待っていた、心配ではあったが怖くはなかった、馬たちは緊張したようにそわそわしていた。どのくらい経っただろう。父が狂ったように取り乱して家の横から飛び出してきた。子供にとって、親が怯えているのを見ることほど怖いものはない。父は角から大慌てで飛び出してきたせいで足を取られて転びかけていた。彼は片手で体勢を取りなおしてなんとか走って来た。彼は馬に近づくと、飛び乗って乱暴に拍車をかけた。私達は驚いて飛び起き父に何があったのか何度も尋ねた。彼は答えず、助けを呼ぶ必要があるとだけ言った。
 
 
 We rode like that for a while in silence. Then we began to pass other homes and farms. We heard cries from some of them and saw two men struggling in a field off in the distance. This went on for a few miles. Eventually my father looked at me with panic in his eyes. I asked again what was happening. He stopped the horses, jumped down and unhitched them from the cart. He climbed back on and told me to keep up. He said we were going to ride as fast as we could because we had to get home now.
 
+私達はしばらくの間は黙って乗った。そして私達は他の家や農場の通りかかりだした。私達はその中のいくつかから叫び声を聞いたし、遠く離れた道ばたで二人の男が苦しんでいるのも見た。これは数マイル続いた。やがて父は取り乱した目で私を見た。私は再び何があったのかを尋ねた。彼は馬を止め、飛び降りてから荷台を取り外した。再び馬に乗って私に着いてくるように言った。彼は急いで馬に乗るように言った、今すぐ家に帰らなければならない、と。
 
 
 We rode for what seemed like an eternity, but it was probably less than an hour. Along the way I began to understand that whatever was happening, it was happening everywhere. And that my mother and older brother were almost certainly in danger. It never occurred to me that we would not make it home in time.
 
+乗っている間は永遠のように感じたが、実際は一時間も経っていなかっただろう。途中で私は何が起こったのか徐々に理解してきた、それがそこら中で起こっていることも。そして母と兄は間違いなく危険な状態にあることを。時間までに家に帰れないかもしれないなんて今まで考えたこともなかった。
 
 
 When we arrived my father once again told me to wait with the horses, which I did briefly. But when I heard his anguished cry from inside I ran as hard as I could. As I reached for the door, what I saw literally took the wind from me. My father was on his knees, kneeling in a pool of blood, holding what was left of my mother to his chest. Her stomach was just a great empty hole with nothing in it. I could actually see her spine. 
@@ -165,7 +170,7 @@ We were both very fortunate and very lucky to have survived some of these encoun
 
 Like I said, we traveled alone mostly. Slowly moving to the west. It didn't take too many uncomfortable encounters before we just avoided other groups instinctively. The road is a lonely place, and it goes on much longer than we will.
 
-前にも言ったように、ずっと私たちだけで旅をしてきた。ゆっくりと西へ。本能的に他のグループを避けたためか、不快な遭遇には多くは出くわさなかった。この道程は孤独で、私たちが思っていたよりも遥かに長かった。
+前にも言ったように、ずっと私たちだけで旅をしてきた。ゆっくりと西へ。本能的に他のグループを避けたためか、不快な遭遇にはそう多くは出くわさなかった。この道程は孤独で、私たちが思っていたよりも遥かに長かった。
 
 
 I guess this brings me to the old broken temple in Whiterun. And Jebidiah's journal. This would be a few months after the initial Rising. We found the journal in front of the alter while seeking shelter from the rain one night. It was lousy shelter. And considering everything since, I'd give anything if we'd just ridden the storm out. 	                     
@@ -175,7 +180,7 @@ I guess this brings me to the old broken temple in Whiterun. And Jebidiah's jour
 
 But no, we stopped. My father picked up the book and became fascinated with it. I don't know why he picked it up to begin with. What did he think it was, a bible? What good would that do us? But he read it. Then he read it again. Then he had me read it. Then he read it again. Maybe fascinated was the wrong word. Maybe obsessed would be better. 
 
-しかし私たちは立ち寄ってしまった。父は本を拾い、そして魅了された。私にはなぜ彼がそれを拾ったのかはわからない。経典だと思った？一体何が良かったのか？しかし彼はそれを読んだ。繰り返し読んだ。繰り返し。繰り返し。おそらく魅力的というのは間違っているのだろう。執着していたという方が適切かもしれない。
+しかし私たちは立ち寄ってしまった。父は本を拾い、そして魅了された。なぜ彼がそれを拾ったのかはわからない。経典だと思った？一体何が良かったのか？しかし彼はそれを読んだ。繰り返し読んだ。繰り返し。繰り返し。おそらく魅力的というのは間違っているのだろう。執着していたという方が適切かもしれない。
 
 
 He told me it was now our responsibility to take the book to Jebidiah's sister-in-law. Sarah. He talked about her like he knew her. He said that people must know about the Rumiirua, the summoning, the Mage's guild. He thought the answer to their undoing was in that book. He was close to right, I guess. Funny how things work out.                                                              
@@ -190,7 +195,7 @@ Sarah lived in a village not far from Whiterun, and in the direction we were hea
 
 I guess the first thing to tell you is that we didn't find her. Well, pieces of her, I guess, no way of knowing for sure. It was just over a days journey, and when we arrived we found almost everyone in the town slaughtered. There were three survivors, I don't recall their names. A man, his sister, and another woman I'm not sure either of them really knew. 
 
-まず最初に伝えなければならないのは、彼女を見つけることができなかったということだろう。そう、彼女の断片すら、おそらく、知る術が無い。あれは1日以上旅をしていた時、ほとんどの人が虐殺された町を見つけた。生存者は3人、彼らの名前は思い出せない。男性、男性の姉妹、そして別の女性だがどちらだったか本当によく覚えていない。
+まず最初に伝えなければならないのは、彼女を見つけることができなかったということだろう。そう、彼女の破片すら、おそらく、知る術が無い。あれは1日以上旅をしていた時、ほとんどの人が虐殺された町を見つけた。生存者は3人、彼らの名前は思い出せない。男性、男性の姉妹、そして別の女性だがどちらだったか本当によく覚えていない。
 
 
 They had survived the attack on their town by hiding in a cellar and barring the door. You hear that Jebidiah, you stupid bastard? The cellar! They hid in the cellar and they survived.
@@ -429,7 +434,7 @@ My father clearly had questions about this but kept them to himself, as he reach
 
 'You will journey to Halldir's Cairn and there you will find him. I am sure he will be well guarded, and a spell must be spoken to activate the enchantment. You must speak this spell within range of both the sword you hold and Raab AlMout. Then strike him down. The magic of the Spellstone will be broken. And once your task is complete the enchantment on your sword will dissipate. The words you must speak are 'Ma qu-a aljamjima alramaadia'. Now, repeat it for me.'
 
-「貴方はハルディールの石塚へ赴き、そして彼とまみえるでしょう。私は彼が十全に守護されていると確信しています、そして加護を発動させるために呪文を唱える必要があります。貴方はラーブ・アルモウトと剣の間合いで呪文を唱えなければなりません。そして彼を打つのです。スペルストーンの魔法は破られるでしょう。役目を果たすと剣の加護は解かれます。その言葉を唱えるのです"マ・クーア・アルジャムジーマ・アルルマーディア"。さあ、続いてください。」
+「貴方はハルディールの石塚へ赴き、そして彼とまみえるでしょう。私は彼が十全に守護されていると確信しています、そして加護を発動させるために呪文を唱える必要があります。貴方はラーブ・アルモウトと剣の間合いで呪文を唱えなければなりません。そして彼を打つのです。スペルストーンの魔法は破られるでしょう。役目を果たすと剣の加護は解かれます。その言葉を唱えるのです"マ・クーア・アルジャムジーマ・アルルマーディア"。さあ、続けてください。」
 
 
 My father did as told, then asked 'You say the magic will dissipate, What will happen to the actual Spellstone? Will he be carrying it?'
@@ -444,7 +449,7 @@ My father did as told, then asked 'You say the magic will dissipate, What will h
 
 'So this Keldor... he could do this again? He will still have the magic of the stone even after all we do?', my father asked. 'This is all for nothing?'
 
-「それじゃあそのケルドールは…また繰り返すことができるというのか？俺達が全てを終えたとしてもまだ石を持っているのだから？」父は訪ねる「無意味なんじゃないのか？」
+「それじゃあそのケルドールは…また繰り返すことができるというのか？俺達が全てを終えたとしてもまだ石を持っているから？」父は訪ねる「無意味なんじゃないのか？」
 
 
 'He may indeed regain this power. But it will be our problem on Eternia if he does. I have destroyed his means of traveling into this world to make sure something like this doesn't happen here again. He will certainly retaliate once he discovers what I have done. But it is well past time that we faced him directly. We've underestimated him for far too long. Maybe out of fear, maybe from complacency. We are not ready for a foe of his magnitude. We have had peace for too long. The Masters have become weak. The coming storm on my world is inevitable. But the fires will be like a forge, and from the ashes will rise a hero worthy of the powers I protect. But none of that concerns you.  The fate of your world, that is in your hands now.'
@@ -454,7 +459,7 @@ My father did as told, then asked 'You say the magic will dissipate, What will h
 
 My father looked at the sword he held with doubt and trepidation. 'Is there nothing else you can do to help?', he asked. 'You may be powerless here, but is there no other that could help us?'
 
-父は懐疑とそして震えながら握った剣を見た。「貴女の手助けはそれが全てか？」彼は尋ねる。「貴女はここでは無力かもしれない、だが他にも策は無いのか？」
+父は握った剣を見た、疑問と恐怖を交ぜながら。「貴女の手助けはそれが全てか？」彼は尋ねる。「貴女はここでは無力かもしれない、だが他にも策は無いのか？」
 
 
 This brought a strange look to her face. I could tell she wanted to say something else, but instead she said 'There is one who I think will rise to the challenge, a young prince not much older than you, Deckard. But it is not his time yet. He is not yet ready to meet his destiny. He will be of no help to you '
@@ -474,7 +479,7 @@ My father stood and said 'Then I will do what must be done.'
 
 'I wish you luck against Keldor', my father replied.
 
-「貴女にケルドールと対する幸運を」父はそう返した。
+「貴女にケルドールと抗する幸運を」父はそう返した。
 
 
 Then she turned and looked at me. 'Safe journeys, young Deckard. You have a long road to travel.' And with that she seemed to melt back into the shadows. My father looked down at the sword in his hand as if to convince himself the meeting did in fact happen. He said we should get what rest we could and set out in the morning.
@@ -533,7 +538,7 @@ Unless you care to save it, that is.
 
 I've been traveling by day and writing by night. East this time. Shadow no longer rising to meet me in the morning. I've heard of a town known as Tristram and a land called Sanctuary. I'm headed there, hoping to live out the rest of my days away from all this madness. 
 
-私は昼は旅をして夜に書き記している。今回は東だ。もうこの朝に私に影が差すことはない。私はトリストラムとして知られる聖地と呼ばれている町について聞いていた。私はそこに向かい、この狂気から離れて残りの日々を過ごせることを願っている。
+私は昼は旅をして夜に書き記している。今回は東だ。もうこの朝に私に影が差すことはない。私はトリストラムとして知られる聖地と呼ばれる町について聞いていた。私はそこに向かい、この狂気から離れて残りの日々を過ごせることを願っている。
 
 
 At the edge of Skyrim at a place called Broken Helm Hollow, I will leave this journal. If you find it, the first thing you should know is that I hid the enchanted sword at Bloodlet Throne. Go there, find it and go on to Halldir's Cairn and slay the monster that keeps the Rumiirua's curse alive. 
